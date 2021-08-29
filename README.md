@@ -37,7 +37,7 @@ root_dir
 ├── ...
 ```
 
-There is a examples of customized dataset in the repository: `../data_100/`, where in id_prop file we have formation energy values.
+There is a examples of customized dataset in the repository: `../data/`, where in id_prop file we have formation energy values.
 You can use the utils.py file to generate the data as per this format.
 
 ### Train a CrysAE model :
