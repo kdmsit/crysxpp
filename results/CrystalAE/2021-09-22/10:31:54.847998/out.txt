@@ -1,0 +1,41 @@
+Adjacency List Vector Dimension : 4
+
+***** Hyper-Parameters Details ********
+Radius :8
+Neighbours :12
+atom_fea_len :64
+n_conv :3
+epochs :30
+lr :0.003
+batch_size :512
+datasize :100
+Epoch 1, Loss 2.810410976409912, Adjacency Reconstruction Loss 1.107496976852417, Edge Feature Reconstruction Loss 1.5416213274002075, Feature Reconstruction 0.16129325330257416
+Epoch 2, Loss 2.8903706073760986, Adjacency Reconstruction Loss 1.4130574464797974, Edge Feature Reconstruction Loss 1.3433939218521118, Feature Reconstruction 0.1339176893234253
+Epoch 3, Loss 1.3595491647720337, Adjacency Reconstruction Loss 0.7577721476554871, Edge Feature Reconstruction Loss 0.4875848889350891, Feature Reconstruction 0.11419246345758438
+Epoch 4, Loss 0.8780490159988403, Adjacency Reconstruction Loss 0.45997488498687744, Edge Feature Reconstruction Loss 0.3184446096420288, Feature Reconstruction 0.09962961077690125
+Epoch 5, Loss 0.7966527938842773, Adjacency Reconstruction Loss 0.4064045250415802, Edge Feature Reconstruction Loss 0.3018924295902252, Feature Reconstruction 0.08835583180189133
+Epoch 6, Loss 0.8263388872146606, Adjacency Reconstruction Loss 0.4593449831008911, Edge Feature Reconstruction Loss 0.2870609760284424, Feature Reconstruction 0.07993299514055252
+Epoch 7, Loss 0.7864713072776794, Adjacency Reconstruction Loss 0.4431304633617401, Edge Feature Reconstruction Loss 0.2696647047996521, Feature Reconstruction 0.07367628067731857
+Epoch 8, Loss 0.6874932050704956, Adjacency Reconstruction Loss 0.3715077042579651, Edge Feature Reconstruction Loss 0.24700036644935608, Feature Reconstruction 0.0689849779009819
+Epoch 9, Loss 0.6161298155784607, Adjacency Reconstruction Loss 0.3254692554473877, Edge Feature Reconstruction Loss 0.22525456547737122, Feature Reconstruction 0.06540603935718536
+Epoch 10, Loss 0.5837684869766235, Adjacency Reconstruction Loss 0.3119150996208191, Edge Feature Reconstruction Loss 0.20921999216079712, Feature Reconstruction 0.06263309717178345
+Epoch 11, Loss 0.5230169892311096, Adjacency Reconstruction Loss 0.26991432905197144, Edge Feature Reconstruction Loss 0.1926538646221161, Feature Reconstruction 0.06044893339276314
+Epoch 12, Loss 0.47916239500045776, Adjacency Reconstruction Loss 0.2485208809375763, Edge Feature Reconstruction Loss 0.17192821204662323, Feature Reconstruction 0.05871351808309555
+Epoch 13, Loss 0.4221884310245514, Adjacency Reconstruction Loss 0.21600213646888733, Edge Feature Reconstruction Loss 0.1488700956106186, Feature Reconstruction 0.05731627345085144
+Epoch 14, Loss 0.36389538645744324, Adjacency Reconstruction Loss 0.17872682213783264, Edge Feature Reconstruction Loss 0.12899385392665863, Feature Reconstruction 0.056174688041210175
+Epoch 15, Loss 0.3336401879787445, Adjacency Reconstruction Loss 0.16282032430171967, Edge Feature Reconstruction Loss 0.11559269577264786, Feature Reconstruction 0.055227130651474
+Epoch 16, Loss 0.31297439336776733, Adjacency Reconstruction Loss 0.13623665273189545, Edge Feature Reconstruction Loss 0.12232960015535355, Feature Reconstruction 0.054408080875873566
+Epoch 17, Loss 0.30973657965660095, Adjacency Reconstruction Loss 0.13348105549812317, Edge Feature Reconstruction Loss 0.12257634848356247, Feature Reconstruction 0.05367915704846382
+Epoch 18, Loss 0.27397218346595764, Adjacency Reconstruction Loss 0.12054446339607239, Edge Feature Reconstruction Loss 0.10039258748292923, Feature Reconstruction 0.05303514748811722
+Epoch 19, Loss 0.2822357714176178, Adjacency Reconstruction Loss 0.1362396776676178, Edge Feature Reconstruction Loss 0.09351780265569687, Feature Reconstruction 0.05247842147946358
+Epoch 20, Loss 0.28116023540496826, Adjacency Reconstruction Loss 0.13476306200027466, Edge Feature Reconstruction Loss 0.09438525140285492, Feature Reconstruction 0.05201181024312973
+Epoch 21, Loss 0.252927303314209, Adjacency Reconstruction Loss 0.10898645222187042, Edge Feature Reconstruction Loss 0.09231895208358765, Feature Reconstruction 0.05162185803055763
+Epoch 22, Loss 0.2329188883304596, Adjacency Reconstruction Loss 0.09236721694469452, Edge Feature Reconstruction Loss 0.08925958722829819, Feature Reconstruction 0.051292043179273605
+Epoch 23, Loss 0.23013903200626373, Adjacency Reconstruction Loss 0.09208983927965164, Edge Feature Reconstruction Loss 0.08705031126737595, Feature Reconstruction 0.050998859107494354
+Epoch 24, Loss 0.2232063114643097, Adjacency Reconstruction Loss 0.08838094770908356, Edge Feature Reconstruction Loss 0.08409492671489716, Feature Reconstruction 0.05073041841387749
+Epoch 25, Loss 0.218138188123703, Adjacency Reconstruction Loss 0.09011781215667725, Edge Feature Reconstruction Loss 0.07754503190517426, Feature Reconstruction 0.05047529190778732
+Epoch 26, Loss 0.2090548425912857, Adjacency Reconstruction Loss 0.08734505623579025, Edge Feature Reconstruction Loss 0.07148237526416779, Feature Reconstruction 0.05022754520177841
+Epoch 27, Loss 0.2037738710641861, Adjacency Reconstruction Loss 0.08526092767715454, Edge Feature Reconstruction Loss 0.06852823495864868, Feature Reconstruction 0.04998473823070526
+Epoch 28, Loss 0.202024444937706, Adjacency Reconstruction Loss 0.08460772782564163, Edge Feature Reconstruction Loss 0.0676664412021637, Feature Reconstruction 0.04975029453635216
+Epoch 29, Loss 0.19750931859016418, Adjacency Reconstruction Loss 0.0817328616976738, Edge Feature Reconstruction Loss 0.06624894589185715, Feature Reconstruction 0.04952742159366608
+Epoch 30, Loss 0.19498412311077118, Adjacency Reconstruction Loss 0.08300478011369705, Edge Feature Reconstruction Loss 0.06266971677541733, Feature Reconstruction 0.049309685826301575

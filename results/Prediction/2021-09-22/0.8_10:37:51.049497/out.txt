@@ -1,0 +1,9 @@
+Data path : ../data/
+Learning Rate : 0.003
+Radius :8
+Neighbours :12
+Epochs 500
+Lamda 0.01
+Train size 19.999999999999996
+Test size 80.0
+
