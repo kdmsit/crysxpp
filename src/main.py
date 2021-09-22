@@ -75,8 +75,9 @@ def main(seed):
     print("Neighbours :" + str(max_num_nbr))
     print("Start Time ", datetime.datetime.now())
 
-
-    os.makedirs('../model/')
+    if not os.path.exists('../model/'):
+        os.makedirs('../model/')
+    
 
     #Reading Full Datset
     full_dataset = CIFData(data_path,max_num_nbr,radius)
