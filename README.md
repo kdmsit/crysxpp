@@ -7,6 +7,10 @@ of the material.
 
 ##  Requirements
 
+The package requirements are listed in requirements.txt file. Run the following command to install dependencies in your virtual environment:
+
+pip install -r requirements.txt
+
 ## Usage
 
 ### Define a customized dataset 
