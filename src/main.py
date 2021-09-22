@@ -75,9 +75,6 @@ def main(seed):
     print("Neighbours :" + str(max_num_nbr))
     print("Start Time ", datetime.datetime.now())
 
-    # Create model Save path
-    if not os.path.exists(args.save_path):
-        os.makedirs(args.save_path)
 
 
     #Reading Full Datset
