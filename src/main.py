@@ -75,6 +75,9 @@ def main(seed):
     print("Neighbours :" + str(max_num_nbr))
     print("Start Time ", datetime.datetime.now())
 
+
+    os.makedirs('../model/')
+
     #Reading Full Datset
     full_dataset = CIFData(data_path,max_num_nbr,radius)
     datasize = len(full_dataset)

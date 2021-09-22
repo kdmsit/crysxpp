@@ -198,6 +198,8 @@ def main(seed):
         model_dict.pop('fc_atom_feature.bias')
         model_dict.pop('fc1.weight')
         model_dict.pop('fc1.bias')
+        model_dict.pop('fc2.weight')
+        model_dict.pop('fc2.bias')
         pmodel_dict = prop_model.state_dict()
         pmodel_dict.update(model_dict)
         prop_model.load_state_dict(pmodel_dict)
