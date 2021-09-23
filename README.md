@@ -9,7 +9,7 @@ of the material.
 
 The package requirements are listed in requirements.txt file. Run the following command to install dependencies in your virtual environment:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Usage
 
