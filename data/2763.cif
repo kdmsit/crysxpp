@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeAgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93843821
+_cell_length_b   4.93843821
+_cell_length_c   7.61661000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAgPb
+_chemical_formula_sum   'Ce2 Ag2 Pb2'
+_cell_volume   160.86871246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.00065700  1
+  Ce  Ce1  1  0.00000000  0.00000000  0.50065700  1
+  Ag  Ag2  1  0.66666700  0.33333300  0.30431500  1
+  Ag  Ag3  1  0.33333300  0.66666700  0.80431500  1
+  Pb  Pb4  1  0.33333300  0.66666700  0.22212800  1
+  Pb  Pb5  1  0.66666700  0.33333300  0.72212800  1

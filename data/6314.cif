@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Eu2SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92453145
+_cell_length_b   3.92475515
+_cell_length_c   6.80135603
+_cell_angle_alpha   89.99999840
+_cell_angle_beta   90.00957279
+_cell_angle_gamma   120.00190981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2SO2
+_chemical_formula_sum   'Eu2 S1 O2'
+_cell_volume   90.72315763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33337800  0.66668900  0.28118300  1
+  Eu  Eu1  1  0.66662200  0.33331100  0.71881700  1
+  S  S2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.33333300  0.66666600  0.63312700  1
+  O  O4  1  0.66666700  0.33333400  0.36687300  1

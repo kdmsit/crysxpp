@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCa2I6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.13591937
+_cell_length_b   13.13591937
+_cell_length_c   8.73252284
+_cell_angle_alpha   86.26295635
+_cell_angle_beta   86.26295635
+_cell_angle_gamma   34.01074474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa2I6
+_chemical_formula_sum   'Ba2 Ca4 I12'
+_cell_volume   840.87599484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74939400  0.25060600  0.25000000  1
+  Ba  Ba1  1  0.25060600  0.74939400  0.75000000  1
+  Ca  Ca2  1  0.05664200  0.59658700  0.12946100  1
+  Ca  Ca3  1  0.59658700  0.05664200  0.62946100  1
+  Ca  Ca4  1  0.40341300  0.94335800  0.37053900  1
+  Ca  Ca5  1  0.94335800  0.40341300  0.87053900  1
+  I  I6  1  0.35719300  0.50631300  0.08101600  1
+  I  I7  1  0.50631300  0.35719300  0.58101600  1
+  I  I8  1  0.90905400  0.86570500  0.38244100  1
+  I  I9  1  0.86570500  0.90905400  0.88244100  1
+  I  I10  1  0.32482900  0.24063600  0.35677700  1
+  I  I11  1  0.24063600  0.32482900  0.85677700  1
+  I  I12  1  0.75936400  0.67517100  0.14322300  1
+  I  I13  1  0.67517100  0.75936400  0.64322300  1
+  I  I14  1  0.13429500  0.09094600  0.11755900  1
+  I  I15  1  0.09094600  0.13429500  0.61755900  1
+  I  I16  1  0.49368700  0.64280700  0.41898400  1
+  I  I17  1  0.64280700  0.49368700  0.91898400  1

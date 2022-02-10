@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TlBF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78331100
+_cell_length_b   7.46776100
+_cell_length_c   9.30040600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlBF4
+_chemical_formula_sum   'Tl4 B4 F16'
+_cell_volume   401.66950882
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.33492600  0.68649500  1
+  Tl  Tl1  1  0.75000000  0.66507400  0.31350500  1
+  Tl  Tl2  1  0.75000000  0.83492600  0.81350500  1
+  Tl  Tl3  1  0.25000000  0.16507400  0.18649500  1
+  B  B4  1  0.25000000  0.69209100  0.06124400  1
+  B  B5  1  0.25000000  0.80790900  0.56124400  1
+  B  B6  1  0.75000000  0.19209100  0.43875600  1
+  B  B7  1  0.75000000  0.30790900  0.93875600  1
+  F  F8  1  0.54965400  0.30289400  0.42383100  1
+  F  F9  1  0.95034600  0.19710600  0.92383100  1
+  F  F10  1  0.45034600  0.80289400  0.07616900  1
+  F  F11  1  0.04965400  0.69710600  0.57616900  1
+  F  F12  1  0.25000000  0.56192600  0.17209100  1
+  F  F13  1  0.75000000  0.43807400  0.82790900  1
+  F  F14  1  0.75000000  0.06192600  0.32790900  1
+  F  F15  1  0.25000000  0.93807400  0.67209100  1
+  F  F16  1  0.25000000  0.61112900  0.92463800  1
+  F  F17  1  0.75000000  0.38887100  0.07536200  1
+  F  F18  1  0.75000000  0.11112900  0.57536200  1
+  F  F19  1  0.25000000  0.88887100  0.42463800  1
+  F  F20  1  0.04965400  0.80289400  0.07616900  1
+  F  F21  1  0.54965400  0.19710600  0.92383100  1
+  F  F22  1  0.95034600  0.30289400  0.42383100  1
+  F  F23  1  0.45034600  0.69710600  0.57616900  1

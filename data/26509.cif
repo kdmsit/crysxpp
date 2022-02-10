@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiSi2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11089480
+_cell_length_b   7.11089480
+_cell_length_c   5.52821005
+_cell_angle_alpha   75.72488072
+_cell_angle_beta   75.72488072
+_cell_angle_gamma   88.13358010
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi2BiO6
+_chemical_formula_sum   'Li2 Si4 Bi2 O12'
+_cell_volume   262.41850939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.23900800  0.76099200  0.25000000  1
+  Li  Li1  1  0.76099200  0.23900800  0.75000000  1
+  Si  Si2  1  0.77644800  0.61653700  0.29322800  1
+  Si  Si3  1  0.61653700  0.77644800  0.79322800  1
+  Si  Si4  1  0.38346300  0.22355200  0.20677200  1
+  Si  Si5  1  0.22355200  0.38346300  0.70677200  1
+  Bi  Bi6  1  0.87550300  0.12449700  0.25000000  1
+  Bi  Bi7  1  0.12449700  0.87550300  0.75000000  1
+  O  O8  1  0.96217100  0.77235900  0.18895700  1
+  O  O9  1  0.77235900  0.96217100  0.68895700  1
+  O  O10  1  0.83352900  0.39239200  0.39322900  1
+  O  O11  1  0.67498200  0.63129700  0.04806300  1
+  O  O12  1  0.39239200  0.83352900  0.89322900  1
+  O  O13  1  0.63129700  0.67498200  0.54806300  1
+  O  O14  1  0.36870300  0.32501800  0.45193700  1
+  O  O15  1  0.60760800  0.16647100  0.10677100  1
+  O  O16  1  0.32501800  0.36870300  0.95193700  1
+  O  O17  1  0.16647100  0.60760800  0.60677100  1
+  O  O18  1  0.22764100  0.03782900  0.31104300  1
+  O  O19  1  0.03782900  0.22764100  0.81104300  1

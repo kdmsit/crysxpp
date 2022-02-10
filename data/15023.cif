@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbNa2AuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12824300
+_cell_length_b   5.66298800
+_cell_length_c   10.08263500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNa2AuO2
+_chemical_formula_sum   'Rb2 Na4 Au2 O4'
+_cell_volume   235.71376248
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.50000000  0.00000000  1
+  Rb  Rb1  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na2  1  0.50000000  0.07761200  0.22985700  1
+  Na  Na3  1  0.00000000  0.57761200  0.27014300  1
+  Na  Na4  1  0.50000000  0.92238800  0.77014300  1
+  Na  Na5  1  0.00000000  0.42238800  0.72985700  1
+  Au  Au6  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.50000000  0.72726200  0.34265300  1
+  O  O9  1  0.50000000  0.27273800  0.65734700  1
+  O  O10  1  0.00000000  0.77273800  0.84265300  1
+  O  O11  1  0.00000000  0.22726200  0.15734700  1

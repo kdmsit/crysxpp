@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ho7(CuTe4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47240800
+_cell_length_b   7.47708896
+_cell_length_c   14.27017376
+_cell_angle_alpha   95.00039841
+_cell_angle_beta   95.16257247
+_cell_angle_gamma   119.55547538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho7(CuTe4)3
+_chemical_formula_sum   'Ho7 Cu3 Te12'
+_cell_volume   682.73240978
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.58054500  0.58256100  0.74694800  1
+  Ho  Ho1  1  0.33311000  0.66624300  0.99928800  1
+  Ho  Ho2  1  0.08557700  0.75229200  0.25193500  1
+  Ho  Ho3  1  0.24872700  0.91315500  0.74696600  1
+  Ho  Ho4  1  0.74971600  0.08160000  0.25194500  1
+  Ho  Ho5  1  0.91802000  0.25163900  0.74698100  1
+  Ho  Ho6  1  0.41617200  0.41743800  0.25202400  1
+  Cu  Cu7  1  0.85726200  0.52318700  0.56917300  1
+  Cu  Cu8  1  0.47655500  0.14329500  0.43176900  1
+  Cu  Cu9  1  0.81056600  0.81105700  0.43175300  1
+  Te  Te10  1  0.12700900  0.12956900  0.38141800  1
+  Te  Te11  1  0.79684800  0.45983800  0.38008900  1
+  Te  Te12  1  0.95768200  0.62520300  0.87563000  1
+  Te  Te13  1  0.70891500  0.70788900  0.12471900  1
+  Te  Te14  1  0.45904000  0.79238400  0.38171000  1
+  Te  Te15  1  0.87287900  0.87599900  0.61993000  1
+  Te  Te16  1  0.62588600  0.95923600  0.87592200  1
+  Te  Te17  1  0.37514300  0.04259000  0.12467500  1
+  Te  Te18  1  0.53732100  0.20408000  0.61993900  1
+  Te  Te19  1  0.29205600  0.29138200  0.87589100  1
+  Te  Te20  1  0.04067000  0.37424300  0.12440500  1
+  Te  Te21  1  0.20776500  0.53925100  0.61929100  1

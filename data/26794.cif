@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li2(NiO2)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95758700
+_cell_length_b   5.87996923
+_cell_length_c   7.41142399
+_cell_angle_alpha   69.90604398
+_cell_angle_beta   71.33985496
+_cell_angle_gamma   65.49407284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2(NiO2)5
+_chemical_formula_sum   'Li2 Ni5 O10'
+_cell_volume   180.59422719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25607700  0.55450400  0.27764800  1
+  Li  Li1  1  0.74392300  0.44549600  0.72235200  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.39716700  0.00431300  0.19912600  1
+  Ni  Ni4  1  0.19928800  0.99555400  0.60173800  1
+  Ni  Ni5  1  0.80071200  0.00444600  0.39826200  1
+  Ni  Ni6  1  0.60283300  0.99568700  0.80087400  1
+  O  O7  1  0.19590100  0.80869800  0.43815100  1
+  O  O8  1  0.83584300  0.80490100  0.23776900  1
+  O  O9  1  0.39436000  0.81299100  0.04508900  1
+  O  O10  1  0.39322500  0.18585400  0.36595000  1
+  O  O11  1  0.03758400  0.80220800  0.83429600  1
+  O  O12  1  0.96241600  0.19779200  0.16570400  1
+  O  O13  1  0.60677500  0.81414600  0.63405000  1
+  O  O14  1  0.60564000  0.18700900  0.95491100  1
+  O  O15  1  0.16415700  0.19509900  0.76223100  1
+  O  O16  1  0.80409900  0.19130200  0.56184900  1

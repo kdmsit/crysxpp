@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2SiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92386360
+_cell_length_b   8.92386360
+_cell_length_c   8.92386360
+_cell_angle_alpha   137.13159322
+_cell_angle_beta   128.59862509
+_cell_angle_gamma   69.09748638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2SiAs2
+_chemical_formula_sum   'Cs4 Si2 As4'
+_cell_volume   371.04346898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.68666600  0.35494700  0.33171800  1
+  Cs  Cs1  1  0.02322900  0.85494700  0.16828200  1
+  Cs  Cs2  1  0.97677100  0.14505300  0.83171800  1
+  Cs  Cs3  1  0.31333400  0.64505300  0.66828200  1
+  Si  Si4  1  0.50000000  0.75000000  0.25000000  1
+  Si  Si5  1  0.50000000  0.25000000  0.75000000  1
+  As  As6  1  0.25634500  0.40904000  0.84730500  1
+  As  As7  1  0.74365500  0.59096000  0.15269500  1
+  As  As8  1  0.43826500  0.09096000  0.34730500  1
+  As  As9  1  0.56173500  0.90904000  0.65269500  1

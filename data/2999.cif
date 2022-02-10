@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Nb5(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46630177
+_cell_length_b   7.46630177
+_cell_length_c   7.46630177
+_cell_angle_alpha   93.35561649
+_cell_angle_beta   93.35561649
+_cell_angle_gamma   151.99832137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb5(CuSi)4
+_chemical_formula_sum   'Nb5 Cu4 Si4'
+_cell_volume   189.60612783
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.50000000  0.00000000  1
+  Nb  Nb1  1  0.12917000  0.80415100  0.93332100  1
+  Nb  Nb2  1  0.19584900  0.12917000  0.32501900  1
+  Nb  Nb3  1  0.80415100  0.87083000  0.67498100  1
+  Nb  Nb4  1  0.87083000  0.19584900  0.06667900  1
+  Cu  Cu5  1  0.39631700  0.91792900  0.31424600  1
+  Cu  Cu6  1  0.60368300  0.08207100  0.68575400  1
+  Cu  Cu7  1  0.91792900  0.60368300  0.52161200  1
+  Cu  Cu8  1  0.08207100  0.39631700  0.47838800  1
+  Si  Si9  1  0.24737400  0.55914900  0.80652300  1
+  Si  Si10  1  0.44085100  0.24737400  0.68822500  1
+  Si  Si11  1  0.55914900  0.75262600  0.31177500  1
+  Si  Si12  1  0.75262600  0.44085100  0.19347700  1

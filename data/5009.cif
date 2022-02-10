@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2NiMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61246145
+_cell_length_b   5.65605096
+_cell_length_c   9.74635140
+_cell_angle_alpha   106.06916514
+_cell_angle_beta   73.26622123
+_cell_angle_gamma   119.74521058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NiMoO6
+_chemical_formula_sum   'Sr4 Ni2 Mo2 O12'
+_cell_volume   253.89091765
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.62499900  0.37500000  0.12500000  1
+  Sr  Sr1  1  0.12499900  0.87500000  0.62500000  1
+  Sr  Sr2  1  0.37500100  0.62500000  0.87500000  1
+  Sr  Sr3  1  0.87500100  0.12500000  0.37500000  1
+  Ni  Ni4  1  0.25000000  0.75000000  0.25000000  1
+  Ni  Ni5  1  0.75000000  0.25000000  0.75000000  1
+  Mo  Mo6  1  0.00000100  0.00000100  0.00000400  1
+  Mo  Mo7  1  0.49999900  0.49999900  0.49999600  1
+  O  O8  1  0.12088400  0.36264400  0.12088100  1
+  O  O9  1  0.62088500  0.86264900  0.62088300  1
+  O  O10  1  0.87911500  0.63735100  0.87911700  1
+  O  O11  1  0.37911600  0.13735600  0.37911900  1
+  O  O12  1  0.15796400  0.35880200  0.64120200  1
+  O  O13  1  0.65796900  0.85880100  0.14120100  1
+  O  O14  1  0.68197700  0.39957900  0.60042100  1
+  O  O15  1  0.18198200  0.89958200  0.10041700  1
+  O  O16  1  0.81802300  0.10042100  0.89957900  1
+  O  O17  1  0.31801800  0.60041800  0.39958300  1
+  O  O18  1  0.34203600  0.14119800  0.85879800  1
+  O  O19  1  0.84203100  0.64119900  0.35879900  1

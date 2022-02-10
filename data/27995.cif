@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3SiBiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19201500
+_cell_length_b   5.24278400
+_cell_length_c   9.47448337
+_cell_angle_alpha   89.29738595
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SiBiCO7
+_chemical_formula_sum   'Na6 Si2 Bi2 C2 O14'
+_cell_volume   357.21972569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.76871700  0.91285500  1
+  Na  Na1  1  0.01176600  0.24605700  0.74678800  1
+  Na  Na2  1  0.48823400  0.24605700  0.74678800  1
+  Na  Na3  1  0.51176600  0.75394300  0.25321200  1
+  Na  Na4  1  0.98823400  0.75394300  0.25321200  1
+  Na  Na5  1  0.75000000  0.23128300  0.08714500  1
+  Si  Si6  1  0.25000000  0.70851500  0.59525200  1
+  Si  Si7  1  0.75000000  0.29148500  0.40474800  1
+  Bi  Bi8  1  0.75000000  0.77101400  0.63312800  1
+  Bi  Bi9  1  0.25000000  0.22898600  0.36687200  1
+  C  C10  1  0.75000000  0.73050300  0.94757800  1
+  C  C11  1  0.25000000  0.26949700  0.05242200  1
+  O  O12  1  0.25000000  0.27871000  0.91593100  1
+  O  O13  1  0.75000000  0.95198500  0.88198600  1
+  O  O14  1  0.75000000  0.51978300  0.87538800  1
+  O  O15  1  0.06777900  0.80515800  0.68510900  1
+  O  O16  1  0.43222100  0.80515800  0.68510900  1
+  O  O17  1  0.25000000  0.39261800  0.58987400  1
+  O  O18  1  0.75000000  0.18961400  0.57311400  1
+  O  O19  1  0.25000000  0.81038600  0.42688600  1
+  O  O20  1  0.75000000  0.60738200  0.41012600  1
+  O  O21  1  0.56777900  0.19484200  0.31489100  1
+  O  O22  1  0.93222100  0.19484200  0.31489100  1
+  O  O23  1  0.25000000  0.48021700  0.12461200  1
+  O  O24  1  0.25000000  0.04801500  0.11801400  1
+  O  O25  1  0.75000000  0.72129000  0.08406900  1

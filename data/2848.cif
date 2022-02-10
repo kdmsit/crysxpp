@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12030978
+_cell_length_b   6.12030978
+_cell_length_c   6.12030978
+_cell_angle_alpha   106.48310233
+_cell_angle_beta   106.48310233
+_cell_angle_gamma   115.62853824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAsO4
+_chemical_formula_sum   'Eu2 As2 O8'
+_cell_volume   174.93632860
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu1  1  0.25000000  0.75000000  0.50000000  1
+  As  As2  1  0.75000000  0.25000000  0.50000000  1
+  As  As3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.32957700  0.15010300  0.82052600  1
+  O  O5  1  0.75905200  0.07957700  0.67947400  1
+  O  O6  1  0.40010300  0.07957700  0.32052600  1
+  O  O7  1  0.32957700  0.50905200  0.17947400  1
+  O  O8  1  0.49094800  0.67042300  0.82052600  1
+  O  O9  1  0.92042300  0.59989700  0.67947400  1
+  O  O10  1  0.92042300  0.24094800  0.32052600  1
+  O  O11  1  0.84989700  0.67042300  0.17947400  1

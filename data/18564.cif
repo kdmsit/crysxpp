@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_La5Si5I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.30763435
+_cell_length_b   12.30763435
+_cell_length_c   15.83702181
+_cell_angle_alpha   69.80374289
+_cell_angle_beta   69.80374289
+_cell_angle_gamma   19.96982962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Si5I3
+_chemical_formula_sum   'La10 Si10 I6'
+_cell_volume   767.31616677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33812700  0.33812700  0.05813800  1
+  La  La1  1  0.91447900  0.91447900  0.56307700  1
+  La  La2  1  0.08552100  0.08552100  0.43692300  1
+  La  La3  1  0.01663600  0.01663600  0.70920800  1
+  La  La4  1  0.98336400  0.98336400  0.29079200  1
+  La  La5  1  0.83569400  0.83569400  0.83388400  1
+  La  La6  1  0.73824300  0.73824300  0.67056700  1
+  La  La7  1  0.66187300  0.66187300  0.94186200  1
+  La  La8  1  0.16430600  0.16430600  0.16611600  1
+  La  La9  1  0.26175700  0.26175700  0.32943300  1
+  Si  Si10  1  0.50835600  0.50835600  0.57303200  1
+  Si  Si11  1  0.42404600  0.42404600  0.70666700  1
+  Si  Si12  1  0.49164400  0.49164400  0.42696800  1
+  Si  Si13  1  0.74974400  0.74974400  0.03941100  1
+  Si  Si14  1  0.67166900  0.67166900  0.31866700  1
+  Si  Si15  1  0.24071300  0.24071300  0.81031900  1
+  Si  Si16  1  0.75928700  0.75928700  0.18968100  1
+  Si  Si17  1  0.32833100  0.32833100  0.68133300  1
+  Si  Si18  1  0.57595400  0.57595400  0.29333300  1
+  Si  Si19  1  0.25025600  0.25025600  0.96058900  1
+  I  I20  1  0.59119300  0.59119300  0.79474700  1
+  I  I21  1  0.06086700  0.06086700  0.06711500  1
+  I  I22  1  0.93913300  0.93913300  0.93288500  1
+  I  I23  1  0.82700700  0.82700700  0.43736500  1
+  I  I24  1  0.40880700  0.40880700  0.20525300  1
+  I  I25  1  0.17299300  0.17299300  0.56263500  1

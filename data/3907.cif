@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YbSn2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98153212
+_cell_length_b   5.98153212
+_cell_length_c   7.55748300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   136.41125793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSn2Pd
+_chemical_formula_sum   'Yb2 Sn4 Pd2'
+_cell_volume   186.43265770
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.42888100  0.57111900  0.25000000  1
+  Yb  Yb1  1  0.57111900  0.42888100  0.75000000  1
+  Sn  Sn2  1  0.85997800  0.14002200  0.54361300  1
+  Sn  Sn3  1  0.14002200  0.85997800  0.45638700  1
+  Sn  Sn4  1  0.85997800  0.14002200  0.95638600  1
+  Sn  Sn5  1  0.14002200  0.85997800  0.04361300  1
+  Pd  Pd6  1  0.29746500  0.70253500  0.75000000  1
+  Pd  Pd7  1  0.70253500  0.29746500  0.25000000  1

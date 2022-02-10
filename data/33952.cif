@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ScMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52612385
+_cell_length_b   6.52612385
+_cell_length_c   3.83598100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMnSi
+_chemical_formula_sum   'Sc3 Mn3 Si3'
+_cell_volume   141.48738131
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.41663300  0.41663300  0.50000000  1
+  Sc  Sc1  1  0.58336700  0.00000000  0.50000000  1
+  Sc  Sc2  1  0.00000000  0.58336700  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.22976500  0.00000000  1
+  Mn  Mn4  1  0.22976500  0.00000000  0.00000000  1
+  Mn  Mn5  1  0.77023500  0.77023500  0.00000000  1
+  Si  Si6  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si7  1  0.66666700  0.33333300  0.00000000  1
+  Si  Si8  1  0.33333300  0.66666700  0.00000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45971900
+_cell_length_b   6.95998700
+_cell_length_c   7.69265100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbGaPt
+_chemical_formula_sum   'Tb4 Ga4 Pt4'
+_cell_volume   238.77670431
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75000000  0.51636600  0.80303600  1
+  Tb  Tb1  1  0.25000000  0.98363400  0.30303600  1
+  Tb  Tb2  1  0.25000000  0.48363400  0.19696400  1
+  Tb  Tb3  1  0.75000000  0.01636600  0.69696400  1
+  Ga  Ga4  1  0.75000000  0.67142400  0.42459000  1
+  Ga  Ga5  1  0.25000000  0.32857600  0.57541000  1
+  Ga  Ga6  1  0.75000000  0.17142400  0.07541000  1
+  Ga  Ga7  1  0.25000000  0.82857600  0.92459000  1
+  Pt  Pt8  1  0.25000000  0.72153200  0.59833500  1
+  Pt  Pt9  1  0.25000000  0.22153200  0.90166500  1
+  Pt  Pt10  1  0.75000000  0.77846800  0.09833500  1
+  Pt  Pt11  1  0.75000000  0.27846800  0.40166500  1

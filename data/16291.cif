@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba6Ru3(ClO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91841900
+_cell_length_b   5.91841994
+_cell_length_c   15.04776100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Ru3(ClO6)2
+_chemical_formula_sum   'Ba6 Ru3 Cl2 O12'
+_cell_volume   456.47184997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666700  0.33333300  0.63670400  1
+  Ba  Ba1  1  0.33333300  0.66666700  0.36329600  1
+  Ba  Ba2  1  0.33333300  0.66666700  0.78604000  1
+  Ba  Ba3  1  0.66666700  0.33333300  0.91940400  1
+  Ba  Ba4  1  0.33333300  0.66666700  0.08059600  1
+  Ba  Ba5  1  0.66666700  0.33333300  0.21396000  1
+  Ru  Ru6  1  0.00000000  0.00000000  0.17494800  1
+  Ru  Ru7  1  0.00000000  0.00000000  0.00000000  1
+  Ru  Ru8  1  0.00000000  0.00000000  0.82505200  1
+  Cl  Cl9  1  0.33333300  0.66666700  0.57696400  1
+  Cl  Cl10  1  0.66666700  0.33333300  0.42303600  1
+  O  O11  1  0.84078200  0.15921800  0.75952900  1
+  O  O12  1  0.15469300  0.30938500  0.91703200  1
+  O  O13  1  0.84530700  0.15469300  0.08296800  1
+  O  O14  1  0.15469300  0.84530700  0.91703200  1
+  O  O15  1  0.84530700  0.69061500  0.08296800  1
+  O  O16  1  0.69061500  0.84530700  0.91703200  1
+  O  O17  1  0.31843600  0.15921800  0.75952900  1
+  O  O18  1  0.30938500  0.15469300  0.08296800  1
+  O  O19  1  0.68156400  0.84078200  0.24047100  1
+  O  O20  1  0.15921800  0.84078200  0.24047100  1
+  O  O21  1  0.15921800  0.31843600  0.24047100  1
+  O  O22  1  0.84078200  0.68156400  0.75952900  1

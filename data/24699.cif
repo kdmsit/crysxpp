@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La5Cu5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88753500
+_cell_length_b   8.55194100
+_cell_length_c   8.56540956
+_cell_angle_alpha   89.78276755
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Cu5O13
+_chemical_formula_sum   'La5 Cu5 O13'
+_cell_volume   284.76330227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.72619400  0.13995400  1
+  La  La1  1  0.50000000  0.13872900  0.27407600  1
+  La  La2  1  0.50000000  0.50000000  0.50000000  1
+  La  La3  1  0.50000000  0.86127100  0.72592400  1
+  La  La4  1  0.50000000  0.27380600  0.86004600  1
+  Cu  Cu5  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu6  1  0.00000000  0.42656600  0.16852200  1
+  Cu  Cu7  1  0.00000000  0.83404500  0.42514200  1
+  Cu  Cu8  1  0.00000000  0.16595500  0.57485800  1
+  Cu  Cu9  1  0.00000000  0.57343400  0.83147800  1
+  O  O10  1  0.50000000  0.00000000  0.00000000  1
+  O  O11  1  0.00000000  0.24274800  0.04251000  1
+  O  O12  1  0.50000000  0.42907700  0.18017400  1
+  O  O13  1  0.00000000  0.95327900  0.23573500  1
+  O  O14  1  0.00000000  0.60607700  0.29961600  1
+  O  O15  1  0.00000000  0.28873100  0.38942600  1
+  O  O16  1  0.50000000  0.82325400  0.42664500  1
+  O  O17  1  0.50000000  0.17674600  0.57335500  1
+  O  O18  1  0.00000000  0.71126900  0.61057400  1
+  O  O19  1  0.00000000  0.39392300  0.70038400  1
+  O  O20  1  0.00000000  0.04672100  0.76426500  1
+  O  O21  1  0.50000000  0.57092300  0.81982600  1
+  O  O22  1  0.00000000  0.75725200  0.95749000  1

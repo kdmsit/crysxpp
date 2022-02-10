@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li7V5O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08510099
+_cell_length_b   5.08510099
+_cell_length_c   9.65559855
+_cell_angle_alpha   85.81333886
+_cell_angle_beta   85.81333886
+_cell_angle_gamma   118.02764505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7V5O12
+_chemical_formula_sum   'Li7 V5 O12'
+_cell_volume   218.16783735
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75726100  0.24273900  0.00000000  1
+  Li  Li1  1  0.84654000  0.66658800  0.75508000  1
+  Li  Li2  1  0.67687500  0.85427300  0.24424600  1
+  Li  Li3  1  0.33341200  0.15346000  0.24492000  1
+  Li  Li4  1  0.14572700  0.32312500  0.75575400  1
+  Li  Li5  1  0.24724800  0.75275200  0.50000000  1
+  Li  Li6  1  0.08060400  0.91939600  0.00000000  1
+  V  V7  1  0.91748400  0.08251600  0.50000000  1
+  V  V8  1  0.99736500  0.51082600  0.23861600  1
+  V  V9  1  0.48917400  0.00263500  0.76138400  1
+  V  V10  1  0.57573800  0.42426200  0.50000000  1
+  V  V11  1  0.42461900  0.57538100  0.00000000  1
+  O  O12  1  0.06583400  0.24299300  0.12148100  1
+  O  O13  1  0.75700700  0.93416600  0.87851900  1
+  O  O14  1  0.84068500  0.34744800  0.62839500  1
+  O  O15  1  0.65255200  0.15931500  0.37160500  1
+  O  O16  1  0.72394500  0.53690100  0.12948000  1
+  O  O17  1  0.46309900  0.27605500  0.87052000  1
+  O  O18  1  0.55957500  0.74004400  0.62079800  1
+  O  O19  1  0.25995600  0.44042500  0.37920200  1
+  O  O20  1  0.35280200  0.83328900  0.13327700  1
+  O  O21  1  0.16671100  0.64719800  0.86672300  1
+  O  O22  1  0.22693800  0.06115200  0.62216700  1
+  O  O23  1  0.93884800  0.77306200  0.37783300  1

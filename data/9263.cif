@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3CrCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90508026
+_cell_length_b   6.90508026
+_cell_length_c   12.15038300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CrCl6
+_chemical_formula_sum   'Na6 Cr2 Cl12'
+_cell_volume   501.71611506
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.75000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.25000000  1
+  Na  Na2  1  0.66666700  0.33333300  0.45578200  1
+  Na  Na3  1  0.66666700  0.33333300  0.04421800  1
+  Na  Na4  1  0.33333300  0.66666700  0.54421800  1
+  Na  Na5  1  0.33333300  0.66666700  0.95578200  1
+  Cr  Cr6  1  0.33333300  0.66666700  0.25000000  1
+  Cr  Cr7  1  0.66666700  0.33333300  0.75000000  1
+  Cl  Cl8  1  0.38274200  0.32248500  0.86474500  1
+  Cl  Cl9  1  0.93974400  0.61725800  0.86474500  1
+  Cl  Cl10  1  0.38274200  0.06025600  0.63525500  1
+  Cl  Cl11  1  0.93974400  0.32248500  0.63525500  1
+  Cl  Cl12  1  0.32248500  0.93974400  0.13525500  1
+  Cl  Cl13  1  0.67751500  0.61725800  0.63525500  1
+  Cl  Cl14  1  0.06025600  0.38274200  0.13525500  1
+  Cl  Cl15  1  0.61725800  0.67751500  0.13525500  1
+  Cl  Cl16  1  0.32248500  0.38274200  0.36474500  1
+  Cl  Cl17  1  0.61725800  0.93974400  0.36474500  1
+  Cl  Cl18  1  0.06025600  0.67751500  0.36474500  1
+  Cl  Cl19  1  0.67751500  0.06025600  0.86474500  1

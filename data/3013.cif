@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti3NiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61346226
+_cell_length_b   6.61346226
+_cell_length_c   6.61346318
+_cell_angle_alpha   52.69995225
+_cell_angle_beta   52.69995225
+_cell_angle_gamma   52.69995345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3NiS6
+_chemical_formula_sum   'Ti3 Ni1 S6'
+_cell_volume   169.50612480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.32945900  0.32945900  0.32945900  1
+  Ti  Ti1  1  0.67054100  0.67054100  0.67054100  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.50000000  0.50000000  1
+  S  S4  1  0.58399200  0.90987500  0.25028300  1
+  S  S5  1  0.90987500  0.25028300  0.58399200  1
+  S  S6  1  0.25028300  0.58399200  0.90987500  1
+  S  S7  1  0.41600800  0.09012500  0.74971700  1
+  S  S8  1  0.74971700  0.41600800  0.09012500  1
+  S  S9  1  0.09012500  0.74971700  0.41600800  1

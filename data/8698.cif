@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaLi5Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.94443767
+_cell_length_b   10.94443767
+_cell_length_c   10.94443762
+_cell_angle_alpha   26.22942148
+_cell_angle_beta   26.22942148
+_cell_angle_gamma   26.22942265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi5Sn4
+_chemical_formula_sum   'Na1 Li5 Sn4'
+_cell_volume   225.63304192
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.48392700  0.48392700  0.48392700  1
+  Li  Li1  1  0.86136800  0.86136800  0.86136800  1
+  Li  Li2  1  0.94734900  0.94734900  0.94734900  1
+  Li  Li3  1  0.58403300  0.58403300  0.58403300  1
+  Li  Li4  1  0.13681200  0.13681200  0.13681200  1
+  Li  Li5  1  0.05386200  0.05386200  0.05386200  1
+  Sn  Sn6  1  0.77130200  0.77130100  0.77130200  1
+  Sn  Sn7  1  0.68170100  0.68170100  0.68170100  1
+  Sn  Sn8  1  0.31745300  0.31745300  0.31745300  1
+  Sn  Sn9  1  0.22499300  0.22499300  0.22499300  1

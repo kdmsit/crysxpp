@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta5Sb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53220390
+_cell_length_b   7.53220390
+_cell_length_c   7.53220390
+_cell_angle_alpha   93.24683561
+_cell_angle_beta   93.24683561
+_cell_angle_gamma   152.46451712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5Sb4
+_chemical_formula_sum   'Ta5 Sb4'
+_cell_volume   191.87895393
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.37195200  0.31337600  0.68532800  1
+  Ta  Ta1  1  0.68662400  0.37195200  0.05857600  1
+  Ta  Ta2  1  0.31337600  0.62804800  0.94142400  1
+  Ta  Ta3  1  0.62804800  0.68662400  0.31467200  1
+  Ta  Ta4  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb5  1  0.29618700  0.05217800  0.34836500  1
+  Sb  Sb6  1  0.94782200  0.29618700  0.24400900  1
+  Sb  Sb7  1  0.05217800  0.70381300  0.75599100  1
+  Sb  Sb8  1  0.70381300  0.94782200  0.65163500  1

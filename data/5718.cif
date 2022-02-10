@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiCa2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36754500
+_cell_length_b   10.52998400
+_cell_length_c   11.23379600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2Si3
+_chemical_formula_sum   'Li4 Ca8 Si12'
+_cell_volume   516.64428854
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.86150800  0.28171500  1
+  Li  Li1  1  0.50000000  0.13849200  0.71828500  1
+  Li  Li2  1  0.00000000  0.36150800  0.21828500  1
+  Li  Li3  1  0.00000000  0.63849200  0.78171500  1
+  Ca  Ca4  1  0.50000000  0.55083900  0.34934400  1
+  Ca  Ca5  1  0.50000000  0.44916100  0.65065600  1
+  Ca  Ca6  1  0.00000000  0.05083900  0.15065600  1
+  Ca  Ca7  1  0.00000000  0.94916100  0.84934400  1
+  Ca  Ca8  1  0.50000000  0.82174400  0.57437700  1
+  Ca  Ca9  1  0.50000000  0.17825600  0.42562300  1
+  Ca  Ca10  1  0.00000000  0.32174400  0.92562300  1
+  Ca  Ca11  1  0.00000000  0.67825600  0.07437700  1
+  Si  Si12  1  0.50000000  0.89149500  0.04030500  1
+  Si  Si13  1  0.50000000  0.10850500  0.95969500  1
+  Si  Si14  1  0.00000000  0.39149500  0.45969500  1
+  Si  Si15  1  0.00000000  0.60850500  0.54030500  1
+  Si  Si16  1  0.00000000  0.96545300  0.40095400  1
+  Si  Si17  1  0.00000000  0.03454700  0.59904600  1
+  Si  Si18  1  0.50000000  0.46545300  0.09904600  1
+  Si  Si19  1  0.50000000  0.53454700  0.90095400  1
+  Si  Si20  1  0.00000000  0.25540200  0.63327400  1
+  Si  Si21  1  0.00000000  0.74459800  0.36672600  1
+  Si  Si22  1  0.50000000  0.75540200  0.86672600  1
+  Si  Si23  1  0.50000000  0.24459800  0.13327400  1

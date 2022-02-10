@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaAlSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83415596
+_cell_length_b   7.53764009
+_cell_length_c   7.25887160
+_cell_angle_alpha   79.48627284
+_cell_angle_beta   107.13505457
+_cell_angle_gamma   65.13177736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlSi3O8
+_chemical_formula_sum   'Na2 Al2 Si6 O16'
+_cell_volume   347.66078803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74435946  0.28111813  0.85405326  1
+  Na  Na1  1  0.25564054  0.71888187  0.14594674  1
+  Al  Al2  1  0.81983833  0.83900578  0.79070639  1
+  Al  Al3  1  0.18016167  0.16099422  0.20929361  1
+  Si  Si4  1  0.17418894  0.18482070  0.76284813  1
+  Si  Si5  1  0.82581106  0.81517930  0.23715187  1
+  Si  Si6  1  0.19424970  0.58348319  0.68237109  1
+  Si  Si7  1  0.80575030  0.41651681  0.31762891  1
+  Si  Si8  1  0.43221711  0.80268817  0.63846533  1
+  Si  Si9  1  0.56778289  0.19731183  0.36153467  1
+  O  O10  1  0.86445977  0.87083976  0.03261296  1
+  O  O11  1  0.13554023  0.12916024  0.96738704  1
+  O  O12  1  0.40579349  0.59756145  0.71819479  1
+  O  O13  1  0.59420651  0.40243855  0.28180521  1
+  O  O14  1  0.07334422  0.70033715  0.80781928  1
+  O  O15  1  0.92665578  0.29966285  0.19218072  1
+  O  O16  1  0.32603597  0.97023743  0.74245066  1
+  O  O17  1  0.67396403  0.02976257  0.25754934  1
+  O  O18  1  0.67903104  0.71245192  0.72982173  1
+  O  O19  1  0.32096896  0.28754808  0.27017827  1
+  O  O20  1  0.27988741  0.33211623  0.76544981  1
+  O  O21  1  0.72011259  0.66788377  0.23455019  1
+  O  O22  1  0.68583184  0.09628212  0.61106490  1
+  O  O23  1  0.31416816  0.90371788  0.38893510  1
+  O  O24  1  0.94750361  0.31369727  0.56630354  1
+  O  O25  1  0.05249639  0.68630273  0.43369646  1

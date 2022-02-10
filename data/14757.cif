@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs2Al2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34830718
+_cell_length_b   7.34830718
+_cell_length_c   7.34830718
+_cell_angle_alpha   135.52059448
+_cell_angle_beta   103.98978116
+_cell_angle_gamma   92.56477521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Al2As2O7
+_chemical_formula_sum   'Cs2 Al2 As2 O7'
+_cell_volume   255.62467869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.34447800  0.00000000  0.34447800  1
+  Cs  Cs1  1  0.69892200  0.50000000  0.19892200  1
+  Al  Al2  1  0.77560700  0.83798300  0.93762400  1
+  Al  Al3  1  0.09964100  0.16201700  0.93762400  1
+  As  As4  1  0.31633800  0.70004300  0.61629500  1
+  As  As5  1  0.91625200  0.29995700  0.61629500  1
+  O  O6  1  0.25317500  0.99745800  0.74370700  1
+  O  O7  1  0.00008900  0.00000000  0.00008900  1
+  O  O8  1  0.57790100  0.83772400  0.74017700  1
+  O  O9  1  0.25317500  0.50946800  0.25571700  1
+  O  O10  1  0.74625000  0.00254200  0.25571700  1
+  O  O11  1  0.74625000  0.49053200  0.74370700  1
+  O  O12  1  0.90245300  0.16227600  0.74017700  1

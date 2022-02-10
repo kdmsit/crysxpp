@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2Ag4Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.37836880
+_cell_length_b   9.37836880
+_cell_length_c   12.06446175
+_cell_angle_alpha   72.21764709
+_cell_angle_beta   72.21764709
+_cell_angle_gamma   27.71978577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ag4Se3
+_chemical_formula_sum   'K4 Ag8 Se6'
+_cell_volume   468.52021757
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.18606600  0.18606600  0.65583900  1
+  K  K1  1  0.81393400  0.81393400  0.34416100  1
+  K  K2  1  0.66373900  0.66373900  0.16146100  1
+  K  K3  1  0.33626100  0.33626100  0.83853900  1
+  Ag  Ag4  1  0.40919900  0.40919900  0.51626800  1
+  Ag  Ag5  1  0.99230800  0.99230800  0.87747800  1
+  Ag  Ag6  1  0.98215100  0.98215100  0.62973200  1
+  Ag  Ag7  1  0.41052100  0.41052100  0.08796300  1
+  Ag  Ag8  1  0.59080100  0.59080100  0.48373200  1
+  Ag  Ag9  1  0.58947900  0.58947900  0.91203700  1
+  Ag  Ag10  1  0.01784900  0.01784900  0.37026800  1
+  Ag  Ag11  1  0.00769200  0.00769200  0.12252200  1
+  Se  Se12  1  0.14501200  0.14501200  0.95990900  1
+  Se  Se13  1  0.83834400  0.83834400  0.61622400  1
+  Se  Se14  1  0.53413400  0.53413400  0.72260100  1
+  Se  Se15  1  0.16165600  0.16165600  0.38377600  1
+  Se  Se16  1  0.46586600  0.46586600  0.27739900  1
+  Se  Se17  1  0.85498800  0.85498800  0.04009100  1

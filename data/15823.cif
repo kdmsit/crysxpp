@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu4Si2NiS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34371116
+_cell_length_b   6.34371116
+_cell_length_c   8.17117702
+_cell_angle_alpha   82.06418928
+_cell_angle_beta   82.06418928
+_cell_angle_gamma   49.18785941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu4Si2NiS7
+_chemical_formula_sum   'Cu4 Si2 Ni1 S7'
+_cell_volume   245.99149744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.12075200  0.15902600  0.06539800  1
+  Cu  Cu1  1  0.84097400  0.87924800  0.93460200  1
+  Cu  Cu2  1  0.70504400  0.71512500  0.36073900  1
+  Cu  Cu3  1  0.28487500  0.29495600  0.63926100  1
+  Si  Si4  1  0.58307500  0.56589100  0.78222300  1
+  Si  Si5  1  0.43410900  0.41692500  0.21777700  1
+  Ni  Ni6  1  0.99954800  0.00045200  0.50000000  1
+  S  S7  1  0.94190900  0.48789400  0.85090700  1
+  S  S8  1  0.38772100  0.88818100  0.58560200  1
+  S  S9  1  0.67893700  0.19504100  0.71292700  1
+  S  S10  1  0.26849100  0.73150900  0.00000000  1
+  S  S11  1  0.80495900  0.32106300  0.28707300  1
+  S  S12  1  0.51210600  0.05809100  0.14909300  1
+  S  S13  1  0.11181900  0.61227900  0.41439800  1

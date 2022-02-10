@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr5Ti5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60116900
+_cell_length_b   6.85008215
+_cell_length_c   8.82078429
+_cell_angle_alpha   104.87954119
+_cell_angle_beta   108.42701406
+_cell_angle_gamma   89.90137711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Ti5O13
+_chemical_formula_sum   'Sr5 Ti5 O13'
+_cell_volume   309.15331763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.70324800  0.29869500  0.89651500  1
+  Sr  Sr1  1  0.29675200  0.70130500  0.10348500  1
+  Sr  Sr2  1  0.90132800  0.09745600  0.30559000  1
+  Sr  Sr3  1  0.50000000  0.50000000  0.50000000  1
+  Sr  Sr4  1  0.09867200  0.90254400  0.69441000  1
+  Ti  Ti5  1  0.11114600  0.39272400  0.70805800  1
+  Ti  Ti6  1  0.70731800  0.79339600  0.88891200  1
+  Ti  Ti7  1  0.29268200  0.20660400  0.11108800  1
+  Ti  Ti8  1  0.88885400  0.60727600  0.29194200  1
+  Ti  Ti9  1  0.50000000  0.00000000  0.50000000  1
+  O  O10  1  0.89179800  0.59737700  0.78962200  1
+  O  O11  1  0.21845000  0.29443600  0.90159700  1
+  O  O12  1  0.10820200  0.40262300  0.21037800  1
+  O  O13  1  0.78155000  0.70556400  0.09840300  1
+  O  O14  1  0.38475000  0.61746300  0.79307100  1
+  O  O15  1  0.70398100  0.78185000  0.41689700  1
+  O  O16  1  0.41062000  0.06858300  0.28400200  1
+  O  O17  1  0.00000000  0.00000000  0.00000000  1
+  O  O18  1  0.29601900  0.21815000  0.58310300  1
+  O  O19  1  0.61525000  0.38253700  0.20692900  1
+  O  O20  1  0.19429300  0.79560000  0.40929200  1
+  O  O21  1  0.58938000  0.93141700  0.71599800  1
+  O  O22  1  0.80570700  0.20440000  0.59070800  1

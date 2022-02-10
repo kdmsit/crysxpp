@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Gd3AuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68637200
+_cell_length_b   5.63513119
+_cell_length_c   7.15540395
+_cell_angle_alpha   90.29999567
+_cell_angle_beta   102.53386835
+_cell_angle_gamma   91.15865705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3AuO6
+_chemical_formula_sum   'Gd3 Au1 O6'
+_cell_volume   145.06142611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.60940100  0.52905100  0.76435700  1
+  Gd  Gd1  1  0.39059900  0.47094900  0.23564300  1
+  Gd  Gd2  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.84156100  0.68947800  0.11110000  1
+  O  O5  1  0.15843900  0.31052200  0.88890000  1
+  O  O6  1  0.51985400  0.25638900  0.52536900  1
+  O  O7  1  0.48014600  0.74361100  0.47463100  1
+  O  O8  1  0.12388200  0.79602000  0.78853000  1
+  O  O9  1  0.87611800  0.20398000  0.21147000  1

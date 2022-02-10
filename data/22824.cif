@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbNiW(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34695503
+_cell_length_b   7.34781445
+_cell_length_c   7.39280251
+_cell_angle_alpha   118.58085644
+_cell_angle_beta   61.42346234
+_cell_angle_gamma   88.41218304
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNiW(OF)3
+_chemical_formula_sum   'Rb2 Ni2 W2 O6 F6'
+_cell_volume   290.23834925
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.63751600  0.13728000  0.74991600  1
+  Rb  Rb1  1  0.36264500  0.86261000  0.25005300  1
+  Ni  Ni2  1  0.99974800  0.50023900  0.00062600  1
+  Ni  Ni3  1  0.00004900  0.49967100  0.49922800  1
+  W  W4  1  0.99998500  0.99991100  0.99992500  1
+  W  W5  1  0.49986500  0.49991800  0.50004300  1
+  O  O6  1  0.30396000  0.80391400  0.74997000  1
+  O  O7  1  0.69597400  0.19604300  0.25008100  1
+  O  O8  1  0.31067800  0.43338800  0.39782800  1
+  O  O9  1  0.93347000  0.81085200  0.10226900  1
+  O  O10  1  0.68926600  0.56662300  0.60194800  1
+  O  O11  1  0.06649300  0.18938900  0.89817300  1
+  F  F12  1  0.07965000  0.57940300  0.24984700  1
+  F  F13  1  0.92072700  0.42092500  0.75006800  1
+  F  F14  1  0.92118000  0.84531400  0.75398000  1
+  F  F15  1  0.65455500  0.57882200  0.25418600  1
+  F  F16  1  0.34540400  0.42114000  0.74597200  1
+  F  F17  1  0.07883500  0.15455800  0.24588600  1

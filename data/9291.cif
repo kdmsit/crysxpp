@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ho2Ni12P7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.02199623
+_cell_length_b   9.02199623
+_cell_length_c   3.67767600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Ni12P7
+_chemical_formula_sum   'Ho2 Ni12 P7'
+_cell_volume   259.24439341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.66666700  0.33333300  0.50000000  1
+  Ho  Ho1  1  0.33333300  0.66666700  0.00000000  1
+  Ni  Ni2  1  0.61840200  0.56925700  0.00000000  1
+  Ni  Ni3  1  0.84781600  0.72527700  0.50000000  1
+  Ni  Ni4  1  0.95085500  0.38159800  0.00000000  1
+  Ni  Ni5  1  0.27472300  0.12253900  0.50000000  1
+  Ni  Ni6  1  0.12152700  0.21493200  0.00000000  1
+  Ni  Ni7  1  0.09340500  0.87847300  0.00000000  1
+  Ni  Ni8  1  0.78506800  0.90659500  0.00000000  1
+  Ni  Ni9  1  0.37297200  0.43409100  0.50000000  1
+  Ni  Ni10  1  0.56590900  0.93888100  0.50000000  1
+  Ni  Ni11  1  0.06111900  0.62702800  0.50000000  1
+  Ni  Ni12  1  0.87746100  0.15218400  0.50000000  1
+  Ni  Ni13  1  0.43074300  0.04914500  0.00000000  1
+  P  P14  1  0.00000000  0.00000000  0.50000000  1
+  P  P15  1  0.70537400  0.11083500  0.00000000  1
+  P  P16  1  0.11310000  0.40757000  0.50000000  1
+  P  P17  1  0.59243000  0.70553000  0.50000000  1
+  P  P18  1  0.29447000  0.88690000  0.50000000  1
+  P  P19  1  0.88916500  0.59453900  0.00000000  1
+  P  P20  1  0.40546100  0.29462600  0.00000000  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ni(RhSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43002395
+_cell_length_b   6.43002395
+_cell_length_c   6.39801737
+_cell_angle_alpha   62.07173912
+_cell_angle_beta   62.07173912
+_cell_angle_gamma   33.70799899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni(RhSe2)2
+_chemical_formula_sum   'Ni1 Rh2 Se4'
+_cell_volume   128.02140536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh1  1  0.26397600  0.26397600  0.71713900  1
+  Rh  Rh2  1  0.73602400  0.73602400  0.28286100  1
+  Se  Se3  1  0.36834700  0.36834700  0.97821800  1
+  Se  Se4  1  0.63165300  0.63165300  0.02178200  1
+  Se  Se5  1  0.11572800  0.11572800  0.55157600  1
+  Se  Se6  1  0.88427200  0.88427200  0.44842400  1

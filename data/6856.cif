@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmGa4Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12179451
+_cell_length_b   8.12179451
+_cell_length_c   6.51772800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.54711866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGa4Co
+_chemical_formula_sum   'Sm2 Ga8 Co2'
+_cell_volume   211.40106851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.88256800  0.11743200  0.75000000  1
+  Sm  Sm1  1  0.11743200  0.88256800  0.25000000  1
+  Ga  Ga2  1  0.68988800  0.31011200  0.94846200  1
+  Ga  Ga3  1  0.31011200  0.68988800  0.05153800  1
+  Ga  Ga4  1  0.31011200  0.68988800  0.44846200  1
+  Ga  Ga5  1  0.68988800  0.31011200  0.55153800  1
+  Ga  Ga6  1  0.92501900  0.07498100  0.25000000  1
+  Ga  Ga7  1  0.07498100  0.92501900  0.75000000  1
+  Ga  Ga8  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga9  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co10  1  0.77717200  0.22282800  0.25000000  1
+  Co  Co11  1  0.22282800  0.77717200  0.75000000  1

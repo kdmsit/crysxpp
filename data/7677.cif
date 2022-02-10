@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3InCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00569402
+_cell_length_b   7.00569402
+_cell_length_c   12.59734800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3InCl6
+_chemical_formula_sum   'Na6 In2 Cl12'
+_cell_volume   535.44157347
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.04107400  1
+  Na  Na1  1  0.33333300  0.66666700  0.45892600  1
+  Na  Na2  1  0.00000000  0.00000000  0.75000000  1
+  Na  Na3  1  0.00000000  0.00000000  0.25000000  1
+  Na  Na4  1  0.66666700  0.33333300  0.95892600  1
+  Na  Na5  1  0.66666700  0.33333300  0.54107400  1
+  In  In6  1  0.33333300  0.66666700  0.75000000  1
+  In  In7  1  0.66666700  0.33333300  0.25000000  1
+  Cl  Cl8  1  0.36526300  0.04788000  0.12919700  1
+  Cl  Cl9  1  0.95212000  0.31738400  0.12919700  1
+  Cl  Cl10  1  0.68261600  0.63473700  0.12919700  1
+  Cl  Cl11  1  0.63473700  0.68261600  0.62919700  1
+  Cl  Cl12  1  0.31738400  0.95212000  0.62919700  1
+  Cl  Cl13  1  0.63473700  0.95212000  0.87080300  1
+  Cl  Cl14  1  0.31738400  0.36526300  0.87080300  1
+  Cl  Cl15  1  0.04788000  0.68261600  0.87080300  1
+  Cl  Cl16  1  0.36526300  0.31738400  0.37080300  1
+  Cl  Cl17  1  0.95212000  0.63473700  0.37080300  1
+  Cl  Cl18  1  0.04788000  0.36526300  0.62919700  1
+  Cl  Cl19  1  0.68261600  0.04788000  0.37080300  1

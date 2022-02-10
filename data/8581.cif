@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaMnCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36386410
+_cell_length_b   7.36386410
+_cell_length_c   7.36386393
+_cell_angle_alpha   53.63794560
+_cell_angle_beta   53.63794560
+_cell_angle_gamma   53.63794069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnCl3
+_chemical_formula_sum   'Na2 Mn2 Cl6'
+_cell_volume   240.34550055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14523200  0.14523200  0.14523200  1
+  Na  Na1  1  0.85476800  0.85476800  0.85476800  1
+  Mn  Mn2  1  0.34037300  0.34037300  0.34037300  1
+  Mn  Mn3  1  0.65962700  0.65962700  0.65962700  1
+  Cl  Cl4  1  0.06619000  0.45150300  0.71235300  1
+  Cl  Cl5  1  0.71235300  0.06619000  0.45150300  1
+  Cl  Cl6  1  0.54849700  0.28764700  0.93381000  1
+  Cl  Cl7  1  0.93381000  0.54849700  0.28764700  1
+  Cl  Cl8  1  0.28764700  0.93381000  0.54849700  1
+  Cl  Cl9  1  0.45150300  0.71235300  0.06619000  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zn2Cu(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15778200
+_cell_length_b   5.41754254
+_cell_length_c   6.85696112
+_cell_angle_alpha   110.10657915
+_cell_angle_beta   87.29606086
+_cell_angle_gamma   112.30624269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Cu(AsO4)2
+_chemical_formula_sum   'Zn2 Cu1 As2 O8'
+_cell_volume   165.69255335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.77291400  0.25596600  0.81103000  1
+  Zn  Zn1  1  0.22708600  0.74403400  0.18897000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.50000000  1
+  As  As3  1  0.13625700  0.85196900  0.72364500  1
+  As  As4  1  0.86374300  0.14803100  0.27635500  1
+  O  O5  1  0.73307600  0.29710400  0.50751400  1
+  O  O6  1  0.26692400  0.70289600  0.49248600  1
+  O  O7  1  0.62795100  0.81107400  0.15137100  1
+  O  O8  1  0.37204900  0.18892600  0.84862900  1
+  O  O9  1  0.91238600  0.35345900  0.12251900  1
+  O  O10  1  0.81802600  0.86982200  0.66550200  1
+  O  O11  1  0.18197400  0.13017800  0.33449800  1
+  O  O12  1  0.08761400  0.64654100  0.87748100  1

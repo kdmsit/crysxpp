@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KAgCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.19519102
+_cell_length_b   11.19519102
+_cell_length_c   11.19519102
+_cell_angle_alpha   149.67648900
+_cell_angle_beta   148.54306643
+_cell_angle_gamma   44.25663703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgCO3
+_chemical_formula_sum   'K4 Ag4 C4 O12'
+_cell_volume   368.61070487
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.43009000  0.18009000  0.25000000  1
+  K  K1  1  0.06991000  0.31991000  0.75000000  1
+  K  K2  1  0.56991000  0.81991000  0.75000000  1
+  K  K3  1  0.93009000  0.68009000  0.25000000  1
+  Ag  Ag4  1  0.36535300  0.25000000  0.61535300  1
+  Ag  Ag5  1  0.13464700  0.75000000  0.88464700  1
+  Ag  Ag6  1  0.63464700  0.75000000  0.38464700  1
+  Ag  Ag7  1  0.86535300  0.25000000  0.11535300  1
+  C  C8  1  0.12274800  0.87274800  0.25000000  1
+  C  C9  1  0.37725200  0.62725200  0.75000000  1
+  C  C10  1  0.87725200  0.12725200  0.75000000  1
+  C  C11  1  0.62274800  0.37274800  0.25000000  1
+  O  O12  1  0.06075200  0.81075200  0.25000000  1
+  O  O13  1  0.43924800  0.68924800  0.75000000  1
+  O  O14  1  0.93924800  0.18924800  0.75000000  1
+  O  O15  1  0.56075200  0.31075200  0.25000000  1
+  O  O16  1  0.28657600  0.04200100  0.52300300  1
+  O  O17  1  0.21342400  0.73642800  0.75542500  1
+  O  O18  1  0.48100200  0.45799900  0.74457500  1
+  O  O19  1  0.01899800  0.76357200  0.97699700  1
+  O  O20  1  0.71342400  0.95799900  0.47699700  1
+  O  O21  1  0.78657600  0.26357200  0.24457500  1
+  O  O22  1  0.51899800  0.54200100  0.25542500  1
+  O  O23  1  0.98100200  0.23642800  0.02300300  1

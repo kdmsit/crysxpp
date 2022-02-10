@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Rb2Ag2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.91783714
+_cell_length_b   11.91783714
+_cell_length_c   6.40020668
+_cell_angle_alpha   82.00011845
+_cell_angle_beta   82.00011845
+_cell_angle_gamma   142.54210803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Ag2GeS4
+_chemical_formula_sum   'Rb4 Ag4 Ge2 S8'
+_cell_volume   498.23531963
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.80819500  0.19180500  0.75000000  1
+  Rb  Rb1  1  0.06173100  0.93826900  0.75000000  1
+  Rb  Rb2  1  0.19180500  0.80819500  0.25000000  1
+  Rb  Rb3  1  0.93826900  0.06173100  0.25000000  1
+  Ag  Ag4  1  0.68453600  0.31546400  0.25000000  1
+  Ag  Ag5  1  0.53244000  0.46756000  0.25000000  1
+  Ag  Ag6  1  0.46756000  0.53244000  0.75000000  1
+  Ag  Ag7  1  0.31546400  0.68453600  0.75000000  1
+  Ge  Ge8  1  0.37681200  0.62318800  0.25000000  1
+  Ge  Ge9  1  0.62318800  0.37681200  0.75000000  1
+  S  S10  1  0.51639400  0.87802200  0.34137400  1
+  S  S11  1  0.76664400  0.63427700  0.45236000  1
+  S  S12  1  0.23335600  0.36572300  0.54764000  1
+  S  S13  1  0.48360600  0.12197800  0.65862600  1
+  S  S14  1  0.36572300  0.23335600  0.04764000  1
+  S  S15  1  0.12197800  0.48360600  0.15862600  1
+  S  S16  1  0.87802200  0.51639400  0.84137400  1
+  S  S17  1  0.63427700  0.76664400  0.95236000  1

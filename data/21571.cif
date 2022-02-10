@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm2(InCo3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03315956
+_cell_length_b   4.89987044
+_cell_length_c   11.37062734
+_cell_angle_alpha   102.50406226
+_cell_angle_beta   89.96528179
+_cell_angle_gamma   89.92644591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2(InCo3)3
+_chemical_formula_sum   'Sm2 In3 Co9'
+_cell_volume   219.37572869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99398765  0.32407417  0.63639914  1
+  Sm  Sm1  1  0.99799647  0.68651054  0.36257879  1
+  In  In2  1  0.49559855  0.20693111  0.40310170  1
+  In  In3  1  0.49788805  0.80660352  0.59731310  1
+  In  In4  1  0.99958564  0.99797698  0.99782840  1
+  Co  Co5  1  -0.00208916  0.11835610  0.23612062  1
+  Co  Co6  1  0.49787122  0.84348251  0.18322984  1
+  Co  Co7  1  0.00022086  0.88312194  0.76183080  1
+  Co  Co8  1  0.49891655  0.66447373  0.81643688  1
+  Co  Co9  1  -0.00355763  0.43861695  0.87618475  1
+  Co  Co10  1  0.49642786  0.49733270  0.00052831  1
+  Co  Co11  1  0.00136751  0.55857284  0.12206368  1
+  Co  Co12  1  0.50268957  0.33728618  0.18427409  1
+  Co  Co13  1  0.50117084  0.15266874  0.81681089  1

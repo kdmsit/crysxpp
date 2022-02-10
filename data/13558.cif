@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02038341
+_cell_length_b   7.02038341
+_cell_length_c   7.02038341
+_cell_angle_alpha   134.33915459
+_cell_angle_beta   134.33915459
+_cell_angle_gamma   66.55875648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNbO4
+_chemical_formula_sum   'La2 Nb2 O8'
+_cell_volume   174.19111557
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.50000000  0.00000000  1
+  La  La1  1  0.25000000  0.75000000  0.50000000  1
+  Nb  Nb2  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb3  1  0.75000000  0.25000000  0.50000000  1
+  O  O4  1  0.16077200  0.07528100  0.40773900  1
+  O  O5  1  0.82528100  0.91754200  0.41450900  1
+  O  O6  1  0.50303400  0.41077200  0.58549100  1
+  O  O7  1  0.66754200  0.75303400  0.59226100  1
+  O  O8  1  0.08245800  0.49696600  0.90773900  1
+  O  O9  1  0.24696600  0.83922800  0.91450900  1
+  O  O10  1  0.92471900  0.33245800  0.08549100  1
+  O  O11  1  0.58922800  0.17471900  0.09226100  1

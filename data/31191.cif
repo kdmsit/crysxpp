@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbTaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17378000
+_cell_length_b   8.57985156
+_cell_length_c   9.11195715
+_cell_angle_alpha   114.19379172
+_cell_angle_beta   93.74137011
+_cell_angle_gamma   94.58254885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTaO3
+_chemical_formula_sum   'Rb4 Ta4 O12'
+_cell_volume   365.63260787
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.50000000  0.00000000  1
+  Rb  Rb1  1  0.91434900  0.20388300  0.59789800  1
+  Rb  Rb2  1  0.50000000  0.50000000  0.50000000  1
+  Rb  Rb3  1  0.08565100  0.79611700  0.40210200  1
+  Ta  Ta4  1  0.52840200  0.01054400  0.81593000  1
+  Ta  Ta5  1  0.00087600  0.78828400  0.85657700  1
+  Ta  Ta6  1  0.99912400  0.21171600  0.14342300  1
+  Ta  Ta7  1  0.47159800  0.98945600  0.18407000  1
+  O  O8  1  0.26256600  0.07325700  0.99063200  1
+  O  O9  1  0.78049900  0.21419700  0.95820300  1
+  O  O10  1  0.40643100  0.10636300  0.68472300  1
+  O  O11  1  0.85485800  0.56526500  0.77195100  1
+  O  O12  1  0.28793100  0.78362200  0.72945700  1
+  O  O13  1  0.80065900  0.87778100  0.70839000  1
+  O  O14  1  0.19934100  0.12221900  0.29161000  1
+  O  O15  1  0.71206900  0.21637800  0.27054300  1
+  O  O16  1  0.14514200  0.43473500  0.22804900  1
+  O  O17  1  0.59356900  0.89363700  0.31527700  1
+  O  O18  1  0.21950100  0.78580300  0.04179700  1
+  O  O19  1  0.73743400  0.92674300  0.00936800  1

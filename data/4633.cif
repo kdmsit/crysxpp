@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrGa4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26415841
+_cell_length_b   8.26415841
+_cell_length_c   5.77642166
+_cell_angle_alpha   77.27040229
+_cell_angle_beta   77.27040229
+_cell_angle_gamma   68.64246249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGa4O7
+_chemical_formula_sum   'Sr2 Ga8 O14'
+_cell_volume   354.09736887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.31095500  0.68904500  0.75000000  1
+  Sr  Sr1  1  0.68904500  0.31095500  0.25000000  1
+  Ga  Ga2  1  0.75567000  0.58107200  0.69989600  1
+  Ga  Ga3  1  0.41892800  0.24433000  0.80010400  1
+  Ga  Ga4  1  0.24433000  0.41892800  0.30010400  1
+  Ga  Ga5  1  0.58107200  0.75567000  0.19989600  1
+  Ga  Ga6  1  0.05735200  0.18139200  0.74133200  1
+  Ga  Ga7  1  0.81860800  0.94264800  0.75866800  1
+  Ga  Ga8  1  0.18139200  0.05735200  0.24133200  1
+  Ga  Ga9  1  0.94264800  0.81860800  0.25866800  1
+  O  O10  1  0.03385200  0.96614800  0.75000000  1
+  O  O11  1  0.96614800  0.03385200  0.25000000  1
+  O  O12  1  0.87540100  0.36399700  0.85352500  1
+  O  O13  1  0.63600300  0.12460000  0.64647500  1
+  O  O14  1  0.12459900  0.63600300  0.14647500  1
+  O  O15  1  0.36399700  0.87540100  0.35352500  1
+  O  O16  1  0.33564900  0.43121100  0.55858600  1
+  O  O17  1  0.56878900  0.66435100  0.94141400  1
+  O  O18  1  0.74959100  0.87304000  0.09312700  1
+  O  O19  1  0.12696000  0.25040900  0.40687300  1
+  O  O20  1  0.25040900  0.12696000  0.90687300  1
+  O  O21  1  0.87304000  0.74959100  0.59312700  1
+  O  O22  1  0.43121100  0.33564900  0.05858600  1
+  O  O23  1  0.66435100  0.56878900  0.44141400  1

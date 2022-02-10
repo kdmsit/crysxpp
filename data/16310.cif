@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_UCu2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71856446
+_cell_length_b   7.71856446
+_cell_length_c   5.08973513
+_cell_angle_alpha   74.88156340
+_cell_angle_beta   74.88156340
+_cell_angle_gamma   44.34919856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCu2(PO5)2
+_chemical_formula_sum   'U1 Cu2 P2 O10'
+_cell_volume   203.38413226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.50000000  1
+  P  P3  1  0.35035800  0.35035800  0.92166500  1
+  P  P4  1  0.64964200  0.64964200  0.07833500  1
+  O  O5  1  0.28098600  0.28098600  0.22424800  1
+  O  O6  1  0.62999000  0.19326600  0.87269000  1
+  O  O7  1  0.71901400  0.71901400  0.77575200  1
+  O  O8  1  0.19326600  0.62999000  0.87269000  1
+  O  O9  1  0.09004900  0.09004900  0.66335100  1
+  O  O10  1  0.90995100  0.90995100  0.33664900  1
+  O  O11  1  0.71628400  0.71628400  0.27755100  1
+  O  O12  1  0.37001000  0.80673400  0.12731000  1
+  O  O13  1  0.80673400  0.37001000  0.12731000  1
+  O  O14  1  0.28371600  0.28371600  0.72244900  1

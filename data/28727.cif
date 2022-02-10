@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li5Ti2Cu5O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06865373
+_cell_length_b   5.06865373
+_cell_length_c   9.71972142
+_cell_angle_alpha   89.51186562
+_cell_angle_beta   89.51186562
+_cell_angle_gamma   113.56447755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Ti2Cu5O12
+_chemical_formula_sum   'Li5 Ti2 Cu5 O12'
+_cell_volume   228.86084288
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.84103500  0.67791000  0.25341500  1
+  Li  Li1  1  0.68055900  0.85122600  0.74194200  1
+  Li  Li2  1  0.32209000  0.15896500  0.74658500  1
+  Li  Li3  1  0.14877400  0.31944100  0.25805800  1
+  Li  Li4  1  0.08732300  0.91267700  0.50000000  1
+  Ti  Ti5  1  0.75541200  0.24458800  0.50000000  1
+  Ti  Ti6  1  0.25438900  0.74561100  0.00000000  1
+  Cu  Cu7  1  0.92156300  0.07843700  0.00000000  1
+  Cu  Cu8  1  0.00112900  0.51208500  0.74790200  1
+  Cu  Cu9  1  0.48791500  0.99887100  0.25209800  1
+  Cu  Cu10  1  0.58330800  0.41669200  0.00000000  1
+  Cu  Cu11  1  0.41508000  0.58492000  0.50000000  1
+  O  O12  1  0.01095300  0.20491100  0.63440900  1
+  O  O13  1  0.79508900  0.98904700  0.36559100  1
+  O  O14  1  0.92091800  0.41739800  0.09797300  1
+  O  O15  1  0.58260200  0.07908200  0.90202700  1
+  O  O16  1  0.69124200  0.52763200  0.62125100  1
+  O  O17  1  0.47236800  0.30875800  0.37874900  1
+  O  O18  1  0.52221800  0.69157500  0.12675700  1
+  O  O19  1  0.30842500  0.47778200  0.87324300  1
+  O  O20  1  0.42738300  0.91438100  0.59873800  1
+  O  O21  1  0.08561900  0.57261700  0.40126200  1
+  O  O22  1  0.19056700  0.00596000  0.13108400  1
+  O  O23  1  0.99404000  0.80943300  0.86891600  1

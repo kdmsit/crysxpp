@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr2CrCuSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94474700
+_cell_length_b   3.94474700
+_cell_length_c   15.62161900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CrCuSO3
+_chemical_formula_sum   'Sr4 Cr2 Cu2 S2 O6'
+_cell_volume   243.08846463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.50000000  0.18597300  1
+  Sr  Sr1  1  0.50000000  0.00000000  0.81402700  1
+  Sr  Sr2  1  0.00000000  0.50000000  0.41324600  1
+  Sr  Sr3  1  0.50000000  0.00000000  0.58675400  1
+  Cr  Cr4  1  0.50000000  0.00000000  0.30839800  1
+  Cr  Cr5  1  0.00000000  0.50000000  0.69160200  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu7  1  0.50000000  0.50000000  0.00000000  1
+  S  S8  1  0.50000000  0.00000000  0.09053900  1
+  S  S9  1  0.00000000  0.50000000  0.90946100  1
+  O  O10  1  0.00000000  0.00000000  0.29000300  1
+  O  O11  1  0.50000000  0.50000000  0.29000300  1
+  O  O12  1  0.50000000  0.50000000  0.70999700  1
+  O  O13  1  0.00000000  0.00000000  0.70999700  1
+  O  O14  1  0.50000000  0.00000000  0.43131900  1
+  O  O15  1  0.00000000  0.50000000  0.56868100  1

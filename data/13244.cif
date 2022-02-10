@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Al13(CrSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71511198
+_cell_length_b   7.71511198
+_cell_length_c   7.71511198
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al13(CrSi)4
+_chemical_formula_sum   'Al13 Cr4 Si4'
+_cell_volume   324.72199340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25000000  0.25000000  0.25000000  1
+  Al  Al1  1  0.55928100  0.55928100  0.94071900  1
+  Al  Al2  1  0.94071900  0.55928100  0.55928100  1
+  Al  Al3  1  0.55928100  0.94071900  0.94071900  1
+  Al  Al4  1  0.94071900  0.94071900  0.55928100  1
+  Al  Al5  1  0.94071900  0.55928100  0.94071900  1
+  Al  Al6  1  0.55928100  0.94071900  0.55928100  1
+  Al  Al7  1  0.30908500  0.30908500  0.69091500  1
+  Al  Al8  1  0.69091500  0.30908500  0.30908500  1
+  Al  Al9  1  0.30908500  0.69091500  0.69091500  1
+  Al  Al10  1  0.69091500  0.69091500  0.30908500  1
+  Al  Al11  1  0.69091500  0.30908500  0.69091500  1
+  Al  Al12  1  0.30908500  0.69091500  0.30908500  1
+  Cr  Cr13  1  0.90775200  0.27674300  0.90775200  1
+  Cr  Cr14  1  0.90775200  0.90775200  0.27674300  1
+  Cr  Cr15  1  0.27674300  0.90775200  0.90775200  1
+  Cr  Cr16  1  0.90775200  0.90775200  0.90775200  1
+  Si  Si17  1  0.12255500  0.63233500  0.12255500  1
+  Si  Si18  1  0.12255500  0.12255500  0.63233500  1
+  Si  Si19  1  0.63233500  0.12255500  0.12255500  1
+  Si  Si20  1  0.12255500  0.12255500  0.12255500  1

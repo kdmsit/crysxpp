@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Hf2Ga3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30310679
+_cell_length_b   7.36408439
+_cell_length_c   5.47034593
+_cell_angle_alpha   79.11610183
+_cell_angle_beta   60.56960346
+_cell_angle_gamma   40.31429471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Ga3
+_chemical_formula_sum   'Hf4 Ga6'
+_cell_volume   177.93113920
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.37599900  0.01938100  0.48881600  1
+  Hf  Hf1  1  0.11580400  0.48881600  0.01938100  1
+  Hf  Hf2  1  0.76118400  0.13419600  0.87400100  1
+  Hf  Hf3  1  0.23061900  0.87400100  0.13419600  1
+  Ga  Ga4  1  0.62310800  0.87689200  0.87689200  1
+  Ga  Ga5  1  0.37310800  0.62689200  0.62689200  1
+  Ga  Ga6  1  0.80303100  0.42624300  0.05866800  1
+  Ga  Ga7  1  0.71205700  0.05866800  0.42624300  1
+  Ga  Ga8  1  0.19133200  0.53794300  0.44696900  1
+  Ga  Ga9  1  0.82375700  0.44696900  0.53794300  1

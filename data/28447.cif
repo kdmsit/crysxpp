@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2PrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.78082841
+_cell_length_b   12.19277824
+_cell_length_c   6.79889026
+_cell_angle_alpha   79.03377710
+_cell_angle_beta   69.48317954
+_cell_angle_gamma   31.48304336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2PrO3
+_chemical_formula_sum   'Rb8 Pr4 O12'
+_cell_volume   505.27156312
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.99594000  0.99594000  0.50406000  1
+  Rb  Rb1  1  0.74594000  0.74594000  0.25406000  1
+  Rb  Rb2  1  0.42195600  0.42195600  0.57804400  1
+  Rb  Rb3  1  0.57804400  0.57804400  0.42195600  1
+  Rb  Rb4  1  0.67195600  0.67195600  0.82804400  1
+  Rb  Rb5  1  0.82804400  0.82804400  0.67195600  1
+  Rb  Rb6  1  0.50406000  0.50406000  0.99594000  1
+  Rb  Rb7  1  0.25406000  0.25406000  0.74594000  1
+  Pr  Pr8  1  0.08568000  0.08568000  0.91432000  1
+  Pr  Pr9  1  0.91432000  0.91432000  0.08568000  1
+  Pr  Pr10  1  0.33568000  0.33568000  0.16432000  1
+  Pr  Pr11  1  0.16432000  0.16432000  0.33568000  1
+  O  O12  1  0.17861000  0.82139000  0.82139000  1
+  O  O13  1  0.14159900  0.66145400  0.29812900  1
+  O  O14  1  0.89881800  0.29812900  0.66145300  1
+  O  O15  1  0.66145300  0.14159900  0.89881800  1
+  O  O16  1  0.29812900  0.89881800  0.14159900  1
+  O  O17  1  0.42861000  0.07139000  0.07139000  1
+  O  O18  1  0.82139000  0.17861000  0.17861000  1
+  O  O19  1  0.95187100  0.35118200  0.10840100  1
+  O  O20  1  0.58854700  0.10840100  0.35118200  1
+  O  O21  1  0.35118200  0.95187100  0.58854700  1
+  O  O22  1  0.10840100  0.58854600  0.95187100  1
+  O  O23  1  0.07139000  0.42861000  0.42861000  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ce2Al16Pt9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.13364966
+_cell_length_b   11.13364966
+_cell_length_c   11.13364966
+_cell_angle_alpha   158.29994718
+_cell_angle_beta   115.03342972
+_cell_angle_gamma   69.37321449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Al16Pt9
+_chemical_formula_sum   'Ce2 Al16 Pt9'
+_cell_volume   458.89973130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.22794500  0.22794500  0.00000000  1
+  Ce  Ce1  1  0.77205500  0.77205500  0.00000000  1
+  Al  Al2  1  0.27449400  0.39241400  0.88208000  1
+  Al  Al3  1  0.09147300  0.92013500  0.17133800  1
+  Al  Al4  1  0.51155000  0.20339000  0.30816100  1
+  Al  Al5  1  0.25120300  0.07986500  0.17133800  1
+  Al  Al6  1  0.91333500  0.41333500  0.50000000  1
+  Al  Al7  1  0.72550600  0.60758600  0.11792000  1
+  Al  Al8  1  0.89522900  0.20339000  0.69183900  1
+  Al  Al9  1  0.48845000  0.79661000  0.69183900  1
+  Al  Al10  1  0.38554800  0.00000000  0.38554800  1
+  Al  Al11  1  0.61445200  0.00000000  0.61445200  1
+  Al  Al12  1  0.48966600  0.60758600  0.88208000  1
+  Al  Al13  1  0.10477100  0.79661000  0.30816100  1
+  Al  Al14  1  0.90852700  0.07986500  0.82866200  1
+  Al  Al15  1  0.74879700  0.92013500  0.82866200  1
+  Al  Al16  1  0.51033400  0.39241400  0.11792000  1
+  Al  Al17  1  0.08666500  0.58666500  0.50000000  1
+  Pt  Pt18  1  0.75057100  0.50000000  0.25057100  1
+  Pt  Pt19  1  0.02427600  0.33943700  0.68483900  1
+  Pt  Pt20  1  0.62520800  0.12520800  0.50000000  1
+  Pt  Pt21  1  0.24942900  0.50000000  0.74942900  1
+  Pt  Pt22  1  0.37479200  0.87479200  0.50000000  1
+  Pt  Pt23  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt24  1  0.65459800  0.33943700  0.31516100  1
+  Pt  Pt25  1  0.34540200  0.66056300  0.68483900  1
+  Pt  Pt26  1  0.97572400  0.66056300  0.31516100  1

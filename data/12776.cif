@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13047101
+_cell_length_b   6.13047101
+_cell_length_c   6.13047101
+_cell_angle_alpha   106.84824242
+_cell_angle_beta   106.84824242
+_cell_angle_gamma   114.85507661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThGeO4
+_chemical_formula_sum   'Th2 Ge2 O8'
+_cell_volume   176.17593379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.50000000  0.50000000  0.00000000  1
+  Th  Th1  1  0.75000000  0.25000000  0.50000000  1
+  Ge  Ge2  1  0.25000000  0.75000000  0.50000000  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.82132900  0.00334700  0.18201800  1
+  O  O5  1  0.88931100  0.57132900  0.31798200  1
+  O  O6  1  0.25334700  0.57132900  0.68201800  1
+  O  O7  1  0.82132900  0.63931100  0.81798200  1
+  O  O8  1  0.36068900  0.17867100  0.18201800  1
+  O  O9  1  0.42867100  0.74665300  0.31798200  1
+  O  O10  1  0.42867100  0.11068900  0.68201800  1
+  O  O11  1  0.99665300  0.17867100  0.81798200  1

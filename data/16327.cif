@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nd2Cu(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17752356
+_cell_length_b   9.17752356
+_cell_length_c   5.21112308
+_cell_angle_alpha   73.98113141
+_cell_angle_beta   73.98113141
+_cell_angle_gamma   114.53967839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Cu(GeO4)2
+_chemical_formula_sum   'Nd4 Cu2 Ge4 O16'
+_cell_volume   343.35292723
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.11880800  0.36117600  0.29015400  1
+  Nd  Nd1  1  0.86331300  0.62177700  0.79873600  1
+  Nd  Nd2  1  0.62177700  0.86331300  0.79873600  1
+  Nd  Nd3  1  0.36117600  0.11880800  0.29015400  1
+  Cu  Cu4  1  0.82274100  0.23644400  0.99155500  1
+  Cu  Cu5  1  0.23644400  0.82274100  0.99155500  1
+  Ge  Ge6  1  0.00039900  0.00039900  0.98855800  1
+  Ge  Ge7  1  0.69416800  0.27327000  0.53317100  1
+  Ge  Ge8  1  0.49563900  0.49563900  0.58904200  1
+  Ge  Ge9  1  0.27327000  0.69416800  0.53317100  1
+  O  O10  1  0.40689300  0.88899200  0.17239000  1
+  O  O11  1  0.66472700  0.66472700  0.62287900  1
+  O  O12  1  0.33169300  0.33169300  0.95636800  1
+  O  O13  1  0.83084000  0.83084000  0.95244900  1
+  O  O14  1  0.16223000  0.81507300  0.68699900  1
+  O  O15  1  0.40447700  0.58865600  0.37326800  1
+  O  O16  1  0.91274200  0.09925300  0.18996700  1
+  O  O17  1  0.32195300  0.66676100  0.85275000  1
+  O  O18  1  0.16120500  0.16120500  0.61189700  1
+  O  O19  1  0.81507300  0.16223000  0.68699900  1
+  O  O20  1  0.58865600  0.40447700  0.37326800  1
+  O  O21  1  0.53894000  0.07242300  0.54147600  1
+  O  O22  1  0.66676100  0.32195300  0.85275000  1
+  O  O23  1  0.09925300  0.91274200  0.18996700  1
+  O  O24  1  0.07242300  0.53894000  0.54147600  1
+  O  O25  1  0.88899200  0.40689300  0.17239000  1

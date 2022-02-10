@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CaTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93686600
+_cell_length_b   5.84812900
+_cell_length_c   10.14294281
+_cell_angle_alpha   55.00302029
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaTeO6
+_chemical_formula_sum   'Sr4 Ca2 Te2 O12'
+_cell_volume   288.48199700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.53875400  0.74139900  0.74943400  1
+  Sr  Sr1  1  0.03875400  0.25860100  0.75056600  1
+  Sr  Sr2  1  0.96124600  0.74139900  0.24943400  1
+  Sr  Sr3  1  0.46124600  0.25860100  0.25056600  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca5  1  0.50000000  0.00000000  0.00000000  1
+  Te  Te6  1  0.00000000  0.50000000  0.00000000  1
+  Te  Te7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.52653300  0.80811300  0.27227700  1
+  O  O9  1  0.02653300  0.19188700  0.22772300  1
+  O  O10  1  0.47346700  0.19188700  0.72772300  1
+  O  O11  1  0.97346700  0.80811300  0.77227700  1
+  O  O12  1  0.76676000  0.64049400  0.54651700  1
+  O  O13  1  0.26676000  0.35950600  0.95348300  1
+  O  O14  1  0.23324000  0.35950600  0.45348300  1
+  O  O15  1  0.73324000  0.64049400  0.04651700  1
+  O  O16  1  0.19154000  0.72770600  0.03915800  1
+  O  O17  1  0.69154000  0.27229400  0.46084200  1
+  O  O18  1  0.80846000  0.27229400  0.96084200  1
+  O  O19  1  0.30846000  0.72770600  0.53915800  1

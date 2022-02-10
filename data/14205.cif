@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3PSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30636469
+_cell_length_b   6.30636469
+_cell_length_c   6.30636456
+_cell_angle_alpha   84.89448229
+_cell_angle_beta   84.89448229
+_cell_angle_gamma   84.89448086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3PSO3
+_chemical_formula_sum   'Na6 P2 S2 O6'
+_cell_volume   247.98722900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50512200  0.88160200  0.18976300  1
+  Na  Na1  1  0.18976300  0.50512200  0.88160200  1
+  Na  Na2  1  0.88160200  0.18976300  0.50512200  1
+  Na  Na3  1  0.38160200  0.00512200  0.68976300  1
+  Na  Na4  1  0.68976300  0.38160200  0.00512200  1
+  Na  Na5  1  0.00512200  0.68976300  0.38160200  1
+  P  P6  1  0.90703200  0.90703200  0.90703200  1
+  P  P7  1  0.40703200  0.40703200  0.40703200  1
+  S  S8  1  0.58436400  0.58436400  0.58436400  1
+  S  S9  1  0.08436400  0.08436400  0.08436400  1
+  O  O10  1  0.86401800  0.69574500  0.04322200  1
+  O  O11  1  0.04322200  0.86401800  0.69574500  1
+  O  O12  1  0.69574500  0.04322200  0.86401800  1
+  O  O13  1  0.19574500  0.36401800  0.54322200  1
+  O  O14  1  0.54322200  0.19574500  0.36401800  1
+  O  O15  1  0.36401800  0.54322200  0.19574500  1

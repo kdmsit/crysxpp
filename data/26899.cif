@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiCoSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17601706
+_cell_length_b   5.17601706
+_cell_length_c   6.58061600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.65209582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoSiO4
+_chemical_formula_sum   'Li2 Co2 Si2 O8'
+_cell_volume   176.29086903
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19081500  0.19081500  0.00000000  1
+  Li  Li1  1  0.80918500  0.80918500  0.50000000  1
+  Co  Co2  1  0.18677800  0.18677800  0.50000000  1
+  Co  Co3  1  0.81322200  0.81322200  0.00000000  1
+  Si  Si4  1  0.31334300  0.68665700  0.25000000  1
+  Si  Si5  1  0.68665700  0.31334300  0.75000000  1
+  O  O6  1  0.17248000  0.80493300  0.04690600  1
+  O  O7  1  0.19506700  0.82752000  0.45309400  1
+  O  O8  1  0.25702800  0.37291300  0.26485300  1
+  O  O9  1  0.37291300  0.25702800  0.73514700  1
+  O  O10  1  0.62708700  0.74297200  0.23514700  1
+  O  O11  1  0.74297200  0.62708700  0.76485300  1
+  O  O12  1  0.80493300  0.17248000  0.95309400  1
+  O  O13  1  0.82752000  0.19506700  0.54690600  1

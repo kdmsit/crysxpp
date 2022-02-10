@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdIn2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58383083
+_cell_length_b   6.58383083
+_cell_length_c   6.58383083
+_cell_angle_alpha   120.99928837
+_cell_angle_beta   119.14600652
+_cell_angle_gamma   89.88172647
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdIn2O4
+_chemical_formula_sum   'Cd2 In4 O8'
+_cell_volume   201.51178639
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.00000000  0.00000000  1
+  Cd  Cd1  1  0.50000000  0.50000000  0.50000000  1
+  In  In2  1  0.88357200  0.13357200  0.75000000  1
+  In  In3  1  0.11642800  0.86642800  0.25000000  1
+  In  In4  1  0.50000000  0.50000000  0.00000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.24800000  0.72885200  0.98085200  1
+  O  O7  1  0.24800000  0.26714800  0.51914800  1
+  O  O8  1  0.72993600  0.73473700  0.99519900  1
+  O  O9  1  0.23953800  0.73473700  0.50480100  1
+  O  O10  1  0.76046200  0.26526300  0.49519900  1
+  O  O11  1  0.27006400  0.26526300  0.00480100  1
+  O  O12  1  0.75200000  0.73285200  0.48085200  1
+  O  O13  1  0.75200000  0.27114800  0.01914800  1

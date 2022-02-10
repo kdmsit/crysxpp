@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdSbPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62690452
+_cell_length_b   4.62690452
+_cell_length_c   7.52940300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdSbPd
+_chemical_formula_sum   'Gd2 Sb2 Pd2'
+_cell_volume   139.59575645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.49803100  1
+  Gd  Gd1  1  0.00000000  0.00000000  0.99803100  1
+  Sb  Sb2  1  0.33333300  0.66666700  0.72466300  1
+  Sb  Sb3  1  0.66666700  0.33333300  0.22466300  1
+  Pd  Pd4  1  0.66666700  0.33333300  0.82209600  1
+  Pd  Pd5  1  0.33333300  0.66666700  0.32209600  1

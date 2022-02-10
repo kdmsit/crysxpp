@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLaCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54315800
+_cell_length_b   7.03929292
+_cell_length_c   10.12240464
+_cell_angle_alpha   89.05596296
+_cell_angle_beta   105.77204314
+_cell_angle_gamma   94.75279958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaCl5
+_chemical_formula_sum   'Sr2 La2 Cl10'
+_cell_volume   378.79028215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.67321100  0.74855000  0.35579400  1
+  Sr  Sr1  1  0.32678900  0.25145000  0.64420600  1
+  La  La2  1  0.91871500  0.74915700  0.84205100  1
+  La  La3  1  0.08128500  0.25084300  0.15794900  1
+  Cl  Cl4  1  0.78925500  0.89012100  0.08024900  1
+  Cl  Cl5  1  0.80452200  0.00363700  0.60802700  1
+  Cl  Cl6  1  0.62669000  0.25582900  0.25911700  1
+  Cl  Cl7  1  0.80057000  0.49010100  0.60752200  1
+  Cl  Cl8  1  0.71010000  0.38942200  0.92031200  1
+  Cl  Cl9  1  0.28990000  0.61057800  0.07968800  1
+  Cl  Cl10  1  0.19943000  0.50989900  0.39247800  1
+  Cl  Cl11  1  0.37331000  0.74417100  0.74088300  1
+  Cl  Cl12  1  0.19547800  0.99636300  0.39197300  1
+  Cl  Cl13  1  0.21074500  0.10987900  0.91975100  1

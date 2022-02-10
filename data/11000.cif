@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er3GaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07306756
+_cell_length_b   7.07306756
+_cell_length_c   5.39696300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.85626203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3GaO6
+_chemical_formula_sum   'Er6 Ga2 O12'
+_cell_volume   263.23224154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.39860500  0.60139500  0.07067900  1
+  Er  Er1  1  0.60139500  0.39860500  0.57067900  1
+  Er  Er2  1  0.91170800  0.70149000  0.02154200  1
+  Er  Er3  1  0.08829200  0.29851000  0.52154200  1
+  Er  Er4  1  0.29851000  0.08829200  0.02154200  1
+  Er  Er5  1  0.70149000  0.91170800  0.52154200  1
+  Ga  Ga6  1  0.19361300  0.80638700  0.49125200  1
+  Ga  Ga7  1  0.80638700  0.19361300  0.99125200  1
+  O  O8  1  0.21537700  0.78462300  0.83149200  1
+  O  O9  1  0.78462300  0.21537700  0.33149200  1
+  O  O10  1  0.03870200  0.96129800  0.34293300  1
+  O  O11  1  0.96129800  0.03870200  0.84293300  1
+  O  O12  1  0.67783300  0.64305800  0.29567500  1
+  O  O13  1  0.32216700  0.35694200  0.79567500  1
+  O  O14  1  0.35694200  0.32216700  0.29567500  1
+  O  O15  1  0.64305800  0.67783300  0.79567500  1
+  O  O16  1  0.57574900  0.10598600  0.80971500  1
+  O  O17  1  0.42425100  0.89401400  0.30971500  1
+  O  O18  1  0.89401400  0.42425100  0.80971500  1
+  O  O19  1  0.10598600  0.57574900  0.30971500  1

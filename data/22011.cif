@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbAg7S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55212100
+_cell_length_b   7.57357287
+_cell_length_c   7.64310583
+_cell_angle_alpha   92.19031218
+_cell_angle_beta   117.77250833
+_cell_angle_gamma   118.51631729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAg7S6
+_chemical_formula_sum   'Nb1 Ag7 S6'
+_cell_volume   320.20092862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.98160400  0.48604700  0.50450000  1
+  Ag  Ag1  1  0.88163800  0.25894700  0.88896500  1
+  Ag  Ag2  1  0.45422300  0.19641400  0.08629700  1
+  Ag  Ag3  1  0.06376500  0.71402800  0.06384800  1
+  Ag  Ag4  1  0.63457400  0.63567000  0.67608300  1
+  Ag  Ag5  1  0.08454100  0.19574600  0.30595000  1
+  Ag  Ag6  1  0.09409700  0.97324700  0.61455100  1
+  Ag  Ag7  1  0.42657800  0.01368600  0.49557300  1
+  S  S8  1  0.01574600  0.00930900  0.97875500  1
+  S  S9  1  0.52007900  0.28885800  0.77657000  1
+  S  S10  1  0.74238200  0.11240300  0.36924700  1
+  S  S11  1  0.73045700  0.60636600  0.38449200  1
+  S  S12  1  0.20674300  0.59165300  0.86012100  1
+  S  S13  1  0.24557000  0.61362500  0.38704800  1

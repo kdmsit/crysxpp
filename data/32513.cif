@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GeTe7As4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12339850
+_cell_length_b   4.12339850
+_cell_length_c   23.52967600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeTe7As4
+_chemical_formula_sum   'Ge1 Te7 As4'
+_cell_volume   346.46323919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te1  1  0.00000000  0.00000000  0.27833300  1
+  Te  Te2  1  0.00000000  0.00000000  0.72166700  1
+  Te  Te3  1  0.66666700  0.33333300  0.85407200  1
+  Te  Te4  1  0.33333300  0.66666700  0.14592800  1
+  Te  Te5  1  0.33333300  0.66666700  0.42444400  1
+  Te  Te6  1  0.66666700  0.33333300  0.57555600  1
+  Te  Te7  1  0.00000000  0.00000000  0.00000000  1
+  As  As8  1  0.66666700  0.33333300  0.07849000  1
+  As  As9  1  0.33333300  0.66666700  0.92151000  1
+  As  As10  1  0.33333300  0.66666700  0.65504300  1
+  As  As11  1  0.66666700  0.33333300  0.34495700  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlGeCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19568800
+_cell_length_b   5.74354500
+_cell_length_c   8.34712334
+_cell_angle_alpha   70.25346803
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGeCl3
+_chemical_formula_sum   'Tl2 Ge2 Cl6'
+_cell_volume   324.69041758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.65910000  0.68866700  1
+  Tl  Tl1  1  0.75000000  0.34090000  0.31133300  1
+  Ge  Ge2  1  0.25000000  0.97286800  0.12517800  1
+  Ge  Ge3  1  0.75000000  0.02713200  0.87482200  1
+  Cl  Cl4  1  0.00542000  0.83984900  0.32572600  1
+  Cl  Cl5  1  0.50542000  0.16015100  0.67427400  1
+  Cl  Cl6  1  0.75000000  0.61412200  0.87957900  1
+  Cl  Cl7  1  0.25000000  0.38587800  0.12042100  1
+  Cl  Cl8  1  0.99458000  0.16015100  0.67427400  1
+  Cl  Cl9  1  0.49458000  0.83984900  0.32572600  1

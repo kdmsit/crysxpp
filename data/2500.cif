@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba3SbN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66724033
+_cell_length_b   7.66724033
+_cell_length_c   6.75528400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3SbN
+_chemical_formula_sum   'Ba6 Sb2 N2'
+_cell_volume   343.91600260
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.68094800  0.84047400  0.25000000  1
+  Ba  Ba1  1  0.84047400  0.15952600  0.75000000  1
+  Ba  Ba2  1  0.15952600  0.31905200  0.25000000  1
+  Ba  Ba3  1  0.84047400  0.68094800  0.75000000  1
+  Ba  Ba4  1  0.31905200  0.15952600  0.75000000  1
+  Ba  Ba5  1  0.15952600  0.84047400  0.25000000  1
+  Sb  Sb6  1  0.66666700  0.33333300  0.25000000  1
+  Sb  Sb7  1  0.33333300  0.66666700  0.75000000  1
+  N  N8  1  0.00000000  0.00000000  0.50000000  1
+  N  N9  1  0.00000000  0.00000000  0.00000000  1

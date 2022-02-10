@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GaPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00549664
+_cell_length_b   5.00549664
+_cell_length_c   7.00209800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.09092743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaPO4
+_chemical_formula_sum   'Ga2 P2 O8'
+_cell_volume   175.43732045
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.81286900  0.81286900  0.00000000  1
+  Ga  Ga1  1  0.18713100  0.18713100  0.50000000  1
+  P  P2  1  0.31638700  0.68361300  0.25000000  1
+  P  P3  1  0.68361300  0.31638700  0.75000000  1
+  O  O4  1  0.83363300  0.22607700  0.56816300  1
+  O  O5  1  0.16636700  0.77392300  0.06816300  1
+  O  O6  1  0.77392300  0.16636700  0.93183700  1
+  O  O7  1  0.73277500  0.61779900  0.78488400  1
+  O  O8  1  0.22607700  0.83363300  0.43183700  1
+  O  O9  1  0.61779900  0.73277500  0.21511600  1
+  O  O10  1  0.38220100  0.26722500  0.71511600  1
+  O  O11  1  0.26722500  0.38220100  0.28488400  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35772312
+_cell_length_b   5.35772312
+_cell_length_c   5.35772249
+_cell_angle_alpha   60.48396166
+_cell_angle_beta   60.48396166
+_cell_angle_gamma   60.48396928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAlO3
+_chemical_formula_sum   'Pr2 Al2 O6'
+_cell_volume   109.93869165
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000000  0.75000000  0.75000000  1
+  Pr  Pr1  1  0.25000000  0.25000000  0.25000000  1
+  Al  Al2  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.75000000  0.29772600  0.20227400  1
+  O  O5  1  0.20227400  0.75000000  0.29772600  1
+  O  O6  1  0.29772600  0.20227400  0.75000000  1
+  O  O7  1  0.25000000  0.70227400  0.79772600  1
+  O  O8  1  0.70227400  0.79772600  0.25000000  1
+  O  O9  1  0.79772600  0.25000000  0.70227400  1

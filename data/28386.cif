@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrEu4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25826009
+_cell_length_b   6.25826009
+_cell_length_c   6.25826009
+_cell_angle_alpha   99.59561499
+_cell_angle_beta   99.59561499
+_cell_angle_gamma   131.80622269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEu4O5
+_chemical_formula_sum   'Sr1 Eu4 O5'
+_cell_volume   166.78414195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu1  1  0.80058000  0.59978500  0.40036500  1
+  Eu  Eu2  1  0.40021500  0.80058000  0.20079500  1
+  Eu  Eu3  1  0.59978500  0.19942000  0.79920500  1
+  Eu  Eu4  1  0.19942000  0.40021500  0.59963500  1
+  O  O5  1  0.50000000  0.50000000  0.00000000  1
+  O  O6  1  0.30478200  0.10235000  0.40713200  1
+  O  O7  1  0.89765000  0.30478200  0.20243200  1
+  O  O8  1  0.10235000  0.69521800  0.79756800  1
+  O  O9  1  0.69521800  0.89765000  0.59286800  1

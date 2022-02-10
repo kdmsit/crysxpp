@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79005784
+_cell_length_b   4.79005784
+_cell_length_c   4.79005804
+_cell_angle_alpha   85.84492341
+_cell_angle_beta   85.84492341
+_cell_angle_gamma   85.84493363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsClO3
+_chemical_formula_sum   'Cs1 Cl1 O3'
+_cell_volume   109.07942756
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.97491900  0.97491900  0.97491900  1
+  Cl  Cl1  1  0.48967200  0.48967200  0.48967200  1
+  O  O2  1  0.80066000  0.42938000  0.42938000  1
+  O  O3  1  0.42938000  0.80066000  0.42938000  1
+  O  O4  1  0.42938000  0.42938000  0.80066000  1

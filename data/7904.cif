@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrH2I2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66337232
+_cell_length_b   7.66337232
+_cell_length_c   8.99054962
+_cell_angle_alpha   55.77591016
+_cell_angle_beta   55.77591016
+_cell_angle_gamma   61.95568605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrH2I2O7
+_chemical_formula_sum   'Sr2 H4 I4 O14'
+_cell_volume   351.71622046
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.16001000  0.83999000  0.25000000  1
+  Sr  Sr1  1  0.83999000  0.16001000  0.75000000  1
+  H  H2  1  0.26110500  0.79372700  0.80790600  1
+  H  H3  1  0.20627300  0.73889500  0.69209400  1
+  H  H4  1  0.73889500  0.20627300  0.19209400  1
+  H  H5  1  0.79372700  0.26110500  0.30790600  1
+  I  I6  1  0.34171400  0.28615500  0.67256000  1
+  I  I7  1  0.71384500  0.65828600  0.82744000  1
+  I  I8  1  0.28615500  0.34171400  0.17256000  1
+  I  I9  1  0.65828600  0.71384500  0.32744000  1
+  O  O10  1  0.16136900  0.83863100  0.75000000  1
+  O  O11  1  0.83863100  0.16136900  0.25000000  1
+  O  O12  1  0.76405000  0.59400300  0.63677900  1
+  O  O13  1  0.40599700  0.23595000  0.86322100  1
+  O  O14  1  0.23595000  0.40599700  0.36322100  1
+  O  O15  1  0.59400300  0.76405000  0.13677900  1
+  O  O16  1  0.41371800  0.74257800  0.92967200  1
+  O  O17  1  0.25742200  0.58628200  0.57032800  1
+  O  O18  1  0.58628200  0.25742200  0.07032800  1
+  O  O19  1  0.74257800  0.41371800  0.42967200  1
+  O  O20  1  0.78039800  0.92241400  0.67199500  1
+  O  O21  1  0.07758600  0.21960200  0.82800500  1
+  O  O22  1  0.21960200  0.07758600  0.32800500  1
+  O  O23  1  0.92241400  0.78039800  0.17199500  1

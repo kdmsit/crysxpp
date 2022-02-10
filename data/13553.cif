@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_In2Ge2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61587928
+_cell_length_b   5.61587928
+_cell_length_c   5.00987122
+_cell_angle_alpha   82.50043594
+_cell_angle_beta   82.50043594
+_cell_angle_gamma   105.97106263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Ge2O7
+_chemical_formula_sum   'In2 Ge2 O7'
+_cell_volume   148.29013678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.30803600  0.69196400  0.00000000  1
+  In  In1  1  0.69196400  0.30803600  0.00000000  1
+  Ge  Ge2  1  0.23326800  0.23326800  0.59452500  1
+  Ge  Ge3  1  0.76673200  0.76673200  0.40547500  1
+  O  O4  1  0.92582100  0.59558500  0.21075900  1
+  O  O5  1  0.40441500  0.07417900  0.78924100  1
+  O  O6  1  0.07417900  0.40441500  0.78924100  1
+  O  O7  1  0.59558500  0.92582100  0.21075900  1
+  O  O8  1  0.00000000  0.00000000  0.50000000  1
+  O  O9  1  0.59042500  0.59042500  0.72554900  1
+  O  O10  1  0.40957500  0.40957500  0.27445100  1

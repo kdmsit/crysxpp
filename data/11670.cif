@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(FeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04578748
+_cell_length_b   6.04578748
+_cell_length_c   6.04578807
+_cell_angle_alpha   60.10429844
+_cell_angle_beta   60.10429844
+_cell_angle_gamma   60.10429872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(FeO2)2
+_chemical_formula_sum   'Zn2 Fe4 O8'
+_cell_volume   156.62777057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.99692200  0.99692200  0.99692200  1
+  Zn  Zn1  1  0.37442600  0.37442600  0.37442600  1
+  Fe  Fe2  1  0.75359800  0.75359800  0.75359800  1
+  Fe  Fe3  1  0.88126100  0.37349100  0.37349100  1
+  Fe  Fe4  1  0.37349100  0.37349100  0.88126100  1
+  Fe  Fe5  1  0.37349100  0.88126100  0.37349100  1
+  O  O6  1  0.62309700  0.14551200  0.62309700  1
+  O  O7  1  0.62309700  0.62309700  0.14551200  1
+  O  O8  1  0.14551200  0.62309700  0.62309700  1
+  O  O9  1  0.61926900  0.61926900  0.61926900  1
+  O  O10  1  0.13359000  0.13359000  0.13359000  1
+  O  O11  1  0.59484700  0.12870300  0.12870300  1
+  O  O12  1  0.12870300  0.12870300  0.59484700  1
+  O  O13  1  0.12870300  0.59484700  0.12870300  1

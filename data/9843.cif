@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_La3(ReO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59231774
+_cell_length_b   5.59231774
+_cell_length_c   7.22979082
+_cell_angle_alpha   72.68868382
+_cell_angle_beta   72.68868382
+_cell_angle_gamma   89.49896027
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(ReO5)2
+_chemical_formula_sum   'La3 Re2 O10'
+_cell_volume   205.29303550
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25692400  0.74307600  0.50000000  1
+  La  La1  1  0.74307600  0.25692400  0.50000000  1
+  La  La2  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re3  1  0.63332200  0.63332200  0.82533500  1
+  Re  Re4  1  0.36667800  0.36667800  0.17466500  1
+  O  O5  1  0.66652600  0.66652600  0.53121300  1
+  O  O6  1  0.33347400  0.33347400  0.46878700  1
+  O  O7  1  0.12945500  0.60490800  0.21252800  1
+  O  O8  1  0.39509200  0.87054500  0.78747200  1
+  O  O9  1  0.87054500  0.39509200  0.78747200  1
+  O  O10  1  0.35104800  0.35104800  0.90735500  1
+  O  O11  1  0.64895200  0.64895200  0.09264500  1
+  O  O12  1  0.09516400  0.09516400  0.28158700  1
+  O  O13  1  0.90483600  0.90483600  0.71841300  1
+  O  O14  1  0.60490800  0.12945500  0.21252800  1

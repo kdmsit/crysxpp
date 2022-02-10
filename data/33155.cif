@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La3NiBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41581234
+_cell_length_b   10.41581234
+_cell_length_c   10.41581234
+_cell_angle_alpha   108.12128065
+_cell_angle_beta   108.12128065
+_cell_angle_gamma   112.20620830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3NiBr3
+_chemical_formula_sum   'La12 Ni4 Br12'
+_cell_volume   868.38207424
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.38757100  0.61242900  0.00000000  1
+  La  La1  1  0.61242900  0.38757100  0.00000000  1
+  La  La2  1  0.63757100  0.13757100  0.27514300  1
+  La  La3  1  0.86242900  0.36242900  0.72485700  1
+  La  La4  1  0.40762800  0.40222200  0.26299500  1
+  La  La5  1  0.13922700  0.14463400  0.73700500  1
+  La  La6  1  0.11077300  0.34777800  0.50540600  1
+  La  La7  1  0.84237200  0.60536600  0.49459400  1
+  La  La8  1  0.59777800  0.59237200  0.73700500  1
+  La  La9  1  0.85536600  0.86077300  0.26299500  1
+  La  La10  1  0.65222200  0.88922700  0.49459400  1
+  La  La11  1  0.39463400  0.15762800  0.50540600  1
+  Ni  Ni12  1  0.62696200  0.62696200  0.25392300  1
+  Ni  Ni13  1  0.37303800  0.37303800  0.74607700  1
+  Ni  Ni14  1  0.87696200  0.12303800  0.50000000  1
+  Ni  Ni15  1  0.62303800  0.37696200  0.50000000  1
+  Br  Br16  1  0.36604000  0.63396000  0.50000000  1
+  Br  Br17  1  0.13396000  0.86604000  0.50000000  1
+  Br  Br18  1  0.11604000  0.11604000  0.23208000  1
+  Br  Br19  1  0.88396000  0.88396000  0.76792000  1
+  Br  Br20  1  0.89156500  0.63666100  0.00095300  1
+  Br  Br21  1  0.63570800  0.89061100  0.99904700  1
+  Br  Br22  1  0.61429200  0.11333900  0.75490300  1
+  Br  Br23  1  0.35843500  0.85938900  0.24509700  1
+  Br  Br24  1  0.36333900  0.10843500  0.99904700  1
+  Br  Br25  1  0.10938900  0.36429200  0.00095300  1
+  Br  Br26  1  0.88666100  0.38570800  0.24509700  1
+  Br  Br27  1  0.14061100  0.64156500  0.75490300  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce3(BN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37598536
+_cell_length_b   6.37598536
+_cell_length_c   6.37598536
+_cell_angle_alpha   148.01315746
+_cell_angle_beta   121.62388246
+_cell_angle_gamma   68.12946095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3(BN2)2
+_chemical_formula_sum   'Ce3 B2 N4'
+_cell_volume   115.40957378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.69703800  0.19703800  0.50000000  1
+  Ce  Ce1  1  0.30296200  0.80296200  0.50000000  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.00000000  1
+  B  B3  1  0.35733600  0.50000000  0.85733600  1
+  B  B4  1  0.64266400  0.50000000  0.14266400  1
+  N  N5  1  0.36043600  0.62208600  0.73835000  1
+  N  N6  1  0.88373500  0.62208600  0.26165000  1
+  N  N7  1  0.11626500  0.37791400  0.73835000  1
+  N  N8  1  0.63956400  0.37791400  0.26165000  1

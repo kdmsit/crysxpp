@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2TeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03987000
+_cell_length_b   7.68905700
+_cell_length_c   13.26051133
+_cell_angle_alpha   54.80646793
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TeBr6
+_chemical_formula_sum   'K4 Te2 Br12'
+_cell_volume   669.90933809
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.07223100  0.26685400  0.24902300  1
+  K  K1  1  0.57223100  0.73314600  0.25097700  1
+  K  K2  1  0.92776900  0.73314600  0.75097700  1
+  K  K3  1  0.42776900  0.26685400  0.74902300  1
+  Te  Te4  1  0.50000000  0.00000000  0.50000000  1
+  Te  Te5  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br6  1  0.51442700  0.83380800  0.74631100  1
+  Br  Br7  1  0.48557300  0.16619200  0.25368900  1
+  Br  Br8  1  0.81146900  0.66479200  0.04359200  1
+  Br  Br9  1  0.98557300  0.83380800  0.24631100  1
+  Br  Br10  1  0.18853100  0.33520800  0.95640800  1
+  Br  Br11  1  0.68853100  0.66479200  0.54359200  1
+  Br  Br12  1  0.28651200  0.77465100  0.03874200  1
+  Br  Br13  1  0.78651200  0.22534900  0.46125800  1
+  Br  Br14  1  0.71348800  0.22534900  0.96125800  1
+  Br  Br15  1  0.21348800  0.77465100  0.53874200  1
+  Br  Br16  1  0.31146900  0.33520800  0.45640800  1
+  Br  Br17  1  0.01442700  0.16619200  0.75368900  1

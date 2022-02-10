@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd3SiAgS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.31754022
+_cell_length_b   10.31754022
+_cell_length_c   5.78558400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3SiAgS7
+_chemical_formula_sum   'Nd6 Si2 Ag2 S14'
+_cell_volume   533.37194709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.12530200  0.35985600  0.24722900  1
+  Nd  Nd1  1  0.87469800  0.64014400  0.74722900  1
+  Nd  Nd2  1  0.64014400  0.76544600  0.24722900  1
+  Nd  Nd3  1  0.23455400  0.87469800  0.24722900  1
+  Nd  Nd4  1  0.76544600  0.12530200  0.74722900  1
+  Nd  Nd5  1  0.35985600  0.23455400  0.74722900  1
+  Si  Si6  1  0.33333300  0.66666700  0.65933400  1
+  Si  Si7  1  0.66666700  0.33333300  0.15933400  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.31336000  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.81336000  1
+  S  S10  1  0.33333300  0.66666700  0.02538200  1
+  S  S11  1  0.66666700  0.33333300  0.52538200  1
+  S  S12  1  0.41011400  0.52508300  0.51354900  1
+  S  S13  1  0.58988600  0.47491700  0.01354900  1
+  S  S14  1  0.47491700  0.88503100  0.51354900  1
+  S  S15  1  0.11496900  0.58988600  0.51354900  1
+  S  S16  1  0.88503100  0.41011400  0.01354900  1
+  S  S17  1  0.52508300  0.11496900  0.01354900  1
+  S  S18  1  0.09377200  0.26936000  0.76532500  1
+  S  S19  1  0.90622800  0.73064000  0.26532500  1
+  S  S20  1  0.73064000  0.82441200  0.76532500  1
+  S  S21  1  0.17558800  0.90622800  0.76532500  1
+  S  S22  1  0.82441200  0.09377200  0.26532500  1
+  S  S23  1  0.26936000  0.17558800  0.26532500  1

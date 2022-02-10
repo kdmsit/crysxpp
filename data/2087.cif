@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2GeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18004200
+_cell_length_b   7.21877500
+_cell_length_c   9.26415288
+_cell_angle_alpha   71.48625725
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2GeSe4
+_chemical_formula_sum   'Ba4 Ge2 Se8'
+_cell_volume   455.32125002
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.27402800  0.92934400  1
+  Ba  Ba1  1  0.75000000  0.72597200  0.07065600  1
+  Ba  Ba2  1  0.25000000  0.22123300  0.45028900  1
+  Ba  Ba3  1  0.75000000  0.77876700  0.54971100  1
+  Ge  Ge4  1  0.75000000  0.21190000  0.70706900  1
+  Ge  Ge5  1  0.25000000  0.78810000  0.29293100  1
+  Se  Se6  1  0.00861700  0.99613400  0.76816500  1
+  Se  Se7  1  0.50861700  0.00386600  0.23183500  1
+  Se  Se8  1  0.99138300  0.00386600  0.23183500  1
+  Se  Se9  1  0.49138300  0.99613400  0.76816500  1
+  Se  Se10  1  0.75000000  0.37358200  0.43888800  1
+  Se  Se11  1  0.25000000  0.62641800  0.56111200  1
+  Se  Se12  1  0.75000000  0.41188100  0.86932400  1
+  Se  Se13  1  0.25000000  0.58811900  0.13067600  1

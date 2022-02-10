@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho6MnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28979383
+_cell_length_b   8.28979383
+_cell_length_c   4.26818300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho6MnBi2
+_chemical_formula_sum   'Ho6 Mn1 Bi2'
+_cell_volume   254.01603259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.23266800  0.00000000  0.00000000  1
+  Ho  Ho1  1  0.00000000  0.60745700  0.50000000  1
+  Ho  Ho2  1  0.39254300  0.39254300  0.50000000  1
+  Ho  Ho3  1  0.76733200  0.76733200  0.00000000  1
+  Ho  Ho4  1  0.00000000  0.23266800  0.00000000  1
+  Ho  Ho5  1  0.60745700  0.00000000  0.50000000  1
+  Mn  Mn6  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi7  1  0.33333300  0.66666700  0.00000000  1
+  Bi  Bi8  1  0.66666700  0.33333300  0.00000000  1

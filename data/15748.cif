@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb2Be2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19992600
+_cell_length_b   8.43910100
+_cell_length_c   9.01388700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Be2Si2O7
+_chemical_formula_sum   'Rb4 Be4 Si4 O14'
+_cell_volume   395.55370542
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.00000000  0.44097200  1
+  Rb  Rb1  1  0.00000000  0.00000000  0.00173900  1
+  Rb  Rb2  1  0.00000000  0.50000000  0.94097200  1
+  Rb  Rb3  1  0.50000000  0.50000000  0.50173900  1
+  Be  Be4  1  0.50451600  0.24079300  0.81197600  1
+  Be  Be5  1  0.99548400  0.74079300  0.31197600  1
+  Be  Be6  1  0.00451600  0.25920700  0.31197600  1
+  Be  Be7  1  0.49548400  0.75920700  0.81197600  1
+  Si  Si8  1  0.99629600  0.80374800  0.64191800  1
+  Si  Si9  1  0.00370400  0.19625200  0.64191800  1
+  Si  Si10  1  0.50370400  0.30374800  0.14191800  1
+  Si  Si11  1  0.49629600  0.69625200  0.14191800  1
+  O  O12  1  0.28099200  0.74704800  0.69506300  1
+  O  O13  1  0.07368000  0.26453100  0.47780100  1
+  O  O14  1  0.27875400  0.74658500  0.26315200  1
+  O  O15  1  0.72124600  0.25341500  0.26315200  1
+  O  O16  1  0.71900800  0.25295200  0.69506300  1
+  O  O17  1  0.00000000  0.00000000  0.62827000  1
+  O  O18  1  0.77875400  0.75341500  0.76315200  1
+  O  O19  1  0.92632000  0.73546900  0.47780100  1
+  O  O20  1  0.50000000  0.50000000  0.12827000  1
+  O  O21  1  0.57368000  0.23546900  0.97780100  1
+  O  O22  1  0.21900800  0.24704800  0.19506300  1
+  O  O23  1  0.22124600  0.24658500  0.76315200  1
+  O  O24  1  0.42632000  0.76453100  0.97780100  1
+  O  O25  1  0.78099200  0.75295200  0.19506300  1

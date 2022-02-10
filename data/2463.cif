@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn2CuAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50281100
+_cell_length_b   4.69727100
+_cell_length_c   5.56108700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2CuAu
+_chemical_formula_sum   'Zn4 Cu2 Au2'
+_cell_volume   117.62212587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.81882000  0.74961800  1
+  Zn  Zn1  1  0.50000000  0.81882000  0.25038200  1
+  Zn  Zn2  1  0.00000000  0.18118000  0.24961800  1
+  Zn  Zn3  1  0.00000000  0.18118000  0.75038200  1
+  Cu  Cu4  1  0.00000000  0.68602500  0.50000000  1
+  Cu  Cu5  1  0.50000000  0.31397500  0.00000000  1
+  Au  Au6  1  0.50000000  0.32207500  0.50000000  1
+  Au  Au7  1  0.00000000  0.67792500  0.00000000  1

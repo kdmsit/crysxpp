@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sn5(BIr3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71464016
+_cell_length_b   6.71464016
+_cell_length_c   5.65222200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn5(BIr3)2
+_chemical_formula_sum   'Sn5 B2 Ir6'
+_cell_volume   220.69643761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.66666700  0.33333300  0.50000000  1
+  Sn  Sn1  1  0.00000000  0.59592100  0.00000000  1
+  Sn  Sn2  1  0.40407900  0.40407900  0.00000000  1
+  Sn  Sn3  1  0.59592100  0.00000000  0.00000000  1
+  Sn  Sn4  1  0.33333300  0.66666700  0.50000000  1
+  B  B5  1  0.00000000  0.00000000  0.50000000  1
+  B  B6  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir7  1  0.00000000  0.25224100  0.74549700  1
+  Ir  Ir8  1  0.00000000  0.25224100  0.25450300  1
+  Ir  Ir9  1  0.74775900  0.74775900  0.25450300  1
+  Ir  Ir10  1  0.25224100  0.00000000  0.74549700  1
+  Ir  Ir11  1  0.25224100  0.00000000  0.25450300  1
+  Ir  Ir12  1  0.74775900  0.74775900  0.74549700  1

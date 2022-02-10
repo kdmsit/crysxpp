@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NbBi3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84864500
+_cell_length_b   3.84849377
+_cell_length_c   12.85538851
+_cell_angle_alpha   82.09902647
+_cell_angle_beta   81.79275173
+_cell_angle_gamma   62.30288737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbBi3O7
+_chemical_formula_sum   'Nb1 Bi3 O7'
+_cell_volume   166.31306227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.53465600  0.44848300  0.49441000  1
+  Bi  Bi1  1  0.94905800  0.02530900  0.00265700  1
+  Bi  Bi2  1  0.70103500  0.79795800  0.72595900  1
+  Bi  Bi3  1  0.19016700  0.28188000  0.26285200  1
+  O  O4  1  0.37422600  0.48937500  0.64913200  1
+  O  O5  1  0.98903300  0.11433400  0.81062400  1
+  O  O6  1  0.11465300  0.23940600  0.45473900  1
+  O  O7  1  0.74147100  0.86841000  0.53457800  1
+  O  O8  1  0.87683800  0.97650100  0.18523600  1
+  O  O9  1  0.49567100  0.60361700  0.34076800  1
+  O  O10  1  0.28469300  0.35822700  0.01654500  1

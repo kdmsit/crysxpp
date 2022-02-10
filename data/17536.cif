@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_In6Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13432700
+_cell_length_b   9.61999400
+_cell_length_c   18.02767185
+_cell_angle_alpha   79.08912349
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In6Se7
+_chemical_formula_sum   'In12 Se14'
+_cell_volume   704.03883059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.74333700  0.47364700  0.72799900  1
+  In  In1  1  0.74856200  0.32830100  0.53376100  1
+  In  In2  1  0.25297700  0.98434100  0.60397100  1
+  In  In3  1  0.75471300  0.64733400  0.04696000  1
+  In  In4  1  0.25421500  0.93122100  0.12423400  1
+  In  In5  1  0.75421500  0.06877900  0.87576600  1
+  In  In6  1  0.24856200  0.67169900  0.46623900  1
+  In  In7  1  0.75297700  0.01565900  0.39602900  1
+  In  In8  1  0.75498700  0.81923600  0.81307000  1
+  In  In9  1  0.25498700  0.18076400  0.18693000  1
+  In  In10  1  0.25471300  0.35266600  0.95304000  1
+  In  In11  1  0.24333700  0.52635300  0.27200100  1
+  Se  Se12  1  0.75409300  0.24071400  0.27312800  1
+  Se  Se13  1  0.25364200  0.24616300  0.82037000  1
+  Se  Se14  1  0.24653400  0.47014100  0.59265200  1
+  Se  Se15  1  0.75567900  0.55609600  0.90814300  1
+  Se  Se16  1  0.25409300  0.75928600  0.72687200  1
+  Se  Se17  1  0.75122300  0.12089600  0.65810500  1
+  Se  Se18  1  0.75364200  0.75383700  0.17963000  1
+  Se  Se19  1  0.74653400  0.52985900  0.40734800  1
+  Se  Se20  1  0.75313300  0.16418200  0.00617200  1
+  Se  Se21  1  0.25122300  0.87910400  0.34189500  1
+  Se  Se22  1  0.25567900  0.44390400  0.09185700  1
+  Se  Se23  1  0.74180500  0.83086200  0.53199300  1
+  Se  Se24  1  0.24180500  0.16913800  0.46800700  1
+  Se  Se25  1  0.25313300  0.83581800  0.99382800  1

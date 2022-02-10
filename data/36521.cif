@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MnInF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30914700
+_cell_length_b   4.31111122
+_cell_length_c   4.31322107
+_cell_angle_alpha   89.79987100
+_cell_angle_beta   89.52549878
+_cell_angle_gamma   89.92994703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInF3
+_chemical_formula_sum   'Mn1 In1 F3'
+_cell_volume   80.12432855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.48747700  0.49851000  0.49493700  1
+  In  In1  1  0.99604400  0.99646600  0.99061400  1
+  F  F2  1  0.48276100  0.99927400  0.49929000  1
+  F  F3  1  0.98660000  0.50556100  0.50858600  1
+  F  F4  1  0.48711800  0.50018400  0.99657500  1

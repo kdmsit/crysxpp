@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59151391
+_cell_length_b   8.59151391
+_cell_length_c   8.59151368
+_cell_angle_alpha   33.52486956
+_cell_angle_beta   33.52486956
+_cell_angle_gamma   33.52487412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCo3
+_chemical_formula_sum   'Ho3 Co9'
+_cell_volume   172.29680512
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho1  1  0.86027200  0.86027200  0.86027200  1
+  Ho  Ho2  1  0.13972800  0.13972800  0.13972800  1
+  Co  Co3  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co4  1  0.66508300  0.66508300  0.66508300  1
+  Co  Co5  1  0.33491700  0.33491700  0.33491700  1
+  Co  Co6  1  0.41730000  0.92133100  0.41730000  1
+  Co  Co7  1  0.41730000  0.41730000  0.92133100  1
+  Co  Co8  1  0.92133100  0.41730000  0.41730000  1
+  Co  Co9  1  0.58270000  0.07866900  0.58270000  1
+  Co  Co10  1  0.58270000  0.58270000  0.07866900  1
+  Co  Co11  1  0.07866900  0.58270000  0.58270000  1

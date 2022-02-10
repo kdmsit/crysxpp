@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3In2Br2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.60382163
+_cell_length_b   13.60382163
+_cell_length_c   13.60382163
+_cell_angle_alpha   161.69921055
+_cell_angle_beta   161.69921055
+_cell_angle_gamma   25.99369214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3In2Br2O5
+_chemical_formula_sum   'Ba3 In2 Br2 O5'
+_cell_volume   248.14822591
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.65429500  0.65429500  0.00000000  1
+  Ba  Ba1  1  0.34570500  0.34570500  0.00000000  1
+  Ba  Ba2  1  0.50000000  0.50000000  0.00000000  1
+  In  In3  1  0.92091600  0.92091600  0.00000000  1
+  In  In4  1  0.07908400  0.07908400  0.00000000  1
+  Br  Br5  1  0.79555200  0.79555200  0.00000000  1
+  Br  Br6  1  0.20444800  0.20444800  0.00000000  1
+  O  O7  1  0.41004300  0.91004300  0.50000000  1
+  O  O8  1  0.08995700  0.58995700  0.50000000  1
+  O  O9  1  0.91004300  0.41004300  0.50000000  1
+  O  O10  1  0.58995700  0.08995700  0.50000000  1
+  O  O11  1  0.00000000  0.00000000  0.00000000  1

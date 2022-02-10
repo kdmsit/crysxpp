@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CeU5O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65520658
+_cell_length_b   6.65520658
+_cell_length_c   6.65455686
+_cell_angle_alpha   80.40553513
+_cell_angle_beta   80.40553513
+_cell_angle_gamma   119.99765964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeU5O12
+_chemical_formula_sum   'Ce1 U5 O12'
+_cell_volume   240.66145067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.50000000  0.50000000  1
+  U  U1  1  0.83330100  0.16669900  0.50000000  1
+  U  U2  1  0.16669900  0.83330100  0.50000000  1
+  U  U3  1  0.66663500  0.33336500  0.00000000  1
+  U  U4  1  0.00000000  0.00000000  0.00000000  1
+  U  U5  1  0.33336500  0.66663500  0.00000000  1
+  O  O6  1  0.11565800  0.11565800  0.62927400  1
+  O  O7  1  0.70775200  0.04216200  0.87667100  1
+  O  O8  1  0.95783800  0.29224800  0.12332900  1
+  O  O9  1  0.37076100  0.37076100  0.88422800  1
+  O  O10  1  0.04216200  0.70775200  0.87667100  1
+  O  O11  1  0.54281200  0.20198200  0.37076300  1
+  O  O12  1  0.88434200  0.88434200  0.37072600  1
+  O  O13  1  0.45718800  0.79801800  0.62923700  1
+  O  O14  1  0.62923900  0.62923900  0.11577200  1
+  O  O15  1  0.29224800  0.95783800  0.12332900  1
+  O  O16  1  0.79801800  0.45718800  0.62923700  1
+  O  O17  1  0.20198200  0.54281200  0.37076300  1

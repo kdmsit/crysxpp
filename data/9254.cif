@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3Al2As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07658900
+_cell_length_b   7.66407100
+_cell_length_c   10.58522639
+_cell_angle_alpha   69.85114753
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Al2As3
+_chemical_formula_sum   'K6 Al4 As6'
+_cell_volume   462.79965653
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.43292400  0.42702100  1
+  K  K1  1  0.75000000  0.12650800  0.92241600  1
+  K  K2  1  0.75000000  0.47639900  0.14964700  1
+  K  K3  1  0.25000000  0.52360100  0.85035300  1
+  K  K4  1  0.75000000  0.56707600  0.57297900  1
+  K  K5  1  0.25000000  0.87349200  0.07758400  1
+  Al  Al6  1  0.99947000  0.02796200  0.34281300  1
+  Al  Al7  1  0.49947000  0.97203800  0.65718700  1
+  Al  Al8  1  0.50053000  0.02796200  0.34281300  1
+  Al  Al9  1  0.00053000  0.97203800  0.65718700  1
+  As  As10  1  0.25000000  0.81170400  0.52937200  1
+  As  As11  1  0.75000000  0.18829600  0.47062800  1
+  As  As12  1  0.25000000  0.25336400  0.18178700  1
+  As  As13  1  0.75000000  0.74663600  0.81821300  1
+  As  As14  1  0.25000000  0.15385700  0.74809200  1
+  As  As15  1  0.75000000  0.84614300  0.25190800  1

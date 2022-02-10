@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaTcN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39894041
+_cell_length_b   7.39894041
+_cell_length_c   6.23939658
+_cell_angle_alpha   74.76614251
+_cell_angle_beta   74.76614251
+_cell_angle_gamma   84.13079003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTcN3
+_chemical_formula_sum   'Ca4 Tc4 N12'
+_cell_volume   317.78610761
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.30422000  0.69578000  0.25000000  1
+  Ca  Ca1  1  0.08616000  0.91384000  0.75000000  1
+  Ca  Ca2  1  0.91384000  0.08616000  0.25000000  1
+  Ca  Ca3  1  0.69578000  0.30422000  0.75000000  1
+  Tc  Tc4  1  0.79987000  0.62189000  0.26961000  1
+  Tc  Tc5  1  0.62189000  0.79987000  0.76961000  1
+  Tc  Tc6  1  0.37811000  0.20013000  0.23039000  1
+  Tc  Tc7  1  0.20013000  0.37811000  0.73039000  1
+  N  N8  1  0.65358000  0.64828000  0.55533000  1
+  N  N9  1  0.22772000  0.00754000  0.33799000  1
+  N  N10  1  0.64828000  0.65358000  0.05533000  1
+  N  N11  1  0.35172000  0.34642000  0.94467000  1
+  N  N12  1  0.61068000  0.12156000  0.17025000  1
+  N  N13  1  0.00754000  0.22772000  0.83799000  1
+  N  N14  1  0.34642000  0.35172000  0.44467000  1
+  N  N15  1  0.99246000  0.77228000  0.16201000  1
+  N  N16  1  0.77228000  0.99246000  0.66201000  1
+  N  N17  1  0.12156000  0.61068000  0.67025000  1
+  N  N18  1  0.38932000  0.87844000  0.82975000  1
+  N  N19  1  0.87844000  0.38932000  0.32975000  1

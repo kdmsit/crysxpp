@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaWN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88798800
+_cell_length_b   5.86834800
+_cell_length_c   8.03688932
+_cell_angle_alpha   70.69538916
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaWN3
+_chemical_formula_sum   'La2 W2 N6'
+_cell_volume   173.06009335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.24365100  0.81403100  1
+  La  La1  1  0.75000000  0.75634900  0.18596900  1
+  W  W2  1  0.25000000  0.14279400  0.33141600  1
+  W  W3  1  0.75000000  0.85720600  0.66858400  1
+  N  N4  1  0.25000000  0.04138600  0.13355600  1
+  N  N5  1  0.75000000  0.95861400  0.86644400  1
+  N  N6  1  0.25000000  0.97497900  0.60938500  1
+  N  N7  1  0.75000000  0.02502100  0.39061500  1
+  N  N8  1  0.25000000  0.46920700  0.26097000  1
+  N  N9  1  0.75000000  0.53079300  0.73903000  1

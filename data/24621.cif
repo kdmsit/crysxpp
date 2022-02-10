@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr2CuH2(SeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81450500
+_cell_length_b   7.15799433
+_cell_length_c   9.01084779
+_cell_angle_alpha   72.85723440
+_cell_angle_beta   71.32818420
+_cell_angle_gamma   80.93628719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuH2(SeO3)4
+_chemical_formula_sum   'Sr2 Cu1 H2 Se4 O12'
+_cell_volume   338.68233864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.10599000  0.20632500  0.57989100  1
+  Sr  Sr1  1  0.89401000  0.79367500  0.42010900  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  H  H3  1  0.30781600  0.82536900  0.14125300  1
+  H  H4  1  0.69218400  0.17463100  0.85874700  1
+  Se  Se5  1  0.45810600  0.12295100  0.20736400  1
+  Se  Se6  1  0.20163600  0.55996300  0.77212600  1
+  Se  Se7  1  0.79836400  0.44003700  0.22787400  1
+  Se  Se8  1  0.54189400  0.87704900  0.79263600  1
+  O  O9  1  0.15155400  0.79695300  0.14018100  1
+  O  O10  1  0.15435300  0.55459000  0.59633300  1
+  O  O11  1  0.97767400  0.70252000  0.85946300  1
+  O  O12  1  0.54486000  0.24764500  0.33161400  1
+  O  O13  1  0.31314800  0.06279200  0.81493200  1
+  O  O14  1  0.24616600  0.00103700  0.36987800  1
+  O  O15  1  0.75383400  0.99896300  0.63012200  1
+  O  O16  1  0.68685200  0.93720800  0.18506800  1
+  O  O17  1  0.45514000  0.75235500  0.66838600  1
+  O  O18  1  0.02232600  0.29748000  0.14053700  1
+  O  O19  1  0.84564700  0.44541000  0.40366700  1
+  O  O20  1  0.84844600  0.20304700  0.85981900  1

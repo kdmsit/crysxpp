@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Hf3Al3C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32810434
+_cell_length_b   3.32810434
+_cell_length_c   27.50273100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000671
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Al3C5
+_chemical_formula_sum   'Hf6 Al6 C10'
+_cell_volume   263.81548879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33333300  0.66666700  0.59420200  1
+  Hf  Hf1  1  0.33333300  0.66666700  0.90579800  1
+  Hf  Hf2  1  0.66666700  0.33333300  0.09420200  1
+  Hf  Hf3  1  0.66666700  0.33333300  0.40579800  1
+  Hf  Hf4  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf5  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al6  1  0.66666700  0.33333300  0.82386200  1
+  Al  Al7  1  0.33333300  0.66666700  0.32386200  1
+  Al  Al8  1  0.00000000  0.00000000  0.75000000  1
+  Al  Al9  1  0.33333300  0.66666700  0.17613800  1
+  Al  Al10  1  0.66666700  0.33333300  0.67613800  1
+  Al  Al11  1  0.00000000  0.00000000  0.25000000  1
+  C  C12  1  0.33333300  0.66666700  0.04950600  1
+  C  C13  1  0.00000000  0.00000000  0.84948600  1
+  C  C14  1  0.00000000  0.00000000  0.34948600  1
+  C  C15  1  0.66666700  0.33333300  0.95049400  1
+  C  C16  1  0.66666700  0.33333300  0.54950600  1
+  C  C17  1  0.33333300  0.66666700  0.45049400  1
+  C  C18  1  0.00000000  0.00000000  0.65051400  1
+  C  C19  1  0.00000000  0.00000000  0.15051400  1
+  C  C20  1  0.66666700  0.33333300  0.75000000  1
+  C  C21  1  0.33333300  0.66666700  0.25000000  1

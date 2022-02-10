@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hf3(NiGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49174418
+_cell_length_b   7.49174418
+_cell_length_c   7.49174418
+_cell_angle_alpha   149.68595092
+_cell_angle_beta   128.38579750
+_cell_angle_gamma   61.03827057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3(NiGe)4
+_chemical_formula_sum   'Hf3 Ni4 Ge4'
+_cell_volume   164.92595396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.12734600  0.62734600  0.50000000  1
+  Hf  Hf1  1  0.87265400  0.37265400  0.50000000  1
+  Hf  Hf2  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.12274400  0.82286200  0.29988200  1
+  Ni  Ni4  1  0.87725600  0.17713800  0.70011800  1
+  Ni  Ni5  1  0.52298000  0.82286200  0.70011800  1
+  Ni  Ni6  1  0.47702000  0.17713800  0.29988200  1
+  Ge  Ge7  1  0.71336600  0.71336600  0.00000000  1
+  Ge  Ge8  1  0.20031700  0.00000000  0.20031700  1
+  Ge  Ge9  1  0.79968300  0.00000000  0.79968300  1
+  Ge  Ge10  1  0.28663400  0.28663400  0.00000000  1

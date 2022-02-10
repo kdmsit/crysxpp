@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CuAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   20.43527899
+_cell_length_b   20.43527899
+_cell_length_c   20.43527899
+_cell_angle_alpha   169.71634798
+_cell_angle_beta   168.63658328
+_cell_angle_gamma   15.34861145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAu
+_chemical_formula_sum   'Cu10 Au10'
+_cell_volume   300.15821006
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.97693000  0.22693000  0.75000000  1
+  Cu  Cu1  1  0.87483200  0.12483200  0.75000000  1
+  Cu  Cu2  1  0.42488500  0.17488500  0.25000000  1
+  Cu  Cu3  1  0.67551500  0.92551500  0.75000000  1
+  Cu  Cu4  1  0.77509400  0.02509400  0.75000000  1
+  Cu  Cu5  1  0.02307000  0.77307000  0.25000000  1
+  Cu  Cu6  1  0.12516800  0.87516800  0.25000000  1
+  Cu  Cu7  1  0.57511500  0.82511500  0.75000000  1
+  Cu  Cu8  1  0.32448500  0.07448500  0.25000000  1
+  Cu  Cu9  1  0.22490600  0.97490600  0.25000000  1
+  Au  Au10  1  0.52668500  0.27668500  0.25000000  1
+  Au  Au11  1  0.92456800  0.67456800  0.25000000  1
+  Au  Au12  1  0.62586100  0.37586100  0.25000000  1
+  Au  Au13  1  0.37413900  0.62413900  0.75000000  1
+  Au  Au14  1  0.72539400  0.47539400  0.25000000  1
+  Au  Au15  1  0.27460600  0.52460600  0.75000000  1
+  Au  Au16  1  0.07543200  0.32543200  0.75000000  1
+  Au  Au17  1  0.82479500  0.57479500  0.25000000  1
+  Au  Au18  1  0.17520500  0.42520500  0.75000000  1
+  Au  Au19  1  0.47331500  0.72331500  0.75000000  1

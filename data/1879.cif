@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ni3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23580300
+_cell_length_b   4.46213600
+_cell_length_c   5.02450700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni3Mo
+_chemical_formula_sum   'Ni6 Mo2'
+_cell_volume   94.96684544
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50000000  0.15949400  0.75114700  1
+  Ni  Ni1  1  0.50000000  0.15949400  0.24885300  1
+  Ni  Ni2  1  0.00000000  0.84050600  0.74885300  1
+  Ni  Ni3  1  0.00000000  0.84050600  0.25114700  1
+  Ni  Ni4  1  0.00000000  0.33779500  0.50000000  1
+  Ni  Ni5  1  0.50000000  0.66220500  0.00000000  1
+  Mo  Mo6  1  0.50000000  0.65700800  0.50000000  1
+  Mo  Mo7  1  0.00000000  0.34299200  0.00000000  1

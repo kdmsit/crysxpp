@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbUAgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72451422
+_cell_length_b   7.72451422
+_cell_length_c   10.53495000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.06578606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbUAgS3
+_chemical_formula_sum   'Rb2 U2 Ag2 S6'
+_cell_volume   323.13440096
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.26195000  0.73805000  0.25000000  1
+  Rb  Rb1  1  0.73805000  0.26195000  0.75000000  1
+  U  U2  1  0.00000000  0.00000000  0.00000000  1
+  U  U3  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag4  1  0.45298200  0.54701800  0.75000000  1
+  Ag  Ag5  1  0.54701800  0.45298200  0.25000000  1
+  S  S6  1  0.61881500  0.38118500  0.03713400  1
+  S  S7  1  0.38118500  0.61881500  0.96286600  1
+  S  S8  1  0.38118500  0.61881500  0.53713400  1
+  S  S9  1  0.94366200  0.05633800  0.25000000  1
+  S  S10  1  0.05633800  0.94366200  0.75000000  1
+  S  S11  1  0.61881500  0.38118500  0.46286600  1

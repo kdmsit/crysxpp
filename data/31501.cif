@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_RbLaO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94613881
+_cell_length_b   6.94613881
+_cell_length_c   6.94613878
+_cell_angle_alpha   31.38026939
+_cell_angle_beta   31.38026939
+_cell_angle_gamma   31.38027192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLaO2
+_chemical_formula_sum   'Rb1 La1 O2'
+_cell_volume   80.66148619
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1
+  La  La1  1  0.50000000  0.50000000  0.50000000  1
+  O  O2  1  0.77317900  0.77317900  0.77317900  1
+  O  O3  1  0.22682100  0.22682100  0.22682100  1

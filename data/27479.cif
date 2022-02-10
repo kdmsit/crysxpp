@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr4Cu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52678600
+_cell_length_b   6.78093600
+_cell_length_c   10.89271643
+_cell_angle_alpha   66.25077859
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Cu2O7
+_chemical_formula_sum   'Sr8 Cu4 O14'
+_cell_volume   373.65431137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.76502600  0.28747300  0.56027700  1
+  Sr  Sr1  1  0.72646200  0.71269000  0.20467000  1
+  Sr  Sr2  1  0.73497400  0.28747300  0.06027700  1
+  Sr  Sr3  1  0.22646200  0.28731000  0.29533000  1
+  Sr  Sr4  1  0.23497400  0.71252700  0.43972300  1
+  Sr  Sr5  1  0.77353800  0.71269000  0.70467000  1
+  Sr  Sr6  1  0.27353800  0.28731000  0.79533000  1
+  Sr  Sr7  1  0.26502600  0.71252700  0.93972300  1
+  Cu  Cu8  1  0.74631700  0.99966100  0.38269500  1
+  Cu  Cu9  1  0.25368300  0.00033900  0.61730500  1
+  Cu  Cu10  1  0.75368300  0.99966100  0.88269500  1
+  Cu  Cu11  1  0.24631700  0.00033900  0.11730500  1
+  O  O12  1  0.73110600  0.31027300  0.31044800  1
+  O  O13  1  0.73742600  0.68911100  0.46528400  1
+  O  O14  1  0.49436600  0.99963000  0.27523200  1
+  O  O15  1  0.00000000  0.00000000  0.50000000  1
+  O  O16  1  0.50000000  0.00000000  0.00000000  1
+  O  O17  1  0.99436600  0.00037000  0.22476800  1
+  O  O18  1  0.26257400  0.31088900  0.53471600  1
+  O  O19  1  0.50563400  0.00037000  0.72476800  1
+  O  O20  1  0.23110600  0.68972700  0.18955200  1
+  O  O21  1  0.76257400  0.68911100  0.96528400  1
+  O  O22  1  0.76889400  0.31027300  0.81044800  1
+  O  O23  1  0.23742600  0.31088900  0.03471600  1
+  O  O24  1  0.26889400  0.68972700  0.68955200  1
+  O  O25  1  0.00563400  0.99963000  0.77523200  1

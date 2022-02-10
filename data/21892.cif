@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K4CO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37121600
+_cell_length_b   5.80053792
+_cell_length_c   7.39656925
+_cell_angle_alpha   91.16341537
+_cell_angle_beta   93.46136977
+_cell_angle_gamma   109.97496536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4CO6
+_chemical_formula_sum   'K4 C1 O6'
+_cell_volume   215.98288633
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.65134600  0.45014200  0.76906000  1
+  K  K1  1  0.06792800  0.05710400  0.00456100  1
+  K  K2  1  0.03519800  0.07166600  0.48097300  1
+  K  K3  1  0.32591100  0.68463100  0.28492900  1
+  C  C4  1  0.72042400  0.41542300  0.24750700  1
+  O  O5  1  0.88375300  0.30128800  0.21705500  1
+  O  O6  1  0.42647000  0.83327100  0.64782500  1
+  O  O7  1  0.12877100  0.37829000  0.75805200  1
+  O  O8  1  0.79788000  0.65498300  0.23386000  1
+  O  O9  1  0.48050200  0.29338900  0.29146000  1
+  O  O10  1  0.64400100  0.93550800  0.75921800  1

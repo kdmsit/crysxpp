@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sc5Cu5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82982000
+_cell_length_b   6.00210724
+_cell_length_c   8.80624802
+_cell_angle_alpha   71.20366875
+_cell_angle_beta   70.70068053
+_cell_angle_gamma   80.74370479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc5Cu5O13
+_chemical_formula_sum   'Sc5 Cu5 O13'
+_cell_volume   274.80539763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.70025600  0.46212200  0.11048500  1
+  Sc  Sc1  1  0.10160700  0.50799500  0.29705000  1
+  Sc  Sc2  1  0.49769300  0.50502700  0.49985900  1
+  Sc  Sc3  1  0.89846300  0.54741200  0.69114900  1
+  Sc  Sc4  1  0.30215500  0.46145000  0.90355300  1
+  Cu  Cu5  1  0.43073900  0.00010900  0.17416100  1
+  Cu  Cu6  1  0.78790700  0.00317400  0.40941300  1
+  Cu  Cu7  1  0.19689000  0.00911600  0.60533200  1
+  Cu  Cu8  1  0.59539400  0.99594300  0.79528100  1
+  Cu  Cu9  1  0.99828100  0.99989800  0.01350600  1
+  O  O10  1  0.72554300  0.05204500  0.20546700  1
+  O  O11  1  0.01251600  0.66445400  0.06485900  1
+  O  O12  1  0.35728400  0.32422100  0.14501200  1
+  O  O13  1  0.78177000  0.32896000  0.34954400  1
+  O  O14  1  0.42780100  0.66943800  0.26048000  1
+  O  O15  1  0.82148900  0.67998000  0.45270800  1
+  O  O16  1  0.18170300  0.33867900  0.53571400  1
+  O  O17  1  0.86037900  0.94805500  0.61343800  1
+  O  O18  1  0.24747600  0.67974700  0.66726700  1
+  O  O19  1  0.60238800  0.33029900  0.72195100  1
+  O  O20  1  0.33366300  0.04711900  0.97460600  1
+  O  O21  1  0.96753700  0.33473500  0.91886500  1
+  O  O22  1  0.60089400  0.66329900  0.87958500  1

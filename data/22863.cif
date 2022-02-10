@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KGeNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29117500
+_cell_length_b   5.81047000
+_cell_length_c   8.19225000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGeNO
+_chemical_formula_sum   'K4 Ge4 N4 O4'
+_cell_volume   251.86428388
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.02293500  0.04395900  0.63886100  1
+  K  K1  1  0.52293500  0.45604100  0.63886100  1
+  K  K2  1  0.52293500  0.95604100  0.36113900  1
+  K  K3  1  0.02293500  0.54395900  0.36113900  1
+  Ge  Ge4  1  0.99355400  0.09019300  0.09471800  1
+  Ge  Ge5  1  0.49355400  0.90980700  0.90528200  1
+  Ge  Ge6  1  0.49355400  0.40980700  0.09471800  1
+  Ge  Ge7  1  0.99355400  0.59019300  0.90528200  1
+  N  N8  1  0.64825700  0.62675500  0.95760200  1
+  N  N9  1  0.14825700  0.37324500  0.04239800  1
+  N  N10  1  0.14825700  0.87324500  0.95760200  1
+  N  N11  1  0.64825700  0.12675500  0.04239800  1
+  O  O12  1  0.52725300  0.97262100  0.69667300  1
+  O  O13  1  0.52725300  0.47262100  0.30332700  1
+  O  O14  1  0.02725300  0.52737900  0.69667300  1
+  O  O15  1  0.02725300  0.02737900  0.30332700  1

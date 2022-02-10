@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba(GeRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34069260
+_cell_length_b   7.18730655
+_cell_length_c   6.23273271
+_cell_angle_alpha   76.48547755
+_cell_angle_beta   56.91435413
+_cell_angle_gamma   46.60016831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(GeRu)2
+_chemical_formula_sum   'Ba2 Ge4 Ru4'
+_cell_volume   221.23675607
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.50000000  1
+  Ba  Ba1  1  0.75000000  0.75000000  0.75000000  1
+  Ge  Ge2  1  0.17684200  0.82315800  0.17684200  1
+  Ge  Ge3  1  0.82315800  0.17684200  0.82315800  1
+  Ge  Ge4  1  0.07315800  0.42684200  0.07315800  1
+  Ge  Ge5  1  0.42684200  0.07315800  0.42684200  1
+  Ru  Ru6  1  0.87704700  0.87704700  0.12295300  1
+  Ru  Ru7  1  0.12295300  0.12295300  0.87704700  1
+  Ru  Ru8  1  0.12704700  0.12704700  0.37295300  1
+  Ru  Ru9  1  0.37295300  0.37295300  0.12704700  1

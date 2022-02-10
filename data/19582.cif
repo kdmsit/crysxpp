@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2Ge2Pb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88560213
+_cell_length_b   5.88560213
+_cell_length_c   8.10864400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ge2Pb2O7
+_chemical_formula_sum   'K2 Ge2 Pb2 O7'
+_cell_volume   243.25437476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66666700  0.33333300  0.92037200  1
+  K  K1  1  0.33333300  0.66666700  0.07962800  1
+  Ge  Ge2  1  0.00000000  0.00000000  0.27736300  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.72263700  1
+  Pb  Pb4  1  0.33333300  0.66666700  0.61822800  1
+  Pb  Pb5  1  0.66666700  0.33333300  0.38177200  1
+  O  O6  1  0.82008600  0.14844000  0.20896800  1
+  O  O7  1  0.17991400  0.85156000  0.79103200  1
+  O  O8  1  0.32835400  0.17991400  0.20896800  1
+  O  O9  1  0.00000000  0.00000000  0.50000000  1
+  O  O10  1  0.14844000  0.32835400  0.79103200  1
+  O  O11  1  0.85156000  0.67164600  0.20896800  1
+  O  O12  1  0.67164600  0.82008600  0.79103200  1

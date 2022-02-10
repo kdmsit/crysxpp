@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KTeHOF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93790600
+_cell_length_b   5.04108200
+_cell_length_c   7.90542256
+_cell_angle_alpha   73.53310012
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTeHOF4
+_chemical_formula_sum   'K2 Te2 H2 O2 F8'
+_cell_volume   265.14806735
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.89587600  0.63049200  0.70778100  1
+  K  K1  1  0.39587600  0.36950800  0.29221900  1
+  Te  Te2  1  0.87142800  0.94127800  0.18064900  1
+  Te  Te3  1  0.37142800  0.05872200  0.81935100  1
+  H  H4  1  0.39098900  0.75269900  0.62606500  1
+  H  H5  1  0.89098900  0.24730100  0.37393500  1
+  O  O6  1  0.34734400  0.94781700  0.60646900  1
+  O  O7  1  0.84734400  0.05218300  0.39353100  1
+  F  F8  1  0.64994900  0.92964800  0.82554800  1
+  F  F9  1  0.28866800  0.66747300  0.94278900  1
+  F  F10  1  0.45271100  0.42979600  0.63437700  1
+  F  F11  1  0.95271100  0.57020400  0.36562300  1
+  F  F12  1  0.58803400  0.84230500  0.22866000  1
+  F  F13  1  0.14994900  0.07035200  0.17445200  1
+  F  F14  1  0.08803400  0.15769500  0.77134000  1
+  F  F15  1  0.78866800  0.33252700  0.05721100  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce3ZrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66242332
+_cell_length_b   7.66242332
+_cell_length_c   5.43930022
+_cell_angle_alpha   89.83533497
+_cell_angle_beta   89.83533497
+_cell_angle_gamma   90.37486617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3ZrO8
+_chemical_formula_sum   'Ce6 Zr2 O16'
+_cell_volume   319.34668142
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.62209000  0.86781300  0.75969100  1
+  Ce  Ce1  1  0.12545200  0.87454800  0.75000000  1
+  Ce  Ce2  1  0.86781300  0.62209000  0.25969100  1
+  Ce  Ce3  1  0.37791000  0.13218700  0.24030900  1
+  Ce  Ce4  1  0.13218700  0.37791000  0.74030900  1
+  Ce  Ce5  1  0.87454800  0.12545200  0.25000000  1
+  Zr  Zr6  1  0.36775500  0.63224500  0.25000000  1
+  Zr  Zr7  1  0.63224500  0.36775500  0.75000000  1
+  O  O8  1  0.60527700  0.63593000  0.05601500  1
+  O  O9  1  0.36692500  0.88183600  0.98712200  1
+  O  O10  1  0.38606300  0.85608100  0.47652700  1
+  O  O11  1  0.63593000  0.60527700  0.55601500  1
+  O  O12  1  0.14391900  0.61393700  0.02347300  1
+  O  O13  1  0.88107900  0.86408100  0.99764500  1
+  O  O14  1  0.86408100  0.88107900  0.49764500  1
+  O  O15  1  0.11816400  0.63307500  0.51287800  1
+  O  O16  1  0.63307500  0.11816400  0.01287800  1
+  O  O17  1  0.39472300  0.36407000  0.94398500  1
+  O  O18  1  0.36407000  0.39472300  0.44398500  1
+  O  O19  1  0.61393700  0.14391900  0.52347300  1
+  O  O20  1  0.11892100  0.13591900  0.00235500  1
+  O  O21  1  0.85608100  0.38606300  0.97652700  1
+  O  O22  1  0.88183600  0.36692500  0.48712200  1
+  O  O23  1  0.13591900  0.11892100  0.50235500  1

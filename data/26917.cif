@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti3Mn3(SbO8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95421100
+_cell_length_b   5.98725459
+_cell_length_c   9.35798729
+_cell_angle_alpha   90.29127322
+_cell_angle_beta   90.92041016
+_cell_angle_gamma   119.26123444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Mn3(SbO8)2
+_chemical_formula_sum   'Ti3 Mn3 Sb2 O16'
+_cell_volume   290.96875047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.83708500  0.66204400  0.21379800  1
+  Ti  Ti1  1  0.33607100  0.16829700  0.21088600  1
+  Ti  Ti2  1  0.17254800  0.84845300  0.71008500  1
+  Mn  Mn3  1  0.83168000  0.16699200  0.20505500  1
+  Mn  Mn4  1  0.66373500  0.83355800  0.70740200  1
+  Mn  Mn5  1  0.16762800  0.34505900  0.71233500  1
+  Sb  Sb6  1  0.67052800  0.33783300  0.48983900  1
+  Sb  Sb7  1  0.33454300  0.65761000  0.98689900  1
+  O  O8  1  0.83710000  0.66281300  0.60425900  1
+  O  O9  1  0.52135800  0.48034000  0.33887100  1
+  O  O10  1  0.66527200  0.32987500  0.10631600  1
+  O  O11  1  0.00059800  0.00352100  0.30014900  1
+  O  O12  1  0.00041500  0.00782300  0.80253000  1
+  O  O13  1  0.34063000  0.17077600  0.60486200  1
+  O  O14  1  0.95518700  0.49333400  0.34291700  1
+  O  O15  1  0.51135600  0.04941500  0.34410300  1
+  O  O16  1  0.17295400  0.82145400  0.10589700  1
+  O  O17  1  0.84421900  0.18496300  0.59901900  1
+  O  O18  1  0.46478300  0.94860900  0.84267400  1
+  O  O19  1  0.04060000  0.51782300  0.83546900  1
+  O  O20  1  0.33046600  0.66027400  0.60971600  1
+  O  O21  1  0.65916400  0.81293200  0.09974000  1
+  O  O22  1  0.45835600  0.49530900  0.84091900  1
+  O  O23  1  0.18392400  0.34109300  0.10198000  1

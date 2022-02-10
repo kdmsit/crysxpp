@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSm2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24488032
+_cell_length_b   7.24488032
+_cell_length_c   7.24954782
+_cell_angle_alpha   80.26367003
+_cell_angle_beta   80.26367003
+_cell_angle_gamma   119.42434965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSm2Se3
+_chemical_formula_sum   'Na2 Sm4 Se6'
+_cell_volume   312.24377598
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.41686200  0.58313800  0.75000000  1
+  Na  Na1  1  0.58313800  0.41686200  0.25000000  1
+  Sm  Sm2  1  0.74936100  0.25063900  0.75000000  1
+  Sm  Sm3  1  0.08332100  0.91667900  0.75000000  1
+  Sm  Sm4  1  0.91667900  0.08332100  0.25000000  1
+  Sm  Sm5  1  0.25063900  0.74936100  0.25000000  1
+  Se  Se6  1  0.16318000  0.33128800  0.50172300  1
+  Se  Se7  1  0.83682000  0.66871200  0.49827700  1
+  Se  Se8  1  0.66871200  0.83682000  0.99827700  1
+  Se  Se9  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se10  1  0.33128800  0.16318000  0.00172300  1
+  Se  Se11  1  0.00000000  0.50000000  0.00000000  1

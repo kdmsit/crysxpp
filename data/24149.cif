@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KHoCoSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42903196
+_cell_length_b   6.42903196
+_cell_length_c   8.59137321
+_cell_angle_alpha   78.41420928
+_cell_angle_beta   78.41420928
+_cell_angle_gamma   101.79731091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHoCoSi2O7
+_chemical_formula_sum   'K2 Ho2 Co2 Si4 O14'
+_cell_volume   329.50718639
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62498800  0.78918100  0.74206600  1
+  K  K1  1  0.21081900  0.37501200  0.25793400  1
+  Ho  Ho2  1  0.74232300  0.75705800  0.20466500  1
+  Ho  Ho3  1  0.24294200  0.25767700  0.79533500  1
+  Co  Co4  1  0.20413900  0.79586100  0.50000000  1
+  Co  Co5  1  0.71501800  0.28498200  0.00000000  1
+  Si  Si6  1  0.07182600  0.72079400  0.87349500  1
+  Si  Si7  1  0.27920600  0.92817400  0.12650500  1
+  Si  Si8  1  0.83767200  0.31106700  0.64464600  1
+  Si  Si9  1  0.68893300  0.16232800  0.35535400  1
+  O  O10  1  0.38987700  0.18906700  0.03888200  1
+  O  O11  1  0.11279100  0.88720900  0.00000000  1
+  O  O12  1  0.83942000  0.14320500  0.17962600  1
+  O  O13  1  0.21416100  0.54201500  0.88379000  1
+  O  O14  1  0.45798500  0.78583900  0.11621000  1
+  O  O15  1  0.82934500  0.17065500  0.50000000  1
+  O  O16  1  0.08896000  0.47540300  0.58449200  1
+  O  O17  1  0.52459700  0.91104000  0.41550800  1
+  O  O18  1  0.08942500  0.84828300  0.30098300  1
+  O  O19  1  0.61273500  0.39110700  0.31899300  1
+  O  O20  1  0.15171700  0.91057500  0.69901700  1
+  O  O21  1  0.85679500  0.16058000  0.82037400  1
+  O  O22  1  0.60889300  0.38726500  0.68100700  1
+  O  O23  1  0.81093300  0.61012300  0.96111800  1

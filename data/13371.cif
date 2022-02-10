@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs3Ge4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24851400
+_cell_length_b   7.34241800
+_cell_length_c   13.28564100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Ge4Au
+_chemical_formula_sum   'Cs6 Ge8 Au2'
+_cell_volume   609.53460271
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.84255300  0.50000000  0.26619100  1
+  Cs  Cs1  1  0.84255300  0.50000000  0.73380900  1
+  Cs  Cs2  1  0.42662800  0.50000000  0.50000000  1
+  Cs  Cs3  1  0.15744700  0.00000000  0.23380900  1
+  Cs  Cs4  1  0.15744700  0.00000000  0.76619100  1
+  Cs  Cs5  1  0.57337200  0.00000000  0.00000000  1
+  Ge  Ge6  1  0.06692500  0.31226500  0.00000000  1
+  Ge  Ge7  1  0.33668300  0.50000000  0.10453300  1
+  Ge  Ge8  1  0.66331700  0.00000000  0.60453300  1
+  Ge  Ge9  1  0.06692500  0.68773500  0.00000000  1
+  Ge  Ge10  1  0.93307500  0.81226500  0.50000000  1
+  Ge  Ge11  1  0.66331700  0.00000000  0.39546700  1
+  Ge  Ge12  1  0.33668300  0.50000000  0.89546700  1
+  Ge  Ge13  1  0.93307500  0.18773500  0.50000000  1
+  Au  Au14  1  0.70030100  0.50000000  0.00000000  1
+  Au  Au15  1  0.29969900  0.00000000  0.50000000  1

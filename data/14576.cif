@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zn2P2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35315955
+_cell_length_b   5.35315955
+_cell_length_c   4.55848978
+_cell_angle_alpha   80.89998947
+_cell_angle_beta   80.89998947
+_cell_angle_gamma   103.16826155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2P2O7
+_chemical_formula_sum   'Zn2 P2 O7'
+_cell_volume   123.00536435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.69065500  0.30934500  0.50000000  1
+  Zn  Zn1  1  0.30934500  0.69065500  0.50000000  1
+  P  P2  1  0.78545100  0.78545100  0.90707600  1
+  P  P3  1  0.21454900  0.21454900  0.09292400  1
+  O  O4  1  0.93019700  0.62605900  0.72292200  1
+  O  O5  1  0.37394100  0.06980300  0.27707800  1
+  O  O6  1  0.06980300  0.37394100  0.27707800  1
+  O  O7  1  0.62605900  0.93019700  0.72292200  1
+  O  O8  1  0.38011400  0.38011400  0.78722000  1
+  O  O9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.61988600  0.61988600  0.21278000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti3Cr3(SbO8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95903000
+_cell_length_b   5.98813031
+_cell_length_c   9.33424209
+_cell_angle_alpha   90.23082014
+_cell_angle_beta   89.93324053
+_cell_angle_gamma   119.81083017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Cr3(SbO8)2
+_chemical_formula_sum   'Ti3 Cr3 Sb2 O16'
+_cell_volume   288.99975890
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33486700  0.16807800  0.78838500  1
+  Ti  Ti1  1  0.83009100  0.66502000  0.78756300  1
+  Ti  Ti2  1  0.15875300  0.82481700  0.29995600  1
+  Cr  Cr3  1  0.82787100  0.17117600  0.79050100  1
+  Cr  Cr4  1  0.17068600  0.34064600  0.28964200  1
+  Cr  Cr5  1  0.66069300  0.83930300  0.27931600  1
+  Sb  Sb6  1  0.66748400  0.32590200  0.50977200  1
+  Sb  Sb7  1  0.33400800  0.66267000  0.01096300  1
+  O  O8  1  0.33962500  0.16256500  0.39683300  1
+  O  O9  1  0.52080700  0.47550100  0.65858300  1
+  O  O10  1  0.65901000  0.34215000  0.89620600  1
+  O  O11  1  0.00143900  0.99641900  0.69532500  1
+  O  O12  1  0.99191600  0.99430200  0.19826700  1
+  O  O13  1  0.82978700  0.65591100  0.39698500  1
+  O  O14  1  0.51684300  0.04379800  0.66072400  1
+  O  O15  1  0.95449600  0.48052200  0.65972000  1
+  O  O16  1  0.17424700  0.82643400  0.89376200  1
+  O  O17  1  0.83229900  0.16442100  0.39899800  1
+  O  O18  1  0.04804800  0.53277500  0.16118400  1
+  O  O19  1  0.48281800  0.95712800  0.16081200  1
+  O  O20  1  0.34537900  0.68068800  0.39357200  1
+  O  O21  1  0.17362100  0.33708900  0.89855600  1
+  O  O22  1  0.48431700  0.52760500  0.16134400  1
+  O  O23  1  0.66069500  0.82488000  0.89730900  1

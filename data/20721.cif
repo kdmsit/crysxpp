@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(InBi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81405100
+_cell_length_b   7.94895500
+_cell_length_c   24.88103900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(InBi3)2
+_chemical_formula_sum   'Sr10 In4 Bi12'
+_cell_volume   952.11462727
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.50000000  0.77512300  0.24462000  1
+  Sr  Sr2  1  0.50000000  0.96977100  0.41180900  1
+  Sr  Sr3  1  0.50000000  0.27512300  0.25538000  1
+  Sr  Sr4  1  0.50000000  0.46977100  0.08819100  1
+  Sr  Sr5  1  0.50000000  0.03022900  0.58819100  1
+  Sr  Sr6  1  0.50000000  0.72487700  0.74462000  1
+  Sr  Sr7  1  0.50000000  0.50000000  0.50000000  1
+  Sr  Sr8  1  0.50000000  0.22487700  0.75538000  1
+  Sr  Sr9  1  0.50000000  0.53022900  0.91180900  1
+  In  In10  1  0.00000000  0.17468300  0.87961100  1
+  In  In11  1  0.00000000  0.82531700  0.12038900  1
+  In  In12  1  0.00000000  0.32531700  0.37961100  1
+  In  In13  1  0.00000000  0.67468300  0.62038900  1
+  Bi  Bi14  1  0.50000000  0.54566400  0.36420900  1
+  Bi  Bi15  1  0.00000000  0.69592300  0.00169500  1
+  Bi  Bi16  1  0.50000000  0.45433600  0.63579100  1
+  Bi  Bi17  1  0.00000000  0.19592300  0.49830500  1
+  Bi  Bi18  1  0.00000000  0.30407700  0.99830500  1
+  Bi  Bi19  1  0.00000000  0.98588700  0.68842800  1
+  Bi  Bi20  1  0.00000000  0.01411300  0.31157200  1
+  Bi  Bi21  1  0.00000000  0.80407700  0.50169500  1
+  Bi  Bi22  1  0.50000000  0.04566400  0.13579100  1
+  Bi  Bi23  1  0.50000000  0.95433600  0.86420900  1
+  Bi  Bi24  1  0.00000000  0.48588700  0.81157200  1
+  Bi  Bi25  1  0.00000000  0.51411300  0.18842800  1

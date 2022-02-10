@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Li2Cr2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36213400
+_cell_length_b   7.22374633
+_cell_length_c   6.53780726
+_cell_angle_alpha   109.15766357
+_cell_angle_beta   90.10747883
+_cell_angle_gamma   116.14462927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Cr2O7
+_chemical_formula_sum   'Li4 Cr4 O14'
+_cell_volume   290.40266407
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.17156200  0.05775700  0.29792700  1
+  Li  Li1  1  0.30017700  0.57255900  0.70452900  1
+  Li  Li2  1  0.69982300  0.42744100  0.29547100  1
+  Li  Li3  1  0.82843800  0.94224300  0.70207300  1
+  Cr  Cr4  1  0.17239900  0.49165000  0.21626400  1
+  Cr  Cr5  1  0.61471300  0.90145900  0.20147100  1
+  Cr  Cr6  1  0.38528700  0.09854100  0.79852900  1
+  Cr  Cr7  1  0.82760100  0.50835000  0.78373600  1
+  O  O8  1  0.05043300  0.62103500  0.35019700  1
+  O  O9  1  0.01348200  0.28199400  0.00589800  1
+  O  O10  1  0.37276900  0.65586200  0.09669800  1
+  O  O11  1  0.26619400  0.40617600  0.37765100  1
+  O  O12  1  0.41963900  0.87978300  0.68544100  1
+  O  O13  1  0.23724800  0.11897100  0.62672500  1
+  O  O14  1  0.28367400  0.08580700  0.01660600  1
+  O  O15  1  0.71632600  0.91419300  0.98339400  1
+  O  O16  1  0.76275200  0.88102900  0.37327500  1
+  O  O17  1  0.58036100  0.12021700  0.31455900  1
+  O  O18  1  0.73380600  0.59382400  0.62234900  1
+  O  O19  1  0.62723100  0.34413800  0.90330200  1
+  O  O20  1  0.98651800  0.71800600  0.99410200  1
+  O  O21  1  0.94956700  0.37896500  0.64980300  1

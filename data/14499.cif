@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na5NbO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08048939
+_cell_length_b   6.08048939
+_cell_length_c   10.14117185
+_cell_angle_alpha   81.44455746
+_cell_angle_beta   81.44455746
+_cell_angle_gamma   116.87925690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5NbO5
+_chemical_formula_sum   'Na10 Nb2 O10'
+_cell_volume   320.64097470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.67881400  0.99614700  0.07706100  1
+  Na  Na1  1  0.00385300  0.32118600  0.42293900  1
+  Na  Na2  1  0.78440800  0.55640200  0.94922400  1
+  Na  Na3  1  0.44359800  0.21559200  0.55077600  1
+  Na  Na4  1  0.21559200  0.44359800  0.05077600  1
+  Na  Na5  1  0.55640200  0.78440800  0.44922400  1
+  Na  Na6  1  0.66747200  0.33252800  0.25000000  1
+  Na  Na7  1  0.33252800  0.66747200  0.75000000  1
+  Na  Na8  1  0.99614700  0.67881400  0.57706100  1
+  Na  Na9  1  0.32118600  0.00385300  0.92293900  1
+  Nb  Nb10  1  0.09239800  0.90760200  0.25000000  1
+  Nb  Nb11  1  0.90760200  0.09239800  0.75000000  1
+  O  O12  1  0.09303400  0.90696600  0.75000000  1
+  O  O13  1  0.90696600  0.09303400  0.25000000  1
+  O  O14  1  0.69556500  0.03840100  0.61879700  1
+  O  O15  1  0.96159900  0.30443500  0.88120300  1
+  O  O16  1  0.40426500  0.18943400  0.10398900  1
+  O  O17  1  0.81056600  0.59573500  0.39601100  1
+  O  O18  1  0.59573500  0.81056600  0.89601100  1
+  O  O19  1  0.18943400  0.40426500  0.60398900  1
+  O  O20  1  0.30443500  0.96159900  0.38120300  1
+  O  O21  1  0.03840100  0.69556500  0.11879700  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaNi2(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85254028
+_cell_length_b   8.40549252
+_cell_length_c   4.85253996
+_cell_angle_alpha   89.99999662
+_cell_angle_beta   59.99999832
+_cell_angle_gamma   73.22267375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNi2(PO4)2
+_chemical_formula_sum   'Ba1 Ni2 P2 O8'
+_cell_volume   161.60692935
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.33765600  0.49351600  0.83117200  1
+  Ni  Ni2  1  0.66234400  0.50648400  0.16882800  1
+  P  P3  1  0.85522500  0.71716200  0.57238700  1
+  P  P4  1  0.14477500  0.28283800  0.42761300  1
+  O  O5  1  0.72658800  0.91011800  0.63670600  1
+  O  O6  1  0.27341200  0.08988200  0.36329400  1
+  O  O7  1  0.80018000  0.34618200  0.75983300  1
+  O  O8  1  0.09380600  0.34618200  0.14636200  1
+  O  O9  1  0.41365100  0.34618200  0.43998800  1
+  O  O10  1  0.19982000  0.65381800  0.24016700  1
+  O  O11  1  0.90619400  0.65381800  0.85363800  1
+  O  O12  1  0.58634900  0.65381800  0.56001200  1

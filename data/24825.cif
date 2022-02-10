@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg(GaO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94650222
+_cell_length_b   5.94650222
+_cell_length_c   5.94650247
+_cell_angle_alpha   60.15490955
+_cell_angle_beta   60.15490955
+_cell_angle_gamma   60.15490659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(GaO2)2
+_chemical_formula_sum   'Mg2 Ga4 O8'
+_cell_volume   149.20759400
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.12130100  0.12130100  0.12130100  1
+  Mg  Mg1  1  0.49808600  0.49808600  0.49808600  1
+  Ga  Ga2  1  0.49706400  0.01023500  0.49706400  1
+  Ga  Ga3  1  0.01023500  0.49706400  0.49706400  1
+  Ga  Ga4  1  0.49706400  0.49706400  0.01023500  1
+  Ga  Ga5  1  0.88012300  0.88012300  0.88012300  1
+  O  O6  1  0.71835400  0.25492100  0.25492100  1
+  O  O7  1  0.25492100  0.25492100  0.71835400  1
+  O  O8  1  0.25492100  0.71835400  0.25492100  1
+  O  O9  1  0.25806400  0.25806400  0.25806400  1
+  O  O10  1  0.74493100  0.74493100  0.74493100  1
+  O  O11  1  0.74608400  0.27277300  0.74608400  1
+  O  O12  1  0.74608400  0.74608400  0.27277300  1
+  O  O13  1  0.27277300  0.74608400  0.74608400  1

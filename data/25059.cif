@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SrTaNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02180100
+_cell_length_b   5.79834600
+_cell_length_c   9.16892389
+_cell_angle_alpha   71.94100880
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTaNO2
+_chemical_formula_sum   'Sr3 Ta3 N3 O6'
+_cell_volume   203.28430875
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.83397500  0.32822000  1
+  Sr  Sr1  1  0.50000000  0.50966900  0.00025200  1
+  Sr  Sr2  1  0.50000000  0.16143700  0.66740700  1
+  Ta  Ta3  1  0.00000000  0.32658900  0.34309500  1
+  Ta  Ta4  1  0.00000000  0.01647000  0.99208300  1
+  Ta  Ta5  1  0.00000000  0.66285300  0.65762000  1
+  N  N6  1  0.00000000  0.00642000  0.50163000  1
+  N  N7  1  0.00000000  0.50595500  0.49774400  1
+  N  N8  1  0.00000000  0.33098000  0.83705900  1
+  O  O9  1  0.50000000  0.33843700  0.31809300  1
+  O  O10  1  0.50000000  0.98505000  0.00835700  1
+  O  O11  1  0.50000000  0.67425900  0.67590000  1
+  O  O12  1  0.00000000  0.66102700  0.16445600  1
+  O  O13  1  0.00000000  0.15737600  0.16748300  1
+  O  O14  1  0.00000000  0.82950200  0.84059900  1

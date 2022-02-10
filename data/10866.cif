@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ga5Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03021700
+_cell_length_b   6.73405218
+_cell_length_c   7.99228825
+_cell_angle_alpha   100.93680761
+_cell_angle_beta   104.73406107
+_cell_angle_gamma   101.40112970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga5Rh3
+_chemical_formula_sum   'Ga10 Rh6'
+_cell_volume   248.29904222
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.77696300  0.54699500  0.53960000  1
+  Ga  Ga1  1  0.22303700  0.45300500  0.46040000  1
+  Ga  Ga2  1  0.91357100  0.17800600  0.04556900  1
+  Ga  Ga3  1  0.08642900  0.82199400  0.95443100  1
+  Ga  Ga4  1  0.55134700  0.14285600  0.27413600  1
+  Ga  Ga5  1  0.44865300  0.85714400  0.72586400  1
+  Ga  Ga6  1  0.68061800  0.47359900  0.87212200  1
+  Ga  Ga7  1  0.31938200  0.52640100  0.12787800  1
+  Ga  Ga8  1  0.04114700  0.90623400  0.34644600  1
+  Ga  Ga9  1  0.95885300  0.09376600  0.65355400  1
+  Rh  Rh10  1  0.84786500  0.51377500  0.22438400  1
+  Rh  Rh11  1  0.15213500  0.48622500  0.77561600  1
+  Rh  Rh12  1  0.63519500  0.82698400  0.04978300  1
+  Rh  Rh13  1  0.36480500  0.17301600  0.95021700  1
+  Rh  Rh14  1  0.54434700  0.80480600  0.42178900  1
+  Rh  Rh15  1  0.45565300  0.19519400  0.57821100  1

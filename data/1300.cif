@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89109800
+_cell_length_b   6.60601200
+_cell_length_c   7.61565300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiPd
+_chemical_formula_sum   'Hf4 Si4 Pd4'
+_cell_volume   195.75761935
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.52780800  0.67896200  1
+  Hf  Hf1  1  0.75000000  0.47219200  0.32103800  1
+  Hf  Hf2  1  0.25000000  0.02780800  0.82103800  1
+  Hf  Hf3  1  0.75000000  0.97219200  0.17896200  1
+  Si  Si4  1  0.25000000  0.25827600  0.12421300  1
+  Si  Si5  1  0.75000000  0.74172400  0.87578700  1
+  Si  Si6  1  0.25000000  0.75827600  0.37578700  1
+  Si  Si7  1  0.75000000  0.24172400  0.62421300  1
+  Pd  Pd8  1  0.75000000  0.85688200  0.56211000  1
+  Pd  Pd9  1  0.25000000  0.14311800  0.43789000  1
+  Pd  Pd10  1  0.75000000  0.35688200  0.93789000  1
+  Pd  Pd11  1  0.25000000  0.64311800  0.06211000  1

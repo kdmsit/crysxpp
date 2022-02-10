@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiTaGeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62236771
+_cell_length_b   5.62236771
+_cell_length_c   7.56830260
+_cell_angle_alpha   70.39363570
+_cell_angle_beta   70.39363570
+_cell_angle_gamma   93.95890333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTaGeO5
+_chemical_formula_sum   'Li2 Ta2 Ge2 O10'
+_cell_volume   207.80865383
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69159200  0.30840800  0.25000000  1
+  Li  Li1  1  0.30840800  0.69159200  0.75000000  1
+  Ta  Ta2  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.50000000  1
+  Ge  Ge4  1  0.64047000  0.35953000  0.75000000  1
+  Ge  Ge5  1  0.35953000  0.64047000  0.25000000  1
+  O  O6  1  0.76173500  0.23466600  0.55939900  1
+  O  O7  1  0.23826500  0.76533400  0.44060100  1
+  O  O8  1  0.23466600  0.76173500  0.05939900  1
+  O  O9  1  0.70021300  0.69701700  0.14977600  1
+  O  O10  1  0.93349800  0.06650200  0.25000000  1
+  O  O11  1  0.06650200  0.93349800  0.75000000  1
+  O  O12  1  0.30298300  0.29978700  0.35022400  1
+  O  O13  1  0.69701700  0.70021300  0.64977600  1
+  O  O14  1  0.29978700  0.30298300  0.85022400  1
+  O  O15  1  0.76533400  0.23826500  0.94060100  1

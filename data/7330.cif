@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiIO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54001412
+_cell_length_b   5.54001412
+_cell_length_c   5.28296500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIO3
+_chemical_formula_sum   'Li2 I2 O6'
+_cell_volume   140.42036648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.07764300  1
+  Li  Li1  1  0.00000000  0.00000000  0.57764300  1
+  I  I2  1  0.66666700  0.33333300  0.49852700  1
+  I  I3  1  0.33333300  0.66666700  0.99852700  1
+  O  O4  1  0.74924300  0.65958800  0.33817700  1
+  O  O5  1  0.25075700  0.34041200  0.83817700  1
+  O  O6  1  0.08965500  0.74924300  0.83817700  1
+  O  O7  1  0.34041200  0.08965500  0.33817700  1
+  O  O8  1  0.65958800  0.91034500  0.83817700  1
+  O  O9  1  0.91034500  0.25075700  0.33817700  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NbI3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05382457
+_cell_length_b   8.05382457
+_cell_length_c   13.21197146
+_cell_angle_alpha   59.24891014
+_cell_angle_beta   59.24891014
+_cell_angle_gamma   28.81835188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbI3O
+_chemical_formula_sum   'Nb2 I6 O2'
+_cell_volume   350.84018864
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.17881300  0.06953200  0.80412000  1
+  Nb  Nb1  1  0.93046800  0.82118700  0.19588000  1
+  I  I2  1  0.32680800  0.32027500  0.71392100  1
+  I  I3  1  0.09316900  0.09841500  0.04256100  1
+  I  I4  1  0.89546800  0.88794900  0.38764500  1
+  I  I5  1  0.90158500  0.90683100  0.95743900  1
+  I  I6  1  0.67972500  0.67319200  0.28607900  1
+  I  I7  1  0.11205100  0.10453200  0.61235500  1
+  O  O8  1  0.39109500  0.37023200  0.18837300  1
+  O  O9  1  0.62976800  0.60890500  0.81162700  1

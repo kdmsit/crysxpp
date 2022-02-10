@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73311100
+_cell_length_b   5.73311058
+_cell_length_c   9.39836800
+_cell_angle_alpha   90.00004192
+_cell_angle_beta   90.00002219
+_cell_angle_gamma   59.99999183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnO3
+_chemical_formula_sum   'Ba4 Mn4 O12'
+_cell_volume   267.52459253
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.99999900  0.00000600  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.50000400  1
+  Ba  Ba2  1  0.33333400  0.33333300  0.75000300  1
+  Ba  Ba3  1  0.66666600  0.66666600  0.25000400  1
+  Mn  Mn4  1  0.66666500  0.66666900  0.61236500  1
+  Mn  Mn5  1  0.33333800  0.33333100  0.11236400  1
+  Mn  Mn6  1  0.66666600  0.66666600  0.88761700  1
+  Mn  Mn7  1  0.33333500  0.33333400  0.38760600  1
+  O  O8  1  0.18787100  0.62425800  0.25000100  1
+  O  O9  1  0.18787100  0.18787100  0.25000200  1
+  O  O10  1  0.81213000  0.37574000  0.75000000  1
+  O  O11  1  0.37573900  0.81213000  0.75000000  1
+  O  O12  1  0.81213000  0.81213000  0.75000000  1
+  O  O13  1  0.62425800  0.18787200  0.25000200  1
+  O  O14  1  0.49999700  0.49999800  0.00000500  1
+  O  O15  1  0.00000300  0.49999800  0.00000500  1
+  O  O16  1  0.99999800  0.50000100  0.50000400  1
+  O  O17  1  0.50000000  0.99999900  0.50000400  1
+  O  O18  1  0.49999900  0.00000400  0.00000500  1
+  O  O19  1  0.50000000  0.50000200  0.50000400  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_PrSiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89952500
+_cell_length_b   7.91373000
+_cell_length_c   10.91523949
+_cell_angle_alpha   88.27344399
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSiPd
+_chemical_formula_sum   'Pr8 Si8 Pd8'
+_cell_volume   509.37113462
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.63185000  0.32636900  0.37065100  1
+  Pr  Pr1  1  0.13185000  0.17363100  0.62934900  1
+  Pr  Pr2  1  0.36815000  0.67363100  0.62934900  1
+  Pr  Pr3  1  0.86815000  0.82636900  0.37065100  1
+  Pr  Pr4  1  0.13421200  0.46564700  0.14276400  1
+  Pr  Pr5  1  0.63421200  0.03435300  0.85723600  1
+  Pr  Pr6  1  0.86578800  0.53435300  0.85723600  1
+  Pr  Pr7  1  0.36578800  0.96564700  0.14276400  1
+  Si  Si8  1  0.63332500  0.03514800  0.57671000  1
+  Si  Si9  1  0.13332500  0.46485200  0.42329000  1
+  Si  Si10  1  0.36667500  0.96485200  0.42329000  1
+  Si  Si11  1  0.86667500  0.53514800  0.57671000  1
+  Si  Si12  1  0.85790900  0.12431100  0.14336500  1
+  Si  Si13  1  0.35790900  0.37568900  0.85663500  1
+  Si  Si14  1  0.14209100  0.87568900  0.85663500  1
+  Si  Si15  1  0.64209100  0.62431100  0.14336500  1
+  Pd  Pd16  1  0.90011500  0.83674300  0.05205700  1
+  Pd  Pd17  1  0.40011500  0.66325700  0.94794300  1
+  Pd  Pd18  1  0.09988500  0.16325700  0.94794300  1
+  Pd  Pd19  1  0.59988500  0.33674300  0.05205700  1
+  Pd  Pd20  1  0.89164100  0.82171400  0.66856400  1
+  Pd  Pd21  1  0.39164100  0.67828600  0.33143600  1
+  Pd  Pd22  1  0.10835900  0.17828600  0.33143600  1
+  Pd  Pd23  1  0.60835900  0.32171400  0.66856400  1

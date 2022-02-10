@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CrReO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77836543
+_cell_length_b   7.40704202
+_cell_length_c   7.16134766
+_cell_angle_alpha   99.52504007
+_cell_angle_beta   66.21128660
+_cell_angle_gamma   112.97191092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrReO4
+_chemical_formula_sum   'Cr4 Re4 O16'
+_cell_volume   258.21460067
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.75362300  0.01701600  0.50975300  1
+  Cr  Cr1  1  0.24637200  0.98297700  0.49024600  1
+  Cr  Cr2  1  0.25363000  0.51702300  0.00975600  1
+  Cr  Cr3  1  0.74636700  0.48297900  0.99024400  1
+  Re  Re4  1  0.72177200  0.49996300  0.50001700  1
+  Re  Re5  1  0.22174500  0.99996000  0.00002200  1
+  Re  Re6  1  0.27823700  0.50003700  0.49997800  1
+  Re  Re7  1  0.77821900  0.00004000  0.99998000  1
+  O  O8  1  0.09163500  0.68309700  0.49967800  1
+  O  O9  1  0.59165100  0.18309900  0.99968300  1
+  O  O10  1  0.40832800  0.81690300  0.00031800  1
+  O  O11  1  0.90831100  0.31690300  0.50032000  1
+  O  O12  1  0.39341000  0.27701400  0.49040800  1
+  O  O13  1  0.89336900  0.77701800  0.99041500  1
+  O  O14  1  0.10664400  0.22298200  0.00958800  1
+  O  O15  1  0.60668800  0.72298500  0.50958900  1
+  O  O16  1  0.61268400  0.99646900  0.29405700  1
+  O  O17  1  0.11267000  0.49646500  0.79407800  1
+  O  O18  1  0.41027800  0.50354800  0.20593500  1
+  O  O19  1  0.91026200  0.00354400  0.70595000  1
+  O  O20  1  0.88730600  0.50353700  0.20596800  1
+  O  O21  1  0.38731400  0.00354100  0.70595100  1
+  O  O22  1  0.08973500  0.99644800  0.29404100  1
+  O  O23  1  0.58974700  0.49645200  0.79402400  1

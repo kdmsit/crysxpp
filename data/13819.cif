@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ge3(BiTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   22.03874191
+_cell_length_b   22.03874191
+_cell_length_c   22.03874184
+_cell_angle_alpha   11.24258897
+_cell_angle_beta   11.24258897
+_cell_angle_gamma   11.24258899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge3(BiTe3)2
+_chemical_formula_sum   'Ge3 Bi2 Te6'
+_cell_volume   353.49937394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.54595800  0.54595800  0.54595800  1
+  Ge  Ge1  1  0.45528800  0.45528800  0.45528800  1
+  Ge  Ge2  1  0.26976300  0.26976300  0.26976300  1
+  Bi  Bi3  1  0.99741700  0.99741700  0.99741700  1
+  Bi  Bi4  1  0.72823900  0.72823900  0.72823900  1
+  Te  Te5  1  0.91545000  0.91545000  0.91545000  1
+  Te  Te6  1  0.80937800  0.80937800  0.80937800  1
+  Te  Te7  1  0.63667500  0.63667500  0.63667500  1
+  Te  Te8  1  0.36252600  0.36252600  0.36252600  1
+  Te  Te9  1  0.19165100  0.19165100  0.19165100  1
+  Te  Te10  1  0.08865500  0.08865500  0.08865500  1

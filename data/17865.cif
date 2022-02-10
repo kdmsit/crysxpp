@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YbAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66677600
+_cell_length_b   5.96638400
+_cell_length_c   7.50634500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAg
+_chemical_formula_sum   'Yb4 Ag4'
+_cell_volume   209.00500120
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.75000000  0.86222100  0.81880400  1
+  Yb  Yb1  1  0.75000000  0.63777900  0.31880400  1
+  Yb  Yb2  1  0.25000000  0.13777900  0.18119600  1
+  Yb  Yb3  1  0.25000000  0.36222100  0.68119600  1
+  Ag  Ag4  1  0.25000000  0.86030500  0.53784200  1
+  Ag  Ag5  1  0.25000000  0.63969500  0.03784200  1
+  Ag  Ag6  1  0.75000000  0.13969500  0.46215800  1
+  Ag  Ag7  1  0.75000000  0.36030500  0.96215800  1

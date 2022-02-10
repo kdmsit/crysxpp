@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_RbFeSe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.34834847
+_cell_length_b   14.34834847
+_cell_length_c   14.34834858
+_cell_angle_alpha   22.18170226
+_cell_angle_beta   22.18170226
+_cell_angle_gamma   22.18170246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFeSe2O7
+_chemical_formula_sum   'Rb2 Fe2 Se4 O14'
+_cell_volume   369.20070126
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb1  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.09883800  0.09883800  0.09883800  1
+  Fe  Fe3  1  0.90116200  0.90116200  0.90116200  1
+  Se  Se4  1  0.38618300  0.38618300  0.38618300  1
+  Se  Se5  1  0.22830700  0.22830700  0.22830700  1
+  Se  Se6  1  0.61381700  0.61381700  0.61381700  1
+  Se  Se7  1  0.77169300  0.77169300  0.77169300  1
+  O  O8  1  0.23382200  0.23382200  0.73133300  1
+  O  O9  1  0.04877400  0.52831200  0.04877400  1
+  O  O10  1  0.95122600  0.47168800  0.95122600  1
+  O  O11  1  0.95122600  0.95122600  0.47168800  1
+  O  O12  1  0.04877400  0.04877400  0.52831200  1
+  O  O13  1  0.26866700  0.76617800  0.76617800  1
+  O  O14  1  0.47168800  0.95122600  0.95122600  1
+  O  O15  1  0.65287600  0.65287600  0.65287600  1
+  O  O16  1  0.73133300  0.23382200  0.23382200  1
+  O  O17  1  0.76617800  0.26866700  0.76617800  1
+  O  O18  1  0.23382200  0.73133300  0.23382200  1
+  O  O19  1  0.52831200  0.04877400  0.04877400  1
+  O  O20  1  0.34712400  0.34712400  0.34712400  1
+  O  O21  1  0.76617800  0.76617800  0.26866700  1

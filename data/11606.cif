@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tl9SbTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.26580921
+_cell_length_b   9.26580921
+_cell_length_c   9.26580921
+_cell_angle_alpha   122.29817428
+_cell_angle_beta   122.29817428
+_cell_angle_gamma   86.06350096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl9SbTe6
+_chemical_formula_sum   'Tl9 Sb1 Te6'
+_cell_volume   541.58360439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.79990300  0.00618500  0.50470400  1
+  Tl  Tl1  1  0.98487300  0.47888200  0.79221600  1
+  Tl  Tl2  1  0.99582300  0.99582300  0.00000000  1
+  Tl  Tl3  1  0.68666600  0.19265700  0.20778400  1
+  Tl  Tl4  1  0.50148100  0.29519900  0.49529600  1
+  Tl  Tl5  1  0.29519900  0.79990300  0.79371800  1
+  Tl  Tl6  1  0.47888200  0.68666600  0.49400900  1
+  Tl  Tl7  1  0.19265700  0.98487300  0.50599100  1
+  Tl  Tl8  1  0.00618500  0.50148100  0.20628200  1
+  Sb  Sb9  1  0.50007400  0.50007400  0.00000000  1
+  Te  Te10  1  0.72152700  0.72152700  0.00000000  1
+  Te  Te11  1  0.81449400  0.64193200  0.47190300  1
+  Te  Te12  1  0.64193200  0.17002900  0.82743800  1
+  Te  Te13  1  0.24903700  0.24903700  0.00000000  1
+  Te  Te14  1  0.34259100  0.81449400  0.17256200  1
+  Te  Te15  1  0.17002900  0.34259100  0.52809700  1

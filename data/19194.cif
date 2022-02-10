@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3CuGeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.36134836
+_cell_length_b   10.36134836
+_cell_length_c   5.92323900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3CuGeS7
+_chemical_formula_sum   'La6 Cu2 Ge2 S14'
+_cell_volume   550.70932329
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.35623200  0.22948700  0.31859000  1
+  La  La1  1  0.22948700  0.87325400  0.81859000  1
+  La  La2  1  0.87325400  0.64376800  0.31859000  1
+  La  La3  1  0.77051300  0.12674600  0.31859000  1
+  La  La4  1  0.12674600  0.35623200  0.81859000  1
+  La  La5  1  0.64376800  0.77051300  0.81859000  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.28996200  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.78996200  1
+  Ge  Ge8  1  0.33333300  0.66666700  0.40059100  1
+  Ge  Ge9  1  0.66666700  0.33333300  0.90059100  1
+  S  S10  1  0.52177500  0.10630000  0.05093100  1
+  S  S11  1  0.75112200  0.83960900  0.30281800  1
+  S  S12  1  0.47822500  0.89370000  0.55093100  1
+  S  S13  1  0.33333300  0.66666700  0.02813200  1
+  S  S14  1  0.10630000  0.58452500  0.55093100  1
+  S  S15  1  0.89370000  0.41547500  0.05093100  1
+  S  S16  1  0.24887800  0.16039100  0.80281800  1
+  S  S17  1  0.41547500  0.52177500  0.55093100  1
+  S  S18  1  0.58452500  0.47822500  0.05093100  1
+  S  S19  1  0.08848700  0.24887800  0.30281800  1
+  S  S20  1  0.66666700  0.33333300  0.52813200  1
+  S  S21  1  0.91151300  0.75112200  0.80281800  1
+  S  S22  1  0.83960900  0.08848700  0.80281800  1
+  S  S23  1  0.16039100  0.91151300  0.30281800  1

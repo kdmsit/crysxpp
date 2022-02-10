@@ -78,6 +78,7 @@ class CrystalAE(nn.Module):
 		self.fc_edge = nn.Bilinear(atom_fea_len, atom_fea_len, 5).to(device)
 		self.fc2 = nn.Linear(5, 5).to(device)
 
+
 		self.fc_atom_feature = nn.Linear(atom_fea_len, orig_atom_fea_len).to(device)
 
 
@@ -120,7 +121,7 @@ class CrystalAE(nn.Module):
 			# Bilinear Layer : Adjacency List Reconstruction
 			edge_p = self.fc_adj(atom_adj_fea, atom_nbr_fea)
 			edge_p = self.fc1(edge_p)
-			edge_p = edge_p.view(N, N, 6)
+			edge_p = F.log_softmax(edge_p, dim=1)
 			edge_prob_list.append(edge_p)
 
 			# Bilinear Layer : Edge Feature Reconstruction
@@ -161,6 +162,7 @@ class Property_prediction_deep(nn.Module):
 
 	def forward(self, atom_fea,nbr_fea, nbr_fea_idx,crystal_atom_idx):
 		# Encoder Part
+
 
 		# # Feature Selector
 		N = atom_fea.shape[0]

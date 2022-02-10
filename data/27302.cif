@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ThSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02545400
+_cell_length_b   6.55619500
+_cell_length_c   8.14291172
+_cell_angle_alpha   54.27882614
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSiO4
+_chemical_formula_sum   'Th4 Si4 O16'
+_cell_volume   304.50281494
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.65300000  0.18751100  0.21587600  1
+  Th  Th1  1  0.15300000  0.81248900  0.28412400  1
+  Th  Th2  1  0.34700000  0.81248900  0.78412400  1
+  Th  Th3  1  0.84700000  0.18751100  0.71587600  1
+  Si  Si4  1  0.66154900  0.69090300  0.19821400  1
+  Si  Si5  1  0.16154900  0.30909700  0.30178600  1
+  Si  Si6  1  0.33845100  0.30909700  0.80178600  1
+  Si  Si7  1  0.83845100  0.69090300  0.69821400  1
+  O  O8  1  0.99706100  0.17361800  0.25238700  1
+  O  O9  1  0.49706100  0.82638200  0.24761300  1
+  O  O10  1  0.00293900  0.82638200  0.74761300  1
+  O  O11  1  0.50293900  0.17361800  0.75238700  1
+  O  O12  1  0.71268500  0.39889000  0.38078600  1
+  O  O13  1  0.21268500  0.60111000  0.11921400  1
+  O  O14  1  0.28731500  0.60111000  0.61921400  1
+  O  O15  1  0.78731500  0.39889000  0.88078600  1
+  O  O16  1  0.66058000  0.89237200  0.61149400  1
+  O  O17  1  0.16058000  0.10762800  0.88850600  1
+  O  O18  1  0.33942000  0.10762800  0.38850600  1
+  O  O19  1  0.83942000  0.89237200  0.11149400  1
+  O  O20  1  0.89644200  0.65188900  0.52254600  1
+  O  O21  1  0.39644200  0.34811100  0.97745400  1
+  O  O22  1  0.10355800  0.34811100  0.47745400  1
+  O  O23  1  0.60355800  0.65188900  0.02254600  1

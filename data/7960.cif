@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Th2AlH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30588207
+_cell_length_b   6.30588207
+_cell_length_c   6.30588207
+_cell_angle_alpha   105.47396108
+_cell_angle_beta   105.47396108
+_cell_angle_gamma   117.80081192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2AlH4
+_chemical_formula_sum   'Th4 Al2 H8'
+_cell_volume   189.92537366
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.83558900  0.66441100  0.50000000  1
+  Th  Th1  1  0.66441100  0.16441100  0.82882300  1
+  Th  Th2  1  0.16441100  0.33558900  0.50000000  1
+  Th  Th3  1  0.33558900  0.83558900  0.17117700  1
+  Al  Al4  1  0.75000000  0.75000000  0.00000000  1
+  Al  Al5  1  0.25000000  0.25000000  0.00000000  1
+  H  H6  1  0.22139100  0.98098100  0.50000000  1
+  H  H7  1  0.48098100  0.72139100  0.50000000  1
+  H  H8  1  0.72139100  0.22139100  0.24041100  1
+  H  H9  1  0.98098100  0.48098100  0.75958900  1
+  H  H10  1  0.27860900  0.77860900  0.75958900  1
+  H  H11  1  0.51901900  0.27860900  0.50000000  1
+  H  H12  1  0.01901900  0.51901900  0.24041100  1
+  H  H13  1  0.77860900  0.01901900  0.50000000  1

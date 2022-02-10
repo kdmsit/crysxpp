@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsAgO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03589265
+_cell_length_b   8.03589265
+_cell_length_c   8.03589265
+_cell_angle_alpha   98.84466811
+_cell_angle_beta   98.84466811
+_cell_angle_gamma   133.82734510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAgO
+_chemical_formula_sum   'Cs4 Ag4 O4'
+_cell_volume   344.38498616
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.19268600  0.50000000  0.69268600  1
+  Cs  Cs1  1  0.50000000  0.19268600  0.69268600  1
+  Cs  Cs2  1  0.80731400  0.50000000  0.30731400  1
+  Cs  Cs3  1  0.50000000  0.80731400  0.30731400  1
+  Ag  Ag4  1  0.85935100  0.14064900  0.00000000  1
+  Ag  Ag5  1  0.14064900  0.85935100  0.00000000  1
+  Ag  Ag6  1  0.14064900  0.14064900  0.28129900  1
+  Ag  Ag7  1  0.85935100  0.85935100  0.71870100  1
+  O  O8  1  0.28301000  0.00000000  0.28301000  1
+  O  O9  1  0.00000000  0.28301000  0.28301000  1
+  O  O10  1  0.00000000  0.71699000  0.71699000  1
+  O  O11  1  0.71699000  0.00000000  0.71699000  1

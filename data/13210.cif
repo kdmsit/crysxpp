@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ta4BTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62254800
+_cell_length_b   11.61534700
+_cell_length_c   16.91439400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4BTe8
+_chemical_formula_sum   'Ta8 B2 Te16'
+_cell_volume   711.70952807
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.07286500  0.07087300  1
+  Ta  Ta1  1  0.50000000  0.92713400  0.92912700  1
+  Ta  Ta2  1  0.50000000  0.57286600  0.42912700  1
+  Ta  Ta3  1  0.50000000  0.42713400  0.57087300  1
+  Ta  Ta4  1  0.00000000  0.34285000  0.42483000  1
+  Ta  Ta5  1  0.00000000  0.65715000  0.57517000  1
+  Ta  Ta6  1  0.00000000  0.84285000  0.07517000  1
+  Ta  Ta7  1  0.00000000  0.15715000  0.92483000  1
+  B  B8  1  0.00000000  0.00000000  0.00000000  1
+  B  B9  1  0.00000000  0.50000000  0.50000000  1
+  Te  Te10  1  0.50000000  0.30003700  0.00567200  1
+  Te  Te11  1  0.50000000  0.69996300  0.99432800  1
+  Te  Te12  1  0.50000000  0.80003700  0.49432800  1
+  Te  Te13  1  0.50000000  0.19996300  0.50567200  1
+  Te  Te14  1  0.50000000  0.41136300  0.30825000  1
+  Te  Te15  1  0.50000000  0.58863700  0.69175000  1
+  Te  Te16  1  0.50000000  0.91136300  0.19175000  1
+  Te  Te17  1  0.50000000  0.08863700  0.80825000  1
+  Te  Te18  1  0.00000000  0.12784100  0.32883000  1
+  Te  Te19  1  0.00000000  0.87215900  0.67117000  1
+  Te  Te20  1  0.00000000  0.62784100  0.17117000  1
+  Te  Te21  1  0.00000000  0.37215900  0.82883000  1
+  Te  Te22  1  0.00000000  0.20278000  0.17083500  1
+  Te  Te23  1  0.00000000  0.79722000  0.82916500  1
+  Te  Te24  1  0.00000000  0.70278000  0.32916500  1
+  Te  Te25  1  0.00000000  0.29722000  0.67083500  1

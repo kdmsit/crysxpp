@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlPd5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06671100
+_cell_length_b   8.21577700
+_cell_length_c   10.89502200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlPd5
+_chemical_formula_sum   'Al4 Pd20'
+_cell_volume   364.01565772
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.75000000  0.11201900  0.92162700  1
+  Al  Al1  1  0.25000000  0.61201900  0.57837300  1
+  Al  Al2  1  0.25000000  0.88798100  0.07837300  1
+  Al  Al3  1  0.75000000  0.38798100  0.42162700  1
+  Pd  Pd4  1  0.25000000  0.21894600  0.04251900  1
+  Pd  Pd5  1  0.75000000  0.71430000  0.20353600  1
+  Pd  Pd6  1  0.25000000  0.54389700  0.33592600  1
+  Pd  Pd7  1  0.75000000  0.45610300  0.66407400  1
+  Pd  Pd8  1  0.25000000  0.95610300  0.83592600  1
+  Pd  Pd9  1  0.25000000  0.28570000  0.79646400  1
+  Pd  Pd10  1  0.75000000  0.71894600  0.45748100  1
+  Pd  Pd11  1  0.25000000  0.57206700  0.07025500  1
+  Pd  Pd12  1  0.25000000  0.92793300  0.57025500  1
+  Pd  Pd13  1  0.75000000  0.78570000  0.70353600  1
+  Pd  Pd14  1  0.75000000  0.38413400  0.18425100  1
+  Pd  Pd15  1  0.75000000  0.07206700  0.42974500  1
+  Pd  Pd16  1  0.25000000  0.28105400  0.54251900  1
+  Pd  Pd17  1  0.75000000  0.78105400  0.95748100  1
+  Pd  Pd18  1  0.25000000  0.21430000  0.29646400  1
+  Pd  Pd19  1  0.75000000  0.04389700  0.16407400  1
+  Pd  Pd20  1  0.25000000  0.61586600  0.81574900  1
+  Pd  Pd21  1  0.75000000  0.42793300  0.92974500  1
+  Pd  Pd22  1  0.25000000  0.88413400  0.31574900  1
+  Pd  Pd23  1  0.75000000  0.11586600  0.68425100  1

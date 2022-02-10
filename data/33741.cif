@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K4Ge2Au7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24987347
+_cell_length_b   10.24987347
+_cell_length_c   10.24987373
+_cell_angle_alpha   37.62563436
+_cell_angle_beta   37.62563436
+_cell_angle_gamma   37.62563312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Ge2Au7
+_chemical_formula_sum   'K4 Ge2 Au7'
+_cell_volume   360.02550358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.68281300  0.68281300  0.68281300  1
+  K  K1  1  0.31718700  0.31718700  0.31718700  1
+  K  K2  1  0.81095600  0.81095600  0.81095600  1
+  K  K3  1  0.18904400  0.18904400  0.18904400  1
+  Ge  Ge4  1  0.54511900  0.54511900  0.54511900  1
+  Ge  Ge5  1  0.45488100  0.45488100  0.45488100  1
+  Au  Au6  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au7  1  0.22321900  0.22321900  0.79489600  1
+  Au  Au8  1  0.79489600  0.22321900  0.22321900  1
+  Au  Au9  1  0.22321900  0.79489600  0.22321900  1
+  Au  Au10  1  0.77678100  0.20510400  0.77678100  1
+  Au  Au11  1  0.77678100  0.77678100  0.20510400  1
+  Au  Au12  1  0.20510400  0.77678100  0.77678100  1

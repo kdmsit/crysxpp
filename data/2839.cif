@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeZnAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65287600
+_cell_length_b   6.98813700
+_cell_length_c   8.04036500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeZnAu
+_chemical_formula_sum   'Ce4 Zn4 Au4'
+_cell_volume   261.43194480
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.49470900  0.77482100  1
+  Ce  Ce1  1  0.25000000  0.00529100  0.27482100  1
+  Ce  Ce2  1  0.75000000  0.99470900  0.72517900  1
+  Ce  Ce3  1  0.25000000  0.50529100  0.22517900  1
+  Zn  Zn4  1  0.25000000  0.20579400  0.91759600  1
+  Zn  Zn5  1  0.25000000  0.70579400  0.58240400  1
+  Zn  Zn6  1  0.75000000  0.79420600  0.08240400  1
+  Zn  Zn7  1  0.75000000  0.29420600  0.41759600  1
+  Au  Au8  1  0.25000000  0.77287500  0.91401300  1
+  Au  Au9  1  0.25000000  0.27287500  0.58598700  1
+  Au  Au10  1  0.75000000  0.72712500  0.41401300  1
+  Au  Au11  1  0.75000000  0.22712500  0.08598700  1

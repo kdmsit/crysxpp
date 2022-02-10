@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Pr3U(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51488687
+_cell_length_b   9.51488687
+_cell_length_c   5.61087500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3U(ClO2)3
+_chemical_formula_sum   'Pr6 U2 Cl6 O12'
+_cell_volume   439.91468235
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.09082700  0.68609800  0.75000000  1
+  Pr  Pr1  1  0.90917300  0.31390200  0.25000000  1
+  Pr  Pr2  1  0.40472900  0.09082700  0.25000000  1
+  Pr  Pr3  1  0.31390200  0.40472900  0.75000000  1
+  Pr  Pr4  1  0.68609800  0.59527100  0.25000000  1
+  Pr  Pr5  1  0.59527100  0.90917300  0.75000000  1
+  U  U6  1  0.33333300  0.66666700  0.25000000  1
+  U  U7  1  0.66666700  0.33333300  0.75000000  1
+  Cl  Cl8  1  0.81142000  0.75244300  0.75000000  1
+  Cl  Cl9  1  0.75244300  0.94102300  0.25000000  1
+  Cl  Cl10  1  0.18858000  0.24755700  0.25000000  1
+  Cl  Cl11  1  0.24755700  0.05897700  0.75000000  1
+  Cl  Cl12  1  0.94102300  0.18858000  0.75000000  1
+  Cl  Cl13  1  0.05897700  0.81142000  0.25000000  1
+  O  O14  1  0.48309700  0.63475800  0.00686100  1
+  O  O15  1  0.51690300  0.36524200  0.99313900  1
+  O  O16  1  0.84833800  0.48309700  0.50686100  1
+  O  O17  1  0.48309700  0.63475800  0.49313900  1
+  O  O18  1  0.63475800  0.15166200  0.99313900  1
+  O  O19  1  0.63475800  0.15166200  0.50686100  1
+  O  O20  1  0.15166200  0.51690300  0.49313900  1
+  O  O21  1  0.36524200  0.84833800  0.00686100  1
+  O  O22  1  0.84833800  0.48309700  0.99313900  1
+  O  O23  1  0.51690300  0.36524200  0.50686100  1
+  O  O24  1  0.15166200  0.51690300  0.00686100  1
+  O  O25  1  0.36524200  0.84833800  0.49313900  1

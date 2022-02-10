@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlGeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56048449
+_cell_length_b   5.56048449
+_cell_length_c   5.55133021
+_cell_angle_alpha   89.10866834
+_cell_angle_beta   89.10866834
+_cell_angle_gamma   89.29557562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGeBr3
+_chemical_formula_sum   'Tl1 Ge1 Br3'
+_cell_volume   171.58750587
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.00480100  0.00480100  0.99460400  1
+  Ge  Ge1  1  0.51723300  0.51723300  0.53132500  1
+  Br  Br2  1  0.98948800  0.49779400  0.51639600  1
+  Br  Br3  1  0.49043300  0.49043300  0.00478300  1
+  Br  Br4  1  0.49779400  0.98948800  0.51639600  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27643400
+_cell_length_b   6.79258600
+_cell_length_c   7.34605900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaNi
+_chemical_formula_sum   'Ho4 Ga4 Ni4'
+_cell_volume   213.38865768
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.51929800  0.69421700  1
+  Ho  Ho1  1  0.25000000  0.01929800  0.80578300  1
+  Ho  Ho2  1  0.75000000  0.98070200  0.19421700  1
+  Ho  Ho3  1  0.75000000  0.48070200  0.30578300  1
+  Ga  Ga4  1  0.75000000  0.32698900  0.92411100  1
+  Ga  Ga5  1  0.25000000  0.17301100  0.42411100  1
+  Ga  Ga6  1  0.75000000  0.82698900  0.57588900  1
+  Ga  Ga7  1  0.25000000  0.67301100  0.07588900  1
+  Ni  Ni8  1  0.25000000  0.28577300  0.09786800  1
+  Ni  Ni9  1  0.25000000  0.78577300  0.40213200  1
+  Ni  Ni10  1  0.75000000  0.71422700  0.90213200  1
+  Ni  Ni11  1  0.75000000  0.21422700  0.59786800  1

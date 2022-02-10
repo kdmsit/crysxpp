@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2NdGaCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.28242115
+_cell_length_b   12.28242115
+_cell_length_c   12.28242115
+_cell_angle_alpha   154.27061147
+_cell_angle_beta   153.69685023
+_cell_angle_gamma   37.12539059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NdGaCu2O7
+_chemical_formula_sum   'Sr4 Nd2 Ga2 Cu4 O14'
+_cell_volume   355.93078093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.63353600  0.65303300  0.98133000  1
+  Sr  Sr1  1  0.36646400  0.34779300  0.01949700  1
+  Sr  Sr2  1  0.17170300  0.15303300  0.01949700  1
+  Sr  Sr3  1  0.82829700  0.84779300  0.98133000  1
+  Nd  Nd4  1  0.50000000  0.49919700  0.99919700  1
+  Nd  Nd5  1  0.00000000  0.99919700  0.99919700  1
+  Ga  Ga6  1  0.82082000  0.28253800  0.60335800  1
+  Ga  Ga7  1  0.17918000  0.78253800  0.46171900  1
+  Cu  Cu8  1  0.57651200  0.07358700  0.49968900  1
+  Cu  Cu9  1  0.42348800  0.92317700  0.49707500  1
+  Cu  Cu10  1  0.07389900  0.57358700  0.49707500  1
+  Cu  Cu11  1  0.92610100  0.42317700  0.49968900  1
+  O  O12  1  0.13005200  0.13100100  0.76105300  1
+  O  O13  1  0.86994800  0.63100100  0.00094800  1
+  O  O14  1  0.81801000  0.81632000  0.49913400  1
+  O  O15  1  0.18199000  0.68112400  0.99831000  1
+  O  O16  1  0.81718600  0.31632000  0.99831000  1
+  O  O17  1  0.18281400  0.18112400  0.49913400  1
+  O  O18  1  0.31712100  0.31476100  0.50120000  1
+  O  O19  1  0.68287900  0.18408000  0.99764100  1
+  O  O20  1  0.31356100  0.81476100  0.99764100  1
+  O  O21  1  0.68643900  0.68408000  0.50120000  1
+  O  O22  1  0.22428200  0.64374000  0.51310800  1
+  O  O23  1  0.77571800  0.28882500  0.41945700  1
+  O  O24  1  0.63063200  0.14374000  0.41945700  1
+  O  O25  1  0.36936800  0.78882500  0.51310800  1

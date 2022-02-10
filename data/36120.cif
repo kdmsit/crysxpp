@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaAg(CO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17239100
+_cell_length_b   3.63377500
+_cell_length_c   10.92328853
+_cell_angle_alpha   86.94325461
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAg(CO2)2
+_chemical_formula_sum   'Na2 Ag2 C4 O8'
+_cell_volume   205.01443288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43171600  0.30439800  0.89906400  1
+  Na  Na1  1  0.93171600  0.69560200  0.10093600  1
+  Ag  Ag2  1  0.55109400  0.60359100  0.58032900  1
+  Ag  Ag3  1  0.05109400  0.39640900  0.41967100  1
+  C  C4  1  0.55384500  0.92984600  0.30573100  1
+  C  C5  1  0.05384500  0.07015400  0.69426900  1
+  C  C6  1  0.45201000  0.14084500  0.18596700  1
+  C  C7  1  0.95201000  0.85915500  0.81403300  1
+  O  O8  1  0.10431100  0.84225400  0.90553700  1
+  O  O9  1  0.60431100  0.15774600  0.09446300  1
+  O  O10  1  0.92189200  0.04389000  0.59642600  1
+  O  O11  1  0.42189200  0.95611000  0.40357400  1
+  O  O12  1  0.25887800  0.25549500  0.70457800  1
+  O  O13  1  0.75887800  0.74450500  0.29542200  1
+  O  O14  1  0.72625300  0.72682100  0.81104800  1
+  O  O15  1  0.22625300  0.27317900  0.18895200  1

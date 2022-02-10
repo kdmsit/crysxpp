@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li4FeBi(TeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24111000
+_cell_length_b   5.49953417
+_cell_length_c   7.62376150
+_cell_angle_alpha   86.09602722
+_cell_angle_beta   89.98108368
+_cell_angle_gamma   89.78933114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4FeBi(TeO6)2
+_chemical_formula_sum   'Li4 Fe1 Bi1 Te2 O12'
+_cell_volume   219.23334956
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50684100  0.08764300  0.31170900  1
+  Li  Li1  1  0.49775100  0.09022300  0.76388900  1
+  Li  Li2  1  0.99219500  0.53730900  0.74778800  1
+  Li  Li3  1  0.00201500  0.55733700  0.30799400  1
+  Fe  Fe4  1  0.50055500  0.51649400  0.50244700  1
+  Bi  Bi5  1  0.99924900  0.00280000  0.00519800  1
+  Te  Te6  1  0.00120500  0.00131800  0.50168500  1
+  Te  Te7  1  0.49924300  0.50404700  0.00066400  1
+  O  O8  1  0.64897000  0.17789100  0.06690200  1
+  O  O9  1  0.30343000  0.18063300  0.55089100  1
+  O  O10  1  0.80343300  0.29086100  0.43656300  1
+  O  O11  1  0.19944800  0.32392500  0.91227700  1
+  O  O12  1  0.37074600  0.49242300  0.23591300  1
+  O  O13  1  0.62401300  0.46989100  0.76195800  1
+  O  O14  1  0.82243400  0.65240900  0.06713000  1
+  O  O15  1  0.17785800  0.68881400  0.54844200  1
+  O  O16  1  0.71274800  0.80596400  0.42956400  1
+  O  O17  1  0.33180100  0.80798500  0.91626400  1
+  O  O18  1  0.14690900  0.98341400  0.26161600  1
+  O  O19  1  0.85915500  0.97101600  0.74230300  1

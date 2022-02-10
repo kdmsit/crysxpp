@@ -1,6 +1,5 @@
 from data_prop import *
 from model import Property_prediction_deep
-from util import *
 import pytz
 import torch
 import os
@@ -68,15 +67,28 @@ def sparse_loss(prop_model,input):
     l1_regularization = torch.mean(torch.abs(parameters[0]))
     return l1_regularization
 
+def plot(epoch_list, loss_prop_list,path):
+    frontsize=20
+    line_width=5
+    fig_path=path+'/Train losses_'
+    df=pd.DataFrame({'x': epoch_list,'y1': loss_prop_list})
+    plt.plot( 'x', 'y1', data=df, color='green', linewidth=line_width,label="Train Loss")
+    plt.xlabel("Number of epochs ", fontsize=frontsize,labelpad=10,fontweight='bold')
+    plt.ylabel("Losses", fontsize=frontsize,fontweight='bold')
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(fig_path)
+    plt.close()
+
 def args_parse():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data-path', type=str, default='../data/', help='Data Path')
     parser.add_argument('--test-ratio', type=float, default=0.8, help='Test Split')
-    parser.add_argument('--lrate', type=float, default=0.003, help='Learning Rate')
+    parser.add_argument('--lrate', type=float, default=0.01, help='Learning Rate')
     parser.add_argument('--atom-feat', type=int, default=64, help='Atom Feature Dimension')
     parser.add_argument('--nconv', type=int, default=3, help='Number of Convolution Layers')
-    parser.add_argument('--epoch', type=int, default=500, help='Number of Training Epoch')
-    parser.add_argument('--batch-size', type=int, default=64, help='Batch size')
+    parser.add_argument('--epoch', type=int, default=200, help='Number of Training Epoch')
+    parser.add_argument('--batch-size', type=int, default=512, help='Batch size')
     parser.add_argument('--workers', type=int, default=0, help='workers')
     parser.add_argument('--radius', type=int, default=8, help='Radius of the sphere along an atom')
     parser.add_argument('--max-nbr', type=int, default=12, help='Maximum Number of neighbours to consider')
@@ -105,43 +117,15 @@ def main(seed):
     radius=args.radius
     max_num_nbr = args.max_nbr
     data_path = args.data_path
-    pretrained_path=args.pretrained_model
+    # pretrained_path=args.pretrained_model
+    pretrained_path='../model/model_pretrain.pth'
     cuda = torch.cuda.is_available()
     print("Cuda enabled: ", cuda)
     test_ratio=args.test_ratio
     train_ratio = 1-test_ratio
     full_dataset = CIFData(data_path,max_num_nbr,radius)
     datasize=len(full_dataset)
-    print("Data path :" + str(data_path))
-    print("Radius :" + str(radius))
-    print("Neighbours :" + str(max_num_nbr))
-    print("Test Ratio :" + str(test_ratio))
-    print("Train size " + str(datasize * train_ratio))
-    print("Test size " + str(datasize * test_ratio))
-    print("Pretrained Model Path " +str(pretrained_path))
 
-    path = '../results/Prediction/'+ str(current_date) + '/' +str(test_ratio)+"_"+str(current_time)
-    if not os.path.exists(path):
-        os.makedirs(path)
-    out = open(path + "/out.txt", "w")
-
-    out.writelines("Data path : " + str(data_path))
-    out.writelines("\n")
-    out.writelines("Learning Rate : " + str(lr))
-    out.writelines("\n")
-    out.writelines("Radius :" + str(radius))
-    out.writelines("\n")
-    out.writelines("Neighbours :" + str(max_num_nbr))
-    out.writelines("\n")
-    out.writelines("Epochs " + str(epochs))
-    out.writelines("\n")
-    out.writelines("Lamda " + str(lamda))
-    out.writelines("\n")
-    out.writelines("Train size " + str(datasize * train_ratio))
-    out.writelines("\n")
-    out.writelines("Test size " + str(datasize * test_ratio))
-    out.writelines("\n")
-    out.writelines("\n")
 
 
     if len(full_dataset) < 2000:
@@ -156,8 +140,43 @@ def main(seed):
 
     collate_fn = collate_pool
     idx_train, idx_test = train_test_split(range(datasize), test_size=test_ratio, random_state=42)
+
     train_data_loader = get_data_loader(dataset=full_dataset,collate_fn=collate_fn,train_size=idx_train,batch_size=batch_size,num_workers=workers,pin_memory=cuda)
     test_data_loader = get_data_loader(dataset=full_dataset,collate_fn=collate_fn,train_size=idx_test,batch_size=batch_size,num_workers=workers,pin_memory=cuda)
+
+    path = '../results/Prediction/' + str(current_date) + '/' + str(test_ratio) + "_" + str(current_time)
+    if not os.path.exists(path):
+        os.makedirs(path)
+    out = open(path + "/out.txt", "w")
+
+    print("Pretrained Model Path " + str(pretrained_path))
+    out.writelines("Pretrained Model Path " + str(pretrained_path))
+    out.writelines("\n")
+    print("Data path :" + str(data_path))
+    out.writelines("Data path : " + str(data_path))
+    out.writelines("\n")
+    print(print("Data path :" + str(data_path)))
+    out.writelines("Learning Rate : " + str(lr))
+    out.writelines("\n")
+    print("Radius :" + str(radius))
+    out.writelines("Radius :" + str(radius))
+    out.writelines("\n")
+    print("Neighbours :" + str(max_num_nbr))
+    out.writelines("Neighbours :" + str(max_num_nbr))
+    out.writelines("\n")
+    print("Epochs " + str(epochs))
+    out.writelines("Epochs " + str(epochs))
+    out.writelines("\n")
+    print("Lamda " + str(lamda))
+    out.writelines("Lamda " + str(lamda))
+    out.writelines("\n")
+    print("Train size " + str(len(idx_train)))
+    out.writelines("Train size " + str(len(idx_train)))
+    out.writelines("\n")
+    print("Test size " + str(len(idx_test)))
+    out.writelines("Test size " + str(len(idx_test)))
+    out.writelines("\n")
+    out.writelines("\n")
 
     print("Load Batch Data(Train/Test) Started .....")
     batch_data_train = []
@@ -177,8 +196,9 @@ def main(seed):
     atom_fea, nbr_fea, nbr_fea_idx = structures[0], structures[1], structures[2]
     orig_atom_fea_len = atom_fea.shape[-1]
     nbr_fea_len = nbr_fea.shape[-1]
-    prop_model = Property_prediction_deep(orig_atom_fea_len, nbr_fea_len, atom_fea_len=atom_fea_len,h_fea_len=h_fea_len, n_conv=n_conv)
 
+
+    prop_model = Property_prediction_deep(orig_atom_fea_len, nbr_fea_len, atom_fea_len=atom_fea_len,h_fea_len=h_fea_len, n_conv=n_conv)
     if pretrained_path!=None:
         model_name=pretrained_path
 
@@ -206,19 +226,21 @@ def main(seed):
     else:
         print("No Pretrained Model.Property Predictor will be trained from Scratch!!")
 
+
+
     # region Optimizer
     optimizer = optim.Adam(prop_model.parameters(), lr, weight_decay=weight_decay)
 
     loss_function = nn.MSELoss().to(device)
     best_test_mae = 999
     best_model=prop_model
+    train_loss=[]
     for epoch in tqdm(range(epochs)):
         prop_model.train()
         mae_list = []
         loss_list = []
         l1_loss_list = []
-
-        # Training Model
+        #Training Model
         for i in range(len(batch_data_train)):
             loss = 0
             ae = 0
@@ -238,7 +260,6 @@ def main(seed):
                 loss = loss+loss_function(targets_var[j], target_p)
                 ae = ae + mae(normalizer.denorm(target_p.data), target_o)
             loss=loss/len(target_predicted)
-
             l1_regularization=sparse_loss(prop_model,input_var)
             loss = loss + lamda * l1_regularization
 
@@ -253,7 +274,7 @@ def main(seed):
         results='Epoch :'+str(epoch+1)\
                 +' Train Loss : '+str(np.mean(loss_list))\
                 +' Train MAE : '+str(np.mean(mae_list))
-
+        train_loss.append(np.mean(loss_list))
         # Testing
         mae_test_list = []
         for i in range(len(batch_data_test)):
@@ -290,6 +311,7 @@ def main(seed):
     print("Best Test MAE :" + str(best_test_mae) + " Best Test Epcoh :" + str(best_test_epoch))
     out.writelines("Best Test MAE :" + str(best_test_mae) + " Best Test Epcoh :" + str(best_test_epoch))
     torch.save(best_model,"../model/model_pp.pth")
+    plot(list(range(epoch + 1)), train_loss,path)
 
 
 

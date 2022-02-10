@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_BaSr2Mn2(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39950741
+_cell_length_b   8.39950741
+_cell_length_c   5.23606388
+_cell_angle_alpha   87.16495377
+_cell_angle_beta   87.16495377
+_cell_angle_gamma   55.90929127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr2Mn2(Si2O7)2
+_chemical_formula_sum   'Ba1 Sr2 Mn2 Si4 O14'
+_cell_volume   305.45013839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77551700  0.22448300  0.00000000  1
+  Sr  Sr1  1  0.30138800  0.10619900  0.01893500  1
+  Sr  Sr2  1  0.89380100  0.69861200  0.98106500  1
+  Mn  Mn3  1  0.30385400  0.69614600  0.00000000  1
+  Mn  Mn4  1  0.10962900  0.89037100  0.50000000  1
+  Si  Si5  1  0.62891900  0.02271600  0.51311600  1
+  Si  Si6  1  0.97728400  0.37108100  0.48688400  1
+  Si  Si7  1  0.55729700  0.70514200  0.53906300  1
+  Si  Si8  1  0.29485800  0.44270300  0.46093700  1
+  O  O9  1  0.58888000  0.86624900  0.66997200  1
+  O  O10  1  0.13375100  0.41112000  0.33002800  1
+  O  O11  1  0.54215500  0.58401400  0.77963800  1
+  O  O12  1  0.41598600  0.45784500  0.22036200  1
+  O  O13  1  0.99274500  0.37577400  0.79105700  1
+  O  O14  1  0.62422600  0.00725500  0.20894300  1
+  O  O15  1  0.18601600  0.93486100  0.80839900  1
+  O  O16  1  0.06513900  0.81398400  0.19160100  1
+  O  O17  1  0.82121300  0.98542800  0.63535200  1
+  O  O18  1  0.38664100  0.81124100  0.33205600  1
+  O  O19  1  0.18875900  0.61335900  0.66794400  1
+  O  O20  1  0.76602200  0.55945100  0.37813400  1
+  O  O21  1  0.44054900  0.23397800  0.62186600  1
+  O  O22  1  0.01457200  0.17878700  0.36464800  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TlGaI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12338100
+_cell_length_b   8.41248900
+_cell_length_c   16.48539446
+_cell_angle_alpha   84.68349184
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGaI4
+_chemical_formula_sum   'Tl4 Ga4 I16'
+_cell_volume   1121.72998463
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.00365400  0.25545900  0.13781500  1
+  Tl  Tl1  1  0.99634600  0.74454100  0.86218500  1
+  Tl  Tl2  1  0.50365400  0.74454100  0.36218500  1
+  Tl  Tl3  1  0.49634600  0.25545900  0.63781500  1
+  Ga  Ga4  1  0.14192700  0.24361400  0.86062400  1
+  Ga  Ga5  1  0.35807300  0.24361400  0.36062400  1
+  Ga  Ga6  1  0.64192700  0.75638600  0.63937600  1
+  Ga  Ga7  1  0.85807300  0.75638600  0.13937600  1
+  I  I8  1  0.34649400  0.01429800  0.83992700  1
+  I  I9  1  0.14352800  0.86171800  0.08943200  1
+  I  I10  1  0.23884400  0.41967900  0.46808900  1
+  I  I11  1  0.39079800  0.41676900  0.22311900  1
+  I  I12  1  0.65350600  0.98570200  0.16007300  1
+  I  I13  1  0.60920200  0.58323100  0.77688100  1
+  I  I14  1  0.64352800  0.13828200  0.41056800  1
+  I  I15  1  0.76115600  0.58032100  0.53191100  1
+  I  I16  1  0.85647200  0.13828200  0.91056800  1
+  I  I17  1  0.26115600  0.41967900  0.96808900  1
+  I  I18  1  0.35647200  0.86171800  0.58943200  1
+  I  I19  1  0.89079800  0.58323100  0.27688100  1
+  I  I20  1  0.84649400  0.98570200  0.66007300  1
+  I  I21  1  0.15350600  0.01429800  0.33992700  1
+  I  I22  1  0.10920200  0.41676900  0.72311900  1
+  I  I23  1  0.73884400  0.58032100  0.03191100  1

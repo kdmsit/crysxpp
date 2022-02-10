@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca2MgSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90789600
+_cell_length_b   7.90789600
+_cell_length_c   5.05302400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MgSi2O7
+_chemical_formula_sum   'Ca4 Mg2 Si4 O14'
+_cell_volume   315.98994198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.16994600  0.33005400  0.49728100  1
+  Ca  Ca1  1  0.33005400  0.83005400  0.50271900  1
+  Ca  Ca2  1  0.66994600  0.16994600  0.50271900  1
+  Ca  Ca3  1  0.83005400  0.66994600  0.49728100  1
+  Mg  Mg4  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg5  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si6  1  0.64086900  0.85913100  0.06927700  1
+  Si  Si7  1  0.14086900  0.64086900  0.93072300  1
+  Si  Si8  1  0.35913100  0.14086900  0.06927700  1
+  Si  Si9  1  0.85913100  0.35913100  0.93072300  1
+  O  O10  1  0.68484400  0.41799100  0.78090300  1
+  O  O11  1  0.31515600  0.58200900  0.78090300  1
+  O  O12  1  0.41799100  0.31515600  0.21909700  1
+  O  O13  1  0.58200900  0.68484400  0.21909700  1
+  O  O14  1  0.91799100  0.18484400  0.78090300  1
+  O  O15  1  0.81515600  0.91799100  0.21909700  1
+  O  O16  1  0.18484400  0.08200900  0.21909700  1
+  O  O17  1  0.08200900  0.81515600  0.78090300  1
+  O  O18  1  0.85725700  0.35725700  0.25053700  1
+  O  O19  1  0.64274300  0.85725700  0.74946300  1
+  O  O20  1  0.00000000  0.50000000  0.81350800  1
+  O  O21  1  0.50000000  0.00000000  0.18649200  1
+  O  O22  1  0.14274300  0.64274300  0.25053700  1
+  O  O23  1  0.35725700  0.14274300  0.74946300  1

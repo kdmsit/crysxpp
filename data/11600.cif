@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al2ZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79491442
+_cell_length_b   5.79491442
+_cell_length_c   5.79491442
+_cell_angle_alpha   120.96349447
+_cell_angle_beta   119.55896162
+_cell_angle_gamma   89.55246995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2ZnO4
+_chemical_formula_sum   'Al4 Zn2 O8'
+_cell_volume   137.02858615
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.88531200  0.13531200  0.75000000  1
+  Al  Al1  1  0.00000000  0.50000000  0.50000000  1
+  Al  Al2  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al3  1  0.11468800  0.86468800  0.25000000  1
+  Zn  Zn4  1  0.50000000  0.00000000  0.00000000  1
+  Zn  Zn5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.26348600  0.26803300  0.99545400  1
+  O  O7  1  0.75731800  0.27242400  0.01510600  1
+  O  O8  1  0.77257900  0.26803300  0.50454600  1
+  O  O9  1  0.75731800  0.74221300  0.48489400  1
+  O  O10  1  0.24268200  0.25778700  0.51510600  1
+  O  O11  1  0.22742100  0.73196700  0.49545400  1
+  O  O12  1  0.24268200  0.72757600  0.98489400  1
+  O  O13  1  0.73651400  0.73196700  0.00454600  1

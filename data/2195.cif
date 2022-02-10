@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2SrCu(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64446258
+_cell_length_b   7.63690900
+_cell_length_c   7.47921595
+_cell_angle_alpha   60.74711621
+_cell_angle_beta   60.64619416
+_cell_angle_gamma   58.60668963
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrCu(NO2)6
+_chemical_formula_sum   'K2 Sr1 Cu1 N6 O12'
+_cell_volume   308.47845974
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.25000000  0.25000000  1
+  K  K1  1  0.75000000  0.75000000  0.75000000  1
+  Sr  Sr2  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.00000000  1
+  N  N4  1  0.19779900  0.80220100  0.80220100  1
+  N  N5  1  0.78827500  0.78827500  0.21172500  1
+  N  N6  1  0.80221000  0.19779000  0.80221000  1
+  N  N7  1  0.19779000  0.80221000  0.19779000  1
+  N  N8  1  0.21172500  0.21172500  0.78827500  1
+  N  N9  1  0.80220100  0.19779900  0.19779900  1
+  O  O10  1  0.83849100  0.35746000  0.16150900  1
+  O  O11  1  0.64254000  0.16150900  0.35746000  1
+  O  O12  1  0.84289400  0.15710600  0.63857200  1
+  O  O13  1  0.16150900  0.64254000  0.83849100  1
+  O  O14  1  0.82911000  0.62571800  0.37428200  1
+  O  O15  1  0.17089000  0.37428200  0.62571800  1
+  O  O16  1  0.36142800  0.63857200  0.15710600  1
+  O  O17  1  0.35746000  0.83849100  0.64254000  1
+  O  O18  1  0.62571800  0.82911000  0.17089000  1
+  O  O19  1  0.63857200  0.36142800  0.84289400  1
+  O  O20  1  0.37428200  0.17089000  0.82911000  1
+  O  O21  1  0.15710600  0.84289400  0.36142800  1

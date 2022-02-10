@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2CdCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66040530
+_cell_length_b   5.66040530
+_cell_length_c   7.68354807
+_cell_angle_alpha   77.79084215
+_cell_angle_beta   77.79084215
+_cell_angle_gamma   82.21315572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2CdCu2
+_chemical_formula_sum   'Pr4 Cd2 Cu4'
+_cell_volume   234.10809661
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.66153900  0.66153900  0.77153000  1
+  Pr  Pr1  1  0.33846100  0.33846100  0.22847000  1
+  Pr  Pr2  1  0.20951600  0.20951600  0.75455200  1
+  Pr  Pr3  1  0.79048400  0.79048400  0.24544800  1
+  Cd  Cd4  1  0.21412600  0.78587400  0.50000000  1
+  Cd  Cd5  1  0.78587400  0.21412600  0.50000000  1
+  Cu  Cu6  1  0.31618200  0.88687000  0.09419900  1
+  Cu  Cu7  1  0.11313000  0.68381800  0.90580100  1
+  Cu  Cu8  1  0.68381800  0.11313000  0.90580100  1
+  Cu  Cu9  1  0.88687000  0.31618200  0.09419900  1

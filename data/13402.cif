@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnVCuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33549452
+_cell_length_b   5.33548191
+_cell_length_c   6.43836900
+_cell_angle_alpha   89.99961755
+_cell_angle_beta   90.00021301
+_cell_angle_gamma   112.55127263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnVCuO4
+_chemical_formula_sum   'Mn2 V2 Cu2 O8'
+_cell_volume   169.26936141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000300  0.00000400  0.49999800  1
+  Mn  Mn1  1  0.99999800  0.00000000  0.99999800  1
+  V  V2  1  0.36093300  0.63906600  0.75000200  1
+  V  V3  1  0.63906500  0.36093300  0.24999900  1
+  Cu  Cu4  1  0.67628500  0.32372000  0.74999900  1
+  Cu  Cu5  1  0.32371600  0.67628500  0.24999900  1
+  O  O6  1  0.24710600  0.75289200  0.97042800  1
+  O  O7  1  0.75289300  0.24710300  0.47042800  1
+  O  O8  1  0.75289500  0.24710500  0.02957500  1
+  O  O9  1  0.24710600  0.75289500  0.52957200  1
+  O  O10  1  0.23352800  0.27444700  0.75000200  1
+  O  O11  1  0.76647300  0.72555100  0.25000000  1
+  O  O12  1  0.72555200  0.76647200  0.75000200  1
+  O  O13  1  0.27444800  0.23352700  0.24999900  1

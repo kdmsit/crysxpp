@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ni9S10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94881900
+_cell_length_b   6.13864636
+_cell_length_c   7.79251345
+_cell_angle_alpha   100.30149124
+_cell_angle_beta   111.14515774
+_cell_angle_gamma   90.93614752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni9S10
+_chemical_formula_sum   'Ni9 S10'
+_cell_volume   260.11109935
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.08672400  0.72086000  0.68825900  1
+  Ni  Ni1  1  0.18644300  0.39695500  0.88617700  1
+  Ni  Ni2  1  0.40290000  0.81132100  0.31296700  1
+  Ni  Ni3  1  0.59710000  0.18867900  0.68703300  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni5  1  0.68411400  0.89614600  0.90073800  1
+  Ni  Ni6  1  0.81355700  0.60304500  0.11382300  1
+  Ni  Ni7  1  0.91327600  0.27914000  0.31174100  1
+  Ni  Ni8  1  0.31588600  0.10385400  0.09926200  1
+  S  S9  1  0.47671600  0.54689700  0.80131100  1
+  S  S10  1  0.71088500  0.84758900  0.60854500  1
+  S  S11  1  0.87709300  0.36416400  0.59680300  1
+  S  S12  1  0.31329600  0.05206200  0.79775400  1
+  S  S13  1  0.12290700  0.63583600  0.40319700  1
+  S  S14  1  0.08201100  0.75191100  0.99680300  1
+  S  S15  1  0.28911500  0.15241100  0.39145500  1
+  S  S16  1  0.52328400  0.45310300  0.19868900  1
+  S  S17  1  0.68670400  0.94793800  0.20224600  1
+  S  S18  1  0.91798900  0.24808900  0.00319700  1

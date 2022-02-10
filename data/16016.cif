@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Cd(AuS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.87541968
+_cell_length_b   9.87541968
+_cell_length_c   9.87541968
+_cell_angle_alpha   137.68232384
+_cell_angle_beta   113.56446310
+_cell_angle_gamma   81.99821076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Cd(AuS)4
+_chemical_formula_sum   'K4 Cd2 Au8 S8'
+_cell_volume   574.91697709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.15172800  0.16138500  0.31311300  1
+  K  K1  1  0.34827200  0.66138500  0.00965600  1
+  K  K2  1  0.65172800  0.33861500  0.99034400  1
+  K  K3  1  0.84827200  0.83861500  0.68688700  1
+  Cd  Cd4  1  0.75000000  0.75000000  0.00000000  1
+  Cd  Cd5  1  0.25000000  0.25000000  0.00000000  1
+  Au  Au6  1  0.13737900  0.63737900  0.50000000  1
+  Au  Au7  1  0.86262100  0.36262100  0.50000000  1
+  Au  Au8  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au9  1  0.63737900  0.13737900  0.50000000  1
+  Au  Au10  1  0.36262100  0.86262100  0.50000000  1
+  Au  Au11  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au12  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au13  1  0.50000000  0.50000000  0.50000000  1
+  S  S14  1  0.01908400  0.35019200  0.10811900  1
+  S  S15  1  0.74207400  0.85019200  0.33110800  1
+  S  S16  1  0.75792600  0.08903400  0.10811900  1
+  S  S17  1  0.98091600  0.64980800  0.89188100  1
+  S  S18  1  0.25792600  0.14980800  0.66889200  1
+  S  S19  1  0.51908400  0.41096600  0.66889200  1
+  S  S20  1  0.48091600  0.58903400  0.33110800  1
+  S  S21  1  0.24207400  0.91096600  0.89188100  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaWO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61179740
+_cell_length_b   7.61179740
+_cell_length_c   7.61179740
+_cell_angle_alpha   135.67045328
+_cell_angle_beta   135.67045328
+_cell_angle_gamma   64.49023313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaWO4
+_chemical_formula_sum   'Ba2 W2 O8'
+_cell_volume   212.36529879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12500000  0.37500000  0.75000000  1
+  Ba  Ba1  1  0.87500000  0.62500000  0.25000000  1
+  W  W2  1  0.62500000  0.87500000  0.75000000  1
+  W  W3  1  0.37500000  0.12500000  0.25000000  1
+  O  O4  1  0.68548000  0.32978800  0.60778300  1
+  O  O5  1  0.82978800  0.72200400  0.64430800  1
+  O  O6  1  0.57769600  0.18548000  0.85569200  1
+  O  O7  1  0.22200400  0.07769600  0.89221700  1
+  O  O8  1  0.77799600  0.92230400  0.10778300  1
+  O  O9  1  0.42230400  0.81452000  0.14430800  1
+  O  O10  1  0.17021200  0.27799600  0.35569200  1
+  O  O11  1  0.31452000  0.67021200  0.39221700  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr3GeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41236974
+_cell_length_b   6.41236974
+_cell_length_c   6.41236974
+_cell_angle_alpha   133.40036990
+_cell_angle_beta   133.40036990
+_cell_angle_gamma   68.02608705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3GeO8
+_chemical_formula_sum   'Zr3 Ge1 O8'
+_cell_volume   136.77589340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  0.25000000  0.50000000  1
+  Zr  Zr1  1  0.25000000  0.75000000  0.50000000  1
+  Zr  Zr2  1  0.50000000  0.50000000  0.00000000  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.87505300  0.30219800  0.00000000  1
+  O  O5  1  0.69780200  0.69780200  0.57285600  1
+  O  O6  1  0.12494700  0.12494700  0.42714400  1
+  O  O7  1  0.30219800  0.87505300  0.00000000  1
+  O  O8  1  0.53591500  0.14435000  0.00000000  1
+  O  O9  1  0.85565000  0.85565000  0.39156500  1
+  O  O10  1  0.46408500  0.46408500  0.60843500  1
+  O  O11  1  0.14435000  0.53591500  0.00000000  1

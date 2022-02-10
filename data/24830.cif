@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SiBi3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24321337
+_cell_length_b   8.24321337
+_cell_length_c   5.35178400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiBi3O7
+_chemical_formula_sum   'Si2 Bi6 O14'
+_cell_volume   314.93600430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.66666700  0.33333300  0.32421900  1
+  Si  Si1  1  0.33333300  0.66666700  0.82421900  1
+  Bi  Bi2  1  0.34284500  0.24647100  0.79397600  1
+  Bi  Bi3  1  0.75352900  0.09637400  0.79397600  1
+  Bi  Bi4  1  0.09637400  0.34284500  0.29397600  1
+  Bi  Bi5  1  0.90362600  0.65715500  0.79397600  1
+  Bi  Bi6  1  0.24647100  0.90362600  0.29397600  1
+  Bi  Bi7  1  0.65715500  0.75352900  0.29397600  1
+  O  O8  1  0.24430600  0.16192500  0.17611700  1
+  O  O9  1  0.53145000  0.12239000  0.44988500  1
+  O  O10  1  0.83807500  0.08238100  0.17611700  1
+  O  O11  1  0.66666700  0.33333300  0.01539300  1
+  O  O12  1  0.59094000  0.46855000  0.44988500  1
+  O  O13  1  0.87761000  0.40906000  0.44988500  1
+  O  O14  1  0.08238100  0.24430600  0.67611700  1
+  O  O15  1  0.91761900  0.75569400  0.17611700  1
+  O  O16  1  0.12239000  0.59094000  0.94988500  1
+  O  O17  1  0.40906000  0.53145000  0.94988500  1
+  O  O18  1  0.33333300  0.66666700  0.51539300  1
+  O  O19  1  0.16192500  0.91761900  0.67611700  1
+  O  O20  1  0.46855000  0.87761000  0.94988500  1
+  O  O21  1  0.75569400  0.83807500  0.67611700  1

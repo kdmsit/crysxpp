@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2TcI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06790800
+_cell_length_b   8.00736700
+_cell_length_c   14.08057496
+_cell_angle_alpha   55.82799012
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TcI6
+_chemical_formula_sum   'K4 Tc2 I12'
+_cell_volume   752.59787826
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.45687600  0.73427100  0.25101100  1
+  K  K1  1  0.95687600  0.26572900  0.24898900  1
+  K  K2  1  0.04312400  0.73427100  0.75101100  1
+  K  K3  1  0.54312400  0.26572900  0.74898900  1
+  Tc  Tc4  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc5  1  0.50000000  0.00000000  0.50000000  1
+  I  I6  1  0.80184500  0.30435700  0.97391300  1
+  I  I7  1  0.49880500  0.18456200  0.26565300  1
+  I  I8  1  0.50119500  0.81543800  0.73434700  1
+  I  I9  1  0.27926700  0.21610200  0.98045500  1
+  I  I10  1  0.30184500  0.69564300  0.52608700  1
+  I  I11  1  0.22073300  0.21610200  0.48045500  1
+  I  I12  1  0.19815500  0.69564300  0.02608700  1
+  I  I13  1  0.77926700  0.78389800  0.51954500  1
+  I  I14  1  0.72073300  0.78389800  0.01954500  1
+  I  I15  1  0.99880500  0.81543800  0.23434700  1
+  I  I16  1  0.00119500  0.18456200  0.76565300  1
+  I  I17  1  0.69815500  0.30435700  0.47391300  1

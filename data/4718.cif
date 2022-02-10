@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(SnP3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16802100
+_cell_length_b   12.30717700
+_cell_length_c   13.91667200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(SnP3)2
+_chemical_formula_sum   'Sr10 Sn4 P12'
+_cell_volume   713.87756985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.62897600  0.06954800  1
+  Sr  Sr1  1  0.00000000  0.61886000  0.74217500  1
+  Sr  Sr2  1  0.00000000  0.12897600  0.43045200  1
+  Sr  Sr3  1  0.00000000  0.87102400  0.56954800  1
+  Sr  Sr4  1  0.00000000  0.50000000  0.50000000  1
+  Sr  Sr5  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr6  1  0.00000000  0.88114000  0.24217500  1
+  Sr  Sr7  1  0.00000000  0.11886000  0.75782500  1
+  Sr  Sr8  1  0.00000000  0.38114000  0.25782500  1
+  Sr  Sr9  1  0.00000000  0.37102400  0.93045200  1
+  Sn  Sn10  1  0.50000000  0.28531600  0.60347000  1
+  Sn  Sn11  1  0.50000000  0.21468400  0.10347000  1
+  Sn  Sn12  1  0.50000000  0.78531600  0.89653000  1
+  Sn  Sn13  1  0.50000000  0.71468400  0.39653000  1
+  P  P14  1  0.00000000  0.63450000  0.30642300  1
+  P  P15  1  0.50000000  0.07981500  0.60185000  1
+  P  P16  1  0.50000000  0.42018500  0.10185000  1
+  P  P17  1  0.50000000  0.57981500  0.89815000  1
+  P  P18  1  0.50000000  0.66987000  0.57585900  1
+  P  P19  1  0.50000000  0.33013000  0.42414100  1
+  P  P20  1  0.50000000  0.16987000  0.92414100  1
+  P  P21  1  0.50000000  0.83013000  0.07585900  1
+  P  P22  1  0.50000000  0.92018500  0.39815000  1
+  P  P23  1  0.00000000  0.86550000  0.80642300  1
+  P  P24  1  0.00000000  0.36550000  0.69357700  1
+  P  P25  1  0.00000000  0.13450000  0.19357700  1

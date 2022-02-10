@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_ThInCu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08874800
+_cell_length_b   8.34222100
+_cell_length_c   10.64225300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThInCu5
+_chemical_formula_sum   'Th4 In4 Cu20'
+_cell_volume   451.77918211
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.75000000  0.24717700  0.93981800  1
+  Th  Th1  1  0.25000000  0.75282300  0.06018200  1
+  Th  Th2  1  0.75000000  0.74717700  0.56018200  1
+  Th  Th3  1  0.25000000  0.25282300  0.43981800  1
+  In  In4  1  0.75000000  0.36125800  0.63803100  1
+  In  In5  1  0.25000000  0.63874200  0.36196900  1
+  In  In6  1  0.75000000  0.86125800  0.86196900  1
+  In  In7  1  0.25000000  0.13874200  0.13803100  1
+  Cu  Cu8  1  0.00076800  0.43191200  0.18747200  1
+  Cu  Cu9  1  0.50076800  0.56808800  0.81252800  1
+  Cu  Cu10  1  0.49923200  0.93191200  0.31252800  1
+  Cu  Cu11  1  0.99923200  0.06808800  0.68747200  1
+  Cu  Cu12  1  0.99923200  0.56808800  0.81252800  1
+  Cu  Cu13  1  0.49923200  0.43191200  0.18747200  1
+  Cu  Cu14  1  0.50076800  0.06808800  0.68747200  1
+  Cu  Cu15  1  0.00076800  0.93191200  0.31252800  1
+  Cu  Cu16  1  0.75000000  0.43964900  0.39383500  1
+  Cu  Cu17  1  0.25000000  0.56035100  0.60616500  1
+  Cu  Cu18  1  0.75000000  0.93964900  0.10616500  1
+  Cu  Cu19  1  0.25000000  0.06035100  0.89383500  1
+  Cu  Cu20  1  0.75000000  0.18193500  0.25544400  1
+  Cu  Cu21  1  0.25000000  0.81806500  0.74455600  1
+  Cu  Cu22  1  0.75000000  0.68193500  0.24455600  1
+  Cu  Cu23  1  0.25000000  0.31806500  0.75544400  1
+  Cu  Cu24  1  0.75000000  0.08403200  0.48368400  1
+  Cu  Cu25  1  0.25000000  0.91596800  0.51631600  1
+  Cu  Cu26  1  0.75000000  0.58403200  0.01631600  1
+  Cu  Cu27  1  0.25000000  0.41596800  0.98368400  1

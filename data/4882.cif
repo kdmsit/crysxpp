@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeVO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43629900
+_cell_length_b   5.79930500
+_cell_length_c   7.83743000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeVO3
+_chemical_formula_sum   'Ce4 V4 O12'
+_cell_volume   247.08874306
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.52010300  0.56863200  0.25000000  1
+  Ce  Ce1  1  0.02010300  0.93136800  0.75000000  1
+  Ce  Ce2  1  0.47989700  0.43136800  0.75000000  1
+  Ce  Ce3  1  0.97989700  0.06863200  0.25000000  1
+  V  V4  1  0.00000000  0.50000000  0.50000000  1
+  V  V5  1  0.50000000  0.00000000  0.50000000  1
+  V  V6  1  0.00000000  0.50000000  0.00000000  1
+  V  V7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.18925400  0.19352400  0.56038900  1
+  O  O9  1  0.68925400  0.30647600  0.43961100  1
+  O  O10  1  0.81074600  0.80647600  0.43961100  1
+  O  O11  1  0.31074600  0.69352400  0.56038900  1
+  O  O12  1  0.81074600  0.80647600  0.06038900  1
+  O  O13  1  0.31074600  0.69352400  0.93961100  1
+  O  O14  1  0.18925400  0.19352400  0.93961100  1
+  O  O15  1  0.68925400  0.30647600  0.06038900  1
+  O  O16  1  0.11859900  0.45401700  0.25000000  1
+  O  O17  1  0.61859900  0.04598300  0.75000000  1
+  O  O18  1  0.88140100  0.54598300  0.75000000  1
+  O  O19  1  0.38140100  0.95401700  0.25000000  1

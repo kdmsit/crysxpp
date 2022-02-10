@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiErSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90067295
+_cell_length_b   6.90067295
+_cell_length_c   6.90067344
+_cell_angle_alpha   34.01206504
+_cell_angle_beta   34.01206504
+_cell_angle_gamma   34.01205965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErSe2
+_chemical_formula_sum   'Li1 Er1 Se2'
+_cell_volume   91.65126264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Er  Er1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se2  1  0.24957600  0.24957600  0.24957600  1
+  Se  Se3  1  0.75042400  0.75042400  0.75042400  1

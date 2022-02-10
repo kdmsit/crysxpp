@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NbNiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53981800
+_cell_length_b   5.64043300
+_cell_length_c   12.59804000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbNiAs2
+_chemical_formula_sum   'Nb4 Ni4 As8'
+_cell_volume   251.53380532
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.75000000  0.49047900  0.32836200  1
+  Nb  Nb1  1  0.25000000  0.50952100  0.67163800  1
+  Nb  Nb2  1  0.75000000  0.99047900  0.17163800  1
+  Nb  Nb3  1  0.25000000  0.00952100  0.82836200  1
+  Ni  Ni4  1  0.75000000  0.47914600  0.08742400  1
+  Ni  Ni5  1  0.25000000  0.52085400  0.91257600  1
+  Ni  Ni6  1  0.75000000  0.97914600  0.41257600  1
+  Ni  Ni7  1  0.25000000  0.02085400  0.58742400  1
+  As  As8  1  0.75000000  0.35446300  0.80981500  1
+  As  As9  1  0.25000000  0.64553700  0.19018500  1
+  As  As10  1  0.75000000  0.85446300  0.69018500  1
+  As  As11  1  0.25000000  0.14553700  0.30981500  1
+  As  As12  1  0.75000000  0.30390400  0.53701400  1
+  As  As13  1  0.25000000  0.69609600  0.46298600  1
+  As  As14  1  0.75000000  0.80390400  0.96298600  1
+  As  As15  1  0.25000000  0.19609600  0.03701400  1

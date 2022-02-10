@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeReO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40183400
+_cell_length_b   7.59291500
+_cell_length_c   7.68183964
+_cell_angle_alpha   80.13494578
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeReO4
+_chemical_formula_sum   'Ce4 Re4 O16'
+_cell_volume   310.41706337
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.27977800  0.39721200  0.34210800  1
+  Ce  Ce1  1  0.22022200  0.89721200  0.34210800  1
+  Ce  Ce2  1  0.77977800  0.10278800  0.65789200  1
+  Ce  Ce3  1  0.72022200  0.60278800  0.65789200  1
+  Re  Re4  1  0.77963300  0.19863100  0.16461900  1
+  Re  Re5  1  0.72036700  0.69863100  0.16461900  1
+  Re  Re6  1  0.27963300  0.30136900  0.83538100  1
+  Re  Re7  1  0.22036700  0.80136900  0.83538100  1
+  O  O8  1  0.08448300  0.29278300  0.05004300  1
+  O  O9  1  0.41551700  0.79278300  0.05004300  1
+  O  O10  1  0.65433700  0.44207900  0.17200000  1
+  O  O11  1  0.84566300  0.94207900  0.17200000  1
+  O  O12  1  0.49228100  0.12317700  0.32444200  1
+  O  O13  1  0.98665500  0.17042300  0.39285500  1
+  O  O14  1  0.00771900  0.62317700  0.32444200  1
+  O  O15  1  0.51334500  0.67042300  0.39285500  1
+  O  O16  1  0.48665500  0.32957700  0.60714500  1
+  O  O17  1  0.99228100  0.37682300  0.67555800  1
+  O  O18  1  0.01334500  0.82957700  0.60714500  1
+  O  O19  1  0.50771900  0.87682300  0.67555800  1
+  O  O20  1  0.15433700  0.05792100  0.82800000  1
+  O  O21  1  0.34566300  0.55792100  0.82800000  1
+  O  O22  1  0.58448300  0.20721700  0.94995700  1
+  O  O23  1  0.91551700  0.70721700  0.94995700  1

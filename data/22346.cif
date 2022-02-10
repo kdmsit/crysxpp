@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaCu3(RuO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53453233
+_cell_length_b   6.53453233
+_cell_length_c   6.53453233
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCu3(RuO3)4
+_chemical_formula_sum   'La1 Cu3 Ru4 O12'
+_cell_volume   214.79375104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.50000000  1
+  Ru  Ru4  1  0.50000000  0.50000000  0.50000000  1
+  Ru  Ru5  1  0.50000000  0.00000000  0.00000000  1
+  Ru  Ru6  1  0.00000000  0.00000000  0.50000000  1
+  Ru  Ru7  1  0.00000000  0.50000000  0.00000000  1
+  O  O8  1  0.17272900  0.30614000  0.47886900  1
+  O  O9  1  0.86658900  0.17272900  0.69386000  1
+  O  O10  1  0.30614000  0.13341100  0.82727100  1
+  O  O11  1  0.69386000  0.86658900  0.17272900  1
+  O  O12  1  0.13341100  0.82727100  0.30614000  1
+  O  O13  1  0.82727100  0.30614000  0.13341100  1
+  O  O14  1  0.82727100  0.69386000  0.52113100  1
+  O  O15  1  0.30614000  0.47886900  0.17272900  1
+  O  O16  1  0.17272900  0.69386000  0.86658900  1
+  O  O17  1  0.47886900  0.17272900  0.30614000  1
+  O  O18  1  0.69386000  0.52113100  0.82727100  1
+  O  O19  1  0.52113100  0.82727100  0.69386000  1

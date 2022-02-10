@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy7(TeIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.42943537
+_cell_length_b   9.42943537
+_cell_length_c   9.42943537
+_cell_angle_alpha   155.79078644
+_cell_angle_beta   119.81913187
+_cell_angle_gamma   65.83800781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy7(TeIr)2
+_chemical_formula_sum   'Dy7 Te2 Ir2'
+_cell_volume   295.97447243
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.08101200  0.18370000  0.89731200  1
+  Dy  Dy1  1  0.40539700  0.14779700  0.25760000  1
+  Dy  Dy2  1  0.02345900  0.50000000  0.52345900  1
+  Dy  Dy3  1  0.47500800  0.36872700  0.10628100  1
+  Dy  Dy4  1  0.73755400  0.63127300  0.10628100  1
+  Dy  Dy5  1  0.71361200  0.81630000  0.89731200  1
+  Dy  Dy6  1  0.10980300  0.85220300  0.25760000  1
+  Te  Te7  1  0.75998600  0.00000000  0.75998600  1
+  Te  Te8  1  0.35903800  0.50000000  0.85903800  1
+  Ir  Ir9  1  0.85549400  0.26098800  0.59450600  1
+  Ir  Ir10  1  0.33351800  0.73901200  0.59450600  1

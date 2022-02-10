@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti2Mn3Co3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67722853
+_cell_length_b   5.67722853
+_cell_length_c   9.02587284
+_cell_angle_alpha   89.30135171
+_cell_angle_beta   89.30135171
+_cell_angle_gamma   60.23835760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Mn3Co3O16
+_chemical_formula_sum   'Ti2 Mn3 Co3 O16'
+_cell_volume   252.51521261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66520100  0.66520100  0.50486200  1
+  Ti  Ti1  1  0.33326000  0.33326000  0.00318400  1
+  Mn  Mn2  1  0.83279900  0.83279900  0.78654700  1
+  Mn  Mn3  1  0.16862000  0.66420000  0.28611600  1
+  Mn  Mn4  1  0.66420000  0.16862000  0.28611600  1
+  Co  Co5  1  0.33729500  0.83284100  0.78770700  1
+  Co  Co6  1  0.83284100  0.33729500  0.78770700  1
+  Co  Co7  1  0.16844900  0.16844900  0.28817200  1
+  O  O8  1  0.33009600  0.83840500  0.39890200  1
+  O  O9  1  0.52002000  0.52002000  0.67213300  1
+  O  O10  1  0.66561800  0.66561800  0.89563400  1
+  O  O11  1  0.00267500  0.00267500  0.68303800  1
+  O  O12  1  0.00143000  0.00143000  0.18144500  1
+  O  O13  1  0.83840500  0.33009600  0.39890200  1
+  O  O14  1  0.51623400  0.96198900  0.66668000  1
+  O  O15  1  0.96198900  0.51623400  0.66668000  1
+  O  O16  1  0.16269800  0.16269800  0.89477500  1
+  O  O17  1  0.83273600  0.83273600  0.40184900  1
+  O  O18  1  0.03769200  0.47637500  0.16737700  1
+  O  O19  1  0.47637500  0.03769200  0.16737700  1
+  O  O20  1  0.33334200  0.33334200  0.39679300  1
+  O  O21  1  0.16873300  0.66726900  0.89954300  1
+  O  O22  1  0.48187400  0.48187400  0.16330400  1
+  O  O23  1  0.66726900  0.16873300  0.89954300  1

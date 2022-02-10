@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KAlAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30575900
+_cell_length_b   6.39044132
+_cell_length_c   8.32499693
+_cell_angle_alpha   96.79878221
+_cell_angle_beta   104.57823376
+_cell_angle_gamma   102.49408907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlAs2O7
+_chemical_formula_sum   'K2 Al2 As4 O14'
+_cell_volume   311.63179394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.50000000  1
+  K  K1  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al2  1  0.62530100  0.31119900  0.77216000  1
+  Al  Al3  1  0.37469900  0.68880100  0.22784000  1
+  As  As4  1  0.17547300  0.47039700  0.81186100  1
+  As  As5  1  0.82452700  0.52960300  0.18813900  1
+  As  As6  1  0.51241400  0.75629400  0.66406700  1
+  As  As7  1  0.48758600  0.24370600  0.33593300  1
+  O  O8  1  0.90630600  0.31256100  0.72258900  1
+  O  O9  1  0.09369400  0.68743900  0.27741100  1
+  O  O10  1  0.33761800  0.28858500  0.81599500  1
+  O  O11  1  0.66238200  0.71141500  0.18400500  1
+  O  O12  1  0.21751500  0.64942800  0.99019700  1
+  O  O13  1  0.78248500  0.35057200  0.00980300  1
+  O  O14  1  0.22224700  0.63708900  0.65522700  1
+  O  O15  1  0.77775300  0.36291100  0.34477300  1
+  O  O16  1  0.41383800  0.98974200  0.22064600  1
+  O  O17  1  0.58616200  0.01025800  0.77935400  1
+  O  O18  1  0.45875800  0.24787400  0.53333000  1
+  O  O19  1  0.54124200  0.75212600  0.46667000  1
+  O  O20  1  0.31991100  0.38122200  0.21983200  1
+  O  O21  1  0.68008900  0.61877800  0.78016800  1

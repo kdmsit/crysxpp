@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50476209
+_cell_length_b   7.50476209
+_cell_length_c   7.18469364
+_cell_angle_alpha   86.58668639
+_cell_angle_beta   86.58668639
+_cell_angle_gamma   33.32877442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSb2
+_chemical_formula_sum   'K2 Sb4'
+_cell_volume   221.90343196
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.63426200  0.63426200  0.37039000  1
+  K  K1  1  0.36573800  0.36573800  0.62961000  1
+  Sb  Sb2  1  0.31454400  0.31454400  0.12812800  1
+  Sb  Sb3  1  0.68545600  0.68545600  0.87187200  1
+  Sb  Sb4  1  0.05218300  0.05218300  0.81940300  1
+  Sb  Sb5  1  0.94781700  0.94781700  0.18059700  1

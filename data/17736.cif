@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Er3CoSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59804750
+_cell_length_b   5.59804750
+_cell_length_c   13.37586048
+_cell_angle_alpha   70.53045041
+_cell_angle_beta   70.53045041
+_cell_angle_gamma   43.48342427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3CoSi3
+_chemical_formula_sum   'Er6 Co2 Si6'
+_cell_volume   269.24240023
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.74668700  0.74668700  0.77154800  1
+  Er  Er1  1  0.39902100  0.39902100  0.91961400  1
+  Er  Er2  1  0.60097900  0.60097900  0.08038600  1
+  Er  Er3  1  0.47498900  0.47498900  0.37934200  1
+  Er  Er4  1  0.25331300  0.25331300  0.22845200  1
+  Er  Er5  1  0.52501100  0.52501100  0.62065800  1
+  Co  Co6  1  0.75283100  0.75283100  0.41711700  1
+  Co  Co7  1  0.24716900  0.24716900  0.58288300  1
+  Si  Si8  1  0.05180900  0.05180900  0.75896900  1
+  Si  Si9  1  0.13893200  0.13893200  0.45595900  1
+  Si  Si10  1  0.86106800  0.86106800  0.54404100  1
+  Si  Si11  1  0.94819100  0.94819100  0.24103100  1
+  Si  Si12  1  0.88447700  0.88447700  0.07604200  1
+  Si  Si13  1  0.11552300  0.11552300  0.92395800  1

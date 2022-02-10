@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sm2Be2GeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56553300
+_cell_length_b   7.56553300
+_cell_length_c   4.89055400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Be2GeO7
+_chemical_formula_sum   'Sm4 Be4 Ge2 O14'
+_cell_volume   279.92205548
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.65903400  0.84096600  0.50440800  1
+  Sm  Sm1  1  0.15903400  0.65903400  0.49559200  1
+  Sm  Sm2  1  0.84096600  0.34096600  0.49559200  1
+  Sm  Sm3  1  0.34096600  0.15903400  0.50440800  1
+  Be  Be4  1  0.36618100  0.86618100  0.04296900  1
+  Be  Be5  1  0.86618100  0.63381900  0.95703100  1
+  Be  Be6  1  0.63381900  0.13381900  0.04296900  1
+  Be  Be7  1  0.13381900  0.36618100  0.95703100  1
+  Ge  Ge8  1  0.50000000  0.50000000  0.00000000  1
+  Ge  Ge9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.92068000  0.82706700  0.79082400  1
+  O  O11  1  0.17293300  0.92068000  0.20917600  1
+  O  O12  1  0.57932000  0.32706700  0.20917600  1
+  O  O13  1  0.42068000  0.67293300  0.20917600  1
+  O  O14  1  0.32706700  0.42068000  0.79082400  1
+  O  O15  1  0.67293300  0.57932000  0.79082400  1
+  O  O16  1  0.00000000  0.50000000  0.82260900  1
+  O  O17  1  0.50000000  0.00000000  0.17739100  1
+  O  O18  1  0.14165800  0.35834200  0.28171300  1
+  O  O19  1  0.64165800  0.14165800  0.71828700  1
+  O  O20  1  0.35834200  0.85834200  0.71828700  1
+  O  O21  1  0.85834200  0.64165800  0.28171300  1
+  O  O22  1  0.07932000  0.17293300  0.79082400  1
+  O  O23  1  0.82706700  0.07932000  0.20917600  1

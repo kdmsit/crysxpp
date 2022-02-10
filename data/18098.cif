@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb4Mg3Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74624200
+_cell_length_b   7.47375800
+_cell_length_c   8.17571575
+_cell_angle_alpha   70.23390107
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Mg3Co2
+_chemical_formula_sum   'Tb4 Mg3 Co2'
+_cell_volume   215.42081405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.60150900  0.17873200  1
+  Tb  Tb1  1  0.50000000  0.39849100  0.82126800  1
+  Tb  Tb2  1  0.50000000  0.09719100  0.27228300  1
+  Tb  Tb3  1  0.50000000  0.90280900  0.72771700  1
+  Mg  Mg4  1  0.00000000  0.70841200  0.50199700  1
+  Mg  Mg5  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg6  1  0.00000000  0.29158800  0.49800300  1
+  Co  Co7  1  0.00000000  0.64901200  0.89329100  1
+  Co  Co8  1  0.00000000  0.35098800  0.10670900  1

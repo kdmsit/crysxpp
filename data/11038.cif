@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErAl4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94166063
+_cell_length_b   7.94166063
+_cell_length_c   6.51524900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.17583137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAl4Ni
+_chemical_formula_sum   'Er2 Al8 Ni2'
+_cell_volume   204.36523644
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.11839900  0.88160100  0.75000000  1
+  Er  Er1  1  0.88160100  0.11839900  0.25000000  1
+  Al  Al2  1  0.92530800  0.07469200  0.75000000  1
+  Al  Al3  1  0.68830300  0.31169700  0.44880700  1
+  Al  Al4  1  0.07469200  0.92530800  0.25000000  1
+  Al  Al5  1  0.31169700  0.68830300  0.94880700  1
+  Al  Al6  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al7  1  0.68830300  0.31169700  0.05119300  1
+  Al  Al8  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al9  1  0.31169700  0.68830300  0.55119300  1
+  Ni  Ni10  1  0.22448800  0.77551200  0.25000000  1
+  Ni  Ni11  1  0.77551200  0.22448800  0.75000000  1

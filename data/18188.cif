@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Nd3MnBi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.67833614
+_cell_length_b   9.67833614
+_cell_length_c   6.51114800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3MnBi5
+_chemical_formula_sum   'Nd6 Mn2 Bi10'
+_cell_volume   528.18929817
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.37926300  0.75000000  1
+  Nd  Nd1  1  0.62073700  0.00000000  0.25000000  1
+  Nd  Nd2  1  0.62073700  0.62073700  0.75000000  1
+  Nd  Nd3  1  0.00000000  0.62073700  0.25000000  1
+  Nd  Nd4  1  0.37926300  0.37926300  0.25000000  1
+  Nd  Nd5  1  0.37926300  0.00000000  0.75000000  1
+  Mn  Mn6  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi8  1  0.66666700  0.33333300  0.00000000  1
+  Bi  Bi9  1  0.25466400  0.00000000  0.25000000  1
+  Bi  Bi10  1  0.33333300  0.66666700  0.50000000  1
+  Bi  Bi11  1  0.25466400  0.25466400  0.75000000  1
+  Bi  Bi12  1  0.74533600  0.00000000  0.75000000  1
+  Bi  Bi13  1  0.00000000  0.74533600  0.75000000  1
+  Bi  Bi14  1  0.74533600  0.74533600  0.25000000  1
+  Bi  Bi15  1  0.00000000  0.25466400  0.25000000  1
+  Bi  Bi16  1  0.33333300  0.66666700  0.00000000  1
+  Bi  Bi17  1  0.66666700  0.33333300  0.50000000  1

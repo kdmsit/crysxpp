@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96040892
+_cell_length_b   3.96048317
+_cell_length_c   15.85076600
+_cell_angle_alpha   89.99953594
+_cell_angle_beta   90.00002215
+_cell_angle_gamma   90.00543198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTiO3
+_chemical_formula_sum   'Eu4 Ti4 O12'
+_cell_volume   248.62136942
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000100  0.49999900  0.62501800  1
+  Eu  Eu1  1  0.49999800  0.50000000  0.87500900  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.12496700  1
+  Eu  Eu3  1  0.49999900  0.50000000  0.37499900  1
+  Ti  Ti4  1  0.00000000  0.99999900  0.99994100  1
+  Ti  Ti5  1  0.00000000  0.00000000  0.25002800  1
+  Ti  Ti6  1  0.00000100  0.00000100  0.49994200  1
+  Ti  Ti7  1  0.99999900  0.99999900  0.75007500  1
+  O  O8  1  0.00000000  0.00000000  0.12502300  1
+  O  O9  1  0.00000000  0.00000000  0.37499900  1
+  O  O10  1  0.00000000  0.00000000  0.62501700  1
+  O  O11  1  0.00000000  0.00000000  0.87498400  1
+  O  O12  1  0.99999900  0.50000100  0.99996600  1
+  O  O13  1  0.00000000  0.50000000  0.24999900  1
+  O  O14  1  0.00000000  0.49999900  0.50001700  1
+  O  O15  1  0.00000100  0.50000000  0.75001700  1
+  O  O16  1  0.50000000  0.00000000  0.99996600  1
+  O  O17  1  0.50000000  0.00000000  0.24999900  1
+  O  O18  1  0.50000100  0.00000000  0.50001600  1
+  O  O19  1  0.50000000  0.00000100  0.75001700  1

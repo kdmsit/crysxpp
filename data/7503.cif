@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17563299
+_cell_length_b   7.17563299
+_cell_length_c   7.17563299
+_cell_angle_alpha   106.76886379
+_cell_angle_beta   106.76886379
+_cell_angle_gamma   115.02267876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCl4
+_chemical_formula_sum   'Th2 Cl8'
+_cell_volume   282.39701508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.25000000  0.75000000  0.50000000  1
+  Th  Th1  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl2  1  0.92971600  0.24271300  0.31299700  1
+  Cl  Cl3  1  0.86671900  0.67971600  0.18700300  1
+  Cl  Cl4  1  0.38328100  0.07028400  0.31299700  1
+  Cl  Cl5  1  0.32028400  0.50728700  0.18700300  1
+  Cl  Cl6  1  0.32028400  0.13328100  0.81299700  1
+  Cl  Cl7  1  0.75728700  0.07028400  0.68700300  1
+  Cl  Cl8  1  0.92971600  0.61671900  0.68700300  1
+  Cl  Cl9  1  0.49271300  0.67971600  0.81299700  1

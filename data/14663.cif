@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78052700
+_cell_length_b   4.86455800
+_cell_length_c   5.15218732
+_cell_angle_alpha   89.07644389
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNbO4
+_chemical_formula_sum   'Sc2 Nb2 O8'
+_cell_volume   144.85918636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.68119500  0.50000000  0.75000000  1
+  Sc  Sc1  1  0.31880500  0.50000000  0.25000000  1
+  Nb  Nb2  1  0.81614500  0.00000000  0.25000000  1
+  Nb  Nb3  1  0.18385500  0.00000000  0.75000000  1
+  O  O4  1  0.89233700  0.21936700  0.56410500  1
+  O  O5  1  0.89233700  0.78063300  0.93589500  1
+  O  O6  1  0.10766300  0.21936700  0.06410500  1
+  O  O7  1  0.38513400  0.73446500  0.90740100  1
+  O  O8  1  0.61486600  0.26553500  0.09259900  1
+  O  O9  1  0.10766300  0.78063300  0.43589500  1
+  O  O10  1  0.61486600  0.73446500  0.40740100  1
+  O  O11  1  0.38513400  0.26553500  0.59259900  1

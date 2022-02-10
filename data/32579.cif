@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12129108
+_cell_length_b   7.12129108
+_cell_length_c   7.12129108
+_cell_angle_alpha   127.85865614
+_cell_angle_beta   121.66945916
+_cell_angle_gamma   82.02542190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeSi
+_chemical_formula_sum   'Ti6 Fe6 Si6'
+_cell_volume   233.45028350
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74664000  0.08056300  0.83392400  1
+  Ti  Ti1  1  0.47644300  0.96154500  0.98510100  1
+  Ti  Ti2  1  0.52355700  0.50865800  0.48510100  1
+  Ti  Ti3  1  0.94584700  0.89646800  0.45062100  1
+  Ti  Ti4  1  0.25336000  0.08728400  0.33392400  1
+  Ti  Ti5  1  0.05415300  0.50477500  0.95062100  1
+  Fe  Fe6  1  0.50000000  0.74868000  0.24868000  1
+  Fe  Fe7  1  0.00000000  0.74868000  0.74868000  1
+  Fe  Fe8  1  0.91032800  0.25555700  0.41258400  1
+  Fe  Fe9  1  0.65702700  0.50225600  0.91258400  1
+  Fe  Fe10  1  0.34297300  0.25555700  0.84523000  1
+  Fe  Fe11  1  0.08967200  0.50225600  0.34523000  1
+  Si  Si12  1  0.28021300  0.52312900  0.74291600  1
+  Si  Si13  1  0.15904800  0.17239100  0.99650100  1
+  Si  Si14  1  0.67588900  0.17239100  0.51334200  1
+  Si  Si15  1  0.32411100  0.83745300  0.49650100  1
+  Si  Si16  1  0.71978700  0.46270400  0.24291600  1
+  Si  Si17  1  0.84095200  0.83745300  0.01334200  1

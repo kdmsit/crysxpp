@@ -1,17 +1,17 @@
 # generated using pymatgen
-data_Li3Fe4O3F5
+data_Ca5As3
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   6.12085064
-_cell_length_b   6.00198772
-_cell_length_c   6.16259513
-_cell_angle_alpha   60.47051655
-_cell_angle_beta   88.26065041
-_cell_angle_gamma   118.65132419
+_cell_length_a   8.52900165
+_cell_length_b   8.52900165
+_cell_length_c   6.80417000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999731
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   Li3Fe4O3F5
-_chemical_formula_sum   'Li3 Fe4 O3 F5'
-_cell_volume   161.98241391
-_cell_formula_units_Z   1
+_chemical_formula_structural   Ca5As3
+_chemical_formula_sum   'Ca10 As6'
+_cell_volume   428.64937655
+_cell_formula_units_Z   2
 loop_
  _symmetry_equiv_pos_site_id
  _symmetry_equiv_pos_as_xyz
@@ -24,18 +24,19 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Li  Li1  1  0.492455  0.987118  0.004475  1
-  Li  Li2  1  0.495169  0.997479  0.499895  1
-  Li  Li3  1  0.496727  0.502546  0.493898  1
-  Fe  Fe4  1  0.480855  0.503126  0.014276  1
-  Fe  Fe5  1  0.999427  0.998628  0.000117  1
-  Fe  Fe6  1  0.008983  0.019110  0.490906  1
-  Fe  Fe7  1  0.017529  0.500926  0.477447  1
-  O  O8  1  0.775117  0.999916  0.769445  1
-  O  O9  1  0.272224  0.504703  0.265761  1
-  O  O10  1  0.225984  0.999813  0.231884  1
-  F  F11  1  0.725959  0.472410  0.279006  1
-  F  F12  1  0.268373  0.022983  0.728372  1
-  F  F13  1  0.728413  0.494332  0.736351  1
-  F  F14  1  0.736438  0.973265  0.281218  1
-  F  F15  1  0.276344  0.523645  0.726947  1
+  Ca  Ca0  1  0.33333300  0.66666700  0.00000000  1
+  Ca  Ca1  1  0.66666700  0.33333300  0.50000000  1
+  Ca  Ca2  1  0.66666700  0.33333300  0.00000000  1
+  Ca  Ca3  1  0.33333300  0.66666700  0.50000000  1
+  Ca  Ca4  1  0.74626100  0.00000000  0.25000000  1
+  Ca  Ca5  1  0.74626100  0.74626100  0.75000000  1
+  Ca  Ca6  1  0.00000000  0.25373900  0.75000000  1
+  Ca  Ca7  1  0.00000000  0.74626100  0.25000000  1
+  Ca  Ca8  1  0.25373900  0.25373900  0.25000000  1
+  Ca  Ca9  1  0.25373900  0.00000000  0.75000000  1
+  As  As10  1  0.38977000  0.00000000  0.25000000  1
+  As  As11  1  0.38977000  0.38977000  0.75000000  1
+  As  As12  1  0.00000000  0.61023000  0.75000000  1
+  As  As13  1  0.00000000  0.38977000  0.25000000  1
+  As  As14  1  0.61023000  0.61023000  0.25000000  1
+  As  As15  1  0.61023000  0.00000000  0.75000000  1

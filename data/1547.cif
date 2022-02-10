@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ag2SnHgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17152800
+_cell_length_b   7.57492000
+_cell_length_c   8.62467000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2SnHgSe4
+_chemical_formula_sum   'Ag4 Sn2 Hg2 Se8'
+_cell_volume   468.52442448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.49168900  0.82560000  0.74718000  1
+  Ag  Ag1  1  0.99168900  0.17440000  0.24718000  1
+  Ag  Ag2  1  0.99168900  0.17440000  0.75282000  1
+  Ag  Ag3  1  0.49168900  0.82560000  0.25282000  1
+  Sn  Sn4  1  0.47885300  0.33248200  0.50000000  1
+  Sn  Sn5  1  0.97885300  0.66751800  0.00000000  1
+  Hg  Hg6  1  0.97648900  0.65030000  0.50000000  1
+  Hg  Hg7  1  0.47648900  0.34970000  0.00000000  1
+  Se  Se8  1  0.35952300  0.65480900  0.50000000  1
+  Se  Se9  1  0.85952300  0.34519100  0.00000000  1
+  Se  Se10  1  0.84179500  0.31853600  0.50000000  1
+  Se  Se11  1  0.34179500  0.68146400  0.00000000  1
+  Se  Se12  1  0.86248200  0.83900400  0.75657600  1
+  Se  Se13  1  0.86248200  0.83900400  0.24342400  1
+  Se  Se14  1  0.36248200  0.16099600  0.25657600  1
+  Se  Se15  1  0.36248200  0.16099600  0.74342400  1

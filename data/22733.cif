@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TlCuHSO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93990700
+_cell_length_b   4.57483800
+_cell_length_c   8.99511560
+_cell_angle_alpha   83.75944572
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCuHSO5
+_chemical_formula_sum   'Tl2 Cu2 H2 S2 O10'
+_cell_volume   242.98583027
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.90219600  0.39384600  1
+  Tl  Tl1  1  0.75000000  0.09780400  0.60615400  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.00000000  1
+  H  H4  1  0.25000000  0.60850100  0.11754200  1
+  H  H5  1  0.75000000  0.39149900  0.88245800  1
+  S  S6  1  0.25000000  0.51335000  0.77527800  1
+  S  S7  1  0.75000000  0.48665000  0.22472200  1
+  O  O8  1  0.25000000  0.82418600  0.11295100  1
+  O  O9  1  0.75000000  0.17581400  0.88704900  1
+  O  O10  1  0.45730300  0.68989700  0.78639600  1
+  O  O11  1  0.95730300  0.31010300  0.21360400  1
+  O  O12  1  0.54269700  0.31010300  0.21360400  1
+  O  O13  1  0.04269700  0.68989700  0.78639600  1
+  O  O14  1  0.25000000  0.35852300  0.63992100  1
+  O  O15  1  0.75000000  0.64147700  0.36007900  1
+  O  O16  1  0.25000000  0.28593700  0.91799900  1
+  O  O17  1  0.75000000  0.71406300  0.08200100  1

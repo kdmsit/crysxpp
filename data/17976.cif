@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd3CuGeSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.64326313
+_cell_length_b   10.64326313
+_cell_length_c   6.16035200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3CuGeSe7
+_chemical_formula_sum   'Nd6 Cu2 Ge2 Se14'
+_cell_volume   604.34618111
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.35530900  0.13080800  0.24870100  1
+  Nd  Nd1  1  0.86919200  0.22450000  0.24870100  1
+  Nd  Nd2  1  0.77550000  0.64469100  0.24870100  1
+  Nd  Nd3  1  0.64469100  0.86919200  0.74870100  1
+  Nd  Nd4  1  0.22450000  0.35530900  0.74870100  1
+  Nd  Nd5  1  0.13080800  0.77550000  0.74870100  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.71558800  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.21558800  1
+  Ge  Ge8  1  0.66666700  0.33333300  0.83230100  1
+  Ge  Ge9  1  0.33333300  0.66666700  0.33230100  1
+  Se  Se10  1  0.66666700  0.33333300  0.44929700  1
+  Se  Se11  1  0.48130400  0.57919000  0.49163400  1
+  Se  Se12  1  0.16161200  0.25671700  0.22880400  1
+  Se  Se13  1  0.90489500  0.16161200  0.72880400  1
+  Se  Se14  1  0.57919000  0.09788600  0.99163400  1
+  Se  Se15  1  0.33333300  0.66666700  0.94929700  1
+  Se  Se16  1  0.25671700  0.09510500  0.72880400  1
+  Se  Se17  1  0.42081000  0.90211400  0.49163400  1
+  Se  Se18  1  0.09510500  0.83838800  0.22880400  1
+  Se  Se19  1  0.51869600  0.42081000  0.99163400  1
+  Se  Se20  1  0.90211400  0.48130400  0.99163400  1
+  Se  Se21  1  0.09788600  0.51869600  0.49163400  1
+  Se  Se22  1  0.74328300  0.90489500  0.22880400  1
+  Se  Se23  1  0.83838800  0.74328300  0.72880400  1

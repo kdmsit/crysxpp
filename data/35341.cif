@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgPt5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41268468
+_cell_length_b   5.41268468
+_cell_length_c   6.72740277
+_cell_angle_alpha   74.20970572
+_cell_angle_beta   74.20970572
+_cell_angle_gamma   29.90791413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgPt5
+_chemical_formula_sum   'Mg1 Pt5'
+_cell_volume   94.29391133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.61117000  0.61117000  0.27831800  1
+  Pt  Pt1  1  0.00120400  0.00120400  0.99997600  1
+  Pt  Pt2  1  0.27326400  0.27326400  0.95557900  1
+  Pt  Pt3  1  0.66603300  0.66603300  0.66773200  1
+  Pt  Pt4  1  0.94746800  0.94746800  0.60240600  1
+  Pt  Pt5  1  0.33419400  0.33419400  0.32932200  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNa(BH4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85665097
+_cell_length_b   7.85665097
+_cell_length_c   7.85665091
+_cell_angle_alpha   33.52023086
+_cell_angle_beta   33.52023086
+_cell_angle_gamma   33.52023579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa(BH4)2
+_chemical_formula_sum   'K1 Na1 B2 H8'
+_cell_volume   131.72586558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  B  B2  1  0.25578800  0.25578800  0.25578800  1
+  B  B3  1  0.74421200  0.74421200  0.74421200  1
+  H  H4  1  0.79971700  0.79971700  0.79971700  1
+  H  H5  1  0.01478000  0.52836000  0.63501100  1
+  H  H6  1  0.98522000  0.47164000  0.36498900  1
+  H  H7  1  0.47164000  0.36498900  0.98522000  1
+  H  H8  1  0.52836000  0.63501100  0.01478000  1
+  H  H9  1  0.20028300  0.20028300  0.20028300  1
+  H  H10  1  0.63501100  0.01478000  0.52836000  1
+  H  H11  1  0.36498900  0.98522000  0.47164000  1

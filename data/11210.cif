@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89442955
+_cell_length_b   6.89442955
+_cell_length_c   3.99527200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGaNi
+_chemical_formula_sum   'Ce3 Ga3 Ni3'
+_cell_volume   164.46507150
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.57905100  0.50000000  1
+  Ce  Ce1  1  0.42094900  0.42094900  0.50000000  1
+  Ce  Ce2  1  0.57905100  0.00000000  0.50000000  1
+  Ga  Ga3  1  0.23750800  0.00000000  0.00000000  1
+  Ga  Ga4  1  0.76249200  0.76249200  0.00000000  1
+  Ga  Ga5  1  0.00000000  0.23750800  0.00000000  1
+  Ni  Ni6  1  0.66666700  0.33333300  0.00000000  1
+  Ni  Ni7  1  0.33333300  0.66666700  0.00000000  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.50000000  1

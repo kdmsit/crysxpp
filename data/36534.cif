@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaZrSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28738300
+_cell_length_b   5.29639321
+_cell_length_c   5.30947747
+_cell_angle_alpha   89.89144703
+_cell_angle_beta   89.91420971
+_cell_angle_gamma   89.96131524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZrSe3
+_chemical_formula_sum   'Ba1 Zr1 Se3'
+_cell_volume   148.68645537
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99864300  0.99847800  0.99867300  1
+  Zr  Zr1  1  0.47657800  0.49006900  0.47672700  1
+  Se  Se2  1  0.48831700  0.99850600  0.50269300  1
+  Se  Se3  1  0.98384500  0.51163600  0.51854000  1
+  Se  Se4  1  0.49261400  0.50131000  0.99337000  1

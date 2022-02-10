@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li5(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77966500
+_cell_length_b   5.27822999
+_cell_length_c   6.59584695
+_cell_angle_alpha   67.80509106
+_cell_angle_beta   80.01808891
+_cell_angle_gamma   83.17014786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5(CuO2)3
+_chemical_formula_sum   'Li5 Cu3 O6'
+_cell_volume   151.47846147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.90164300  0.87865100  0.68934900  1
+  Li  Li1  1  0.74367400  0.44933200  0.97304000  1
+  Li  Li2  1  0.24163400  0.57339900  0.99742600  1
+  Li  Li3  1  0.56935600  0.18999500  0.38304800  1
+  Li  Li4  1  0.11409800  0.11610400  0.30477100  1
+  Cu  Cu5  1  0.67650000  0.84039800  0.16514400  1
+  Cu  Cu6  1  0.99843400  0.50193100  0.50081300  1
+  Cu  Cu7  1  0.32531300  0.16123200  0.83777900  1
+  O  O8  1  0.55301300  0.82042500  0.91291900  1
+  O  O9  1  0.82612900  0.86124800  0.40916000  1
+  O  O10  1  0.08424000  0.49835400  0.77128600  1
+  O  O11  1  0.88523600  0.47994900  0.24268000  1
+  O  O12  1  0.19703000  0.15568800  0.57623100  1
+  O  O13  1  0.45381300  0.19283900  0.09612700  1

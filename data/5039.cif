@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2ZrNi(P2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59123600
+_cell_length_b   6.61207737
+_cell_length_c   7.01394400
+_cell_angle_alpha   65.94545393
+_cell_angle_beta   85.47961037
+_cell_angle_gamma   81.85119097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZrNi(P2O7)2
+_chemical_formula_sum   'Na2 Zr1 Ni1 P4 O14'
+_cell_volume   276.24093465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25733100  0.18238200  0.39688200  1
+  Na  Na1  1  0.54114000  0.57664400  0.08927400  1
+  Zr  Zr2  1  0.01226200  0.97235500  0.00447400  1
+  Ni  Ni3  1  0.69755400  0.79244900  0.45418600  1
+  P  P4  1  0.22247200  0.67875700  0.45608700  1
+  P  P5  1  0.97013800  0.53888100  0.85971400  1
+  P  P6  1  0.49574900  0.11947800  0.97384700  1
+  P  P7  1  0.73347900  0.24605000  0.55990200  1
+  O  O8  1  0.04448600  0.67156000  0.97204200  1
+  O  O9  1  0.74820500  0.48918000  0.41711400  1
+  O  O10  1  0.37979100  0.81455600  0.48043600  1
+  O  O11  1  0.29673800  0.52300900  0.35345200  1
+  O  O12  1  0.76250700  0.64380900  0.76352300  1
+  O  O13  1  0.13886500  0.52970700  0.68701000  1
+  O  O14  1  0.02595100  0.84121400  0.34343900  1
+  O  O15  1  0.55834000  0.25272600  0.73543300  1
+  O  O16  1  0.68698800  0.95074500  0.08249100  1
+  O  O17  1  0.32899000  0.97619000  0.96693600  1
+  O  O18  1  0.96999100  0.29269200  0.01154200  1
+  O  O19  1  0.93247600  0.13173400  0.68970000  1
+  O  O20  1  0.42060200  0.28063300  0.06903000  1
+  O  O21  1  0.66844400  0.10884700  0.45298600  1

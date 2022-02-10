@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuSiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17505100
+_cell_length_b   6.71123700
+_cell_length_c   7.42335900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiIr
+_chemical_formula_sum   'Lu4 Si4 Ir4'
+_cell_volume   208.00071343
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.50576700  0.81256900  1
+  Lu  Lu1  1  0.25000000  0.99423300  0.31256900  1
+  Lu  Lu2  1  0.75000000  0.00576700  0.68743100  1
+  Lu  Lu3  1  0.25000000  0.49423300  0.18743100  1
+  Si  Si4  1  0.25000000  0.70605800  0.61371500  1
+  Si  Si5  1  0.25000000  0.20605800  0.88628500  1
+  Si  Si6  1  0.75000000  0.29394200  0.38628500  1
+  Si  Si7  1  0.75000000  0.79394200  0.11371500  1
+  Ir  Ir8  1  0.25000000  0.84110100  0.93517900  1
+  Ir  Ir9  1  0.25000000  0.34110100  0.56482100  1
+  Ir  Ir10  1  0.75000000  0.65889900  0.43517900  1
+  Ir  Ir11  1  0.75000000  0.15889900  0.06482100  1

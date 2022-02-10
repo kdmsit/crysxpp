@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiNd6(CuO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.80931306
+_cell_length_b   8.80931306
+_cell_length_c   6.76235242
+_cell_angle_alpha   68.35460284
+_cell_angle_beta   68.35460284
+_cell_angle_gamma   37.30400365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd6(CuO6)2
+_chemical_formula_sum   'Li1 Nd6 Cu2 O12'
+_cell_volume   292.95194372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd1  1  0.78502400  0.78502400  0.13076500  1
+  Nd  Nd2  1  0.88510900  0.88510900  0.52905400  1
+  Nd  Nd3  1  0.45238700  0.45238700  0.79920200  1
+  Nd  Nd4  1  0.54761300  0.54761300  0.20079800  1
+  Nd  Nd5  1  0.21497600  0.21497600  0.86923500  1
+  Nd  Nd6  1  0.11489100  0.11489100  0.47094600  1
+  Cu  Cu7  1  0.66766600  0.66766600  0.66297900  1
+  Cu  Cu8  1  0.33233400  0.33233400  0.33702100  1
+  O  O9  1  0.91729800  0.41846700  0.16471000  1
+  O  O10  1  0.00000000  0.50000000  0.50000000  1
+  O  O11  1  0.74885900  0.25114100  0.50000000  1
+  O  O12  1  0.83079500  0.34774200  0.82126200  1
+  O  O13  1  0.58153300  0.08270200  0.83529000  1
+  O  O14  1  0.65225800  0.16920500  0.17873800  1
+  O  O15  1  0.50000000  0.00000000  0.50000000  1
+  O  O16  1  0.34774200  0.83079500  0.82126200  1
+  O  O17  1  0.41846700  0.91729800  0.16471000  1
+  O  O18  1  0.25114100  0.74885900  0.50000000  1
+  O  O19  1  0.08270200  0.58153300  0.83529000  1
+  O  O20  1  0.16920500  0.65225800  0.17873800  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UFeGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43672000
+_cell_length_b   7.13657341
+_cell_length_c   6.91394083
+_cell_angle_alpha   94.09824711
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UFeGe
+_chemical_formula_sum   'U4 Fe4 Ge4'
+_cell_volume   218.35618148
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.25000000  0.51669900  0.80482700  1
+  U  U1  1  0.75000000  0.96076200  0.28380600  1
+  U  U2  1  0.25000000  0.03923800  0.71619400  1
+  U  U3  1  0.75000000  0.48330100  0.19517300  1
+  Fe  Fe4  1  0.75000000  0.26098500  0.97008100  1
+  Fe  Fe5  1  0.75000000  0.63431700  0.52792700  1
+  Fe  Fe6  1  0.25000000  0.73901500  0.02991900  1
+  Fe  Fe7  1  0.25000000  0.36568300  0.47207300  1
+  Ge  Ge8  1  0.75000000  0.29034900  0.59311300  1
+  Ge  Ge9  1  0.25000000  0.70965100  0.40688700  1
+  Ge  Ge10  1  0.75000000  0.80335200  0.87513800  1
+  Ge  Ge11  1  0.25000000  0.19664800  0.12486200  1

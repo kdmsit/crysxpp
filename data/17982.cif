@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba5Ga5Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07573897
+_cell_length_b   6.07573897
+_cell_length_c   11.00960100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Ga5Sn
+_chemical_formula_sum   'Ba5 Ga5 Sn1'
+_cell_volume   351.96580765
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.66903800  1
+  Ba  Ba1  1  0.66666700  0.33333300  0.79787800  1
+  Ba  Ba2  1  0.66666700  0.33333300  0.20212200  1
+  Ba  Ba3  1  0.33333300  0.66666700  0.00000000  1
+  Ba  Ba4  1  0.00000000  0.00000000  0.33096200  1
+  Ga  Ga5  1  0.51460200  0.48539800  0.50000000  1
+  Ga  Ga6  1  0.97079600  0.48539800  0.50000000  1
+  Ga  Ga7  1  0.51460200  0.02920400  0.50000000  1
+  Ga  Ga8  1  0.33333300  0.66666700  0.67431400  1
+  Ga  Ga9  1  0.33333300  0.66666700  0.32568600  1
+  Sn  Sn10  1  0.00000000  0.00000000  0.00000000  1

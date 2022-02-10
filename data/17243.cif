@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KAlF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35315800
+_cell_length_b   6.53469400
+_cell_length_c   7.46867913
+_cell_angle_alpha   73.03602693
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlF4
+_chemical_formula_sum   'K4 Al4 F16'
+_cell_volume   343.25957910
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.54116100  0.86708100  1
+  K  K1  1  0.25000000  0.54716600  0.36598300  1
+  K  K2  1  0.75000000  0.45883900  0.13291900  1
+  K  K3  1  0.75000000  0.45283400  0.63401700  1
+  Al  Al4  1  0.50000000  0.00000000  0.00000000  1
+  Al  Al5  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al6  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al7  1  0.50000000  0.00000000  0.50000000  1
+  F  F8  1  0.25000000  0.04728800  0.50746600  1
+  F  F9  1  0.03714500  0.71868600  0.06823900  1
+  F  F10  1  0.46504200  0.71783400  0.57543100  1
+  F  F11  1  0.51999100  0.00234900  0.74930400  1
+  F  F12  1  0.75000000  0.94959400  0.03119900  1
+  F  F13  1  0.46285500  0.71868600  0.06823900  1
+  F  F14  1  0.96285500  0.28131400  0.93176100  1
+  F  F15  1  0.25000000  0.05040600  0.96880100  1
+  F  F16  1  0.53495800  0.28216600  0.42456900  1
+  F  F17  1  0.96504200  0.28216600  0.42456900  1
+  F  F18  1  0.01999100  0.99765100  0.25069600  1
+  F  F19  1  0.48000900  0.99765100  0.25069600  1
+  F  F20  1  0.98000900  0.00234900  0.74930400  1
+  F  F21  1  0.03495800  0.71783400  0.57543100  1
+  F  F22  1  0.53714500  0.28131400  0.93176100  1
+  F  F23  1  0.75000000  0.95271200  0.49253400  1

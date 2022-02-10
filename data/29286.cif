@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3MgPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42488900
+_cell_length_b   5.06750000
+_cell_length_c   8.31508597
+_cell_angle_alpha   87.84404840
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3MgPCO7
+_chemical_formula_sum   'Li6 Mg2 P2 C2 O14'
+_cell_volume   270.53197231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49786900  0.01743600  0.00038900  1
+  Li  Li1  1  0.18316500  0.45623100  0.17214100  1
+  Li  Li2  1  0.44308300  0.44682100  0.49791600  1
+  Li  Li3  1  0.94308300  0.55317900  0.50208400  1
+  Li  Li4  1  0.68316500  0.54376900  0.82785900  1
+  Li  Li5  1  0.99786900  0.98256400  0.99961100  1
+  Mg  Mg6  1  0.74869600  0.02330700  0.28050900  1
+  Mg  Mg7  1  0.24869600  0.97669300  0.71949100  1
+  P  P8  1  0.24726700  0.96350800  0.33283400  1
+  P  P9  1  0.74726700  0.03649200  0.66716600  1
+  C  C10  1  0.74042400  0.50283500  0.13948000  1
+  C  C11  1  0.24042400  0.49716500  0.86052000  1
+  O  O12  1  0.73045600  0.32447000  0.03102600  1
+  O  O13  1  0.76919800  0.74875600  0.09482600  1
+  O  O14  1  0.06217100  0.08948500  0.23416900  1
+  O  O15  1  0.44349500  0.00956600  0.22968000  1
+  O  O16  1  0.72662200  0.43466000  0.29153100  1
+  O  O17  1  0.20760700  0.66373400  0.36722600  1
+  O  O18  1  0.27454800  0.10914800  0.49282900  1
+  O  O19  1  0.77454800  0.89085200  0.50717100  1
+  O  O20  1  0.70760700  0.33626600  0.63277400  1
+  O  O21  1  0.22662200  0.56534000  0.70846900  1
+  O  O22  1  0.94349500  0.99043400  0.77032000  1
+  O  O23  1  0.56217100  0.91051500  0.76583100  1
+  O  O24  1  0.26919800  0.25124400  0.90517400  1
+  O  O25  1  0.23045600  0.67553000  0.96897400  1

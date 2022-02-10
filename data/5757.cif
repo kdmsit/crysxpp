@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaInRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36485300
+_cell_length_b   7.34857200
+_cell_length_c   8.38801500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaInRh
+_chemical_formula_sum   'Ca4 In4 Rh4'
+_cell_volume   269.04924283
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.97517200  0.67636500  1
+  Ca  Ca1  1  0.25000000  0.02482800  0.32363500  1
+  Ca  Ca2  1  0.75000000  0.47517200  0.82363500  1
+  Ca  Ca3  1  0.25000000  0.52482800  0.17636500  1
+  In  In4  1  0.75000000  0.84934500  0.06648800  1
+  In  In5  1  0.25000000  0.15065500  0.93351200  1
+  In  In6  1  0.75000000  0.34934500  0.43351200  1
+  In  In7  1  0.25000000  0.65065500  0.56648800  1
+  Rh  Rh8  1  0.75000000  0.72312100  0.37554100  1
+  Rh  Rh9  1  0.25000000  0.27687900  0.62445900  1
+  Rh  Rh10  1  0.75000000  0.22312100  0.12445900  1
+  Rh  Rh11  1  0.25000000  0.77687900  0.87554100  1

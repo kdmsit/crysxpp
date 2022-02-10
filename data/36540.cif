@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_YReN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93828200
+_cell_length_b   3.95056680
+_cell_length_c   3.95057015
+_cell_angle_alpha   89.70689621
+_cell_angle_beta   89.06256047
+_cell_angle_gamma   88.10488658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YReN3
+_chemical_formula_sum   'Y1 Re1 N3'
+_cell_volume   61.42224830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.93452400  0.95960000  0.98080800  1
+  Re  Re1  1  0.52120400  0.50248900  0.50283400  1
+  N  N2  1  0.53671200  0.50764400  0.00448600  1
+  N  N3  1  0.02931500  0.51389600  0.50757100  1
+  N  N4  1  0.53900300  0.00636600  0.50526800  1

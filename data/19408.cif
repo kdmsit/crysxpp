@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6Ge5N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23816400
+_cell_length_b   9.73549800
+_cell_length_c   19.06991300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Ge5N2
+_chemical_formula_sum   'Ba12 Ge10 N4'
+_cell_volume   786.83676069
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.75546800  0.50000000  1
+  Ba  Ba1  1  0.00000000  0.24453200  0.00000000  1
+  Ba  Ba2  1  0.50000000  0.11152100  0.68325200  1
+  Ba  Ba3  1  0.50000000  0.53560400  0.14021100  1
+  Ba  Ba4  1  0.00000000  0.46439600  0.64021100  1
+  Ba  Ba5  1  0.00000000  0.46439600  0.35978900  1
+  Ba  Ba6  1  0.50000000  0.53560400  0.85978900  1
+  Ba  Ba7  1  0.50000000  0.84631400  0.00000000  1
+  Ba  Ba8  1  0.50000000  0.11152100  0.31674800  1
+  Ba  Ba9  1  0.00000000  0.88847900  0.81674800  1
+  Ba  Ba10  1  0.00000000  0.88847900  0.18325200  1
+  Ba  Ba11  1  0.00000000  0.15368600  0.50000000  1
+  Ge  Ge12  1  0.50000000  0.73938100  0.30703000  1
+  Ge  Ge13  1  0.00000000  0.84628100  0.36761700  1
+  Ge  Ge14  1  0.00000000  0.26061900  0.19297000  1
+  Ge  Ge15  1  0.50000000  0.15371900  0.13238300  1
+  Ge  Ge16  1  0.00000000  0.84628100  0.63238300  1
+  Ge  Ge17  1  0.50000000  0.73938100  0.69297000  1
+  Ge  Ge18  1  0.00000000  0.26061900  0.80703000  1
+  Ge  Ge19  1  0.00000000  0.58975500  0.00000000  1
+  Ge  Ge20  1  0.50000000  0.15371900  0.86761700  1
+  Ge  Ge21  1  0.50000000  0.41024500  0.50000000  1
+  N  N22  1  0.50000000  0.29269300  0.41958800  1
+  N  N23  1  0.50000000  0.29269300  0.58041200  1
+  N  N24  1  0.00000000  0.70730700  0.91958800  1
+  N  N25  1  0.00000000  0.70730700  0.08041200  1

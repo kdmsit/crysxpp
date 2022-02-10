@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ce3In3Ru2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55711554
+_cell_length_b   8.55711554
+_cell_length_c   4.94892029
+_cell_angle_alpha   81.90904312
+_cell_angle_beta   81.90904312
+_cell_angle_gamma   33.31086474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3In3Ru2
+_chemical_formula_sum   'Ce3 In3 Ru2'
+_cell_volume   196.85352234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.82907700  0.82907700  0.57521600  1
+  Ce  Ce1  1  0.17092300  0.17092300  0.42478400  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.00000000  1
+  In  In3  1  0.36931900  0.36931900  0.05740900  1
+  In  In4  1  0.50000000  0.50000000  0.50000000  1
+  In  In5  1  0.63068100  0.63068100  0.94259100  1
+  Ru  Ru6  1  0.79087000  0.79087000  0.11001900  1
+  Ru  Ru7  1  0.20913000  0.20913000  0.88998100  1

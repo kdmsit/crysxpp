@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Al2CdTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45145954
+_cell_length_b   7.45145954
+_cell_length_c   7.45145954
+_cell_angle_alpha   130.06636854
+_cell_angle_beta   130.06636854
+_cell_angle_gamma   73.30068605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2CdTe4
+_chemical_formula_sum   'Al2 Cd1 Te4'
+_cell_volume   236.55605640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25000000  0.75000000  0.50000000  1
+  Al  Al1  1  0.50000000  0.50000000  0.00000000  1
+  Cd  Cd2  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te3  1  0.41013400  0.88016300  0.01545400  1
+  Te  Te4  1  0.11983700  0.13529100  0.52997100  1
+  Te  Te5  1  0.60532000  0.58986600  0.47002900  1
+  Te  Te6  1  0.86470900  0.39468000  0.98454600  1

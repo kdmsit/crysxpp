@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbAuCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11341619
+_cell_length_b   7.11341619
+_cell_length_c   10.33414410
+_cell_angle_alpha   78.81933290
+_cell_angle_beta   78.81933290
+_cell_angle_gamma   50.65701915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAuCl4
+_chemical_formula_sum   'Rb2 Au2 Cl8'
+_cell_volume   394.98874747
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.22593100  0.77406900  0.25000000  1
+  Rb  Rb1  1  0.77406900  0.22593100  0.75000000  1
+  Au  Au2  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au3  1  0.50000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.20255900  0.66478700  0.93142800  1
+  Cl  Cl5  1  0.26894700  0.19527800  0.85786800  1
+  Cl  Cl6  1  0.33521300  0.79744100  0.56857200  1
+  Cl  Cl7  1  0.79744100  0.33521300  0.06857200  1
+  Cl  Cl8  1  0.73105300  0.80472200  0.14213200  1
+  Cl  Cl9  1  0.80472200  0.73105300  0.64213200  1
+  Cl  Cl10  1  0.19527800  0.26894700  0.35786800  1
+  Cl  Cl11  1  0.66478700  0.20255900  0.43142800  1

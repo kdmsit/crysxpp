@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Dy(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64264276
+_cell_length_b   6.64264276
+_cell_length_c   6.64264276
+_cell_angle_alpha   98.21580011
+_cell_angle_beta   98.21580011
+_cell_angle_gamma   135.57736796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(Al2Fe)4
+_chemical_formula_sum   'Dy1 Al8 Fe4'
+_cell_volume   189.93377192
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al1  1  0.00000000  0.65971800  0.65971800  1
+  Al  Al2  1  0.34028200  0.00000000  0.34028200  1
+  Al  Al3  1  0.65971800  0.00000000  0.65971800  1
+  Al  Al4  1  0.00000000  0.34028200  0.34028200  1
+  Al  Al5  1  0.50000000  0.72082200  0.22082200  1
+  Al  Al6  1  0.50000000  0.27917800  0.77917800  1
+  Al  Al7  1  0.72082200  0.50000000  0.22082200  1
+  Al  Al8  1  0.27917800  0.50000000  0.77917800  1
+  Fe  Fe9  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe10  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe11  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe12  1  0.00000000  0.50000000  0.00000000  1

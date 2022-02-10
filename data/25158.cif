@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Bi2SeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49934672
+_cell_length_b   8.49934672
+_cell_length_c   5.37973500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   143.17718854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2SeO6
+_chemical_formula_sum   'Bi4 Se2 O12'
+_cell_volume   232.92008634
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.16837100  0.83162900  0.50197100  1
+  Bi  Bi1  1  0.66837100  0.33162900  0.99802900  1
+  Bi  Bi2  1  0.33162900  0.66837100  0.00197100  1
+  Bi  Bi3  1  0.83162900  0.16837100  0.49802900  1
+  Se  Se4  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.78259200  0.71740800  0.75000000  1
+  O  O7  1  0.10577100  0.89422900  0.07015200  1
+  O  O8  1  0.28259200  0.21740800  0.75000000  1
+  O  O9  1  0.60577100  0.39422900  0.42984800  1
+  O  O10  1  0.50000400  0.99999600  0.75000000  1
+  O  O11  1  0.49999600  0.00000400  0.25000000  1
+  O  O12  1  0.00000400  0.49999600  0.75000000  1
+  O  O13  1  0.99999600  0.50000400  0.25000000  1
+  O  O14  1  0.39422900  0.60577100  0.57015200  1
+  O  O15  1  0.71740800  0.78259200  0.25000000  1
+  O  O16  1  0.89422900  0.10577100  0.92984800  1
+  O  O17  1  0.21740800  0.28259200  0.25000000  1

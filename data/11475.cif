@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr3NF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02677900
+_cell_length_b   5.98319341
+_cell_length_c   7.15263799
+_cell_angle_alpha   114.20350014
+_cell_angle_beta   104.45057234
+_cell_angle_gamma   89.66806109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3NF6
+_chemical_formula_sum   'Pr3 N1 F6'
+_cell_volume   151.29584793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.04118200  0.96274200  0.00041700  1
+  Pr  Pr1  1  0.66100000  0.65469500  0.30847000  1
+  Pr  Pr2  1  0.32029500  0.35587200  0.69247700  1
+  N  N3  1  0.55487900  0.72390000  0.00077800  1
+  F  F4  1  0.19290300  0.92995300  0.35499800  1
+  F  F5  1  0.70246600  0.35292100  0.48861300  1
+  F  F6  1  0.12623800  0.40842900  0.25213600  1
+  F  F7  1  0.49578600  0.23974500  0.99436500  1
+  F  F8  1  0.12575000  0.72863000  0.64338000  1
+  F  F9  1  0.83150100  0.11711300  0.71236600  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li3Fe2(CuO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58295400
+_cell_length_b   5.69707365
+_cell_length_c   6.23165968
+_cell_angle_alpha   116.93651289
+_cell_angle_beta   115.79939652
+_cell_angle_gamma   89.91930217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Fe2(CuO4)2
+_chemical_formula_sum   'Li3 Fe2 Cu2 O8'
+_cell_volume   154.28675417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li2  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu5  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu6  1  0.50000000  0.00000000  0.00000000  1
+  O  O7  1  0.28632000  0.28243800  0.54815500  1
+  O  O8  1  0.26081100  0.73453400  0.49150000  1
+  O  O9  1  0.72177200  0.18630500  0.94378300  1
+  O  O10  1  0.72814000  0.76299100  0.95534500  1
+  O  O11  1  0.27186000  0.23700900  0.04465500  1
+  O  O12  1  0.27822800  0.81369500  0.05621700  1
+  O  O13  1  0.73918900  0.26546600  0.50850000  1
+  O  O14  1  0.71368000  0.71756200  0.45184500  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaSr3BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04864181
+_cell_length_b   7.04864181
+_cell_length_c   7.04864196
+_cell_angle_alpha   91.43522372
+_cell_angle_beta   91.43522372
+_cell_angle_gamma   91.43523050
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr3BiO6
+_chemical_formula_sum   'Na2 Sr6 Bi2 O12'
+_cell_volume   349.86494925
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.25000000  0.25000000  1
+  Na  Na1  1  0.75000000  0.75000000  0.75000000  1
+  Sr  Sr2  1  0.40254800  0.75000000  0.09745200  1
+  Sr  Sr3  1  0.25000000  0.90254800  0.59745200  1
+  Sr  Sr4  1  0.75000000  0.09745200  0.40254800  1
+  Sr  Sr5  1  0.59745200  0.25000000  0.90254800  1
+  Sr  Sr6  1  0.09745200  0.40254800  0.75000000  1
+  Sr  Sr7  1  0.90254800  0.59745200  0.25000000  1
+  Bi  Bi8  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi9  1  0.50000000  0.50000000  0.50000000  1
+  O  O10  1  0.44626100  0.57099800  0.79185600  1
+  O  O11  1  0.57099800  0.79185600  0.44626100  1
+  O  O12  1  0.42900200  0.20814400  0.55373900  1
+  O  O13  1  0.29185600  0.07099800  0.94626100  1
+  O  O14  1  0.20814400  0.55373900  0.42900200  1
+  O  O15  1  0.55373900  0.42900200  0.20814400  1
+  O  O16  1  0.07099800  0.94626100  0.29185600  1
+  O  O17  1  0.94626100  0.29185600  0.07099800  1
+  O  O18  1  0.70814400  0.92900200  0.05373900  1
+  O  O19  1  0.79185600  0.44626100  0.57099800  1
+  O  O20  1  0.92900200  0.05373900  0.70814400  1
+  O  O21  1  0.05373900  0.70814400  0.92900200  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AgHgSI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68547400
+_cell_length_b   10.16108300
+_cell_length_c   10.37088400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgHgSI
+_chemical_formula_sum   'Ag4 Hg4 S4 I4'
+_cell_volume   493.75250025
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.20826600  0.42792300  1
+  Ag  Ag1  1  0.00000000  0.79173400  0.92792300  1
+  Ag  Ag2  1  0.00000000  0.79173400  0.57207700  1
+  Ag  Ag3  1  0.00000000  0.20826600  0.07207700  1
+  Hg  Hg4  1  0.50000000  0.23698000  0.75000000  1
+  Hg  Hg5  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg6  1  0.50000000  0.76302000  0.25000000  1
+  Hg  Hg7  1  0.50000000  0.50000000  0.50000000  1
+  S  S8  1  0.50000000  0.26132100  0.51669300  1
+  S  S9  1  0.50000000  0.73867900  0.48330700  1
+  S  S10  1  0.50000000  0.26132100  0.98330700  1
+  S  S11  1  0.50000000  0.73867900  0.01669300  1
+  I  I12  1  0.00000000  0.53742400  0.75000000  1
+  I  I13  1  0.00000000  0.99537500  0.25000000  1
+  I  I14  1  0.00000000  0.46257600  0.25000000  1
+  I  I15  1  0.00000000  0.00462500  0.75000000  1

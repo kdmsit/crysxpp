@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2NiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88059503
+_cell_length_b   5.88062661
+_cell_length_c   10.24004859
+_cell_angle_alpha   90.00008314
+_cell_angle_beta   73.31355495
+_cell_angle_gamma   59.99975891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NiTeO6
+_chemical_formula_sum   'Ba4 Ni2 Te2 O12'
+_cell_volume   289.32689960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.56884800  0.71557600  0.14672800  1
+  Ba  Ba1  1  0.43115300  0.28442300  0.85327100  1
+  Ba  Ba2  1  0.25209200  0.87395400  0.62186200  1
+  Ba  Ba3  1  0.74790700  0.12604700  0.37813800  1
+  Ni  Ni4  1  0.18712300  0.40643700  0.21931400  1
+  Ni  Ni5  1  0.81287600  0.59356300  0.78069200  1
+  Te  Te6  1  0.99999800  0.50000100  0.50000300  1
+  Te  Te7  1  0.00000300  0.99999900  0.99999700  1
+  O  O8  1  0.07746700  0.72739700  0.11766800  1
+  O  O9  1  0.60972800  0.19513600  0.11766800  1
+  O  O10  1  0.07746700  0.19513500  0.11766800  1
+  O  O11  1  0.92253800  0.80487100  0.88233300  1
+  O  O12  1  0.92253800  0.27259200  0.88233300  1
+  O  O13  1  0.39026100  0.80487000  0.88233300  1
+  O  O14  1  0.76556000  0.84589000  0.62299100  1
+  O  O15  1  0.22290000  0.38855000  0.62299100  1
+  O  O16  1  0.77710900  0.61144500  0.37700600  1
+  O  O17  1  0.23443500  0.15412000  0.37700700  1
+  O  O18  1  0.23443500  0.61144400  0.37700700  1
+  O  O19  1  0.76556100  0.38855000  0.62299100  1

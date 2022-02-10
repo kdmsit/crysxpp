@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaU(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67427337
+_cell_length_b   6.75244642
+_cell_length_c   11.22934260
+_cell_angle_alpha   103.96591764
+_cell_angle_beta   93.62543612
+_cell_angle_gamma   110.72598411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaU(SeO4)2
+_chemical_formula_sum   'Ca2 U2 Se4 O16'
+_cell_volume   385.24218104
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.67367723  0.24458220  0.43551864  1
+  Ca  Ca1  1  0.32632277  0.75541780  0.56448136  1
+  U  U2  1  0.16748581  0.26134898  0.16784306  1
+  U  U3  1  0.83251419  0.73865102  0.83215694  1
+  Se  Se4  1  0.31162578  0.81108519  0.12494172  1
+  Se  Se5  1  0.73529519  0.70295701  0.35273721  1
+  Se  Se6  1  0.68837422  0.18891481  0.87505828  1
+  Se  Se7  1  0.26470481  0.29704299  0.64726279  1
+  O  O8  1  0.10536721  0.87151192  0.02961169  1
+  O  O9  1  0.11086071  0.58076430  0.16058079  1
+  O  O10  1  0.89350350  0.17768790  0.25013631  1
+  O  O11  1  0.67075133  0.97710307  0.74721552  1
+  O  O12  1  0.92392030  0.62067954  0.43667783  1
+  O  O13  1  0.55989950  0.52080410  0.65114152  1
+  O  O14  1  0.44582070  0.34950557  0.09316643  1
+  O  O15  1  0.55417930  0.65049443  0.90683357  1
+  O  O16  1  0.07607970  0.37932046  0.56332217  1
+  O  O17  1  0.10649650  0.82231210  0.74986369  1
+  O  O18  1  0.44010050  0.47919590  0.34885848  1
+  O  O19  1  0.88913929  0.41923570  0.83941921  1
+  O  O20  1  0.32625011  0.09795824  0.54354950  1
+  O  O21  1  0.89463279  0.12848808  0.97038831  1
+  O  O22  1  0.67374989  0.90204176  0.45645050  1
+  O  O23  1  0.32924867  0.02289693  0.25278448  1

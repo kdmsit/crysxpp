@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2Th5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   23.09422078
+_cell_length_b   23.09422078
+_cell_length_c   23.09422039
+_cell_angle_alpha   9.88192825
+_cell_angle_beta   9.88192825
+_cell_angle_gamma   9.88192900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Th5O13
+_chemical_formula_sum   'La2 Th5 O13'
+_cell_volume   314.95128491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00127300  0.00127300  0.00127300  1
+  La  La1  1  0.28340600  0.28340600  0.28340600  1
+  Th  Th2  1  0.57125000  0.57125000  0.57125000  1
+  Th  Th3  1  0.85750900  0.85750900  0.85750900  1
+  Th  Th4  1  0.14340200  0.14340200  0.14340200  1
+  Th  Th5  1  0.42916000  0.42916000  0.42916000  1
+  Th  Th6  1  0.71529900  0.71529900  0.71529900  1
+  O  O7  1  0.96909800  0.96909800  0.96909800  1
+  O  O8  1  0.60588000  0.60588000  0.60588000  1
+  O  O9  1  0.24867500  0.24867500  0.24867500  1
+  O  O10  1  0.53528900  0.53528900  0.53528900  1
+  O  O11  1  0.89217000  0.89217000  0.89217000  1
+  O  O12  1  0.82121500  0.82121500  0.82121500  1
+  O  O13  1  0.17829000  0.17829000  0.17829000  1
+  O  O14  1  0.46408700  0.46408700  0.46408700  1
+  O  O15  1  0.10696200  0.10696200  0.10696200  1
+  O  O16  1  0.74979700  0.74979700  0.74979700  1
+  O  O17  1  0.03683400  0.03683400  0.03683400  1
+  O  O18  1  0.67592100  0.67592100  0.67592100  1
+  O  O19  1  0.39305500  0.39305500  0.39305500  1

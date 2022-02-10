@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Mn(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.88894500
+_cell_length_b   6.56080900
+_cell_length_c   8.98073983
+_cell_angle_alpha   57.07410369
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Mn(PSe3)2
+_chemical_formula_sum   'K4 Mn2 P4 Se12'
+_cell_volume   637.44473162
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.69401300  0.18537000  0.54102900  1
+  K  K1  1  0.19401300  0.81463000  0.95897100  1
+  K  K2  1  0.30598700  0.81463000  0.45897100  1
+  K  K3  1  0.80598700  0.18537000  0.04102900  1
+  Mn  Mn4  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn5  1  0.50000000  0.50000000  0.00000000  1
+  P  P6  1  0.03323000  0.14819100  0.36694900  1
+  P  P7  1  0.53323000  0.85180900  0.13305100  1
+  P  P8  1  0.96677000  0.85180900  0.63305100  1
+  P  P9  1  0.46677000  0.14819100  0.86694900  1
+  Se  Se10  1  0.17140100  0.28806300  0.42956200  1
+  Se  Se11  1  0.67140100  0.71193700  0.07043800  1
+  Se  Se12  1  0.82859900  0.71193700  0.57043800  1
+  Se  Se13  1  0.32859900  0.28806300  0.92956200  1
+  Se  Se14  1  0.91557300  0.44034500  0.24629800  1
+  Se  Se15  1  0.41557300  0.55965500  0.25370200  1
+  Se  Se16  1  0.08442700  0.55965500  0.75370200  1
+  Se  Se17  1  0.58442700  0.44034500  0.74629800  1
+  Se  Se18  1  0.05698400  0.95341800  0.23232600  1
+  Se  Se19  1  0.55698400  0.04658200  0.26767400  1
+  Se  Se20  1  0.94301600  0.04658200  0.76767400  1
+  Se  Se21  1  0.44301600  0.95341800  0.73232600  1

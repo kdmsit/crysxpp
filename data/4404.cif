@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cd4SiSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57601042
+_cell_length_b   7.57601042
+_cell_length_c   13.13906206
+_cell_angle_alpha   72.52363319
+_cell_angle_beta   72.52363319
+_cell_angle_gamma   59.69261386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd4SiSe6
+_chemical_formula_sum   'Cd8 Si2 Se12'
+_cell_volume   610.79249767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.32306400  0.72617400  0.69083300  1
+  Cd  Cd1  1  0.72617400  0.32306400  0.19083300  1
+  Cd  Cd2  1  0.08815400  0.22765500  0.84722100  1
+  Cd  Cd3  1  0.22765500  0.08815400  0.34722100  1
+  Cd  Cd4  1  0.23182900  0.44474300  0.04183800  1
+  Cd  Cd5  1  0.44474300  0.23182900  0.54183800  1
+  Cd  Cd6  1  0.71082100  0.92032600  0.85392400  1
+  Cd  Cd7  1  0.92032600  0.71082100  0.35392400  1
+  Si  Si8  1  0.85967500  0.31810700  0.60423500  1
+  Si  Si9  1  0.31810700  0.85967500  0.10423500  1
+  Se  Se10  1  0.97599000  0.44245100  0.23382900  1
+  Se  Se11  1  0.44245100  0.97599000  0.73382900  1
+  Se  Se12  1  0.03308000  0.00148200  0.55327300  1
+  Se  Se13  1  0.00148200  0.03308000  0.05327300  1
+  Se  Se14  1  0.51697400  0.03011400  0.05301000  1
+  Se  Se15  1  0.03011400  0.51697400  0.55301000  1
+  Se  Se16  1  0.74592800  0.28666200  0.78822200  1
+  Se  Se17  1  0.28666200  0.74592800  0.28822200  1
+  Se  Se18  1  0.08456500  0.58432700  0.85513100  1
+  Se  Se19  1  0.58432700  0.08456500  0.35513100  1
+  Se  Se20  1  0.56914200  0.51913900  0.52428400  1
+  Se  Se21  1  0.51913900  0.56914200  0.02428400  1

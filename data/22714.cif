@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaCo2H3(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41121095
+_cell_length_b   7.41121095
+_cell_length_c   8.71042733
+_cell_angle_alpha   77.61806863
+_cell_angle_beta   77.61806863
+_cell_angle_gamma   48.95344493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCo2H3(SeO5)2
+_chemical_formula_sum   'Na1 Co2 H3 Se2 O10'
+_cell_volume   350.66293709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47919600  0.47919600  0.47411800  1
+  Co  Co1  1  0.45054400  0.04497200  0.06811400  1
+  Co  Co2  1  0.04497200  0.45054400  0.06811400  1
+  H  H3  1  0.97875200  0.97875200  0.03685300  1
+  H  H4  1  0.40779400  0.40779400  0.09142500  1
+  H  H5  1  0.02278400  0.02278400  0.96542600  1
+  Se  Se6  1  0.87481400  0.87481400  0.73492100  1
+  Se  Se7  1  0.11262700  0.11262700  0.32432100  1
+  O  O8  1  0.33657600  0.33657600  0.15035300  1
+  O  O9  1  0.70167400  0.70167400  0.02994800  1
+  O  O10  1  0.20402400  0.20402400  0.94934800  1
+  O  O11  1  0.82202500  0.26835200  0.30460500  1
+  O  O12  1  0.72363700  0.16002700  0.66510800  1
+  O  O13  1  0.26835200  0.82202500  0.30460500  1
+  O  O14  1  0.16002700  0.72363700  0.66510800  1
+  O  O15  1  0.80793600  0.80793600  0.04760400  1
+  O  O16  1  0.54267300  0.54267300  0.84473000  1
+  O  O17  1  0.62059100  0.62059100  0.73629900  1

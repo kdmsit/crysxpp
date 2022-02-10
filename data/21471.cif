@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_AlPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.28156444
+_cell_length_b   9.28156444
+_cell_length_c   9.28156400
+_cell_angle_alpha   116.44835169
+_cell_angle_beta   116.44835169
+_cell_angle_gamma   116.44835562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlPd
+_chemical_formula_sum   'Al13 Pd13'
+_cell_volume   381.94097210
+_cell_formula_units_Z   13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.09795000  0.34603100  0.05474800  1
+  Al  Al1  1  0.15546000  0.75311800  0.59854000  1
+  Al  Al2  1  0.59854000  0.15546000  0.75311800  1
+  Al  Al3  1  0.84454000  0.24688200  0.40146000  1
+  Al  Al4  1  0.40146000  0.84454000  0.24688200  1
+  Al  Al5  1  0.34603100  0.05474800  0.09795000  1
+  Al  Al6  1  0.94525200  0.90205000  0.65396900  1
+  Al  Al7  1  0.24688200  0.40146000  0.84454000  1
+  Al  Al8  1  0.65396900  0.94525200  0.90205000  1
+  Al  Al9  1  0.75311800  0.59854000  0.15546000  1
+  Al  Al10  1  0.05474800  0.09795000  0.34603100  1
+  Al  Al11  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al12  1  0.90205000  0.65396900  0.94525200  1
+  Pd  Pd13  1  0.55437500  0.59735400  0.84373300  1
+  Pd  Pd14  1  0.44562500  0.40264600  0.15626700  1
+  Pd  Pd15  1  0.09878200  0.65535100  0.25192400  1
+  Pd  Pd16  1  0.74807600  0.90121800  0.34464900  1
+  Pd  Pd17  1  0.25192400  0.09878200  0.65535100  1
+  Pd  Pd18  1  0.90121800  0.34464900  0.74807600  1
+  Pd  Pd19  1  0.40264600  0.15626700  0.44562500  1
+  Pd  Pd20  1  0.15626700  0.44562500  0.40264600  1
+  Pd  Pd21  1  0.65535100  0.25192400  0.09878200  1
+  Pd  Pd22  1  0.34464900  0.74807600  0.90121800  1
+  Pd  Pd23  1  0.84373300  0.55437500  0.59735400  1
+  Pd  Pd24  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd25  1  0.59735400  0.84373300  0.55437500  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La5AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55856791
+_cell_length_b   7.55856791
+_cell_length_c   7.55856791
+_cell_angle_alpha   109.72975993
+_cell_angle_beta   109.72975993
+_cell_angle_gamma   108.95537031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5AgS8
+_chemical_formula_sum   'La5 Ag1 S8'
+_cell_volume   332.40710049
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.38024100  0.76501400  0.88290500  1
+  La  La1  1  0.50266400  0.61975900  0.38477300  1
+  La  La2  1  0.88210900  0.49733600  0.11709500  1
+  La  La3  1  0.23498600  0.11789100  0.61522700  1
+  La  La4  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1
+  S  S6  1  0.13277500  0.39238600  0.89505600  1
+  S  S7  1  0.97804200  0.72618600  0.60999600  1
+  S  S8  1  0.60761400  0.50266900  0.74038900  1
+  S  S9  1  0.49733100  0.23772000  0.10494400  1
+  S  S10  1  0.11619000  0.36804600  0.39000400  1
+  S  S11  1  0.27381400  0.88381000  0.25185600  1
+  S  S12  1  0.63195400  0.02195800  0.74814400  1
+  S  S13  1  0.76228000  0.86722500  0.25961100  1

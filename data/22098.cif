@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Cr4(Ga2Se5)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57813421
+_cell_length_b   6.57813421
+_cell_length_c   15.91802215
+_cell_angle_alpha   85.90424030
+_cell_angle_beta   85.90424030
+_cell_angle_gamma   118.45358730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4(Ga2Se5)3
+_chemical_formula_sum   'Cr4 Ga6 Se15'
+_cell_volume   599.66747937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.43547600  0.43547600  0.68986400  1
+  Cr  Cr1  1  0.09251100  0.77890400  0.68844300  1
+  Cr  Cr2  1  0.77890400  0.09251100  0.68844300  1
+  Cr  Cr3  1  0.30587900  0.30587900  0.08757100  1
+  Ga  Ga4  1  0.84902200  0.52912300  0.45058400  1
+  Ga  Ga5  1  0.52912300  0.84902200  0.45058400  1
+  Ga  Ga6  1  0.36051000  0.02351500  0.92845300  1
+  Ga  Ga7  1  0.58742100  0.24800500  0.24702900  1
+  Ga  Ga8  1  0.02351500  0.36051000  0.92845300  1
+  Ga  Ga9  1  0.24800500  0.58742100  0.24702900  1
+  Se  Se10  1  0.13527700  0.13527700  0.60552200  1
+  Se  Se11  1  0.65899100  0.35411300  0.98046700  1
+  Se  Se12  1  0.79774500  0.46071200  0.60725600  1
+  Se  Se13  1  0.35411300  0.65899100  0.98046700  1
+  Se  Se14  1  0.73899300  0.73899300  0.77175800  1
+  Se  Se15  1  0.46071200  0.79774500  0.60725600  1
+  Se  Se16  1  0.88546000  0.88546000  0.39431700  1
+  Se  Se17  1  0.25711800  0.95101300  0.19416200  1
+  Se  Se18  1  0.01449500  0.01449500  0.99557500  1
+  Se  Se19  1  0.40814000  0.06948100  0.77073600  1
+  Se  Se20  1  0.50618800  0.20209200  0.40464700  1
+  Se  Se21  1  0.95101300  0.25711800  0.19416200  1
+  Se  Se22  1  0.06948100  0.40814000  0.77073600  1
+  Se  Se23  1  0.20209200  0.50618800  0.40464700  1
+  Se  Se24  1  0.59383900  0.59383900  0.18052000  1

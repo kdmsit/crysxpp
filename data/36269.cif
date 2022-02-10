@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrTcN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60032006
+_cell_length_b   7.60032006
+_cell_length_c   6.18054260
+_cell_angle_alpha   78.51114890
+_cell_angle_beta   78.51114890
+_cell_angle_gamma   87.78290953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTcN3
+_chemical_formula_sum   'Sr4 Tc4 N12'
+_cell_volume   342.85455283
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.32639000  0.67361000  0.25000000  1
+  Sr  Sr1  1  0.09228000  0.90772000  0.75000000  1
+  Sr  Sr2  1  0.67361000  0.32639000  0.75000000  1
+  Sr  Sr3  1  0.90772000  0.09228000  0.25000000  1
+  Tc  Tc4  1  0.37557000  0.20181000  0.25406000  1
+  Tc  Tc5  1  0.79819000  0.62443000  0.24594000  1
+  Tc  Tc6  1  0.20181000  0.37557000  0.75406000  1
+  Tc  Tc7  1  0.62443000  0.79819000  0.74594000  1
+  N  N8  1  0.67583000  0.63313000  0.00000000  1
+  N  N9  1  0.23311000  0.01205000  0.33372000  1
+  N  N10  1  0.76689000  0.98795000  0.66628000  1
+  N  N11  1  0.86565000  0.40567000  0.33368000  1
+  N  N12  1  0.98795000  0.76689000  0.16628000  1
+  N  N13  1  0.63313000  0.67583000  0.50000000  1
+  N  N14  1  0.01205000  0.23311000  0.83372000  1
+  N  N15  1  0.32417000  0.36687000  0.00000000  1
+  N  N16  1  0.36687000  0.32417000  0.50000000  1
+  N  N17  1  0.59433000  0.13435000  0.16632000  1
+  N  N18  1  0.13435000  0.59433000  0.66632000  1
+  N  N19  1  0.40567000  0.86565000  0.83368000  1

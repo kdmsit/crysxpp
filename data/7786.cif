@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiMgH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28100426
+_cell_length_b   5.28100426
+_cell_length_c   5.28100402
+_cell_angle_alpha   55.99935923
+_cell_angle_beta   55.99935923
+_cell_angle_gamma   55.99935305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMgH3
+_chemical_formula_sum   'Li2 Mg2 H6'
+_cell_volume   94.49163943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.28893700  0.28893700  0.28893700  1
+  Li  Li1  1  0.78893700  0.78893700  0.78893700  1
+  Mg  Mg2  1  0.99918600  0.99918600  0.99918600  1
+  Mg  Mg3  1  0.49918600  0.49918600  0.49918600  1
+  H  H4  1  0.70054900  0.10152700  0.38960000  1
+  H  H5  1  0.38960000  0.70054900  0.10152700  1
+  H  H6  1  0.10152700  0.38960000  0.70054900  1
+  H  H7  1  0.20054900  0.88960000  0.60152700  1
+  H  H8  1  0.88960000  0.60152700  0.20054900  1
+  H  H9  1  0.60152700  0.20054900  0.88960000  1

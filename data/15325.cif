@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30831558
+_cell_length_b   5.30831558
+_cell_length_c   10.29770784
+_cell_angle_alpha   74.68986284
+_cell_angle_beta   74.68986284
+_cell_angle_gamma   43.43611968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTiClO3
+_chemical_formula_sum   'Eu2 Ti2 Cl2 O6'
+_cell_volume   191.27803116
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.77935100  0.77935100  0.20188800  1
+  Eu  Eu1  1  0.22064900  0.22064900  0.79811200  1
+  Ti  Ti2  1  0.61917500  0.61917500  0.56462700  1
+  Ti  Ti3  1  0.38082500  0.38082500  0.43537300  1
+  Cl  Cl4  1  0.11190000  0.11190000  0.09722400  1
+  Cl  Cl5  1  0.88810000  0.88810000  0.90277600  1
+  O  O6  1  0.64938400  0.64938400  0.73799700  1
+  O  O7  1  0.57640400  0.57640400  0.38068300  1
+  O  O8  1  0.35061600  0.35061600  0.26200300  1
+  O  O9  1  0.42359600  0.42359600  0.61931700  1
+  O  O10  1  0.16688400  0.16688400  0.55964500  1
+  O  O11  1  0.83311600  0.83311600  0.44035500  1

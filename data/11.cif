@@ -1,16 +1,16 @@
 # generated using pymatgen
-data_BiPbClO2
+data_Zn(InSe2)2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   5.65433072
-_cell_length_b   5.71564665
-_cell_length_c   6.95597345
-_cell_angle_alpha   114.25789493
-_cell_angle_beta   90.00000000
-_cell_angle_gamma   90.00000000
+_cell_length_a   8.00330325
+_cell_length_b   8.00330325
+_cell_length_c   8.00330325
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   BiPbClO2
-_chemical_formula_sum   'Bi2 Pb2 Cl2 O4'
-_cell_volume   204.95524700
+_chemical_formula_structural   Zn(InSe2)2
+_chemical_formula_sum   'Zn2 In4 Se8'
+_cell_volume   362.48732126
 _cell_formula_units_Z   2
 loop_
  _symmetry_equiv_pos_site_id
@@ -24,13 +24,17 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  O  O1  1  0.500000  0.237727  0.000000  1
-  O  O2  1  0.000000  0.762273  0.000000  1
-  O  O3  1  0.500000  0.762273  0.000000  1
-  O  O4  1  0.000000  0.237727  0.000000  1
-  Cl  Cl5  1  0.750000  0.746066  0.492132  1
-  Cl  Cl6  1  0.250000  0.253934  0.507868  1
-  Pb  Pb7  1  0.750000  0.393229  0.786458  1
-  Pb  Pb8  1  0.250000  0.606771  0.213542  1
-  Bi  Bi9  1  0.750000  0.087571  0.175142  1
-  Bi  Bi10  1  0.250000  0.912429  0.824858  1
+  Zn  Zn0  1  0.25000000  0.25000000  0.25000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  In  In2  1  0.12500000  0.62500000  0.62500000  1
+  In  In3  1  0.62500000  0.12500000  0.62500000  1
+  In  In4  1  0.62500000  0.62500000  0.12500000  1
+  In  In5  1  0.62500000  0.62500000  0.62500000  1
+  Se  Se6  1  0.86123400  0.37958900  0.37958900  1
+  Se  Se7  1  0.37958900  0.86123400  0.37958900  1
+  Se  Se8  1  0.37958900  0.37958900  0.86123400  1
+  Se  Se9  1  0.37958900  0.37958900  0.37958900  1
+  Se  Se10  1  0.38876600  0.87041100  0.87041100  1
+  Se  Se11  1  0.87041100  0.38876600  0.87041100  1
+  Se  Se12  1  0.87041100  0.87041100  0.38876600  1
+  Se  Se13  1  0.87041100  0.87041100  0.87041100  1

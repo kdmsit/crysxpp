@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaCu2(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87674700
+_cell_length_b   4.76340600
+_cell_length_c   10.05166609
+_cell_angle_alpha   64.19483160
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu2(AsO4)2
+_chemical_formula_sum   'Ba2 Cu4 As4 O16'
+_cell_volume   382.63690885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.50000000  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.41757100  0.89492500  0.15240400  1
+  Cu  Cu3  1  0.58242900  0.10507500  0.84759600  1
+  Cu  Cu4  1  0.08242900  0.89492500  0.65240400  1
+  Cu  Cu5  1  0.91757100  0.10507500  0.34759600  1
+  As  As6  1  0.81565800  0.37336500  0.57812900  1
+  As  As7  1  0.31565800  0.62663500  0.92187100  1
+  As  As8  1  0.18434200  0.62663500  0.42187100  1
+  As  As9  1  0.68434200  0.37336500  0.07812900  1
+  O  O10  1  0.40147000  0.27427500  0.96249600  1
+  O  O11  1  0.90147000  0.72572500  0.53750400  1
+  O  O12  1  0.59853000  0.72572500  0.03750400  1
+  O  O13  1  0.09853000  0.27427500  0.46249600  1
+  O  O14  1  0.41616100  0.91650200  0.78091000  1
+  O  O15  1  0.91616100  0.08349800  0.71909000  1
+  O  O16  1  0.58383900  0.08349800  0.21909000  1
+  O  O17  1  0.08383900  0.91650200  0.28091000  1
+  O  O18  1  0.27452000  0.68728300  0.07617600  1
+  O  O19  1  0.77452000  0.31271700  0.42382400  1
+  O  O20  1  0.13172500  0.61481500  0.86184300  1
+  O  O21  1  0.63172500  0.38518500  0.63815700  1
+  O  O22  1  0.86827500  0.38518500  0.13815700  1
+  O  O23  1  0.36827500  0.61481500  0.36184300  1
+  O  O24  1  0.22548000  0.68728300  0.57617600  1
+  O  O25  1  0.72548000  0.31271700  0.92382400  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(InSb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73505400
+_cell_length_b   12.85669300
+_cell_length_c   14.99102600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(InSb3)2
+_chemical_formula_sum   'Sr10 In4 Sb12'
+_cell_volume   912.61072283
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.08842000  0.75013500  1
+  Sr  Sr1  1  0.50000000  0.17413100  0.01736700  1
+  Sr  Sr2  1  0.50000000  0.41158000  0.25013500  1
+  Sr  Sr3  1  0.50000000  0.82586900  0.98263300  1
+  Sr  Sr4  1  0.50000000  0.32586900  0.51736700  1
+  Sr  Sr5  1  0.50000000  0.00000000  0.50000000  1
+  Sr  Sr6  1  0.50000000  0.58842000  0.74986500  1
+  Sr  Sr7  1  0.50000000  0.91158000  0.24986500  1
+  Sr  Sr8  1  0.50000000  0.50000000  0.00000000  1
+  Sr  Sr9  1  0.50000000  0.67413100  0.48263300  1
+  In  In10  1  0.00000000  0.32967100  0.71352200  1
+  In  In11  1  0.00000000  0.17032900  0.21352200  1
+  In  In12  1  0.00000000  0.67032900  0.28647800  1
+  In  In13  1  0.00000000  0.82967100  0.78647800  1
+  Sb  Sb14  1  0.00000000  0.65315500  0.90529000  1
+  Sb  Sb15  1  0.50000000  0.66286400  0.17537500  1
+  Sb  Sb16  1  0.00000000  0.02373800  0.90525000  1
+  Sb  Sb17  1  0.00000000  0.47626200  0.40525000  1
+  Sb  Sb18  1  0.50000000  0.33713600  0.82462500  1
+  Sb  Sb19  1  0.50000000  0.16286400  0.32462500  1
+  Sb  Sb20  1  0.00000000  0.34684500  0.09471000  1
+  Sb  Sb21  1  0.00000000  0.15315500  0.59471000  1
+  Sb  Sb22  1  0.00000000  0.97626200  0.09475000  1
+  Sb  Sb23  1  0.50000000  0.83713600  0.67537500  1
+  Sb  Sb24  1  0.00000000  0.52373800  0.59475000  1
+  Sb  Sb25  1  0.00000000  0.84684500  0.40529000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Yb3DySb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.38502800
+_cell_length_b   9.38502800
+_cell_length_c   9.38502800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3DySb3
+_chemical_formula_sum   'Yb12 Dy4 Sb12'
+_cell_volume   826.62154022
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.82323000  0.32323000  0.17677000  1
+  Yb  Yb1  1  0.93014800  0.93014800  0.93014800  1
+  Yb  Yb2  1  0.82545800  0.67454200  0.32545800  1
+  Yb  Yb3  1  0.17677000  0.82323000  0.32323000  1
+  Yb  Yb4  1  0.17454200  0.17454200  0.17454200  1
+  Yb  Yb5  1  0.32545800  0.82545800  0.67454200  1
+  Yb  Yb6  1  0.06985200  0.43014800  0.56985200  1
+  Yb  Yb7  1  0.32323000  0.17677000  0.82323000  1
+  Yb  Yb8  1  0.67454200  0.32545800  0.82545800  1
+  Yb  Yb9  1  0.67677000  0.67677000  0.67677000  1
+  Yb  Yb10  1  0.56985200  0.06985200  0.43014800  1
+  Yb  Yb11  1  0.43014800  0.56985200  0.06985200  1
+  Dy  Dy12  1  0.07057100  0.57057100  0.92942900  1
+  Dy  Dy13  1  0.92942900  0.07057100  0.57057100  1
+  Dy  Dy14  1  0.42942900  0.42942900  0.42942900  1
+  Dy  Dy15  1  0.57057100  0.92942900  0.07057100  1
+  Sb  Sb16  1  0.74634200  0.37042600  0.50035700  1
+  Sb  Sb17  1  0.87042600  0.99964300  0.25365800  1
+  Sb  Sb18  1  0.00035700  0.75365800  0.62957400  1
+  Sb  Sb19  1  0.24634200  0.12957400  0.49964300  1
+  Sb  Sb20  1  0.12957400  0.49964300  0.24634200  1
+  Sb  Sb21  1  0.99964300  0.25365800  0.87042600  1
+  Sb  Sb22  1  0.25365800  0.87042600  0.99964300  1
+  Sb  Sb23  1  0.37042600  0.50035700  0.74634200  1
+  Sb  Sb24  1  0.49964300  0.24634200  0.12957400  1
+  Sb  Sb25  1  0.75365800  0.62957400  0.00035700  1
+  Sb  Sb26  1  0.62957400  0.00035700  0.75365800  1
+  Sb  Sb27  1  0.50035700  0.74634200  0.37042600  1

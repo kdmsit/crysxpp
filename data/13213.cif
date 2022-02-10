@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_V2Cu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.28717775
+_cell_length_b   10.85599936
+_cell_length_c   5.49998308
+_cell_angle_alpha   80.01663822
+_cell_angle_beta   71.30456891
+_cell_angle_gamma   28.67879288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2Cu2O7
+_chemical_formula_sum   'V4 Cu4 O14'
+_cell_volume   297.60695499
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.18720000  0.41192100  0.61913900  1
+  V  V1  1  0.78174100  0.61913900  0.41192100  1
+  V  V2  1  0.63086100  0.46825900  0.06280000  1
+  V  V3  1  0.83807900  0.06280000  0.46825900  1
+  Cu  Cu4  1  0.71330500  0.95949200  0.02994800  1
+  Cu  Cu5  1  0.29725500  0.02994800  0.95949200  1
+  Cu  Cu6  1  0.22005200  0.95274500  0.53669500  1
+  Cu  Cu7  1  0.29050800  0.53669500  0.95274500  1
+  O  O8  1  0.90039100  0.59960900  0.59960900  1
+  O  O9  1  0.65039100  0.34960900  0.34960900  1
+  O  O10  1  0.39666200  0.27981500  0.30186300  1
+  O  O11  1  0.02166000  0.30186300  0.27981500  1
+  O  O12  1  0.94813700  0.22834000  0.85333800  1
+  O  O13  1  0.97018500  0.85333800  0.22834000  1
+  O  O14  1  0.08489900  0.63070000  0.80062300  1
+  O  O15  1  0.48377700  0.80062300  0.63070000  1
+  O  O16  1  0.07608200  0.92488100  0.52461000  1
+  O  O17  1  0.47442700  0.52461000  0.92488100  1
+  O  O18  1  0.72539000  0.77557300  0.17391800  1
+  O  O19  1  0.32511900  0.17391800  0.77557300  1
+  O  O20  1  0.61930000  0.16510100  0.76622300  1
+  O  O21  1  0.44937700  0.76622300  0.16510100  1

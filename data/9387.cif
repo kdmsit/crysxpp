@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiBiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80311971
+_cell_length_b   6.80311971
+_cell_length_c   6.80311971
+_cell_angle_alpha   133.54937854
+_cell_angle_beta   133.54937854
+_cell_angle_gamma   67.79268927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBiF4
+_chemical_formula_sum   'Li2 Bi2 F8'
+_cell_volume   162.57229709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.75000000  0.25000000  0.50000000  1
+  Bi  Bi2  1  0.25000000  0.75000000  0.50000000  1
+  Bi  Bi3  1  0.50000000  0.50000000  0.00000000  1
+  F  F4  1  0.24112600  0.80272200  0.88388600  1
+  F  F5  1  0.55272200  0.16883700  0.06159600  1
+  F  F6  1  0.83116300  0.89275900  0.38388600  1
+  F  F7  1  0.64275900  0.75887400  0.56159600  1
+  F  F8  1  0.19727800  0.08116300  0.43840400  1
+  F  F9  1  0.50887400  0.44727800  0.61611400  1
+  F  F10  1  0.91883700  0.35724100  0.11611400  1
+  F  F11  1  0.10724100  0.49112600  0.93840400  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaAgSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62570800
+_cell_length_b   7.74745800
+_cell_length_c   8.52533100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAgSb
+_chemical_formula_sum   'Ca4 Ag4 Sb4'
+_cell_volume   305.52636599
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.47883800  0.80667700  1
+  Ca  Ca1  1  0.25000000  0.52116200  0.19332300  1
+  Ca  Ca2  1  0.25000000  0.02116200  0.30667700  1
+  Ca  Ca3  1  0.75000000  0.97883800  0.69332300  1
+  Ag  Ag4  1  0.75000000  0.85846500  0.06409900  1
+  Ag  Ag5  1  0.75000000  0.35846500  0.43590100  1
+  Ag  Ag6  1  0.25000000  0.14153500  0.93590100  1
+  Ag  Ag7  1  0.25000000  0.64153500  0.56409900  1
+  Sb  Sb8  1  0.75000000  0.74238700  0.38518600  1
+  Sb  Sb9  1  0.25000000  0.25761300  0.61481400  1
+  Sb  Sb10  1  0.75000000  0.24238700  0.11481400  1
+  Sb  Sb11  1  0.25000000  0.75761300  0.88518600  1

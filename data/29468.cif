@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2NiPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04686000
+_cell_length_b   5.42835800
+_cell_length_c   9.58949017
+_cell_angle_alpha   89.70960305
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiPCO7
+_chemical_formula_sum   'K4 Ni2 P2 C2 O14'
+_cell_volume   366.82089416
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52628400  0.75411900  0.74609500  1
+  K  K1  1  0.97371600  0.75411900  0.74609500  1
+  K  K2  1  0.47371600  0.24588100  0.25390500  1
+  K  K3  1  0.02628400  0.24588100  0.25390500  1
+  Ni  Ni4  1  0.25000000  0.22647400  0.64092700  1
+  Ni  Ni5  1  0.75000000  0.77352600  0.35907300  1
+  P  P6  1  0.75000000  0.28084600  0.57102100  1
+  P  P7  1  0.25000000  0.71915400  0.42897900  1
+  C  C8  1  0.25000000  0.27201700  0.89803000  1
+  C  C9  1  0.75000000  0.72798300  0.10197000  1
+  O  O10  1  0.75000000  0.70589000  0.97215300  1
+  O  O11  1  0.25000000  0.06042600  0.83518300  1
+  O  O12  1  0.25000000  0.45912400  0.81220000  1
+  O  O13  1  0.92989000  0.23695900  0.66068600  1
+  O  O14  1  0.57011000  0.23695900  0.66068600  1
+  O  O15  1  0.25000000  0.88468500  0.55952600  1
+  O  O16  1  0.75000000  0.55891400  0.52560200  1
+  O  O17  1  0.25000000  0.44108600  0.47439800  1
+  O  O18  1  0.75000000  0.11531500  0.44047400  1
+  O  O19  1  0.42989000  0.76304100  0.33931400  1
+  O  O20  1  0.07011000  0.76304100  0.33931400  1
+  O  O21  1  0.75000000  0.54087600  0.18780000  1
+  O  O22  1  0.75000000  0.93957400  0.16481700  1
+  O  O23  1  0.25000000  0.29411000  0.02784700  1

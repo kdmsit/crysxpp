@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Fe2NiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45792700
+_cell_length_b   6.03881569
+_cell_length_c   6.44684066
+_cell_angle_alpha   116.31677623
+_cell_angle_beta   104.41555264
+_cell_angle_gamma   90.62448806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2NiSe4
+_chemical_formula_sum   'Fe2 Ni1 Se4'
+_cell_volume   115.72387673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.74717000  0.01957400  0.43773000  1
+  Fe  Fe1  1  0.24461000  0.41064800  0.41518400  1
+  Ni  Ni2  1  0.51754200  0.71287000  0.93789800  1
+  Se  Se3  1  0.37887300  0.26609000  0.70780200  1
+  Se  Se4  1  0.61495500  0.16446500  0.14476400  1
+  Se  Se5  1  0.14260500  0.69270000  0.20893400  1
+  Se  Se6  1  0.85424500  0.73365400  0.64768800  1

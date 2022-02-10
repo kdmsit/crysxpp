@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb3CuSiS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.94491832
+_cell_length_b   9.94491832
+_cell_length_c   5.70554100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3CuSiS7
+_chemical_formula_sum   'Tb6 Cu2 Si2 S14'
+_cell_volume   488.68599632
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.87473700  0.64364600  0.24812500  1
+  Tb  Tb1  1  0.35635400  0.23109100  0.24812500  1
+  Tb  Tb2  1  0.23109100  0.87473700  0.74812500  1
+  Tb  Tb3  1  0.12526300  0.35635400  0.74812500  1
+  Tb  Tb4  1  0.64364600  0.76890900  0.74812500  1
+  Tb  Tb5  1  0.76890900  0.12526300  0.24812500  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.20050200  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.70050200  1
+  Si  Si8  1  0.33333300  0.66666700  0.33667300  1
+  Si  Si9  1  0.66666700  0.33333300  0.83667300  1
+  S  S10  1  0.66666700  0.33333300  0.46674400  1
+  S  S11  1  0.89206200  0.41396100  0.98657500  1
+  S  S12  1  0.90872700  0.74324700  0.72342300  1
+  S  S13  1  0.52189900  0.10793800  0.98657500  1
+  S  S14  1  0.47810100  0.89206200  0.48657500  1
+  S  S15  1  0.74324700  0.83452000  0.22342300  1
+  S  S16  1  0.10793800  0.58603900  0.48657500  1
+  S  S17  1  0.58603900  0.47810100  0.98657500  1
+  S  S18  1  0.16548000  0.90872700  0.22342300  1
+  S  S19  1  0.83452000  0.09127300  0.72342300  1
+  S  S20  1  0.09127300  0.25675300  0.22342300  1
+  S  S21  1  0.33333300  0.66666700  0.96674400  1
+  S  S22  1  0.41396100  0.52189900  0.48657500  1
+  S  S23  1  0.25675300  0.16548000  0.72342300  1

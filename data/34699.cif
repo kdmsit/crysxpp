@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiIn(IO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97804900
+_cell_length_b   6.59234209
+_cell_length_c   8.69573854
+_cell_angle_alpha   84.86997899
+_cell_angle_beta   89.19318945
+_cell_angle_gamma   89.32749808
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn(IO3)4
+_chemical_formula_sum   'Li1 In1 I4 O12'
+_cell_volume   284.18107553
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.50000000  1
+  In  In1  1  0.50000000  0.50000000  0.50000000  1
+  I  I2  1  0.52014800  0.80452200  0.15615900  1
+  I  I3  1  0.01048000  0.28252900  0.23897200  1
+  I  I4  1  0.98952000  0.71747100  0.76102800  1
+  I  I5  1  0.47985200  0.19547800  0.84384100  1
+  O  O6  1  0.74438200  0.62363700  0.07084800  1
+  O  O7  1  0.71025800  0.04024000  0.10168800  1
+  O  O8  1  0.22540200  0.48776900  0.30650000  1
+  O  O9  1  0.21762200  0.06541100  0.30568300  1
+  O  O10  1  0.64256500  0.76722000  0.36190700  1
+  O  O11  1  0.75777200  0.26890400  0.39802400  1
+  O  O12  1  0.24222800  0.73109600  0.60197600  1
+  O  O13  1  0.35743500  0.23278000  0.63809300  1
+  O  O14  1  0.78237800  0.93458900  0.69431700  1
+  O  O15  1  0.77459800  0.51223100  0.69350000  1
+  O  O16  1  0.28974200  0.95976000  0.89831200  1
+  O  O17  1  0.25561800  0.37636300  0.92915200  1

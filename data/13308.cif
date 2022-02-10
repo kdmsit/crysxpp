@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Rb2HgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80863328
+_cell_length_b   7.80863328
+_cell_length_c   7.80863328
+_cell_angle_alpha   148.49530270
+_cell_angle_beta   148.49530270
+_cell_angle_gamma   45.15472827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2HgO2
+_chemical_formula_sum   'Rb2 Hg1 O2'
+_cell_volume   129.60818381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.66655300  0.66655300  0.00000000  1
+  Rb  Rb1  1  0.33344700  0.33344700  0.00000000  1
+  Hg  Hg2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.86100900  0.86100900  0.00000000  1
+  O  O4  1  0.13899100  0.13899100  0.00000000  1

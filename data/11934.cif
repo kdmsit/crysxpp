@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho3(CuGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97773718
+_cell_length_b   7.97773718
+_cell_length_c   7.97773718
+_cell_angle_alpha   149.59748984
+_cell_angle_beta   130.71342508
+_cell_angle_gamma   59.01808273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(CuGe)4
+_chemical_formula_sum   'Ho3 Cu4 Ge4'
+_cell_volume   193.24544101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.87014200  0.87014200  0.00000000  1
+  Ho  Ho1  1  0.12985800  0.12985800  0.00000000  1
+  Ho  Ho2  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.85928600  0.66919900  0.19008700  1
+  Cu  Cu4  1  0.14071400  0.33080100  0.80991300  1
+  Cu  Cu5  1  0.47911200  0.66919900  0.80991300  1
+  Cu  Cu6  1  0.52088800  0.33080100  0.19008700  1
+  Ge  Ge7  1  0.28313600  0.78313600  0.50000000  1
+  Ge  Ge8  1  0.80806500  0.50000000  0.30806500  1
+  Ge  Ge9  1  0.19193500  0.50000000  0.69193500  1
+  Ge  Ge10  1  0.71686400  0.21686400  0.50000000  1

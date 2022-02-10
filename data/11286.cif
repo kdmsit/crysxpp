@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tb2Al3Si2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51689219
+_cell_length_b   5.51689219
+_cell_length_c   6.64692115
+_cell_angle_alpha   79.61989573
+_cell_angle_beta   79.61989573
+_cell_angle_gamma   43.11006336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Al3Si2
+_chemical_formula_sum   'Tb2 Al3 Si2'
+_cell_volume   135.63739656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.61987000  0.61987000  0.67743400  1
+  Tb  Tb1  1  0.38013000  0.38013000  0.32256600  1
+  Al  Al2  1  0.30559100  0.30559100  0.86636500  1
+  Al  Al3  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al4  1  0.69440900  0.69440900  0.13363500  1
+  Si  Si5  1  0.09268000  0.09268000  0.35939300  1
+  Si  Si6  1  0.90732000  0.90732000  0.64060700  1

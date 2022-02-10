@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr(InS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60074186
+_cell_length_b   7.60074186
+_cell_length_c   7.60074186
+_cell_angle_alpha   120.90178366
+_cell_angle_beta   118.62519294
+_cell_angle_gamma   90.42136701
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(InS2)2
+_chemical_formula_sum   'Cr2 In4 S8'
+_cell_volume   311.44230082
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.00000000  1
+  In  In2  1  0.61600500  0.86600500  0.75000000  1
+  In  In3  1  0.38399500  0.13399500  0.25000000  1
+  In  In4  1  0.50000000  0.50000000  0.00000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  S  S6  1  0.22839600  0.24036500  0.51196800  1
+  S  S7  1  0.22839600  0.71642800  0.98803200  1
+  S  S8  1  0.21301400  0.25443800  0.95857700  1
+  S  S9  1  0.79586100  0.25443800  0.54142300  1
+  S  S10  1  0.20413900  0.74556200  0.45857700  1
+  S  S11  1  0.78698600  0.74556200  0.04142300  1
+  S  S12  1  0.77160400  0.28357200  0.01196800  1
+  S  S13  1  0.77160400  0.75963500  0.48803200  1

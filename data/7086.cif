@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ThCrB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63246300
+_cell_length_b   6.04053500
+_cell_length_c   11.67957400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCrB4
+_chemical_formula_sum   'Th4 Cr4 B16'
+_cell_volume   256.27344499
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.50000000  0.12332700  0.84882000  1
+  Th  Th1  1  0.50000000  0.87667300  0.15118000  1
+  Th  Th2  1  0.50000000  0.62332700  0.65118000  1
+  Th  Th3  1  0.50000000  0.37667300  0.34882000  1
+  Cr  Cr4  1  0.50000000  0.12286800  0.58197200  1
+  Cr  Cr5  1  0.50000000  0.87713200  0.41802800  1
+  Cr  Cr6  1  0.50000000  0.62286800  0.91802800  1
+  Cr  Cr7  1  0.50000000  0.37713200  0.08197200  1
+  B  B8  1  0.00000000  0.27625200  0.68149900  1
+  B  B9  1  0.00000000  0.72374800  0.31850100  1
+  B  B10  1  0.00000000  0.77625200  0.81850100  1
+  B  B11  1  0.00000000  0.22374800  0.18149900  1
+  B  B12  1  0.00000000  0.38930000  0.95519400  1
+  B  B13  1  0.00000000  0.61070000  0.04480600  1
+  B  B14  1  0.00000000  0.88930000  0.54480600  1
+  B  B15  1  0.00000000  0.11070000  0.45519400  1
+  B  B16  1  0.00000000  0.14293700  0.03314800  1
+  B  B17  1  0.00000000  0.85706300  0.96685200  1
+  B  B18  1  0.00000000  0.64293700  0.46685200  1
+  B  B19  1  0.00000000  0.35706300  0.53314800  1
+  B  B20  1  0.00000000  0.02424800  0.31236500  1
+  B  B21  1  0.00000000  0.97575200  0.68763500  1
+  B  B22  1  0.00000000  0.52424800  0.18763500  1
+  B  B23  1  0.00000000  0.47575200  0.81236500  1

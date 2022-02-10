@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaYbSi4N7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13185011
+_cell_length_b   6.13185011
+_cell_length_c   9.93131200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYbSi4N7
+_chemical_formula_sum   'Ba2 Yb2 Si8 N14'
+_cell_volume   323.38532853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333300  0.66666700  0.36364600  1
+  Ba  Ba1  1  0.66666700  0.33333300  0.86364600  1
+  Yb  Yb2  1  0.66666700  0.33333300  0.23460800  1
+  Yb  Yb3  1  0.33333300  0.66666700  0.73460800  1
+  Si  Si4  1  0.82543000  0.65086000  0.54696200  1
+  Si  Si5  1  0.17457000  0.82543000  0.04696200  1
+  Si  Si6  1  0.65086000  0.82543000  0.04696200  1
+  Si  Si7  1  0.34914000  0.17457000  0.54696200  1
+  Si  Si8  1  0.82543000  0.17457000  0.54696200  1
+  Si  Si9  1  0.17457000  0.34914000  0.04696200  1
+  Si  Si10  1  0.00000000  0.00000000  0.81425800  1
+  Si  Si11  1  0.00000000  0.00000000  0.31425800  1
+  N  N12  1  0.15027700  0.30055500  0.87552400  1
+  N  N13  1  0.84972300  0.15027700  0.37552400  1
+  N  N14  1  0.30055500  0.15027700  0.37552400  1
+  N  N15  1  0.69944500  0.84972300  0.87552400  1
+  N  N16  1  0.15027700  0.84972300  0.87552400  1
+  N  N17  1  0.84972300  0.69944500  0.37552400  1
+  N  N18  1  0.97418900  0.48709400  0.59569500  1
+  N  N19  1  0.48709400  0.97418900  0.09569500  1
+  N  N20  1  0.48709400  0.51290600  0.09569500  1
+  N  N21  1  0.51290600  0.48709400  0.59569500  1
+  N  N22  1  0.51290600  0.02581100  0.59569500  1
+  N  N23  1  0.02581100  0.51290600  0.09569500  1
+  N  N24  1  0.00000000  0.00000000  0.12554400  1
+  N  N25  1  0.00000000  0.00000000  0.62554400  1

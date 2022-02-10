@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoTeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01111700
+_cell_length_b   7.39180200
+_cell_length_c   9.13794000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTeClO3
+_chemical_formula_sum   'Ho4 Te4 Cl4 O12'
+_cell_volume   473.57180931
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.59308000  0.96373900  1
+  Ho  Ho1  1  0.75000000  0.40692000  0.03626100  1
+  Ho  Ho2  1  0.75000000  0.90692000  0.46373900  1
+  Ho  Ho3  1  0.25000000  0.09308000  0.53626100  1
+  Te  Te4  1  0.75000000  0.81672800  0.86922800  1
+  Te  Te5  1  0.25000000  0.68327200  0.36922800  1
+  Te  Te6  1  0.75000000  0.31672800  0.63077200  1
+  Te  Te7  1  0.25000000  0.18327200  0.13077200  1
+  Cl  Cl8  1  0.25000000  0.93153100  0.81312800  1
+  Cl  Cl9  1  0.25000000  0.43153100  0.68687200  1
+  Cl  Cl10  1  0.75000000  0.56846900  0.31312800  1
+  Cl  Cl11  1  0.75000000  0.06846900  0.18687200  1
+  O  O12  1  0.25000000  0.74206600  0.16982700  1
+  O  O13  1  0.75000000  0.75793400  0.66982700  1
+  O  O14  1  0.56598900  0.64453200  0.93537200  1
+  O  O15  1  0.93401100  0.64453200  0.93537200  1
+  O  O16  1  0.43401100  0.35546800  0.06462800  1
+  O  O17  1  0.06598900  0.35546800  0.06462800  1
+  O  O18  1  0.43401100  0.85546800  0.43537200  1
+  O  O19  1  0.56598900  0.14453200  0.56462800  1
+  O  O20  1  0.93401100  0.14453200  0.56462800  1
+  O  O21  1  0.75000000  0.25793400  0.83017300  1
+  O  O22  1  0.25000000  0.24206600  0.33017300  1
+  O  O23  1  0.06598900  0.85546800  0.43537200  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NbGeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60256600
+_cell_length_b   3.60256600
+_cell_length_c   8.01020400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGeAs
+_chemical_formula_sum   'Nb2 Ge2 As2'
+_cell_volume   103.96028670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.50000000  0.73951600  1
+  Nb  Nb1  1  0.50000000  0.00000000  0.26048400  1
+  Ge  Ge2  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge3  1  0.50000000  0.50000000  0.00000000  1
+  As  As4  1  0.00000000  0.50000000  0.38953700  1
+  As  As5  1  0.50000000  0.00000000  0.61046300  1

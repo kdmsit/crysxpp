@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2AlCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59069687
+_cell_length_b   5.59069687
+_cell_length_c   7.65230268
+_cell_angle_alpha   78.33470837
+_cell_angle_beta   78.33470837
+_cell_angle_gamma   60.96560164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2AlCo2
+_chemical_formula_sum   'Pr4 Al2 Co4'
+_cell_volume   203.28414392
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.49806700  0.21009000  0.14658700  1
+  Pr  Pr1  1  0.78991000  0.50193300  0.35341300  1
+  Pr  Pr2  1  0.50193300  0.78991000  0.85341300  1
+  Pr  Pr3  1  0.21009000  0.49806700  0.64658700  1
+  Al  Al4  1  0.11719800  0.88280200  0.25000000  1
+  Al  Al5  1  0.88280200  0.11719800  0.75000000  1
+  Co  Co6  1  0.28454700  0.00133800  0.49500200  1
+  Co  Co7  1  0.99866200  0.71545300  0.00499800  1
+  Co  Co8  1  0.00133800  0.28454700  0.99500200  1
+  Co  Co9  1  0.71545300  0.99866200  0.50499800  1

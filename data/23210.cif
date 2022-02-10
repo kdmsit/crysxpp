@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2CaY(Co4O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78770168
+_cell_length_b   6.78770168
+_cell_length_c   9.80582500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999692
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaY(Co4O7)2
+_chemical_formula_sum   'Ba2 Ca1 Y1 Co8 O14'
+_cell_volume   391.25533960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666700  0.33333300  0.10664600  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.61308900  1
+  Ca  Ca2  1  0.00000000  0.00000000  0.97042800  1
+  Y  Y3  1  0.66666700  0.33333300  0.49150600  1
+  Co  Co4  1  0.52171400  0.47828600  0.78443300  1
+  Co  Co5  1  0.33333300  0.66666700  0.39266900  1
+  Co  Co6  1  0.52171400  0.04342900  0.78443300  1
+  Co  Co7  1  0.95657100  0.47828600  0.78443300  1
+  Co  Co8  1  0.66747500  0.83373700  0.22302500  1
+  Co  Co9  1  0.16626300  0.33252500  0.22302500  1
+  Co  Co10  1  0.16626300  0.83373700  0.22302500  1
+  Co  Co11  1  0.33333300  0.66666700  0.74548800  1
+  O  O12  1  0.49790000  0.50210000  0.37107000  1
+  O  O13  1  0.41260800  0.20630400  0.68176900  1
+  O  O14  1  0.49790000  0.99579900  0.37107000  1
+  O  O15  1  0.79369600  0.58739200  0.68176900  1
+  O  O16  1  0.79369600  0.20630400  0.68176900  1
+  O  O17  1  0.62914500  0.81457300  0.84386200  1
+  O  O18  1  0.00420100  0.50210000  0.37107000  1
+  O  O19  1  0.86891700  0.13108300  0.15335900  1
+  O  O20  1  0.18542700  0.37085500  0.84386200  1
+  O  O21  1  0.86891700  0.73783400  0.15335900  1
+  O  O22  1  0.33333300  0.66666700  0.19050300  1
+  O  O23  1  0.26216600  0.13108300  0.15335900  1
+  O  O24  1  0.18542700  0.81457300  0.84386200  1
+  O  O25  1  0.33333300  0.66666700  0.57291800  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbVP2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53877979
+_cell_length_b   6.53877979
+_cell_length_c   6.82840904
+_cell_angle_alpha   84.93725242
+_cell_angle_beta   84.93725242
+_cell_angle_gamma   96.82280759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbVP2S7
+_chemical_formula_sum   'Rb1 V1 P2 S7'
+_cell_volume   287.31224230
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.10913600  0.89086400  0.50000000  1
+  V  V1  1  0.49839600  0.50160400  0.00000000  1
+  P  P2  1  0.65367800  0.94802900  0.07882800  1
+  P  P3  1  0.05197100  0.34632200  0.92117200  1
+  S  S4  1  0.98346300  0.01653700  0.00000000  1
+  S  S5  1  0.81673700  0.45757200  0.78922900  1
+  S  S6  1  0.63325700  0.68877200  0.26988900  1
+  S  S7  1  0.31122800  0.36674300  0.73011100  1
+  S  S8  1  0.15319500  0.47358800  0.16416300  1
+  S  S9  1  0.52641200  0.84680500  0.83583700  1
+  S  S10  1  0.54242800  0.18326300  0.21077100  1

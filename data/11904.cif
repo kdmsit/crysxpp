@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KBiSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77709613
+_cell_length_b   7.77709613
+_cell_length_c   7.77709613
+_cell_angle_alpha   133.21577064
+_cell_angle_beta   133.21577064
+_cell_angle_gamma   68.31549584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBiSe2
+_chemical_formula_sum   'K2 Bi2 Se4'
+_cell_volume   245.41772237
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.75000000  0.25000000  0.50000000  1
+  Bi  Bi2  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi3  1  0.25000000  0.75000000  0.50000000  1
+  Se  Se4  1  0.72782600  0.72782600  0.00000000  1
+  Se  Se5  1  0.47782600  0.97782600  0.50000000  1
+  Se  Se6  1  0.27217400  0.27217400  0.00000000  1
+  Se  Se7  1  0.02217400  0.52217400  0.50000000  1

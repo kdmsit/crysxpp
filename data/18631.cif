@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Bi2Pb2Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27783184
+_cell_length_b   4.27783184
+_cell_length_c   16.87452400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2Pb2Se5
+_chemical_formula_sum   'Bi2 Pb2 Se5'
+_cell_volume   267.42967141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.00000000  0.00000000  0.66582200  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.33417800  1
+  Pb  Pb2  1  0.33333300  0.66666700  0.11102700  1
+  Pb  Pb3  1  0.66666700  0.33333300  0.88897300  1
+  Se  Se4  1  0.66666700  0.33333300  0.57667600  1
+  Se  Se5  1  0.33333300  0.66666700  0.77899500  1
+  Se  Se6  1  0.66666700  0.33333300  0.22100500  1
+  Se  Se7  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se8  1  0.33333300  0.66666700  0.42332400  1

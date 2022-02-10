@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce2Co7B3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02194753
+_cell_length_b   5.02194753
+_cell_length_c   12.89092400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Co7B3
+_chemical_formula_sum   'Ce4 Co14 B6'
+_cell_volume   281.55227978
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.00000000  1
+  Ce  Ce1  1  0.00000000  0.00000000  0.50000000  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.25753200  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.74246800  1
+  Co  Co4  1  0.33333300  0.66666700  0.00000000  1
+  Co  Co5  1  0.66666700  0.33333300  0.00000000  1
+  Co  Co6  1  0.50000000  0.00000000  0.15659900  1
+  Co  Co7  1  0.50000000  0.50000000  0.15659900  1
+  Co  Co8  1  0.00000000  0.50000000  0.15659900  1
+  Co  Co9  1  0.50000000  0.00000000  0.84340100  1
+  Co  Co10  1  0.50000000  0.50000000  0.84340100  1
+  Co  Co11  1  0.00000000  0.50000000  0.84340100  1
+  Co  Co12  1  0.50000000  0.00000000  0.38386000  1
+  Co  Co13  1  0.50000000  0.50000000  0.38386000  1
+  Co  Co14  1  0.00000000  0.50000000  0.38386000  1
+  Co  Co15  1  0.50000000  0.00000000  0.61614000  1
+  Co  Co16  1  0.50000000  0.50000000  0.61614000  1
+  Co  Co17  1  0.00000000  0.50000000  0.61614000  1
+  B  B18  1  0.33333300  0.66666700  0.50000000  1
+  B  B19  1  0.66666700  0.33333300  0.50000000  1
+  B  B20  1  0.33333300  0.66666700  0.26853500  1
+  B  B21  1  0.66666700  0.33333300  0.26853500  1
+  B  B22  1  0.66666700  0.33333300  0.73146500  1
+  B  B23  1  0.33333300  0.66666700  0.73146500  1

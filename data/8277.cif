@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li4(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55128048
+_cell_length_b   6.55128048
+_cell_length_c   7.35346211
+_cell_angle_alpha   69.29765743
+_cell_angle_beta   69.29765743
+_cell_angle_gamma   78.93554997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4(CuO2)3
+_chemical_formula_sum   'Li8 Cu6 O12'
+_cell_volume   275.35428347
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69945700  0.02260000  0.86723800  1
+  Li  Li1  1  0.97740000  0.30054300  0.13276200  1
+  Li  Li2  1  0.36283200  0.36283200  0.85918000  1
+  Li  Li3  1  0.31466200  0.68533800  0.50000000  1
+  Li  Li4  1  0.02260000  0.69945700  0.86723800  1
+  Li  Li5  1  0.63716800  0.63716800  0.14082000  1
+  Li  Li6  1  0.30054300  0.97740000  0.13276200  1
+  Li  Li7  1  0.68533800  0.31466200  0.50000000  1
+  Cu  Cu8  1  0.51158200  0.18203600  0.25721400  1
+  Cu  Cu9  1  0.15479600  0.15479600  0.73088900  1
+  Cu  Cu10  1  0.18203600  0.51158200  0.25721400  1
+  Cu  Cu11  1  0.81796400  0.48841800  0.74278600  1
+  Cu  Cu12  1  0.84520400  0.84520400  0.26911100  1
+  Cu  Cu13  1  0.48841800  0.81796400  0.74278600  1
+  O  O14  1  0.07053200  0.40706000  0.82547700  1
+  O  O15  1  0.43402500  0.43402500  0.34200300  1
+  O  O16  1  0.27342200  0.27342200  0.15375100  1
+  O  O17  1  0.89052400  0.23897700  0.66432500  1
+  O  O18  1  0.76102300  0.10947600  0.33567500  1
+  O  O19  1  0.40706000  0.07053200  0.82547700  1
+  O  O20  1  0.59294000  0.92946800  0.17452300  1
+  O  O21  1  0.23897700  0.89052400  0.66432500  1
+  O  O22  1  0.10947600  0.76102300  0.33567500  1
+  O  O23  1  0.72657800  0.72657800  0.84624900  1
+  O  O24  1  0.92946800  0.59294000  0.17452300  1
+  O  O25  1  0.56597500  0.56597500  0.65799700  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li5CrS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60213195
+_cell_length_b   7.60213195
+_cell_length_c   7.60213195
+_cell_angle_alpha   151.55234256
+_cell_angle_beta   127.10689030
+_cell_angle_gamma   61.14749187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5CrS4
+_chemical_formula_sum   'Li5 Cr1 S4'
+_cell_volume   165.57493958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.96250300  0.17750400  0.78499900  1
+  Li  Li1  1  0.39250500  0.17750400  0.21500100  1
+  Li  Li2  1  0.60749500  0.82249600  0.78499900  1
+  Li  Li3  1  0.03749700  0.82249600  0.21500100  1
+  Li  Li4  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr5  1  0.00000000  0.50000000  0.50000000  1
+  S  S6  1  0.24280800  0.00000000  0.24280800  1
+  S  S7  1  0.19799700  0.69799700  0.50000000  1
+  S  S8  1  0.80200300  0.30200300  0.50000000  1
+  S  S9  1  0.75719200  0.00000000  0.75719200  1

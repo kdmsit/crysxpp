@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LuHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56661100
+_cell_length_b   4.24658000
+_cell_length_c   5.82034056
+_cell_angle_alpha   70.43623884
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuHO2
+_chemical_formula_sum   'Lu2 H2 O4'
+_cell_volume   83.06509279
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.76697400  0.66637100  0.18744300  1
+  Lu  Lu1  1  0.26697400  0.33362900  0.81255700  1
+  H  H2  1  0.82732100  0.01960100  0.59191500  1
+  H  H3  1  0.32732100  0.98039900  0.40808500  1
+  O  O4  1  0.76797400  0.23152200  0.05547200  1
+  O  O5  1  0.26797400  0.76847800  0.94452800  1
+  O  O6  1  0.76289300  0.25282900  0.56477100  1
+  O  O7  1  0.26289300  0.74717100  0.43522900  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaZr2MnF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82625152
+_cell_length_b   5.82625152
+_cell_length_c   7.94626800
+_cell_angle_alpha   69.31428536
+_cell_angle_beta   69.31428536
+_cell_angle_gamma   72.98340802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZr2MnF11
+_chemical_formula_sum   'Na1 Zr2 Mn1 F11'
+_cell_volume   231.69679558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.49739600  0.49739600  0.23335700  1
+  Zr  Zr2  1  0.50260400  0.50260400  0.76664300  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.50000000  1
+  F  F4  1  0.19747700  0.77799100  0.30663600  1
+  F  F5  1  0.22200900  0.80252300  0.69336400  1
+  F  F6  1  0.80252300  0.22200900  0.69336400  1
+  F  F7  1  0.77799100  0.19747700  0.30663600  1
+  F  F8  1  0.50000000  0.50000000  0.50000000  1
+  F  F9  1  0.66898600  0.33101400  0.00000000  1
+  F  F10  1  0.33101400  0.66898600  0.00000000  1
+  F  F11  1  0.74626900  0.74626900  0.64920700  1
+  F  F12  1  0.25373100  0.25373100  0.35079300  1
+  F  F13  1  0.73352400  0.73352400  0.10908000  1
+  F  F14  1  0.26647600  0.26647600  0.89092000  1

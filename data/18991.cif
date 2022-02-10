@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.01643090
+_cell_length_b   9.01643090
+_cell_length_c   9.01643090
+_cell_angle_alpha   137.98347088
+_cell_angle_beta   137.98347088
+_cell_angle_gamma   60.92831462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGa3
+_chemical_formula_sum   'Cs3 Ga9'
+_cell_volume   324.80964403
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.00000000  0.00000000  1
+  Cs  Cs1  1  0.12982200  0.62982200  0.50000000  1
+  Cs  Cs2  1  0.37017800  0.87017800  0.50000000  1
+  Ga  Ga3  1  0.77600000  0.98955000  0.21355000  1
+  Ga  Ga4  1  0.08547700  0.39424600  0.69123100  1
+  Ga  Ga5  1  0.70301500  0.39424600  0.30876900  1
+  Ga  Ga6  1  0.77600000  0.56245000  0.78645000  1
+  Ga  Ga7  1  0.01045000  0.22400000  0.78645000  1
+  Ga  Ga8  1  0.43755000  0.22400000  0.21355000  1
+  Ga  Ga9  1  0.60575400  0.91452300  0.30876900  1
+  Ga  Ga10  1  0.60575400  0.29698500  0.69123100  1
+  Ga  Ga11  1  0.50000000  0.50000000  0.00000000  1

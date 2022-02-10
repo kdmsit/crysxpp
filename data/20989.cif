@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cd2P3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11736197
+_cell_length_b   6.11736197
+_cell_length_c   7.64860607
+_cell_angle_alpha   83.00445790
+_cell_angle_beta   83.00445790
+_cell_angle_gamma   96.87254789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2P3Cl
+_chemical_formula_sum   'Cd4 P6 Cl2'
+_cell_volume   279.34125319
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.10480400  0.40986900  0.28671100  1
+  Cd  Cd1  1  0.59013100  0.89519600  0.21328900  1
+  Cd  Cd2  1  0.89519600  0.59013100  0.71328900  1
+  Cd  Cd3  1  0.40986900  0.10480400  0.78671100  1
+  P  P4  1  0.66067600  0.56900400  0.03459400  1
+  P  P5  1  0.43099600  0.33932400  0.46540600  1
+  P  P6  1  0.33932400  0.43099600  0.96540600  1
+  P  P7  1  0.56900400  0.66067600  0.53459400  1
+  P  P8  1  0.69521800  0.30478200  0.25000000  1
+  P  P9  1  0.30478200  0.69521800  0.75000000  1
+  Cl  Cl10  1  0.13867800  0.86132200  0.25000000  1
+  Cl  Cl11  1  0.86132200  0.13867800  0.75000000  1

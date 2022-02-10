@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_EuSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51394200
+_cell_length_b   4.47221000
+_cell_length_c   6.57938045
+_cell_angle_alpha   72.88452103
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSeO3
+_chemical_formula_sum   'Eu2 Se2 O6'
+_cell_volume   155.05905118
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.25000000  0.65790200  0.69931800  1
+  Eu  Eu1  1  0.75000000  0.34209800  0.30068200  1
+  Se  Se2  1  0.25000000  0.92917000  0.15363700  1
+  Se  Se3  1  0.75000000  0.07083000  0.84636300  1
+  O  O4  1  0.75000000  0.66824100  0.89206500  1
+  O  O5  1  0.49128900  0.81710600  0.33341200  1
+  O  O6  1  0.00871100  0.81710600  0.33341200  1
+  O  O7  1  0.99128900  0.18289400  0.66658800  1
+  O  O8  1  0.50871100  0.18289400  0.66658800  1
+  O  O9  1  0.25000000  0.33175900  0.10793500  1

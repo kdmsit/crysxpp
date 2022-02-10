@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaCu2H2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68401194
+_cell_length_b   5.68401194
+_cell_length_c   7.92609044
+_cell_angle_alpha   64.76504146
+_cell_angle_beta   64.76504146
+_cell_angle_gamma   68.06452382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCu2H2(SeO5)2
+_chemical_formula_sum   'Na1 Cu2 H2 Se2 O10'
+_cell_volume   203.69408929
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  H  H3  1  0.71131600  0.71131600  0.79632800  1
+  H  H4  1  0.28868400  0.28868400  0.20367200  1
+  Se  Se5  1  0.08447500  0.08447500  0.70052900  1
+  Se  Se6  1  0.91552500  0.91552500  0.29947100  1
+  O  O7  1  0.18286600  0.18286600  0.82575100  1
+  O  O8  1  0.81713400  0.81713400  0.17424900  1
+  O  O9  1  0.22670600  0.22670600  0.46354000  1
+  O  O10  1  0.77329400  0.77329400  0.53646000  1
+  O  O11  1  0.74359800  0.18505400  0.75208700  1
+  O  O12  1  0.18505400  0.74359800  0.75208700  1
+  O  O13  1  0.25640200  0.81494600  0.24791300  1
+  O  O14  1  0.81494600  0.25640200  0.24791300  1
+  O  O15  1  0.67602400  0.67602400  0.93829500  1
+  O  O16  1  0.32397600  0.32397600  0.06170500  1

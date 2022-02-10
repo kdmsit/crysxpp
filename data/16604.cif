@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaGaSe2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99136800
+_cell_length_b   6.01113100
+_cell_length_c   12.44816900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGaSe2O
+_chemical_formula_sum   'La4 Ga4 Se8 O4'
+_cell_volume   448.31953579
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75608500  0.49725800  0.09418600  1
+  La  La1  1  0.25608500  0.00274200  0.09418600  1
+  La  La2  1  0.25608500  0.50274200  0.90581400  1
+  La  La3  1  0.75608500  0.99725800  0.90581400  1
+  Ga  Ga4  1  0.65782800  0.07714800  0.39795000  1
+  Ga  Ga5  1  0.15782800  0.92285200  0.60205000  1
+  Ga  Ga6  1  0.65782800  0.57714800  0.60205000  1
+  Ga  Ga7  1  0.15782800  0.42285200  0.39795000  1
+  Se  Se8  1  0.75292700  0.99365300  0.21935800  1
+  Se  Se9  1  0.24989600  0.02356300  0.41448100  1
+  Se  Se10  1  0.25292700  0.50634700  0.21935800  1
+  Se  Se11  1  0.74989600  0.47643700  0.41448100  1
+  Se  Se12  1  0.24989600  0.52356300  0.58551900  1
+  Se  Se13  1  0.74989600  0.97643700  0.58551900  1
+  Se  Se14  1  0.75292700  0.49365300  0.78064200  1
+  Se  Se15  1  0.25292700  0.00634700  0.78064200  1
+  O  O16  1  0.00256300  0.24964000  0.99866400  1
+  O  O17  1  0.00256300  0.74964000  0.00133600  1
+  O  O18  1  0.50256300  0.75036000  0.00133600  1
+  O  O19  1  0.50256300  0.25036000  0.99866400  1

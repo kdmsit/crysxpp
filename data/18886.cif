@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cu3Te2(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73410356
+_cell_length_b   5.73410356
+_cell_length_c   8.36721977
+_cell_angle_alpha   77.82333596
+_cell_angle_beta   77.82333596
+_cell_angle_gamma   66.79622817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Te2(BrO3)2
+_chemical_formula_sum   'Cu3 Te2 Br2 O6'
+_cell_volume   244.65643880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.08992200  0.08992200  0.63278600  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.91007800  0.91007800  0.36721400  1
+  Te  Te3  1  0.32706100  0.32706100  0.24392500  1
+  Te  Te4  1  0.67293900  0.67293900  0.75607500  1
+  Br  Br5  1  0.20530700  0.20530700  0.86089000  1
+  Br  Br6  1  0.79469300  0.79469300  0.13911000  1
+  O  O7  1  0.86149000  0.86149000  0.62303100  1
+  O  O8  1  0.61197700  0.22366100  0.36953700  1
+  O  O9  1  0.38802300  0.77633900  0.63046300  1
+  O  O10  1  0.22366100  0.61197700  0.36953700  1
+  O  O11  1  0.77633900  0.38802300  0.63046300  1
+  O  O12  1  0.13851000  0.13851000  0.37696900  1

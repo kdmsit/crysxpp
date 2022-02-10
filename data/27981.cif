@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Lu3AlO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94820727
+_cell_length_b   6.94820727
+_cell_length_c   5.27533100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.89412447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3AlO6
+_chemical_formula_sum   'Lu6 Al2 O12'
+_cell_volume   248.25824130
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.08730100  0.29886300  0.47581800  1
+  Lu  Lu1  1  0.29886300  0.08730100  0.97581800  1
+  Lu  Lu2  1  0.60148500  0.39851500  0.42763300  1
+  Lu  Lu3  1  0.39851500  0.60148500  0.92763300  1
+  Lu  Lu4  1  0.91269900  0.70113700  0.97581800  1
+  Lu  Lu5  1  0.70113700  0.91269900  0.47581800  1
+  Al  Al6  1  0.80510400  0.19489600  0.01237100  1
+  Al  Al7  1  0.19489600  0.80510400  0.51237100  1
+  O  O8  1  0.32170900  0.35652600  0.20174700  1
+  O  O9  1  0.35652600  0.32170900  0.70174700  1
+  O  O10  1  0.57979200  0.10855800  0.18212900  1
+  O  O11  1  0.10855800  0.57979200  0.68212900  1
+  O  O12  1  0.95624200  0.04375800  0.14814700  1
+  O  O13  1  0.78647600  0.21352400  0.67782000  1
+  O  O14  1  0.21352400  0.78647600  0.17782000  1
+  O  O15  1  0.04375800  0.95624200  0.64814700  1
+  O  O16  1  0.89144200  0.42020800  0.18212900  1
+  O  O17  1  0.42020800  0.89144200  0.68212900  1
+  O  O18  1  0.64347400  0.67829100  0.20174700  1
+  O  O19  1  0.67829100  0.64347400  0.70174700  1

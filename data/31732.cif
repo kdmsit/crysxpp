@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li8TbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30715767
+_cell_length_b   6.30715767
+_cell_length_c   6.30715783
+_cell_angle_alpha   53.15338660
+_cell_angle_beta   53.15338660
+_cell_angle_gamma   53.15338917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8TbO6
+_chemical_formula_sum   'Li8 Tb1 O6'
+_cell_volume   148.95706704
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.35344000  0.35344000  0.35344000  1
+  Li  Li1  1  0.89786800  0.50719800  0.22653600  1
+  Li  Li2  1  0.50719800  0.22653600  0.89786800  1
+  Li  Li3  1  0.22653600  0.89786800  0.50719800  1
+  Li  Li4  1  0.10213200  0.49280200  0.77346400  1
+  Li  Li5  1  0.49280200  0.77346400  0.10213200  1
+  Li  Li6  1  0.64656000  0.64656000  0.64656000  1
+  Li  Li7  1  0.77346400  0.10213200  0.49280200  1
+  Tb  Tb8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.89850500  0.24281700  0.60166400  1
+  O  O10  1  0.39833600  0.10149500  0.75718300  1
+  O  O11  1  0.10149500  0.75718300  0.39833600  1
+  O  O12  1  0.24281700  0.60166400  0.89850500  1
+  O  O13  1  0.60166400  0.89850500  0.24281700  1
+  O  O14  1  0.75718300  0.39833600  0.10149500  1

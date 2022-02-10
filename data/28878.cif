@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2SbAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06393300
+_cell_length_b   5.50863400
+_cell_length_c   9.51635594
+_cell_angle_alpha   85.36726431
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SbAsCO7
+_chemical_formula_sum   'Na4 Sb2 As2 C2 O14'
+_cell_volume   369.09652675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49168800  0.23500300  0.78291500  1
+  Na  Na1  1  0.00831200  0.23500300  0.78291500  1
+  Na  Na2  1  0.50831200  0.76499700  0.21708500  1
+  Na  Na3  1  0.99168800  0.76499700  0.21708500  1
+  Sb  Sb4  1  0.75000000  0.80093500  0.63881500  1
+  Sb  Sb5  1  0.25000000  0.19906500  0.36118500  1
+  As  As6  1  0.25000000  0.72904500  0.60421900  1
+  As  As7  1  0.75000000  0.27095500  0.39578100  1
+  C  C8  1  0.75000000  0.71874900  0.92348300  1
+  C  C9  1  0.25000000  0.28125100  0.07651700  1
+  O  O10  1  0.25000000  0.27575300  0.94602400  1
+  O  O11  1  0.75000000  0.93198400  0.83987300  1
+  O  O12  1  0.75000000  0.52438400  0.85319100  1
+  O  O13  1  0.05614400  0.86315600  0.67708600  1
+  O  O14  1  0.44385600  0.86315600  0.67708600  1
+  O  O15  1  0.75000000  0.18662100  0.57976100  1
+  O  O16  1  0.25000000  0.42273700  0.63178600  1
+  O  O17  1  0.75000000  0.57726300  0.36821400  1
+  O  O18  1  0.25000000  0.81337900  0.42023900  1
+  O  O19  1  0.55614400  0.13684400  0.32291400  1
+  O  O20  1  0.94385600  0.13684400  0.32291400  1
+  O  O21  1  0.25000000  0.47561600  0.14680900  1
+  O  O22  1  0.25000000  0.06801600  0.16012700  1
+  O  O23  1  0.75000000  0.72424700  0.05397600  1

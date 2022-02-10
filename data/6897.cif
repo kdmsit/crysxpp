@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21627600
+_cell_length_b   6.82799800
+_cell_length_c   6.97642300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCoSi
+_chemical_formula_sum   'Tb4 Co4 Si4'
+_cell_volume   200.84231692
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75000000  0.68447200  0.47922800  1
+  Tb  Tb1  1  0.25000000  0.31552800  0.52077200  1
+  Tb  Tb2  1  0.75000000  0.81552800  0.97922800  1
+  Tb  Tb3  1  0.25000000  0.18447200  0.02077200  1
+  Co  Co4  1  0.25000000  0.56769100  0.85713600  1
+  Co  Co5  1  0.75000000  0.43230900  0.14286400  1
+  Co  Co6  1  0.25000000  0.93230900  0.35713600  1
+  Co  Co7  1  0.75000000  0.06769100  0.64286400  1
+  Si  Si8  1  0.75000000  0.39258100  0.80765400  1
+  Si  Si9  1  0.25000000  0.60741900  0.19234600  1
+  Si  Si10  1  0.75000000  0.10741900  0.30765400  1
+  Si  Si11  1  0.25000000  0.89258100  0.69234600  1

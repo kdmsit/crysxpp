@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeSiBO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89707598
+_cell_length_b   6.89707598
+_cell_length_c   6.74723800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSiBO5
+_chemical_formula_sum   'Ce3 Si3 B3 O15'
+_cell_volume   277.96280296
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.41122900  0.41148800  0.50035700  1
+  Ce  Ce1  1  0.00025900  0.58877100  0.16702400  1
+  Ce  Ce2  1  0.58851200  0.99974100  0.83369000  1
+  Si  Si3  1  0.41596000  0.41775900  0.00114400  1
+  Si  Si4  1  0.00179900  0.58404000  0.66781100  1
+  Si  Si5  1  0.58224100  0.99820100  0.33447800  1
+  B  B6  1  0.89916300  0.88513100  0.47427900  1
+  B  B7  1  0.98596800  0.10083700  0.14094600  1
+  B  B8  1  0.11486900  0.01403200  0.80761200  1
+  O  O9  1  0.14873700  0.54361000  0.50315600  1
+  O  O10  1  0.39487300  0.85126300  0.16982300  1
+  O  O11  1  0.45639000  0.60512700  0.83648900  1
+  O  O12  1  0.05972900  0.05315600  0.60929400  1
+  O  O13  1  0.94684400  0.00657300  0.94262800  1
+  O  O14  1  0.99342700  0.94027100  0.27596100  1
+  O  O15  1  0.34941200  0.19502600  0.85772300  1
+  O  O16  1  0.80497400  0.15438600  0.19105600  1
+  O  O17  1  0.84561400  0.65058800  0.52438900  1
+  O  O18  1  0.19218800  0.33194000  0.14915400  1
+  O  O19  1  0.66806000  0.86024800  0.48248700  1
+  O  O20  1  0.13975200  0.80781200  0.81582000  1
+  O  O21  1  0.61074100  0.47386700  0.16176000  1
+  O  O22  1  0.52613300  0.13687400  0.49509300  1
+  O  O23  1  0.86312600  0.38925900  0.82842600  1

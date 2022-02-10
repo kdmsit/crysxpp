@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaErAgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.99866005
+_cell_length_b   8.99866005
+_cell_length_c   8.60324651
+_cell_angle_alpha   77.33136023
+_cell_angle_beta   77.33136023
+_cell_angle_gamma   26.06383348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaErAgS3
+_chemical_formula_sum   'Ba2 Er2 Ag2 S6'
+_cell_volume   298.23473645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.13585300  0.13585300  0.43111200  1
+  Ba  Ba1  1  0.86414700  0.86414700  0.56888800  1
+  Er  Er2  1  0.83617400  0.83617400  0.08043800  1
+  Er  Er3  1  0.16382600  0.16382600  0.91956200  1
+  Ag  Ag4  1  0.48536900  0.48536900  0.20868700  1
+  Ag  Ag5  1  0.51463100  0.51463100  0.79131300  1
+  S  S6  1  0.67471000  0.67471000  0.12943900  1
+  S  S7  1  0.32529000  0.32529000  0.87056100  1
+  S  S8  1  0.67595600  0.67595600  0.70091600  1
+  S  S9  1  0.32404400  0.32404400  0.29908400  1
+  S  S10  1  0.50000000  0.50000000  0.50000000  1
+  S  S11  1  0.00000000  0.00000000  0.00000000  1

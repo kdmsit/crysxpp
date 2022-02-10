@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Yb5Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.24356842
+_cell_length_b   9.24356842
+_cell_length_c   9.24356842
+_cell_angle_alpha   129.42471691
+_cell_angle_beta   129.42471691
+_cell_angle_gamma   74.32813949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb5Ag3
+_chemical_formula_sum   'Yb10 Ag6'
+_cell_volume   459.38265833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.81216200  0.97748800  0.50000000  1
+  Yb  Yb1  1  0.68783800  0.18783800  0.16532500  1
+  Yb  Yb2  1  0.52251200  0.68783800  0.50000000  1
+  Yb  Yb3  1  0.02251200  0.52251200  0.83467500  1
+  Yb  Yb4  1  0.00000000  0.00000000  0.00000000  1
+  Yb  Yb5  1  0.47748800  0.31216200  0.50000000  1
+  Yb  Yb6  1  0.31216200  0.81216200  0.83467500  1
+  Yb  Yb7  1  0.18783800  0.02251200  0.50000000  1
+  Yb  Yb8  1  0.97748800  0.47748800  0.16532500  1
+  Yb  Yb9  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag10  1  0.12946300  0.37053700  0.50000000  1
+  Ag  Ag11  1  0.25000000  0.25000000  0.00000000  1
+  Ag  Ag12  1  0.87053700  0.62946300  0.50000000  1
+  Ag  Ag13  1  0.75000000  0.75000000  0.00000000  1
+  Ag  Ag14  1  0.62946300  0.12946300  0.75892600  1
+  Ag  Ag15  1  0.37053700  0.87053700  0.24107400  1

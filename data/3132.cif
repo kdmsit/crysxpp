@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K2Na4Be2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99768500
+_cell_length_b   5.99768500
+_cell_length_c   10.12044100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Na4Be2O5
+_chemical_formula_sum   'K4 Na8 Be4 O10'
+_cell_volume   364.05478439
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.31973900  0.31973900  0.00000000  1
+  K  K1  1  0.18026100  0.81973900  0.50000000  1
+  K  K2  1  0.81973900  0.18026100  0.50000000  1
+  K  K3  1  0.68026100  0.68026100  0.00000000  1
+  Na  Na4  1  0.50000000  0.00000000  0.75000000  1
+  Na  Na5  1  0.50000000  0.00000000  0.25000000  1
+  Na  Na6  1  0.00000000  0.50000000  0.75000000  1
+  Na  Na7  1  0.00000000  0.50000000  0.25000000  1
+  Na  Na8  1  0.00000000  0.00000000  0.22559900  1
+  Na  Na9  1  0.50000000  0.50000000  0.72559900  1
+  Na  Na10  1  0.50000000  0.50000000  0.27440100  1
+  Na  Na11  1  0.00000000  0.00000000  0.77440100  1
+  Be  Be12  1  0.68697300  0.68697300  0.50000000  1
+  Be  Be13  1  0.31302700  0.31302700  0.50000000  1
+  Be  Be14  1  0.81302700  0.18697300  0.00000000  1
+  Be  Be15  1  0.18697300  0.81302700  0.00000000  1
+  O  O16  1  0.22634900  0.22634900  0.36320300  1
+  O  O17  1  0.27365100  0.72634900  0.86320300  1
+  O  O18  1  0.77365100  0.77365100  0.63679700  1
+  O  O19  1  0.72634900  0.27365100  0.13679700  1
+  O  O20  1  0.27365100  0.72634900  0.13679700  1
+  O  O21  1  0.22634900  0.22634900  0.63679700  1
+  O  O22  1  0.77365100  0.77365100  0.36320300  1
+  O  O23  1  0.00000000  0.00000000  0.00000000  1
+  O  O24  1  0.72634900  0.27365100  0.86320300  1
+  O  O25  1  0.50000000  0.50000000  0.50000000  1

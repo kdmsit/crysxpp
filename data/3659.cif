@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Co4SnSb12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96543320
+_cell_length_b   7.96543320
+_cell_length_c   7.96543320
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co4SnSb12
+_chemical_formula_sum   'Co4 Sn1 Sb12'
+_cell_volume   389.05079603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co2  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co3  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn4  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb5  1  0.84030200  0.17183000  0.33152700  1
+  Sb  Sb6  1  0.66847300  0.15969800  0.82817000  1
+  Sb  Sb7  1  0.50877500  0.66847300  0.84030200  1
+  Sb  Sb8  1  0.66847300  0.84030200  0.50877500  1
+  Sb  Sb9  1  0.49122500  0.33152700  0.15969800  1
+  Sb  Sb10  1  0.33152700  0.84030200  0.17183000  1
+  Sb  Sb11  1  0.17183000  0.33152700  0.84030200  1
+  Sb  Sb12  1  0.82817000  0.66847300  0.15969800  1
+  Sb  Sb13  1  0.33152700  0.15969800  0.49122500  1
+  Sb  Sb14  1  0.84030200  0.50877500  0.66847300  1
+  Sb  Sb15  1  0.15969800  0.49122500  0.33152700  1
+  Sb  Sb16  1  0.15969800  0.82817000  0.66847300  1

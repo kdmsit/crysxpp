@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Be4Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21722972
+_cell_length_b   7.23446711
+_cell_length_c   6.05624102
+_cell_angle_alpha   75.80197722
+_cell_angle_beta   58.59543343
+_cell_angle_gamma   45.60258934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Be4Pt3
+_chemical_formula_sum   'Rb2 Be4 Pt3'
+_cell_volume   215.31613795
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.34868400  0.34868400  0.65131600  1
+  Rb  Rb1  1  0.65131600  0.65131600  0.34868400  1
+  Be  Be2  1  0.07797100  0.72362400  0.27637600  1
+  Be  Be3  1  0.92202900  0.27637600  0.72362400  1
+  Be  Be4  1  0.27637600  0.92202900  0.07797100  1
+  Be  Be5  1  0.72362400  0.07797100  0.92202900  1
+  Pt  Pt6  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt7  1  0.50000000  0.50000000  0.00000000  1
+  Pt  Pt8  1  0.00000000  0.00000000  0.00000000  1

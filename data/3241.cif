@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K5P2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70624241
+_cell_length_b   5.70624241
+_cell_length_c   18.90472400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5P2Au
+_chemical_formula_sum   'K10 P4 Au2'
+_cell_volume   533.09104363
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.85604100  1
+  K  K1  1  0.00000000  0.00000000  0.64395900  1
+  K  K2  1  0.33333300  0.66666700  0.75000000  1
+  K  K3  1  0.00000000  0.00000000  0.35604100  1
+  K  K4  1  0.33333300  0.66666700  0.54798700  1
+  K  K5  1  0.66666700  0.33333300  0.25000000  1
+  K  K6  1  0.66666700  0.33333300  0.45201300  1
+  K  K7  1  0.66666700  0.33333300  0.04798700  1
+  K  K8  1  0.33333300  0.66666700  0.95201300  1
+  K  K9  1  0.00000000  0.00000000  0.14395900  1
+  P  P10  1  0.33333300  0.66666700  0.12239600  1
+  P  P11  1  0.66666700  0.33333300  0.62239600  1
+  P  P12  1  0.66666700  0.33333300  0.87760400  1
+  P  P13  1  0.33333300  0.66666700  0.37760400  1
+  Au  Au14  1  0.66666700  0.33333300  0.75000000  1
+  Au  Au15  1  0.33333300  0.66666700  0.25000000  1

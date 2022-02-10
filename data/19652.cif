@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Yb(Fe2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22652500
+_cell_length_b   7.22652500
+_cell_length_c   3.84757500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(Fe2Ge)2
+_chemical_formula_sum   'Yb2 Fe8 Ge4'
+_cell_volume   200.93061481
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.00000000  0.50000000  1
+  Yb  Yb1  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe2  1  0.40810900  0.85861400  0.50000000  1
+  Fe  Fe3  1  0.85861400  0.40810900  0.50000000  1
+  Fe  Fe4  1  0.64138600  0.90810900  0.00000000  1
+  Fe  Fe5  1  0.09189100  0.35861400  0.00000000  1
+  Fe  Fe6  1  0.35861400  0.09189100  0.00000000  1
+  Fe  Fe7  1  0.59189100  0.14138600  0.50000000  1
+  Fe  Fe8  1  0.14138600  0.59189100  0.50000000  1
+  Fe  Fe9  1  0.90810900  0.64138600  0.00000000  1
+  Ge  Ge10  1  0.28448500  0.28448500  0.50000000  1
+  Ge  Ge11  1  0.78448500  0.21551500  0.00000000  1
+  Ge  Ge12  1  0.21551500  0.78448500  0.00000000  1
+  Ge  Ge13  1  0.71551500  0.71551500  0.50000000  1

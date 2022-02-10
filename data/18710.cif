@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hg3Te2IBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.71962264
+_cell_length_b   10.71962264
+_cell_length_c   10.80782484
+_cell_angle_alpha   89.97991372
+_cell_angle_beta   89.97991372
+_cell_angle_gamma   54.97127225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3Te2IBr
+_chemical_formula_sum   'Hg12 Te8 I4 Br4'
+_cell_volume   1016.97253487
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.58546500  0.16355300  0.20694500  1
+  Hg  Hg1  1  0.70238000  0.29762000  0.50000000  1
+  Hg  Hg2  1  0.98332300  0.52571800  0.50114200  1
+  Hg  Hg3  1  0.97185400  0.98766900  0.77672100  1
+  Hg  Hg4  1  0.01233100  0.02814600  0.22327900  1
+  Hg  Hg5  1  0.24146500  0.75853500  0.50000000  1
+  Hg  Hg6  1  0.40717400  0.84121400  0.80212400  1
+  Hg  Hg7  1  0.83644700  0.41453500  0.79305500  1
+  Hg  Hg8  1  0.72528800  0.73278300  0.20861500  1
+  Hg  Hg9  1  0.47428200  0.01667700  0.49885800  1
+  Hg  Hg10  1  0.15878600  0.59282600  0.19787600  1
+  Hg  Hg11  1  0.26721700  0.27471200  0.79138500  1
+  Te  Te12  1  0.00238100  0.46551300  0.25247400  1
+  Te  Te13  1  0.45473200  0.00900800  0.24583400  1
+  Te  Te14  1  0.69950900  0.26638600  0.75204400  1
+  Te  Te15  1  0.99099200  0.54526800  0.75416600  1
+  Te  Te16  1  0.53448700  0.99761900  0.74752600  1
+  Te  Te17  1  0.24970000  0.71445100  0.75055400  1
+  Te  Te18  1  0.73361400  0.30049100  0.24795600  1
+  Te  Te19  1  0.28554900  0.75030000  0.24944600  1
+  I  I20  1  0.86972700  0.88350100  0.02526400  1
+  I  I21  1  0.11937500  0.12447000  0.52307300  1
+  I  I22  1  0.87553000  0.88062500  0.47692700  1
+  I  I23  1  0.11649900  0.13027300  0.97473600  1
+  Br  Br24  1  0.36912800  0.38067500  0.00917400  1
+  Br  Br25  1  0.63008200  0.62664100  0.52235200  1
+  Br  Br26  1  0.37335900  0.36991800  0.47764800  1
+  Br  Br27  1  0.61932500  0.63087200  0.99082600  1

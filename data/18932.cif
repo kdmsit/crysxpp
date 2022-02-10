@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsPt2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49486697
+_cell_length_b   8.49486697
+_cell_length_c   8.49486734
+_cell_angle_alpha   52.90085417
+_cell_angle_beta   52.90085417
+_cell_angle_gamma   52.90085393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPt2Se3
+_chemical_formula_sum   'Cs2 Pt4 Se6'
+_cell_volume   361.31588562
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.19958800  0.19958800  0.19958800  1
+  Cs  Cs1  1  0.80041200  0.80041200  0.80041200  1
+  Pt  Pt2  1  0.00000000  0.50000000  0.50000000  1
+  Pt  Pt3  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt4  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt5  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se6  1  0.22711300  0.22711300  0.71371000  1
+  Se  Se7  1  0.77288700  0.77288700  0.28629000  1
+  Se  Se8  1  0.22711300  0.71371000  0.22711300  1
+  Se  Se9  1  0.71371000  0.22711300  0.22711300  1
+  Se  Se10  1  0.28629000  0.77288700  0.77288700  1
+  Se  Se11  1  0.77288700  0.28629000  0.77288700  1

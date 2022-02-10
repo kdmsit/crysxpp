@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_FeCu5S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80627400
+_cell_length_b   6.62905000
+_cell_length_c   6.75835662
+_cell_angle_alpha   70.65527979
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu5S4
+_chemical_formula_sum   'Fe1 Cu5 S4'
+_cell_volume   160.89924381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.86824600  0.38522200  1
+  Cu  Cu1  1  0.00000000  0.61335700  0.14213500  1
+  Cu  Cu2  1  0.50000000  0.36693400  0.40456500  1
+  Cu  Cu3  1  0.00000000  0.38884000  0.85883600  1
+  Cu  Cu4  1  0.50000000  0.12678000  0.13234600  1
+  Cu  Cu5  1  0.50000000  0.87152500  0.86054000  1
+  S  S6  1  0.00000000  0.99359500  0.01324100  1
+  S  S7  1  0.00000000  0.50321200  0.50796600  1
+  S  S8  1  0.50000000  0.49818200  0.00400300  1
+  S  S9  1  0.50000000  0.99732900  0.50714600  1

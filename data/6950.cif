@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbGeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92851700
+_cell_length_b   6.52249100
+_cell_length_c   7.47706500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGeIr
+_chemical_formula_sum   'Nb4 Ge4 Ir4'
+_cell_volume   191.59019587
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.75000000  0.52629800  0.82141100  1
+  Nb  Nb1  1  0.25000000  0.97370200  0.32141100  1
+  Nb  Nb2  1  0.75000000  0.02629800  0.67858900  1
+  Nb  Nb3  1  0.25000000  0.47370200  0.17858900  1
+  Ge  Ge4  1  0.25000000  0.24058100  0.87665400  1
+  Ge  Ge5  1  0.25000000  0.74058100  0.62334600  1
+  Ge  Ge6  1  0.75000000  0.75941900  0.12334600  1
+  Ge  Ge7  1  0.75000000  0.25941900  0.37665400  1
+  Ir  Ir8  1  0.25000000  0.85612800  0.93860100  1
+  Ir  Ir9  1  0.25000000  0.35612800  0.56139900  1
+  Ir  Ir10  1  0.75000000  0.64387200  0.43860100  1
+  Ir  Ir11  1  0.75000000  0.14387200  0.06139900  1

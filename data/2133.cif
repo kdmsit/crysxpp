@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KAg2AsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57101007
+_cell_length_b   5.57101007
+_cell_length_c   5.57101007
+_cell_angle_alpha   114.74509158
+_cell_angle_beta   114.74509158
+_cell_angle_gamma   99.37155361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAg2AsO4
+_chemical_formula_sum   'K1 Ag2 As1 O4'
+_cell_volume   130.08001773
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag1  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag2  1  0.25000000  0.75000000  0.50000000  1
+  As  As3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.69442500  0.03042700  0.00000000  1
+  O  O5  1  0.96957300  0.96957300  0.66399800  1
+  O  O6  1  0.30557500  0.30557500  0.33600200  1
+  O  O7  1  0.03042700  0.69442500  0.00000000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li7TaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88489135
+_cell_length_b   5.88489135
+_cell_length_c   5.88489147
+_cell_angle_alpha   56.84763595
+_cell_angle_beta   56.84763595
+_cell_angle_gamma   56.84764729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7TaO6
+_chemical_formula_sum   'Li7 Ta1 O6'
+_cell_volume   133.62926566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12180200  0.49806600  0.72604700  1
+  Li  Li1  1  0.49806600  0.72604700  0.12180200  1
+  Li  Li2  1  0.72604700  0.12180200  0.49806600  1
+  Li  Li3  1  0.93134200  0.48906500  0.23492900  1
+  Li  Li4  1  0.48906500  0.23492900  0.93134200  1
+  Li  Li5  1  0.23492900  0.93134200  0.48906500  1
+  Li  Li6  1  0.65459000  0.65459000  0.65459000  1
+  Ta  Ta7  1  0.00133300  0.00133300  0.00133300  1
+  O  O8  1  0.64267100  0.88523300  0.23133500  1
+  O  O9  1  0.23133500  0.64267100  0.88523300  1
+  O  O10  1  0.88523300  0.23133500  0.64267100  1
+  O  O11  1  0.07223200  0.79788500  0.37497000  1
+  O  O12  1  0.79788500  0.37497000  0.07223200  1
+  O  O13  1  0.37497000  0.07223200  0.79788500  1

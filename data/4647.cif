@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ce2(SbPd3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06233207
+_cell_length_b   8.06233207
+_cell_length_c   9.41288900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.71044562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2(SbPd3)3
+_chemical_formula_sum   'Ce4 Sb6 Pd18'
+_cell_volume   531.41610475
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.32707200  0.01876100  0.75000000  1
+  Ce  Ce1  1  0.67292800  0.98123900  0.25000000  1
+  Ce  Ce2  1  0.01876100  0.32707200  0.75000000  1
+  Ce  Ce3  1  0.98123900  0.67292800  0.25000000  1
+  Sb  Sb4  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb5  1  0.67741400  0.32258600  0.00000000  1
+  Sb  Sb6  1  0.32258600  0.67741400  0.50000000  1
+  Sb  Sb7  1  0.32258600  0.67741400  0.00000000  1
+  Sb  Sb8  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb9  1  0.67741400  0.32258600  0.50000000  1
+  Pd  Pd10  1  0.33050800  0.33050800  0.96290500  1
+  Pd  Pd11  1  0.44024600  0.63654000  0.75000000  1
+  Pd  Pd12  1  0.55975400  0.36346000  0.25000000  1
+  Pd  Pd13  1  0.63654000  0.44024600  0.75000000  1
+  Pd  Pd14  1  0.00021100  0.34460800  0.08966200  1
+  Pd  Pd15  1  0.99978900  0.65539200  0.58966200  1
+  Pd  Pd16  1  0.34460800  0.00021100  0.41033800  1
+  Pd  Pd17  1  0.65539200  0.99978900  0.91033800  1
+  Pd  Pd18  1  0.99978900  0.65539200  0.91033800  1
+  Pd  Pd19  1  0.00021100  0.34460800  0.41033800  1
+  Pd  Pd20  1  0.65539200  0.99978900  0.58966200  1
+  Pd  Pd21  1  0.85242700  0.85242700  0.75000000  1
+  Pd  Pd22  1  0.33050800  0.33050800  0.53709500  1
+  Pd  Pd23  1  0.66949200  0.66949200  0.03709500  1
+  Pd  Pd24  1  0.34460800  0.00021100  0.08966200  1
+  Pd  Pd25  1  0.66949200  0.66949200  0.46290500  1
+  Pd  Pd26  1  0.14757300  0.14757300  0.25000000  1
+  Pd  Pd27  1  0.36346000  0.55975400  0.25000000  1

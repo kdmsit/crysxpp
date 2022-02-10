@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaTiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09234550
+_cell_length_b   7.09234550
+_cell_length_c   7.09234532
+_cell_angle_alpha   29.12592536
+_cell_angle_beta   29.12592536
+_cell_angle_gamma   29.12592549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTiS2
+_chemical_formula_sum   'Na1 Ti1 S2'
+_cell_volume   74.76854186
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16684800  0.16684800  0.16684800  1
+  Ti  Ti1  1  0.99764100  0.99764100  0.99764100  1
+  S  S2  1  0.59488600  0.59488600  0.59488600  1
+  S  S3  1  0.40062600  0.40062600  0.40062600  1

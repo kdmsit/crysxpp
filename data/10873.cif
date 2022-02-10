@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79233261
+_cell_length_b   5.79233261
+_cell_length_c   14.54583000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.88512465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrBi
+_chemical_formula_sum   'Zr6 Bi6'
+_cell_volume   307.88630408
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.92897400  0.07102600  0.88989000  1
+  Zr  Zr1  1  0.07102600  0.92897400  0.11011000  1
+  Zr  Zr2  1  0.07102600  0.92897400  0.38989000  1
+  Zr  Zr3  1  0.92897400  0.07102600  0.61011000  1
+  Zr  Zr4  1  0.60767000  0.39233000  0.75000000  1
+  Zr  Zr5  1  0.39233000  0.60767000  0.25000000  1
+  Bi  Bi6  1  0.32211800  0.67788200  0.75000000  1
+  Bi  Bi7  1  0.67788200  0.32211800  0.25000000  1
+  Bi  Bi8  1  0.35869900  0.64130100  0.45040300  1
+  Bi  Bi9  1  0.64130100  0.35869900  0.54959700  1
+  Bi  Bi10  1  0.64130100  0.35869900  0.95040300  1
+  Bi  Bi11  1  0.35869900  0.64130100  0.04959700  1

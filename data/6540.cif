@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31899100
+_cell_length_b   5.33985000
+_cell_length_c   7.55593300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAlO3
+_chemical_formula_sum   'Eu4 Al4 O12'
+_cell_volume   214.60824910
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.51669100  0.50120700  0.75000000  1
+  Eu  Eu1  1  0.01669100  0.99879300  0.75000000  1
+  Eu  Eu2  1  0.48330900  0.49879300  0.25000000  1
+  Eu  Eu3  1  0.98330900  0.00120700  0.25000000  1
+  Al  Al4  1  0.50000000  0.00000000  0.00000000  1
+  Al  Al5  1  0.50000000  0.00000000  0.50000000  1
+  Al  Al6  1  0.00000000  0.50000000  0.00000000  1
+  Al  Al7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.99441900  0.45748500  0.75000000  1
+  O  O9  1  0.77817400  0.77806000  0.97826800  1
+  O  O10  1  0.77817400  0.77806000  0.52173200  1
+  O  O11  1  0.72182600  0.27806000  0.02173200  1
+  O  O12  1  0.50558100  0.95748500  0.25000000  1
+  O  O13  1  0.00558100  0.54251500  0.25000000  1
+  O  O14  1  0.49441900  0.04251500  0.75000000  1
+  O  O15  1  0.22182600  0.22194000  0.47826800  1
+  O  O16  1  0.72182600  0.27806000  0.47826800  1
+  O  O17  1  0.22182600  0.22194000  0.02173200  1
+  O  O18  1  0.27817400  0.72194000  0.52173200  1
+  O  O19  1  0.27817400  0.72194000  0.97826800  1

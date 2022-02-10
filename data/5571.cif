@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PbCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22603700
+_cell_length_b   6.28282500
+_cell_length_c   8.61872600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbCO3
+_chemical_formula_sum   'Pb4 C4 O12'
+_cell_volume   282.98962752
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.25000000  0.25220200  0.41779900  1
+  Pb  Pb1  1  0.75000000  0.74779800  0.58220100  1
+  Pb  Pb2  1  0.25000000  0.75220200  0.08220100  1
+  Pb  Pb3  1  0.75000000  0.24779800  0.91779900  1
+  C  C4  1  0.25000000  0.41848200  0.75634200  1
+  C  C5  1  0.75000000  0.58151800  0.24365800  1
+  C  C6  1  0.25000000  0.91848200  0.74365800  1
+  C  C7  1  0.75000000  0.08151800  0.25634200  1
+  O  O8  1  0.03444400  0.91475500  0.81938100  1
+  O  O9  1  0.53444400  0.08524500  0.18061900  1
+  O  O10  1  0.46555600  0.41475500  0.68061900  1
+  O  O11  1  0.96555600  0.58524500  0.31938100  1
+  O  O12  1  0.75000000  0.08744300  0.40734500  1
+  O  O13  1  0.25000000  0.91255700  0.59265500  1
+  O  O14  1  0.75000000  0.58744300  0.09265500  1
+  O  O15  1  0.25000000  0.41255700  0.90734500  1
+  O  O16  1  0.96555600  0.08524500  0.18061900  1
+  O  O17  1  0.46555600  0.91475500  0.81938100  1
+  O  O18  1  0.53444400  0.58524500  0.31938100  1
+  O  O19  1  0.03444400  0.41475500  0.68061900  1

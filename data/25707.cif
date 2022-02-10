@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80573400
+_cell_length_b   5.08655900
+_cell_length_c   5.30768290
+_cell_angle_alpha   86.46271209
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErNbO4
+_chemical_formula_sum   'Er2 Nb2 O8'
+_cell_volume   156.44367390
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.20368300  0.00000000  0.75000000  1
+  Er  Er1  1  0.79631700  0.00000000  0.25000000  1
+  Nb  Nb2  1  0.68253100  0.50000000  0.75000000  1
+  Nb  Nb3  1  0.31746900  0.50000000  0.25000000  1
+  O  O4  1  0.88906200  0.24119200  0.89485600  1
+  O  O5  1  0.40635500  0.28423000  0.95950000  1
+  O  O6  1  0.40635500  0.71577000  0.54050000  1
+  O  O7  1  0.88906200  0.75880800  0.60514400  1
+  O  O8  1  0.11093800  0.24119200  0.39485600  1
+  O  O9  1  0.59364500  0.28423000  0.45950000  1
+  O  O10  1  0.59364500  0.71577000  0.04050000  1
+  O  O11  1  0.11093800  0.75880800  0.10514400  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Dy7(CuTe4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45426200
+_cell_length_b   7.45713037
+_cell_length_c   14.31520794
+_cell_angle_alpha   94.89713676
+_cell_angle_beta   95.02517325
+_cell_angle_gamma   119.07353258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy7(CuTe4)3
+_chemical_formula_sum   'Dy7 Cu3 Te12'
+_cell_volume   685.28544730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.41643200  0.41822800  0.25290800  1
+  Dy  Dy1  1  0.33234900  0.66449000  0.99712300  1
+  Dy  Dy2  1  0.08993700  0.75788600  0.25231400  1
+  Dy  Dy3  1  0.24622200  0.90713300  0.74532200  1
+  Dy  Dy4  1  0.74557200  0.07464400  0.25159500  1
+  Dy  Dy5  1  0.92188200  0.25744000  0.74625100  1
+  Dy  Dy6  1  0.57802200  0.58290600  0.74579800  1
+  Cu  Cu7  1  0.85938100  0.52547500  0.57581700  1
+  Cu  Cu8  1  0.81096900  0.80990900  0.42860100  1
+  Cu  Cu9  1  0.47575200  0.14365600  0.42891100  1
+  Te  Te10  1  0.12627000  0.13668700  0.38393700  1
+  Te  Te11  1  0.29320300  0.28882400  0.87510900  1
+  Te  Te12  1  0.80498600  0.45899000  0.38239800  1
+  Te  Te13  1  0.95500000  0.62644300  0.87518500  1
+  Te  Te14  1  0.45559400  0.78878200  0.38537200  1
+  Te  Te15  1  0.62692600  0.96081900  0.87539800  1
+  Te  Te16  1  0.37590700  0.04471400  0.12451000  1
+  Te  Te17  1  0.53431600  0.20201300  0.61867000  1
+  Te  Te18  1  0.03992900  0.37585900  0.12498400  1
+  Te  Te19  1  0.20932400  0.53584300  0.61624600  1
+  Te  Te20  1  0.70874200  0.70394900  0.12496600  1
+  Te  Te21  1  0.86995200  0.87864300  0.61858600  1

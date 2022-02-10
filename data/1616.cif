@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbInRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19224200
+_cell_length_b   7.22546900
+_cell_length_c   8.52988100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbInRh
+_chemical_formula_sum   'Yb4 In4 Rh4'
+_cell_volume   258.37789702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.25000000  0.02830600  0.17624300  1
+  Yb  Yb1  1  0.75000000  0.97169400  0.82375700  1
+  Yb  Yb2  1  0.25000000  0.52830600  0.32375700  1
+  Yb  Yb3  1  0.75000000  0.47169400  0.67624300  1
+  In  In4  1  0.75000000  0.35184800  0.06252700  1
+  In  In5  1  0.25000000  0.64815200  0.93747300  1
+  In  In6  1  0.75000000  0.85184800  0.43747300  1
+  In  In7  1  0.25000000  0.14815200  0.56252700  1
+  Rh  Rh8  1  0.25000000  0.76768400  0.63322800  1
+  Rh  Rh9  1  0.75000000  0.23231600  0.36677200  1
+  Rh  Rh10  1  0.25000000  0.26768400  0.86677200  1
+  Rh  Rh11  1  0.75000000  0.73231600  0.13322800  1

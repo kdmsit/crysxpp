@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3Li3Mn2P2(CO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07933500
+_cell_length_b   6.71965466
+_cell_length_c   8.75975225
+_cell_angle_alpha   89.74236054
+_cell_angle_beta   89.01034097
+_cell_angle_gamma   89.91346355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Li3Mn2P2(CO7)2
+_chemical_formula_sum   'Na3 Li3 Mn2 P2 C2 O14'
+_cell_volume   298.93447893
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75655800  0.74365300  0.08401500  1
+  Na  Na1  1  0.25084600  0.00191800  0.25215800  1
+  Na  Na2  1  0.75062800  0.49856800  0.74807800  1
+  Li  Li3  1  0.22604700  0.52524800  0.27254800  1
+  Li  Li4  1  0.77321000  0.02185700  0.73012800  1
+  Li  Li5  1  0.25308400  0.24646100  0.91229500  1
+  Mn  Mn6  1  0.77649000  0.25594000  0.35930700  1
+  Mn  Mn7  1  0.22404200  0.75534700  0.64420200  1
+  P  P8  1  0.70520800  0.75234400  0.41256200  1
+  P  P9  1  0.29605600  0.25112300  0.59353300  1
+  C  C10  1  0.73100400  0.24165400  0.04460600  1
+  C  C11  1  0.26616700  0.74191000  0.94704500  1
+  O  O12  1  0.28452300  0.72377800  0.09486300  1
+  O  O13  1  0.97650600  0.24618400  0.08437800  1
+  O  O14  1  0.54423000  0.26018800  0.14768400  1
+  O  O15  1  0.77873200  0.93893100  0.31511800  1
+  O  O16  1  0.82523500  0.57096900  0.32577200  1
+  O  O17  1  0.39821100  0.73019400  0.42071200  1
+  O  O18  1  0.18966200  0.26669600  0.42800800  1
+  O  O19  1  0.80682400  0.76757000  0.57805900  1
+  O  O20  1  0.60232300  0.22947200  0.58028300  1
+  O  O21  1  0.22550400  0.43537400  0.69319600  1
+  O  O22  1  0.17893800  0.07125700  0.68401000  1
+  O  O23  1  0.47660200  0.75638900  0.86142300  1
+  O  O24  1  0.03762200  0.74677900  0.88342300  1
+  O  O25  1  0.66574800  0.22019500  0.90259600  1

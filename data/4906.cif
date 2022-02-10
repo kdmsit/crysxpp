@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75563004
+_cell_length_b   5.71184292
+_cell_length_c   6.38524601
+_cell_angle_alpha   76.87411666
+_cell_angle_beta   116.78975054
+_cell_angle_gamma   120.25464442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2SiO4
+_chemical_formula_sum   'Cr4 Si2 O8'
+_cell_volume   161.86259365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.52393200  0.04787000  0.75000000  1
+  Cr  Cr1  1  0.77397800  0.54796300  0.25000100  1
+  Cr  Cr2  1  0.22602000  0.45203900  0.74999800  1
+  Cr  Cr3  1  0.47606800  0.95213100  0.25000200  1
+  Si  Si4  1  0.87499500  0.74998900  0.75000000  1
+  Si  Si5  1  0.12500200  0.25000300  0.25000100  1
+  O  O6  1  0.22181400  0.95690400  0.90166500  1
+  O  O7  1  0.86322500  0.54310600  0.59832500  1
+  O  O8  1  0.73509300  0.95690300  0.59833700  1
+  O  O9  1  0.67987900  0.54310400  0.90167600  1
+  O  O10  1  0.77819600  0.04309700  0.09833800  1
+  O  O11  1  0.13677100  0.45689600  0.40167700  1
+  O  O12  1  0.32012700  0.45689700  0.09832100  1
+  O  O13  1  0.26490000  0.04309800  0.40166000  1

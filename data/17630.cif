@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_RbSmGeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85565100
+_cell_length_b   7.12173600
+_cell_length_c   18.12534600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSmGeSe4
+_chemical_formula_sum   'Rb4 Sm4 Ge4 Se16'
+_cell_volume   884.95436776
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50986200  0.99512000  0.53145900  1
+  Rb  Rb1  1  0.99013800  0.00488000  0.03145900  1
+  Rb  Rb2  1  0.00986200  0.50488000  0.46854100  1
+  Rb  Rb3  1  0.49013800  0.49512000  0.96854100  1
+  Sm  Sm4  1  0.79270400  0.02076500  0.77423700  1
+  Sm  Sm5  1  0.29270400  0.47923500  0.22576300  1
+  Sm  Sm6  1  0.20729600  0.52076500  0.72576300  1
+  Sm  Sm7  1  0.70729600  0.97923500  0.27423700  1
+  Ge  Ge8  1  0.78978100  0.51378200  0.16371300  1
+  Ge  Ge9  1  0.21021900  0.01378200  0.33628700  1
+  Ge  Ge10  1  0.71021900  0.48621800  0.66371300  1
+  Ge  Ge11  1  0.28978100  0.98621800  0.83628700  1
+  Se  Se12  1  0.09955800  0.08312700  0.21484500  1
+  Se  Se13  1  0.44559400  0.25524400  0.35805000  1
+  Se  Se14  1  0.56288200  0.98692900  0.91516100  1
+  Se  Se15  1  0.09582900  0.26252100  0.85092300  1
+  Se  Se16  1  0.94559400  0.24475600  0.64195000  1
+  Se  Se17  1  0.40417100  0.73747900  0.35092300  1
+  Se  Se18  1  0.59582900  0.23747900  0.14907700  1
+  Se  Se19  1  0.40044200  0.91687300  0.71484500  1
+  Se  Se20  1  0.90044200  0.58312700  0.28515500  1
+  Se  Se21  1  0.59955800  0.41687300  0.78515500  1
+  Se  Se22  1  0.43711800  0.48692900  0.58483900  1
+  Se  Se23  1  0.90417100  0.76252100  0.64907700  1
+  Se  Se24  1  0.93711800  0.01307100  0.41516100  1
+  Se  Se25  1  0.55440600  0.75524400  0.14195000  1
+  Se  Se26  1  0.06288200  0.51307100  0.08483900  1
+  Se  Se27  1  0.05440600  0.74475600  0.85805000  1

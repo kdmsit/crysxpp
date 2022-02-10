@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Er3FeSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59886529
+_cell_length_b   5.59886529
+_cell_length_c   13.39491136
+_cell_angle_alpha   70.42414032
+_cell_angle_beta   70.42414032
+_cell_angle_gamma   43.30575135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3FeSi3
+_chemical_formula_sum   'Er6 Fe2 Si6'
+_cell_volume   268.63721646
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.74845900  0.74845900  0.77009300  1
+  Er  Er1  1  0.25154100  0.25154100  0.22990700  1
+  Er  Er2  1  0.52382900  0.52382900  0.62050000  1
+  Er  Er3  1  0.47617100  0.47617100  0.37950000  1
+  Er  Er4  1  0.39887300  0.39887300  0.91918900  1
+  Er  Er5  1  0.60112700  0.60112700  0.08081100  1
+  Fe  Fe6  1  0.75314400  0.75314400  0.41543500  1
+  Fe  Fe7  1  0.24685600  0.24685600  0.58456500  1
+  Si  Si8  1  0.14397900  0.14397900  0.45660600  1
+  Si  Si9  1  0.85602100  0.85602100  0.54339400  1
+  Si  Si10  1  0.11401900  0.11401900  0.92457300  1
+  Si  Si11  1  0.88598100  0.88598100  0.07542700  1
+  Si  Si12  1  0.05483500  0.05483500  0.75789000  1
+  Si  Si13  1  0.94516500  0.94516500  0.24211000  1

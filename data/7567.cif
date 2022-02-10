@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BiSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08866300
+_cell_length_b   8.46763900
+_cell_length_c   10.57737500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiSBr
+_chemical_formula_sum   'Bi4 S4 Br4'
+_cell_volume   366.20270872
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.25000000  0.88390000  0.86822900  1
+  Bi  Bi1  1  0.75000000  0.11610000  0.13177100  1
+  Bi  Bi2  1  0.25000000  0.38390000  0.63177100  1
+  Bi  Bi3  1  0.75000000  0.61610000  0.36822900  1
+  S  S4  1  0.75000000  0.82997100  0.03797100  1
+  S  S5  1  0.25000000  0.67002900  0.53797100  1
+  S  S6  1  0.75000000  0.32997100  0.46202900  1
+  S  S7  1  0.25000000  0.17002900  0.96202900  1
+  Br  Br8  1  0.25000000  0.97328600  0.31055700  1
+  Br  Br9  1  0.75000000  0.52671400  0.81055700  1
+  Br  Br10  1  0.25000000  0.47328600  0.18944300  1
+  Br  Br11  1  0.75000000  0.02671400  0.68944300  1

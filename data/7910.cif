@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_MgH2SeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41913557
+_cell_length_b   5.41913557
+_cell_length_c   7.78275917
+_cell_angle_alpha   73.35869053
+_cell_angle_beta   73.35869053
+_cell_angle_gamma   98.99772028
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH2SeO5
+_chemical_formula_sum   'Mg2 H4 Se2 O10'
+_cell_volume   202.61268847
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.00000000  0.50000000  0.50000000  1
+  H  H2  1  0.96777300  0.86701900  0.20412200  1
+  H  H3  1  0.13298100  0.03222700  0.29587800  1
+  H  H4  1  0.03222700  0.13298100  0.79587800  1
+  H  H5  1  0.86701900  0.96777300  0.70412200  1
+  Se  Se6  1  0.41542500  0.58457500  0.75000000  1
+  Se  Se7  1  0.58457500  0.41542500  0.25000000  1
+  O  O8  1  0.28168400  0.67990600  0.58325300  1
+  O  O9  1  0.32009400  0.71831600  0.91674700  1
+  O  O10  1  0.71831600  0.32009400  0.41674700  1
+  O  O11  1  0.67990600  0.28168400  0.08325300  1
+  O  O12  1  0.31554500  0.24994600  0.84912100  1
+  O  O13  1  0.75005400  0.68445500  0.65087900  1
+  O  O14  1  0.68445500  0.75005400  0.15087900  1
+  O  O15  1  0.24994600  0.31554500  0.34912100  1
+  O  O16  1  0.87723300  0.12276700  0.75000000  1
+  O  O17  1  0.12276700  0.87723300  0.25000000  1

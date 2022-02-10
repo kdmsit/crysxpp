@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nb2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95002624
+_cell_length_b   6.95002624
+_cell_length_c   5.68564406
+_cell_angle_alpha   77.05600349
+_cell_angle_beta   77.05600349
+_cell_angle_gamma   42.00314978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2O5
+_chemical_formula_sum   'Nb4 O10'
+_cell_volume   178.40808065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.61636500  0.10110500  0.25302200  1
+  Nb  Nb1  1  0.89889500  0.38363500  0.24697800  1
+  Nb  Nb2  1  0.38363500  0.89889500  0.74697800  1
+  Nb  Nb3  1  0.10110500  0.61636500  0.75302200  1
+  O  O4  1  0.27399200  0.13669200  0.37198400  1
+  O  O5  1  0.86330700  0.72600800  0.12801600  1
+  O  O6  1  0.72600800  0.86330700  0.62801600  1
+  O  O7  1  0.13669200  0.27399200  0.87198400  1
+  O  O8  1  0.11153200  0.88846800  0.75000000  1
+  O  O9  1  0.88846800  0.11153200  0.25000000  1
+  O  O10  1  0.66299300  0.56003500  0.52018600  1
+  O  O11  1  0.43996500  0.33700700  0.97981400  1
+  O  O12  1  0.33700700  0.43996500  0.47981400  1
+  O  O13  1  0.56003500  0.66299300  0.02018600  1

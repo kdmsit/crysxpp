@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97518061
+_cell_length_b   5.97518061
+_cell_length_c   5.97518061
+_cell_angle_alpha   106.45872000
+_cell_angle_beta   106.45872000
+_cell_angle_gamma   115.68041580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyAsO4
+_chemical_formula_sum   'Dy2 As2 O8'
+_cell_volume   162.76001683
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.75000000  0.25000000  0.50000000  1
+  Dy  Dy1  1  0.50000000  0.50000000  0.00000000  1
+  As  As2  1  0.25000000  0.75000000  0.50000000  1
+  As  As3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.82261100  0.00402700  0.18141600  1
+  O  O5  1  0.89119500  0.57261100  0.31858400  1
+  O  O6  1  0.25402700  0.57261100  0.68141600  1
+  O  O7  1  0.82261100  0.64119500  0.81858400  1
+  O  O8  1  0.35880500  0.17738900  0.18141600  1
+  O  O9  1  0.42738900  0.74597300  0.31858400  1
+  O  O10  1  0.42738900  0.10880500  0.68141600  1
+  O  O11  1  0.99597300  0.17738900  0.81858400  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsSr2Ta3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97181100
+_cell_length_b   3.97181100
+_cell_length_c   15.72054600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSr2Ta3O10
+_chemical_formula_sum   'Cs1 Sr2 Ta3 O10'
+_cell_volume   247.99605609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  0.50000000  0.50000000  1
+  Sr  Sr1  1  0.50000000  0.50000000  0.85589300  1
+  Sr  Sr2  1  0.50000000  0.50000000  0.14410700  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta4  1  0.00000000  0.00000000  0.27988600  1
+  Ta  Ta5  1  0.00000000  0.00000000  0.72011400  1
+  O  O6  1  0.00000000  0.00000000  0.60614500  1
+  O  O7  1  0.00000000  0.00000000  0.39385500  1
+  O  O8  1  0.50000000  0.00000000  0.74578700  1
+  O  O9  1  0.00000000  0.50000000  0.74578700  1
+  O  O10  1  0.50000000  0.00000000  0.25421300  1
+  O  O11  1  0.00000000  0.50000000  0.25421300  1
+  O  O12  1  0.00000000  0.50000000  0.00000000  1
+  O  O13  1  0.50000000  0.00000000  0.00000000  1
+  O  O14  1  0.00000000  0.00000000  0.12565900  1
+  O  O15  1  0.00000000  0.00000000  0.87434100  1

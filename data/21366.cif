@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaNaBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60521737
+_cell_length_b   5.60521737
+_cell_length_c   6.26954803
+_cell_angle_alpha   82.22100618
+_cell_angle_beta   82.22100618
+_cell_angle_gamma   60.34316375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaBO3
+_chemical_formula_sum   'Ba2 Na2 B2 O6'
+_cell_volume   169.06518119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.83262800  0.83262800  0.24227500  1
+  Ba  Ba1  1  0.16737200  0.16737200  0.75772500  1
+  Na  Na2  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na3  1  0.50000000  0.50000000  0.00000000  1
+  B  B4  1  0.83307500  0.83307500  0.75125000  1
+  B  B5  1  0.16692500  0.16692500  0.24875000  1
+  O  O6  1  0.31554500  0.88879200  0.20931000  1
+  O  O7  1  0.11120800  0.68445500  0.79069000  1
+  O  O8  1  0.68445500  0.11120800  0.79069000  1
+  O  O9  1  0.88879200  0.31554500  0.20931000  1
+  O  O10  1  0.70414900  0.70414900  0.67741500  1
+  O  O11  1  0.29585100  0.29585100  0.32258500  1

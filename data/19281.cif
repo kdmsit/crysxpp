@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuNiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15417800
+_cell_length_b   6.11823300
+_cell_length_c   7.56865915
+_cell_angle_alpha   60.04563255
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuNiGe
+_chemical_formula_sum   'Eu4 Ni4 Ge4'
+_cell_volume   246.91368438
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.35993500  0.80086100  0.89397000  1
+  Eu  Eu1  1  0.85993500  0.19913900  0.60603000  1
+  Eu  Eu2  1  0.64006500  0.19913900  0.10603000  1
+  Eu  Eu3  1  0.14006500  0.80086100  0.39397000  1
+  Ni  Ni4  1  0.09428400  0.38654300  0.17625400  1
+  Ni  Ni5  1  0.59428400  0.61345700  0.32374600  1
+  Ni  Ni6  1  0.90571600  0.61345700  0.82374600  1
+  Ni  Ni7  1  0.40571600  0.38654300  0.67625400  1
+  Ge  Ge8  1  0.14374000  0.26697100  0.92790200  1
+  Ge  Ge9  1  0.64374000  0.73302900  0.57209800  1
+  Ge  Ge10  1  0.85626000  0.73302900  0.07209800  1
+  Ge  Ge11  1  0.35626000  0.26697100  0.42790200  1

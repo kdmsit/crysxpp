@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63846400
+_cell_length_b   5.86336000
+_cell_length_c   11.48366100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl
+_chemical_formula_sum   'Tb8 Al8'
+_cell_volume   379.65378624
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.16269100  0.01487600  1
+  Tb  Tb1  1  0.75000000  0.83730900  0.98512400  1
+  Tb  Tb2  1  0.75000000  0.16269100  0.48512400  1
+  Tb  Tb3  1  0.25000000  0.83730900  0.51487600  1
+  Tb  Tb4  1  0.25000000  0.40127300  0.33238400  1
+  Tb  Tb5  1  0.75000000  0.59872700  0.66761600  1
+  Tb  Tb6  1  0.75000000  0.40127300  0.16761600  1
+  Tb  Tb7  1  0.25000000  0.59872700  0.83238400  1
+  Al  Al8  1  0.00000000  0.93117300  0.25000000  1
+  Al  Al9  1  0.50000000  0.06882700  0.75000000  1
+  Al  Al10  1  0.00000000  0.06882700  0.75000000  1
+  Al  Al11  1  0.50000000  0.93117300  0.25000000  1
+  Al  Al12  1  0.25000000  0.66246000  0.09878700  1
+  Al  Al13  1  0.75000000  0.33754000  0.90121300  1
+  Al  Al14  1  0.75000000  0.66246000  0.40121300  1
+  Al  Al15  1  0.25000000  0.33754000  0.59878700  1

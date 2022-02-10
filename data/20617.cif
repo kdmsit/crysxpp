@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KV(CuS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41910168
+_cell_length_b   9.41910168
+_cell_length_c   7.43462500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.65463777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KV(CuS2)2
+_chemical_formula_sum   'K2 V2 Cu4 S8'
+_cell_volume   362.56963337
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.91796100  0.55365200  0.25000000  1
+  K  K1  1  0.55365200  0.91796100  0.75000000  1
+  V  V2  1  0.86847300  0.08707500  0.25000000  1
+  V  V3  1  0.08707500  0.86847300  0.75000000  1
+  Cu  Cu4  1  0.99448500  0.99448500  0.50000000  1
+  Cu  Cu5  1  0.99448500  0.99448500  0.00000000  1
+  Cu  Cu6  1  0.36963900  0.58500500  0.25000000  1
+  Cu  Cu7  1  0.58500500  0.36963900  0.75000000  1
+  S  S8  1  0.32116200  0.10312700  0.50833600  1
+  S  S9  1  0.10312700  0.32116200  0.49166400  1
+  S  S10  1  0.53633600  0.94955200  0.25000000  1
+  S  S11  1  0.94955200  0.53633600  0.75000000  1
+  S  S12  1  0.73566100  0.75053600  0.25000000  1
+  S  S13  1  0.75053600  0.73566100  0.75000000  1
+  S  S14  1  0.32116200  0.10312700  0.99166400  1
+  S  S15  1  0.10312700  0.32116200  0.00833600  1

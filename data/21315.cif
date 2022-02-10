@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K3Cu(CN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07742524
+_cell_length_b   8.07742524
+_cell_length_c   8.07742568
+_cell_angle_alpha   75.58064748
+_cell_angle_beta   75.58064748
+_cell_angle_gamma   75.58064832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Cu(CN)4
+_chemical_formula_sum   'K6 Cu2 C8 N8'
+_cell_volume   484.40631871
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00910300  0.50065700  0.66661800  1
+  K  K1  1  0.66661800  0.00910300  0.50065700  1
+  K  K2  1  0.50065700  0.66661800  0.00910300  1
+  K  K3  1  0.50910300  0.16661800  0.00065700  1
+  K  K4  1  0.00065700  0.50910300  0.16661800  1
+  K  K5  1  0.16661800  0.00065700  0.50910300  1
+  Cu  Cu6  1  0.49870400  0.49870400  0.49870400  1
+  Cu  Cu7  1  0.99870400  0.99870400  0.99870400  1
+  C  C8  1  0.36507000  0.50837100  0.73371900  1
+  C  C9  1  0.50837100  0.73371900  0.36507000  1
+  C  C10  1  0.88423300  0.88423300  0.88423300  1
+  C  C11  1  0.38423300  0.38423300  0.38423300  1
+  C  C12  1  0.73371900  0.36507000  0.50837100  1
+  C  C13  1  0.00837100  0.86507000  0.23371900  1
+  C  C14  1  0.23371900  0.00837100  0.86507000  1
+  C  C15  1  0.86507000  0.23371900  0.00837100  1
+  N  N16  1  0.00684200  0.78186200  0.37688500  1
+  N  N17  1  0.87688500  0.28186200  0.50684200  1
+  N  N18  1  0.28186200  0.50684200  0.87688500  1
+  N  N19  1  0.50684200  0.87688500  0.28186200  1
+  N  N20  1  0.81513600  0.81513600  0.81513600  1
+  N  N21  1  0.31513600  0.31513600  0.31513600  1
+  N  N22  1  0.78186200  0.37688500  0.00684200  1
+  N  N23  1  0.37688500  0.00684200  0.78186200  1

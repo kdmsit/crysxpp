@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ce(InPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49789500
+_cell_length_b   10.33943600
+_cell_length_c   10.38324432
+_cell_angle_alpha   62.81888056
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(InPt)2
+_chemical_formula_sum   'Ce4 In8 Pt8'
+_cell_volume   429.55410686
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.40172500  0.29013000  1
+  Ce  Ce1  1  0.75000000  0.04676300  0.20494300  1
+  Ce  Ce2  1  0.25000000  0.59827500  0.70987000  1
+  Ce  Ce3  1  0.25000000  0.95323700  0.79505700  1
+  In  In4  1  0.75000000  0.88276500  0.57293500  1
+  In  In5  1  0.25000000  0.59294400  0.03889400  1
+  In  In6  1  0.75000000  0.40705600  0.96110600  1
+  In  In7  1  0.75000000  0.64581900  0.44697300  1
+  In  In8  1  0.25000000  0.11723500  0.42706500  1
+  In  In9  1  0.75000000  0.76927700  0.10117900  1
+  In  In10  1  0.25000000  0.35418100  0.55302700  1
+  In  In11  1  0.25000000  0.23072300  0.89882100  1
+  Pt  Pt12  1  0.75000000  0.38005700  0.70316000  1
+  Pt  Pt13  1  0.25000000  0.61994300  0.29684000  1
+  Pt  Pt14  1  0.75000000  0.15687000  0.58019800  1
+  Pt  Pt15  1  0.75000000  0.70765700  0.86193700  1
+  Pt  Pt16  1  0.25000000  0.84313000  0.41980200  1
+  Pt  Pt17  1  0.25000000  0.29234300  0.13806300  1
+  Pt  Pt18  1  0.75000000  0.06854300  0.89630300  1
+  Pt  Pt19  1  0.25000000  0.93145700  0.10369700  1

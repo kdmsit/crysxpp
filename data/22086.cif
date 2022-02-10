@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Yb(CeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38294864
+_cell_length_b   7.38294864
+_cell_length_c   7.38294864
+_cell_angle_alpha   109.67949433
+_cell_angle_beta   109.67949433
+_cell_angle_gamma   109.05547147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(CeS2)2
+_chemical_formula_sum   'Yb2 Ce4 S8'
+_cell_volume   309.77796061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.50000000  0.50000000  0.00000000  1
+  Yb  Yb1  1  0.25000000  0.75000000  0.50000000  1
+  Ce  Ce2  1  0.00316800  0.62500000  0.87816800  1
+  Ce  Ce3  1  0.87500000  0.99683200  0.62183200  1
+  Ce  Ce4  1  0.74683200  0.12500000  0.12183200  1
+  Ce  Ce5  1  0.37500000  0.25316800  0.37816800  1
+  S  S6  1  0.12421500  0.37599700  0.10350600  1
+  S  S7  1  0.12599700  0.37421500  0.60350600  1
+  S  S8  1  0.77070900  0.52249100  0.39649400  1
+  S  S9  1  0.62400300  0.72750900  0.74821800  1
+  S  S10  1  0.27249100  0.02070900  0.89649400  1
+  S  S11  1  0.47750900  0.87400300  0.24821800  1
+  S  S12  1  0.97929100  0.87578500  0.25178200  1
+  S  S13  1  0.62578500  0.22929100  0.75178200  1

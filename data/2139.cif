@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnCu2SiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18421700
+_cell_length_b   6.41333200
+_cell_length_c   7.50745600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu2SiS4
+_chemical_formula_sum   'Mn2 Cu4 Si2 S8'
+_cell_volume   297.75649153
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33032600  0.15482600  0.00000000  1
+  Mn  Mn1  1  0.83032600  0.84517400  0.50000000  1
+  Cu  Cu2  1  0.32056500  0.67751300  0.74829300  1
+  Cu  Cu3  1  0.82056500  0.32248700  0.75170700  1
+  Cu  Cu4  1  0.32056500  0.67751300  0.25170700  1
+  Cu  Cu5  1  0.82056500  0.32248700  0.24829300  1
+  Si  Si6  1  0.33083800  0.17557600  0.50000000  1
+  Si  Si7  1  0.83083800  0.82442400  0.00000000  1
+  S  S8  1  0.98164200  0.18765500  0.50000000  1
+  S  S9  1  0.48164200  0.81234500  0.00000000  1
+  S  S10  1  0.44999100  0.33608600  0.26689600  1
+  S  S11  1  0.94999100  0.66391400  0.23310400  1
+  S  S12  1  0.94118200  0.14308200  0.00000000  1
+  S  S13  1  0.44118200  0.85691800  0.50000000  1
+  S  S14  1  0.44999100  0.33608600  0.73310400  1
+  S  S15  1  0.94999100  0.66391400  0.76689600  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MnNi(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76782631
+_cell_length_b   9.86687010
+_cell_length_c   5.76498300
+_cell_angle_alpha   89.99701230
+_cell_angle_beta   89.99832610
+_cell_angle_gamma   89.38302937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNi(PO4)2
+_chemical_formula_sum   'Mn2 Ni2 P4 O16'
+_cell_volume   271.18938557
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.03769700  0.72265900  0.75000900  1
+  Mn  Mn1  1  0.96225400  0.27730000  0.25000500  1
+  Ni  Ni2  1  0.54360800  0.76653000  0.24996600  1
+  Ni  Ni3  1  0.45657700  0.23346900  0.74997900  1
+  P  P4  1  0.40059600  0.09696300  0.24998800  1
+  P  P5  1  0.59934000  0.90306500  0.75002900  1
+  P  P6  1  0.91406300  0.41266600  0.74999900  1
+  P  P7  1  0.08599700  0.58732500  0.24997400  1
+  O  O8  1  0.64977200  0.05325400  0.75000300  1
+  O  O9  1  0.35020900  0.94674500  0.25000700  1
+  O  O10  1  0.71743500  0.12508200  0.25000800  1
+  O  O11  1  0.28249800  0.87495400  0.75000100  1
+  O  O12  1  0.22845700  0.40055200  0.75000600  1
+  O  O13  1  0.77157800  0.59942200  0.25002100  1
+  O  O14  1  0.18302600  0.43644200  0.25001500  1
+  O  O15  1  0.81700400  0.56356900  0.75001700  1
+  O  O16  1  0.23865400  0.17385400  0.04687800  1
+  O  O17  1  0.23862800  0.17385400  0.45309100  1
+  O  O18  1  0.76129300  0.82615700  0.54690300  1
+  O  O19  1  0.76130400  0.82614800  0.95308300  1
+  O  O20  1  0.76681700  0.33695800  0.96041100  1
+  O  O21  1  0.76682900  0.33695700  0.53959500  1
+  O  O22  1  0.23317500  0.66304100  0.03957600  1
+  O  O23  1  0.23318500  0.66303500  0.46043600  1

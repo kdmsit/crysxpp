@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrAl2B2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.42923922
+_cell_length_b   16.42923922
+_cell_length_c   16.42923905
+_cell_angle_alpha   17.34501733
+_cell_angle_beta   17.34501733
+_cell_angle_gamma   17.34501991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAl2B2O7
+_chemical_formula_sum   'Sr2 Al4 B4 O14'
+_cell_volume   343.94043708
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al2  1  0.21516200  0.21516200  0.21516200  1
+  Al  Al3  1  0.28483800  0.28483800  0.28483800  1
+  Al  Al4  1  0.78483800  0.78483800  0.78483800  1
+  Al  Al5  1  0.71516200  0.71516200  0.71516200  1
+  B  B6  1  0.13257300  0.13257300  0.13257300  1
+  B  B7  1  0.63257300  0.63257300  0.63257300  1
+  B  B8  1  0.86742700  0.86742700  0.86742700  1
+  B  B9  1  0.36742700  0.36742700  0.36742700  1
+  O  O10  1  0.43744700  0.88980100  0.07418000  1
+  O  O11  1  0.88980100  0.07418000  0.43744700  1
+  O  O12  1  0.57418000  0.38980100  0.93744700  1
+  O  O13  1  0.75000000  0.75000000  0.75000000  1
+  O  O14  1  0.38980100  0.93744700  0.57418000  1
+  O  O15  1  0.42582000  0.61019900  0.06255300  1
+  O  O16  1  0.93744700  0.57418000  0.38980100  1
+  O  O17  1  0.11019900  0.92582000  0.56255300  1
+  O  O18  1  0.56255300  0.11019900  0.92582000  1
+  O  O19  1  0.07418000  0.43744700  0.88980100  1
+  O  O20  1  0.92582000  0.56255300  0.11019900  1
+  O  O21  1  0.06255300  0.42582000  0.61019900  1
+  O  O22  1  0.61019900  0.06255300  0.42582000  1
+  O  O23  1  0.25000000  0.25000000  0.25000000  1

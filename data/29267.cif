@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3MnSiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06404557
+_cell_length_b   8.54531610
+_cell_length_c   6.31696600
+_cell_angle_alpha   90.00033987
+_cell_angle_beta   90.00000483
+_cell_angle_gamma   86.56267936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3MnSiCO7
+_chemical_formula_sum   'Li6 Mn2 Si2 C2 O14'
+_cell_volume   272.86778871
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75676100  0.11596700  0.24999600  1
+  Li  Li1  1  0.24345100  0.88408200  0.75000000  1
+  Li  Li2  1  0.24297300  0.28295700  0.03365700  1
+  Li  Li3  1  0.24296900  0.28296000  0.46633800  1
+  Li  Li4  1  0.75701400  0.71708900  0.53368400  1
+  Li  Li5  1  0.75701400  0.71709100  0.96632100  1
+  Mn  Mn6  1  0.19451700  0.66932800  0.25004100  1
+  Mn  Mn7  1  0.80519400  0.33073500  0.74997300  1
+  Si  Si8  1  0.71319600  0.42501000  0.24999500  1
+  Si  Si9  1  0.28666600  0.57498500  0.75000300  1
+  C  C10  1  0.73017400  0.02802500  0.74999800  1
+  C  C11  1  0.27002000  0.97193200  0.25000000  1
+  O  O12  1  0.36101000  0.11069100  0.24999900  1
+  O  O13  1  0.63931500  0.88924400  0.75000100  1
+  O  O14  1  0.97770300  0.05211900  0.74999800  1
+  O  O15  1  0.02244500  0.94794200  0.24999700  1
+  O  O16  1  0.55951400  0.15108800  0.75000000  1
+  O  O17  1  0.44050400  0.84880300  0.25000300  1
+  O  O18  1  0.38883300  0.44130100  0.25000200  1
+  O  O19  1  0.61104700  0.55867600  0.75000100  1
+  O  O20  1  0.17523300  0.39909600  0.74999900  1
+  O  O21  1  0.82466000  0.60088300  0.25000300  1
+  O  O22  1  0.82778200  0.31174200  0.05330500  1
+  O  O23  1  0.82778500  0.31173900  0.44668000  1
+  O  O24  1  0.17211100  0.68825800  0.55332900  1
+  O  O25  1  0.17211200  0.68825800  0.94667900  1

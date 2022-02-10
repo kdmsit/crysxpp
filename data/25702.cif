@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er2TiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38500830
+_cell_length_b   6.38500830
+_cell_length_c   7.52374557
+_cell_angle_alpha   68.48709580
+_cell_angle_beta   68.48709580
+_cell_angle_gamma   48.71298400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2TiO5
+_chemical_formula_sum   'Er4 Ti2 O10'
+_cell_volume   210.98356898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.37163800  0.35387600  0.75124300  1
+  Er  Er1  1  0.64706300  0.63195100  0.74808800  1
+  Er  Er2  1  0.35387600  0.37163800  0.25124300  1
+  Er  Er3  1  0.63195100  0.64706300  0.24808800  1
+  Ti  Ti4  1  0.00606300  0.99547000  0.49098800  1
+  Ti  Ti5  1  0.99547000  0.00606300  0.99098800  1
+  O  O6  1  0.97561800  0.68634800  0.63956700  1
+  O  O7  1  0.24800200  0.61031700  0.95580600  1
+  O  O8  1  0.61031700  0.24800200  0.45580600  1
+  O  O9  1  0.31514900  0.02591200  0.85941800  1
+  O  O10  1  0.68634800  0.97561800  0.13956700  1
+  O  O11  1  0.83105700  0.17071400  0.75294900  1
+  O  O12  1  0.39188000  0.75398600  0.54332300  1
+  O  O13  1  0.75398600  0.39188000  0.04332300  1
+  O  O14  1  0.02591200  0.31514900  0.35941800  1
+  O  O15  1  0.17071400  0.83105700  0.25294900  1

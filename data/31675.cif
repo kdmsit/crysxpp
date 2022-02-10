@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2NaAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27763900
+_cell_length_b   6.17929500
+_cell_length_c   8.41885796
+_cell_angle_alpha   87.49983260
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaAsO4
+_chemical_formula_sum   'Cs4 Na2 As2 O8'
+_cell_volume   326.26827335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.16091900  0.81438100  1
+  Cs  Cs1  1  0.75000000  0.83908100  0.18561900  1
+  Cs  Cs2  1  0.25000000  0.70448000  0.50936000  1
+  Cs  Cs3  1  0.75000000  0.29552000  0.49064000  1
+  Na  Na4  1  0.75000000  0.36149300  0.97608700  1
+  Na  Na5  1  0.25000000  0.63850700  0.02391300  1
+  As  As6  1  0.25000000  0.21245600  0.23999100  1
+  As  As7  1  0.75000000  0.78754400  0.76000900  1
+  O  O8  1  0.97164800  0.64840300  0.83388200  1
+  O  O9  1  0.47164800  0.35159700  0.16611800  1
+  O  O10  1  0.02835200  0.35159700  0.16611800  1
+  O  O11  1  0.52835200  0.64840300  0.83388200  1
+  O  O12  1  0.75000000  0.04986800  0.82553200  1
+  O  O13  1  0.75000000  0.79291600  0.55450100  1
+  O  O14  1  0.25000000  0.95013200  0.17446800  1
+  O  O15  1  0.25000000  0.20708400  0.44549900  1

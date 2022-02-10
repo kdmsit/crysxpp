@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeMgSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   18.77045921
+_cell_length_b   18.77045921
+_cell_length_c   18.77045921
+_cell_angle_alpha   167.18219106
+_cell_angle_beta   167.18219106
+_cell_angle_gamma   18.16532710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgSi2
+_chemical_formula_sum   'Ce4 Mg4 Si8'
+_cell_volume   325.47317716
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.82814800  0.32814800  0.50000000  1
+  Ce  Ce1  1  0.07814800  0.07814800  0.00000000  1
+  Ce  Ce2  1  0.92185200  0.92185200  0.00000000  1
+  Ce  Ce3  1  0.67185200  0.17185200  0.50000000  1
+  Mg  Mg4  1  0.24992100  0.24992100  0.00000000  1
+  Mg  Mg5  1  0.50007900  0.00007900  0.50000000  1
+  Mg  Mg6  1  0.75007900  0.75007900  0.00000000  1
+  Mg  Mg7  1  0.99992100  0.49992100  0.50000000  1
+  Si  Si8  1  0.20169700  0.70169700  0.50000000  1
+  Si  Si9  1  0.29830300  0.79830300  0.50000000  1
+  Si  Si10  1  0.45169700  0.45169700  0.00000000  1
+  Si  Si11  1  0.54830300  0.54830300  0.00000000  1
+  Si  Si12  1  0.13925300  0.63925300  0.50000000  1
+  Si  Si13  1  0.38925300  0.38925300  0.00000000  1
+  Si  Si14  1  0.61074700  0.61074700  0.00000000  1
+  Si  Si15  1  0.36074700  0.86074700  0.50000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li3Nb4ZnO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24293800
+_cell_length_b   5.60835221
+_cell_length_c   7.67989706
+_cell_angle_alpha   95.30269072
+_cell_angle_beta   90.07455268
+_cell_angle_gamma   90.07808208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Nb4ZnO12
+_chemical_formula_sum   'Li3 Nb4 Zn1 O12'
+_cell_volume   224.85468361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50009600  0.94319000  0.77983800  1
+  Li  Li1  1  0.50118400  0.94398500  0.27760400  1
+  Li  Li2  1  0.99960900  0.43971200  0.78036900  1
+  Nb  Nb3  1  0.50252000  0.50667100  0.98886400  1
+  Nb  Nb4  1  0.49887700  0.51985500  0.49823600  1
+  Nb  Nb5  1  0.99872300  0.01933600  0.49580000  1
+  Nb  Nb6  1  0.00491200  0.00162900  0.99051800  1
+  Zn  Zn7  1  0.99833900  0.44511100  0.27488200  1
+  O  O8  1  0.81676700  0.34336800  0.54353100  1
+  O  O9  1  0.63183200  0.53749500  0.23607500  1
+  O  O10  1  0.68154100  0.84265000  0.54282300  1
+  O  O11  1  0.87796600  0.04196700  0.23627300  1
+  O  O12  1  0.80479900  0.72044900  0.91910300  1
+  O  O13  1  0.31980500  0.84688800  0.04304000  1
+  O  O14  1  0.69345100  0.22230500  0.91854900  1
+  O  O15  1  0.12573500  0.03838100  0.73794500  1
+  O  O16  1  0.17643500  0.35277300  0.04661500  1
+  O  O17  1  0.37446400  0.53787100  0.73802600  1
+  O  O18  1  0.30423400  0.22109200  0.41865900  1
+  O  O19  1  0.18871000  0.71417800  0.41380000  1

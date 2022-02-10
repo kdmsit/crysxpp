@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In2Cu2SiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90803744
+_cell_length_b   6.90803744
+_cell_length_c   12.10526146
+_cell_angle_alpha   72.49308886
+_cell_angle_beta   72.49308886
+_cell_angle_gamma   59.55636821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Cu2SiS6
+_chemical_formula_sum   'In4 Cu4 Si2 S12'
+_cell_volume   467.16102707
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.53449200  0.30074700  0.44125000  1
+  In  In1  1  0.17177500  0.31138400  0.74666100  1
+  In  In2  1  0.31138400  0.17177500  0.24666100  1
+  In  In3  1  0.30074700  0.53449200  0.94125000  1
+  Cu  Cu4  1  0.38947700  0.81325500  0.59693800  1
+  Cu  Cu5  1  0.78783600  0.01392100  0.74641200  1
+  Cu  Cu6  1  0.81325500  0.38947700  0.09693800  1
+  Cu  Cu7  1  0.01392100  0.78783600  0.24641200  1
+  Si  Si8  1  0.40760800  0.92995300  0.00445300  1
+  Si  Si9  1  0.92995300  0.40760800  0.50445300  1
+  S  S10  1  0.69235500  0.14979400  0.24890300  1
+  S  S11  1  0.83010700  0.35149500  0.69083600  1
+  S  S12  1  0.53573100  0.03161700  0.63738400  1
+  S  S13  1  0.08264500  0.11208800  0.95482500  1
+  S  S14  1  0.11208800  0.08264500  0.45482500  1
+  S  S15  1  0.14979400  0.69235500  0.74890300  1
+  S  S16  1  0.03161700  0.53573100  0.13738400  1
+  S  S17  1  0.60134300  0.11161400  0.93943900  1
+  S  S18  1  0.35149500  0.83010700  0.19083600  1
+  S  S19  1  0.11161400  0.60134300  0.43943900  1
+  S  S20  1  0.61710800  0.61664900  0.44034700  1
+  S  S21  1  0.61664900  0.61710800  0.94034700  1

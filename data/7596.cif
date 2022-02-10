@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GaSeBr7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77328200
+_cell_length_b   7.00651500
+_cell_length_c   15.31278723
+_cell_angle_alpha   75.92672169
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSeBr7
+_chemical_formula_sum   'Ga2 Se2 Br14'
+_cell_volume   704.88897219
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.99787200  0.33719200  0.50158500  1
+  Ga  Ga1  1  0.00212800  0.33719200  0.00158500  1
+  Se  Se2  1  0.59335200  0.05120000  0.66200900  1
+  Se  Se3  1  0.40664800  0.05120000  0.16200900  1
+  Br  Br4  1  0.60565500  0.17191600  0.26418800  1
+  Br  Br5  1  0.39434500  0.17191600  0.76418800  1
+  Br  Br6  1  0.12614900  0.01769200  0.00476800  1
+  Br  Br7  1  0.87385100  0.01769200  0.50476800  1
+  Br  Br8  1  0.12980000  0.40793600  0.13573900  1
+  Br  Br9  1  0.87020000  0.40793600  0.63573900  1
+  Br  Br10  1  0.13313600  0.55934300  0.87292000  1
+  Br  Br11  1  0.86686400  0.55934300  0.37292000  1
+  Br  Br12  1  0.65592200  0.36135400  0.99711100  1
+  Br  Br13  1  0.34407800  0.36135400  0.49711100  1
+  Br  Br14  1  0.38953800  0.79846100  0.63233700  1
+  Br  Br15  1  0.61046200  0.79846100  0.13233700  1
+  Br  Br16  1  0.81407600  0.84765600  0.76621400  1
+  Br  Br17  1  0.18592400  0.84765600  0.26621400  1

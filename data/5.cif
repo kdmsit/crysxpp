@@ -1,16 +1,16 @@
 # generated using pymatgen
-data_CsDyCdTe3
+data_BaN2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   4.54722610
-_cell_length_b   8.98579207
-_cell_length_c   11.88901859
-_cell_angle_alpha   90.00000000
-_cell_angle_beta   90.00000000
-_cell_angle_gamma   104.65647661
+_cell_length_a   4.26692603
+_cell_length_b   4.26692603
+_cell_length_c   7.33778643
+_cell_angle_alpha   77.21342757
+_cell_angle_beta   77.21342757
+_cell_angle_gamma   63.39366604
 _symmetry_Int_Tables_number   1
-_chemical_formula_structural   CsDyCdTe3
-_chemical_formula_sum   'Cs2 Dy2 Cd2 Te6'
-_cell_volume   469.98288579
+_chemical_formula_structural   BaN2
+_chemical_formula_sum   'Ba2 N4'
+_cell_volume   115.33745622
 _cell_formula_units_Z   2
 loop_
  _symmetry_equiv_pos_site_id
@@ -24,15 +24,9 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Cd  Cd1  1  0.463092  0.926185  0.250000  1
-  Cd  Cd2  1  0.536908  0.073815  0.750000  1
-  Te  Te3  1  0.619805  0.239610  0.546439  1
-  Te  Te4  1  0.380195  0.760390  0.453561  1
-  Te  Te5  1  0.380195  0.760390  0.046439  1
-  Te  Te6  1  0.619805  0.239610  0.953561  1
-  Te  Te7  1  0.065245  0.130489  0.250000  1
-  Te  Te8  1  0.934755  0.869511  0.750000  1
-  Cs  Cs9  1  0.750996  0.501993  0.250000  1
-  Cs  Cs10  1  0.249004  0.498007  0.750000  1
-  Dy  Dy11  1  0.000000  0.000000  0.500000  1
-  Dy  Dy12  1  0.000000  0.000000  0.000000  1
+  Ba  Ba0  1  0.21154900  0.78845100  0.25000000  1
+  Ba  Ba1  1  0.78845100  0.21154900  0.75000000  1
+  N  N2  1  0.44501100  0.14849900  0.45408000  1
+  N  N3  1  0.85150100  0.55498900  0.04592000  1
+  N  N4  1  0.14849900  0.44501100  0.95408000  1
+  N  N5  1  0.55498900  0.85150100  0.54592000  1

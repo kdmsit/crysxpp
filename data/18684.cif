@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BaAlSiH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33422752
+_cell_length_b   4.33422752
+_cell_length_c   5.26255200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlSiH
+_chemical_formula_sum   'Ba1 Al1 Si1 H1'
+_cell_volume   85.61512098
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.99956400  1
+  Al  Al1  1  0.66666700  0.33333300  0.53475200  1
+  Si  Si2  1  0.33333300  0.66666700  0.45769300  1
+  H  H3  1  0.66666700  0.33333300  0.86509000  1

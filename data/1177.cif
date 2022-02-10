@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr3(NiGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.43298043
+_cell_length_b   12.43298043
+_cell_length_c   12.43298043
+_cell_angle_alpha   160.77218611
+_cell_angle_beta   160.60804280
+_cell_angle_gamma   27.44099477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(NiGe)4
+_chemical_formula_sum   'Pr3 Ni4 Ge4'
+_cell_volume   210.06041151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr1  1  0.85148200  0.35148200  0.50000000  1
+  Pr  Pr2  1  0.14851800  0.64851800  0.50000000  1
+  Ni  Ni3  1  0.54973200  0.54973200  0.00000000  1
+  Ni  Ni4  1  0.45026800  0.45026800  0.00000000  1
+  Ni  Ni5  1  0.69915500  0.19915500  0.50000000  1
+  Ni  Ni6  1  0.30084500  0.80084500  0.50000000  1
+  Ge  Ge7  1  0.24996500  0.24996500  0.00000000  1
+  Ge  Ge8  1  0.59966200  0.09966200  0.50000000  1
+  Ge  Ge9  1  0.40033800  0.90033800  0.50000000  1
+  Ge  Ge10  1  0.75003500  0.75003500  0.00000000  1

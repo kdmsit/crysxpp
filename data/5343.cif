@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CoSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81198501
+_cell_length_b   6.81044730
+_cell_length_c   8.67155712
+_cell_angle_alpha   89.81485138
+_cell_angle_beta   90.00131490
+_cell_angle_gamma   90.00064987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSO4
+_chemical_formula_sum   'Co4 S4 O16'
+_cell_volume   284.18079413
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co1  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co2  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co3  1  0.00000000  0.00000000  0.00000000  1
+  S  S4  1  0.97289400  0.75012900  0.32223100  1
+  S  S5  1  0.52709800  0.75011000  0.82221700  1
+  S  S6  1  0.02710600  0.24987100  0.67776800  1
+  S  S7  1  0.47290200  0.24988900  0.17778300  1
+  O  O8  1  0.76729100  0.25015000  0.12197400  1
+  O  O9  1  0.23270900  0.74985000  0.87802600  1
+  O  O10  1  0.26729000  0.74987800  0.37803600  1
+  O  O11  1  0.73271000  0.25012300  0.62196400  1
+  O  O12  1  0.96010500  0.75053700  0.14739100  1
+  O  O13  1  0.53987500  0.75052900  0.64738100  1
+  O  O14  1  0.46012500  0.24947100  0.35261900  1
+  O  O15  1  0.03989600  0.24946300  0.85260900  1
+  O  O16  1  0.83465400  0.56826200  0.37454000  1
+  O  O17  1  0.83521900  0.93180000  0.37458100  1
+  O  O18  1  0.33522300  0.06822600  0.12541900  1
+  O  O19  1  0.16478000  0.06820000  0.62541900  1
+  O  O20  1  0.66536100  0.56823500  0.87451000  1
+  O  O21  1  0.33463900  0.43176500  0.12549000  1
+  O  O22  1  0.16534600  0.43173900  0.62546000  1
+  O  O23  1  0.66477600  0.93177400  0.87458100  1

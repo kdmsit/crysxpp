@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbTaGeS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02748100
+_cell_length_b   7.22185815
+_cell_length_c   9.19454109
+_cell_angle_alpha   69.37528186
+_cell_angle_beta   78.37007555
+_cell_angle_gamma   75.82687490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTaGeS5
+_chemical_formula_sum   'Rb2 Ta2 Ge2 S10'
+_cell_volume   420.00018022
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.59284000  0.35914400  0.31033600  1
+  Rb  Rb1  1  0.40716000  0.64085600  0.68966400  1
+  Ta  Ta2  1  0.24051400  0.02784200  0.00427000  1
+  Ta  Ta3  1  0.75948600  0.97215800  0.99573000  1
+  Ge  Ge4  1  0.97784300  0.70592400  0.37643900  1
+  Ge  Ge5  1  0.02215700  0.29407600  0.62356100  1
+  S  S6  1  0.06681500  0.75396100  0.00901300  1
+  S  S7  1  0.44119700  0.22759100  0.02996200  1
+  S  S8  1  0.69017800  0.87028400  0.29293500  1
+  S  S9  1  0.21840500  0.88069100  0.29531100  1
+  S  S10  1  0.06866900  0.39023200  0.35613500  1
+  S  S11  1  0.93133100  0.60976800  0.64386500  1
+  S  S12  1  0.78159500  0.11930900  0.70468900  1
+  S  S13  1  0.30982200  0.12971600  0.70706500  1
+  S  S14  1  0.55880300  0.77240900  0.97003800  1
+  S  S15  1  0.93318500  0.24603900  0.99098700  1

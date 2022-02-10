@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_EuSeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21336600
+_cell_length_b   7.39812000
+_cell_length_c   9.10792900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSeClO3
+_chemical_formula_sum   'Eu4 Se4 Cl4 O12'
+_cell_volume   486.04779401
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.25000000  0.61072900  0.95921500  1
+  Eu  Eu1  1  0.25000000  0.11072900  0.54078500  1
+  Eu  Eu2  1  0.75000000  0.38927100  0.04078500  1
+  Eu  Eu3  1  0.75000000  0.88927100  0.45921500  1
+  Se  Se4  1  0.25000000  0.21112300  0.13143600  1
+  Se  Se5  1  0.75000000  0.78887700  0.86856400  1
+  Se  Se6  1  0.25000000  0.71112300  0.36856400  1
+  Se  Se7  1  0.75000000  0.28887700  0.63143600  1
+  Cl  Cl8  1  0.25000000  0.45009300  0.68018100  1
+  Cl  Cl9  1  0.75000000  0.54990700  0.31981900  1
+  Cl  Cl10  1  0.75000000  0.04990700  0.18018100  1
+  Cl  Cl11  1  0.25000000  0.95009300  0.81981900  1
+  O  O12  1  0.07478600  0.85355200  0.43155800  1
+  O  O13  1  0.75000000  0.24625100  0.81579900  1
+  O  O14  1  0.25000000  0.25374900  0.31579900  1
+  O  O15  1  0.92521400  0.14644800  0.56844200  1
+  O  O16  1  0.57478600  0.64644800  0.93155800  1
+  O  O17  1  0.57478600  0.14644800  0.56844200  1
+  O  O18  1  0.42521400  0.85355200  0.43155800  1
+  O  O19  1  0.07478600  0.35355200  0.06844200  1
+  O  O20  1  0.25000000  0.75374900  0.18420100  1
+  O  O21  1  0.75000000  0.74625100  0.68420100  1
+  O  O22  1  0.42521400  0.35355200  0.06844200  1
+  O  O23  1  0.92521400  0.64644800  0.93155800  1

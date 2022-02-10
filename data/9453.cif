@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaGaBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72267200
+_cell_length_b   7.76493600
+_cell_length_c   14.23886200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGaBr4
+_chemical_formula_sum   'Na4 Ga4 Br16'
+_cell_volume   853.84836516
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.05018800  0.65172000  1
+  Na  Na1  1  0.75000000  0.55018800  0.84828000  1
+  Na  Na2  1  0.75000000  0.94981200  0.34828000  1
+  Na  Na3  1  0.25000000  0.44981200  0.15172000  1
+  Ga  Ga4  1  0.25000000  0.20160500  0.39866700  1
+  Ga  Ga5  1  0.75000000  0.70160500  0.10133300  1
+  Ga  Ga6  1  0.75000000  0.79839500  0.60133300  1
+  Ga  Ga7  1  0.25000000  0.29839500  0.89866700  1
+  Br  Br8  1  0.25000000  0.37212400  0.53461900  1
+  Br  Br9  1  0.75000000  0.87212400  0.96538100  1
+  Br  Br10  1  0.75000000  0.62787600  0.46538100  1
+  Br  Br11  1  0.25000000  0.12787600  0.03461900  1
+  Br  Br12  1  0.25000000  0.90967600  0.44625100  1
+  Br  Br13  1  0.75000000  0.40967600  0.05374900  1
+  Br  Br14  1  0.75000000  0.09032400  0.55374900  1
+  Br  Br15  1  0.25000000  0.59032400  0.94625100  1
+  Br  Br16  1  0.00608300  0.23880300  0.80165700  1
+  Br  Br17  1  0.99391700  0.73880300  0.69834300  1
+  Br  Br18  1  0.50608300  0.76119700  0.19834300  1
+  Br  Br19  1  0.49391700  0.26119700  0.30165700  1
+  Br  Br20  1  0.99391700  0.76119700  0.19834300  1
+  Br  Br21  1  0.00608300  0.26119700  0.30165700  1
+  Br  Br22  1  0.49391700  0.23880300  0.80165700  1
+  Br  Br23  1  0.50608300  0.73880300  0.69834300  1

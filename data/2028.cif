@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu7(NiTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14560189
+_cell_length_b   9.14560189
+_cell_length_c   9.14560189
+_cell_angle_alpha   156.06615186
+_cell_angle_beta   118.05422624
+_cell_angle_gamma   67.39837843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu7(NiTe)2
+_chemical_formula_sum   'Lu7 Ni2 Te2'
+_cell_volume   271.64092179
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.30836600  0.68545300  0.62291300  1
+  Lu  Lu1  1  0.93746100  0.31454700  0.62291300  1
+  Lu  Lu2  1  0.99936000  0.00000000  0.99936000  1
+  Lu  Lu3  1  0.55302600  0.13510800  0.41791800  1
+  Lu  Lu4  1  0.28281000  0.86489200  0.41791800  1
+  Lu  Lu5  1  0.62617000  0.35353300  0.27263700  1
+  Lu  Lu6  1  0.91910300  0.64646700  0.27263700  1
+  Ni  Ni7  1  0.16570300  0.23637500  0.92932800  1
+  Ni  Ni8  1  0.69295300  0.76362500  0.92932800  1
+  Te  Te9  1  0.66066700  0.00000000  0.66066700  1
+  Te  Te10  1  0.26618000  0.50000000  0.76618000  1

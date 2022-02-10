@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaHfS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00960149
+_cell_length_b   5.01165201
+_cell_length_c   5.01240700
+_cell_angle_alpha   89.99594146
+_cell_angle_beta   90.04371296
+_cell_angle_gamma   90.00681966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHfS3
+_chemical_formula_sum   'Ba1 Hf1 S3'
+_cell_volume   125.84335405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99137200  0.99737500  0.99405000  1
+  Hf  Hf1  1  0.48750200  0.49801100  0.49508700  1
+  S  S2  1  0.48563400  0.00016400  0.49734300  1
+  S  S3  1  0.98728700  0.50459600  0.50514000  1
+  S  S4  1  0.48820500  0.49985300  0.99837600  1

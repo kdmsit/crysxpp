@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrGaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22101900
+_cell_length_b   7.76694900
+_cell_length_c   8.23730000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaCo
+_chemical_formula_sum   'Pr4 Ga4 Co4'
+_cell_volume   270.05526185
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.42651500  0.71349300  1
+  Pr  Pr1  1  0.25000000  0.07348500  0.21349300  1
+  Pr  Pr2  1  0.75000000  0.57348500  0.28650700  1
+  Pr  Pr3  1  0.75000000  0.92651500  0.78650700  1
+  Ga  Ga4  1  0.25000000  0.72602900  0.00177700  1
+  Ga  Ga5  1  0.25000000  0.77397100  0.50177700  1
+  Ga  Ga6  1  0.75000000  0.27397100  0.99822300  1
+  Ga  Ga7  1  0.75000000  0.22602900  0.49822300  1
+  Co  Co8  1  0.25000000  0.42206300  0.04072200  1
+  Co  Co9  1  0.25000000  0.07793700  0.54072200  1
+  Co  Co10  1  0.75000000  0.57793700  0.95927800  1
+  Co  Co11  1  0.75000000  0.92206300  0.45927800  1

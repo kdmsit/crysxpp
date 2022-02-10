@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3Er2Cu2PtO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92003685
+_cell_length_b   6.92003685
+_cell_length_c   7.49914075
+_cell_angle_alpha   75.75347272
+_cell_angle_beta   75.75347272
+_cell_angle_gamma   50.08144949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Er2Cu2PtO10
+_chemical_formula_sum   'Ba3 Er2 Cu2 Pt1 O10'
+_cell_volume   265.06755625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.15403700  0.15403700  0.45493700  1
+  Ba  Ba2  1  0.84596300  0.84596300  0.54506300  1
+  Er  Er3  1  0.31076100  0.31076100  0.87440900  1
+  Er  Er4  1  0.68923900  0.68923900  0.12559100  1
+  Cu  Cu5  1  0.41109900  0.41109900  0.19728100  1
+  Cu  Cu6  1  0.58890100  0.58890100  0.80271900  1
+  Pt  Pt7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.33157500  0.33157500  0.55552700  1
+  O  O9  1  0.66842500  0.66842500  0.44447300  1
+  O  O10  1  0.91232700  0.45569100  0.87706900  1
+  O  O11  1  0.54430900  0.08767300  0.12293100  1
+  O  O12  1  0.08767300  0.54430900  0.12293100  1
+  O  O13  1  0.45569100  0.91232700  0.87706900  1
+  O  O14  1  0.73764200  0.29843100  0.28037600  1
+  O  O15  1  0.70156900  0.26235800  0.71962400  1
+  O  O16  1  0.29843100  0.73764200  0.28037600  1
+  O  O17  1  0.26235800  0.70156900  0.71962400  1

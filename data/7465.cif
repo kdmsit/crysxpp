@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NpCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04777279
+_cell_length_b   7.04777279
+_cell_length_c   7.04777279
+_cell_angle_alpha   107.67768557
+_cell_angle_beta   107.67768557
+_cell_angle_gamma   113.12110899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpCl4
+_chemical_formula_sum   'Np2 Cl8'
+_cell_volume   268.65875685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.25000000  0.75000000  0.50000000  1
+  Np  Np1  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl2  1  0.93540500  0.24669800  0.31129300  1
+  Cl  Cl3  1  0.87411100  0.68540500  0.18870700  1
+  Cl  Cl4  1  0.37588900  0.06459500  0.31129300  1
+  Cl  Cl5  1  0.31459500  0.50330200  0.18870700  1
+  Cl  Cl6  1  0.31459500  0.12588900  0.81129300  1
+  Cl  Cl7  1  0.75330200  0.06459500  0.68870700  1
+  Cl  Cl8  1  0.93540500  0.62411100  0.68870700  1
+  Cl  Cl9  1  0.49669800  0.68540500  0.81129300  1

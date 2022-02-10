@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmNiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19516100
+_cell_length_b   6.81121800
+_cell_length_c   7.25279200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmNiGe
+_chemical_formula_sum   'Tm4 Ni4 Ge4'
+_cell_volume   207.24241089
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.25000000  0.50736200  0.70706600  1
+  Tm  Tm1  1  0.25000000  0.00736200  0.79293400  1
+  Tm  Tm2  1  0.75000000  0.99263800  0.20706600  1
+  Tm  Tm3  1  0.75000000  0.49263800  0.29293400  1
+  Ni  Ni4  1  0.75000000  0.19460900  0.58216600  1
+  Ni  Ni5  1  0.25000000  0.80539100  0.41783400  1
+  Ni  Ni6  1  0.75000000  0.69460900  0.91783400  1
+  Ni  Ni7  1  0.25000000  0.30539100  0.08216600  1
+  Ge  Ge8  1  0.75000000  0.30230900  0.91124300  1
+  Ge  Ge9  1  0.25000000  0.19769100  0.41124300  1
+  Ge  Ge10  1  0.25000000  0.69769100  0.08875700  1
+  Ge  Ge11  1  0.75000000  0.80230900  0.58875700  1

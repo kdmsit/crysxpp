@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNa2AuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98619500
+_cell_length_b   5.49300500
+_cell_length_c   10.29696300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2AuO2
+_chemical_formula_sum   'K2 Na4 Au2 O4'
+_cell_volume   225.46424865
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.50000000  1
+  K  K1  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na2  1  0.50000000  0.90129800  0.23375400  1
+  Na  Na3  1  0.50000000  0.09870200  0.76624600  1
+  Na  Na4  1  0.00000000  0.40129800  0.26624600  1
+  Na  Na5  1  0.00000000  0.59870200  0.73375400  1
+  Au  Au6  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.50000000  0.74985000  0.64694900  1
+  O  O9  1  0.00000000  0.24985000  0.85305100  1
+  O  O10  1  0.00000000  0.75015000  0.14694900  1
+  O  O11  1  0.50000000  0.25015000  0.35305100  1

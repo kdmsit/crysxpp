@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoCuPbSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05788000
+_cell_length_b   10.60629400
+_cell_length_c   13.66680300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCuPbSe3
+_chemical_formula_sum   'Ho4 Cu4 Pb4 Se12'
+_cell_volume   588.20646771
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.75000000  0.97810000  0.24440000  1
+  Ho  Ho1  1  0.25000000  0.02190000  0.75560000  1
+  Ho  Ho2  1  0.75000000  0.47810000  0.25560000  1
+  Ho  Ho3  1  0.25000000  0.52190000  0.74440000  1
+  Cu  Cu4  1  0.25000000  0.73505400  0.22178000  1
+  Cu  Cu5  1  0.75000000  0.26494600  0.77822000  1
+  Cu  Cu6  1  0.25000000  0.23505400  0.27822000  1
+  Cu  Cu7  1  0.75000000  0.76494600  0.72178000  1
+  Pb  Pb8  1  0.75000000  0.72349700  0.00604700  1
+  Pb  Pb9  1  0.25000000  0.27650300  0.99395300  1
+  Pb  Pb10  1  0.75000000  0.22349700  0.49395300  1
+  Pb  Pb11  1  0.25000000  0.77650300  0.50604700  1
+  Se  Se12  1  0.75000000  0.45504500  0.88498700  1
+  Se  Se13  1  0.25000000  0.54495500  0.11501300  1
+  Se  Se14  1  0.75000000  0.95504500  0.61501300  1
+  Se  Se15  1  0.25000000  0.04495500  0.38498700  1
+  Se  Se16  1  0.25000000  0.41248800  0.39228700  1
+  Se  Se17  1  0.75000000  0.58751200  0.60771300  1
+  Se  Se18  1  0.25000000  0.91248800  0.10771300  1
+  Se  Se19  1  0.75000000  0.08751200  0.89228700  1
+  Se  Se20  1  0.75000000  0.23137700  0.16950700  1
+  Se  Se21  1  0.25000000  0.76862300  0.83049300  1
+  Se  Se22  1  0.75000000  0.73137700  0.33049300  1
+  Se  Se23  1  0.25000000  0.26862300  0.66950700  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_TaIn3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43051677
+_cell_length_b   6.43051677
+_cell_length_c   7.31652500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.47602686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaIn3O7
+_chemical_formula_sum   'Ta2 In6 O14'
+_cell_volume   286.95510380
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00964800  0.00964800  0.50000000  1
+  Ta  Ta1  1  0.99035200  0.99035200  0.00000000  1
+  In  In2  1  0.47872400  0.00107300  0.25592500  1
+  In  In3  1  0.99892700  0.52127600  0.24407500  1
+  In  In4  1  0.45514200  0.45514200  0.00000000  1
+  In  In5  1  0.54485800  0.54485800  0.50000000  1
+  In  In6  1  0.52127600  0.99892700  0.75592500  1
+  In  In7  1  0.00107300  0.47872400  0.74407500  1
+  O  O8  1  0.94397900  0.05602100  0.75000000  1
+  O  O9  1  0.64247100  0.35752900  0.75000000  1
+  O  O10  1  0.31771200  0.04785400  0.53332100  1
+  O  O11  1  0.95214600  0.68228800  0.96667900  1
+  O  O12  1  0.62748000  0.37252000  0.25000000  1
+  O  O13  1  0.91972600  0.66864300  0.51931500  1
+  O  O14  1  0.33135700  0.08027400  0.98068500  1
+  O  O15  1  0.08027400  0.33135700  0.01931500  1
+  O  O16  1  0.66864300  0.91972600  0.48068500  1
+  O  O17  1  0.37252000  0.62748000  0.75000000  1
+  O  O18  1  0.68228800  0.95214600  0.03332100  1
+  O  O19  1  0.04785400  0.31771200  0.46667900  1
+  O  O20  1  0.35752900  0.64247100  0.25000000  1
+  O  O21  1  0.05602100  0.94397900  0.25000000  1

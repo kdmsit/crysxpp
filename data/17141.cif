@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Ge2PbS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.70638933
+_cell_length_b   8.70638933
+_cell_length_c   9.15311291
+_cell_angle_alpha   89.95415168
+_cell_angle_beta   89.95415168
+_cell_angle_gamma   114.12648426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ge2PbS6
+_chemical_formula_sum   'K4 Ge4 Pb2 S12'
+_cell_volume   633.20823646
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26364000  0.53810200  0.51826000  1
+  K  K1  1  0.73636000  0.46189800  0.48174000  1
+  K  K2  1  0.46189800  0.73636000  0.98174000  1
+  K  K3  1  0.53810200  0.26364000  0.01826000  1
+  Ge  Ge4  1  0.97620200  0.65593400  0.05929200  1
+  Ge  Ge5  1  0.02379800  0.34406600  0.94070800  1
+  Ge  Ge6  1  0.34406600  0.02379800  0.44070800  1
+  Ge  Ge7  1  0.65593400  0.97620200  0.55929200  1
+  Pb  Pb8  1  0.98867100  0.01132900  0.25000000  1
+  Pb  Pb9  1  0.01132900  0.98867100  0.75000000  1
+  S  S10  1  0.65376400  0.75022700  0.66530500  1
+  S  S11  1  0.91948400  0.52135400  0.83734900  1
+  S  S12  1  0.24977300  0.34623600  0.83469500  1
+  S  S13  1  0.52135400  0.91948400  0.33734900  1
+  S  S14  1  0.34623600  0.24977300  0.33469500  1
+  S  S15  1  0.91073600  0.17644900  0.53807000  1
+  S  S16  1  0.82355100  0.08926400  0.96193000  1
+  S  S17  1  0.17644900  0.91073600  0.03807000  1
+  S  S18  1  0.08051600  0.47864600  0.16265100  1
+  S  S19  1  0.47864600  0.08051600  0.66265100  1
+  S  S20  1  0.08926400  0.82355100  0.46193000  1
+  S  S21  1  0.75022700  0.65376400  0.16530500  1

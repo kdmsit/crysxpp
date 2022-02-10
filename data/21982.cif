@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ag9Te4Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57605900
+_cell_length_b   7.59231477
+_cell_length_c   8.37323631
+_cell_angle_alpha   90.59427404
+_cell_angle_beta   89.99400577
+_cell_angle_gamma   114.83844426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag9Te4Br3
+_chemical_formula_sum   'Ag9 Te4 Br3'
+_cell_volume   437.04626293
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.85760900  0.79029600  0.08659700  1
+  Ag  Ag1  1  0.01730100  0.68953700  0.55841400  1
+  Ag  Ag2  1  0.39747500  0.21900800  0.77425100  1
+  Ag  Ag3  1  0.02832700  0.37324600  0.35251100  1
+  Ag  Ag4  1  0.64684700  0.99115400  0.33444100  1
+  Ag  Ag5  1  0.63215200  0.00048600  0.68500300  1
+  Ag  Ag6  1  0.30882100  0.68803900  0.84288000  1
+  Ag  Ag7  1  0.99606800  0.33961600  0.70951100  1
+  Ag  Ag8  1  0.18095800  0.17771300  0.06946400  1
+  Te  Te9  1  0.98775400  0.96927100  0.78442500  1
+  Te  Te10  1  0.02298200  0.99889000  0.35649400  1
+  Te  Te11  1  0.65637400  0.34096000  0.51665300  1
+  Te  Te12  1  0.37377100  0.64671200  0.52023200  1
+  Br  Br13  1  0.51098900  0.50541900  0.01684100  1
+  Br  Br14  1  0.49496000  0.00198300  0.03972300  1
+  Br  Br15  1  0.99514500  0.48403600  0.04306200  1

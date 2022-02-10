@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KGaI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21144400
+_cell_length_b   8.56904000
+_cell_length_c   16.64005544
+_cell_angle_alpha   85.14084490
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGaI4
+_chemical_formula_sum   'K4 Ga4 I16'
+_cell_volume   1166.65589596
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50285000  0.25731200  0.63986700  1
+  K  K1  1  0.00285000  0.74268800  0.86013300  1
+  K  K2  1  0.49715000  0.74268800  0.36013300  1
+  K  K3  1  0.99715000  0.25731200  0.13986700  1
+  Ga  Ga4  1  0.35823200  0.24410000  0.36093600  1
+  Ga  Ga5  1  0.85823200  0.75590000  0.13906400  1
+  Ga  Ga6  1  0.64176800  0.75590000  0.63906400  1
+  Ga  Ga7  1  0.14176800  0.24410000  0.86093600  1
+  I  I8  1  0.85948000  0.13896900  0.90868600  1
+  I  I9  1  0.35948000  0.86103100  0.59131400  1
+  I  I10  1  0.14052000  0.86103100  0.09131400  1
+  I  I11  1  0.64052000  0.13896900  0.40868600  1
+  I  I12  1  0.38921000  0.41283600  0.22459500  1
+  I  I13  1  0.88921000  0.58716400  0.27540500  1
+  I  I14  1  0.61079000  0.58716400  0.77540500  1
+  I  I15  1  0.11079000  0.41283600  0.72459500  1
+  I  I16  1  0.65529200  0.98111600  0.15948000  1
+  I  I17  1  0.15529200  0.01888400  0.34052000  1
+  I  I18  1  0.34470800  0.01888400  0.84052000  1
+  I  I19  1  0.84470800  0.98111600  0.65948000  1
+  I  I20  1  0.24271100  0.41950100  0.46742400  1
+  I  I21  1  0.74271100  0.58049900  0.03257600  1
+  I  I22  1  0.75728900  0.58049900  0.53257600  1
+  I  I23  1  0.25728900  0.41950100  0.96742400  1

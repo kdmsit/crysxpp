@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3NO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38697239
+_cell_length_b   7.38697239
+_cell_length_c   7.38697239
+_cell_angle_alpha   120.57880955
+_cell_angle_beta   120.57880955
+_cell_angle_gamma   89.00036237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NO3
+_chemical_formula_sum   'K6 N2 O6'
+_cell_volume   282.48573554
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.29713900  0.79713900  0.11662300  1
+  K  K1  1  0.18051600  0.29713900  0.50000000  1
+  K  K2  1  0.79713900  0.68051600  0.50000000  1
+  K  K3  1  0.68051600  0.18051600  0.88337700  1
+  K  K4  1  0.24617300  0.24617300  0.00000000  1
+  K  K5  1  0.74617300  0.74617300  0.00000000  1
+  N  N6  1  0.71303700  0.21303700  0.50000000  1
+  N  N7  1  0.21303700  0.71303700  0.50000000  1
+  O  O8  1  0.17397700  0.88305900  0.50000000  1
+  O  O9  1  0.38305900  0.67397700  0.50000000  1
+  O  O10  1  0.50009800  0.50009800  0.00000000  1
+  O  O11  1  0.00009800  0.00009800  0.00000000  1
+  O  O12  1  0.67397700  0.17397700  0.29091800  1
+  O  O13  1  0.88305900  0.38305900  0.70908200  1

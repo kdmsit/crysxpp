@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hf2In5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.40791200
+_cell_length_b   10.40791200
+_cell_length_c   3.07569000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2In5
+_chemical_formula_sum   'Hf4 In10'
+_cell_volume   333.17298801
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.31999600  0.81999600  0.50000000  1
+  Hf  Hf1  1  0.81999600  0.68000400  0.50000000  1
+  Hf  Hf2  1  0.18000400  0.31999600  0.50000000  1
+  Hf  Hf3  1  0.68000400  0.18000400  0.50000000  1
+  In  In4  1  0.43838400  0.29172200  0.00000000  1
+  In  In5  1  0.56161600  0.70827800  0.00000000  1
+  In  In6  1  0.70827800  0.43838400  0.00000000  1
+  In  In7  1  0.29172200  0.56161600  0.00000000  1
+  In  In8  1  0.50000000  0.00000000  0.00000000  1
+  In  In9  1  0.00000000  0.50000000  0.00000000  1
+  In  In10  1  0.20827800  0.06161600  0.00000000  1
+  In  In11  1  0.06161600  0.79172200  0.00000000  1
+  In  In12  1  0.93838400  0.20827800  0.00000000  1
+  In  In13  1  0.79172200  0.93838400  0.00000000  1

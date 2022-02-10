@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2DyPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01046700
+_cell_length_b   5.22862400
+_cell_length_c   9.27597065
+_cell_angle_alpha   89.12824748
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2DyPCO7
+_chemical_formula_sum   'Na4 Dy2 P2 C2 O14'
+_cell_volume   339.97223999
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49848500  0.23201700  0.79024900  1
+  Na  Na1  1  0.00151500  0.23201700  0.79024900  1
+  Na  Na2  1  0.50151500  0.76798300  0.20975100  1
+  Na  Na3  1  0.99848500  0.76798300  0.20975100  1
+  Dy  Dy4  1  0.75000000  0.77616800  0.63051100  1
+  Dy  Dy5  1  0.25000000  0.22383200  0.36948900  1
+  P  P6  1  0.25000000  0.70573300  0.58246600  1
+  P  P7  1  0.75000000  0.29426700  0.41753400  1
+  C  C8  1  0.75000000  0.73155900  0.92785500  1
+  C  C9  1  0.25000000  0.26844100  0.07214500  1
+  O  O10  1  0.25000000  0.30005600  0.93757500  1
+  O  O11  1  0.75000000  0.95822700  0.86365900  1
+  O  O12  1  0.75000000  0.53641100  0.83733600  1
+  O  O13  1  0.06857100  0.81522000  0.65338400  1
+  O  O14  1  0.43142900  0.81522000  0.65338400  1
+  O  O15  1  0.75000000  0.21960200  0.58316200  1
+  O  O16  1  0.25000000  0.40711200  0.59170000  1
+  O  O17  1  0.75000000  0.59288800  0.40830000  1
+  O  O18  1  0.25000000  0.78039800  0.41683800  1
+  O  O19  1  0.56857100  0.18478000  0.34661600  1
+  O  O20  1  0.93142900  0.18478000  0.34661600  1
+  O  O21  1  0.25000000  0.46358900  0.16266400  1
+  O  O22  1  0.25000000  0.04177300  0.13634100  1
+  O  O23  1  0.75000000  0.69994400  0.06242500  1

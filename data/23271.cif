@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho2Be2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31347000
+_cell_length_b   7.31347000
+_cell_length_c   4.77784700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Be2SiO7
+_chemical_formula_sum   'Ho4 Be4 Si2 O14'
+_cell_volume   255.55195447
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.84142100  0.65857900  0.49162800  1
+  Ho  Ho1  1  0.34142100  0.84142100  0.50837200  1
+  Ho  Ho2  1  0.65857900  0.15857900  0.50837200  1
+  Ho  Ho3  1  0.15857900  0.34142100  0.49162800  1
+  Be  Be4  1  0.13690500  0.63690500  0.95898100  1
+  Be  Be5  1  0.63690500  0.86309500  0.04101900  1
+  Be  Be6  1  0.86309500  0.36309500  0.95898100  1
+  Be  Be7  1  0.36309500  0.13690500  0.04101900  1
+  Si  Si8  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.85859600  0.35859600  0.29180700  1
+  O  O11  1  0.35859600  0.14140400  0.70819300  1
+  O  O12  1  0.14140400  0.64140400  0.29180700  1
+  O  O13  1  0.64140400  0.85859600  0.70819300  1
+  O  O14  1  0.50000000  0.00000000  0.18370200  1
+  O  O15  1  0.00000000  0.50000000  0.81629800  1
+  O  O16  1  0.08246400  0.83745300  0.79904200  1
+  O  O17  1  0.16254700  0.08246400  0.20095800  1
+  O  O18  1  0.83745300  0.91753600  0.20095800  1
+  O  O19  1  0.91753600  0.16254700  0.79904200  1
+  O  O20  1  0.58246400  0.66254700  0.20095800  1
+  O  O21  1  0.41753600  0.33745300  0.20095800  1
+  O  O22  1  0.33745300  0.58246400  0.79904200  1
+  O  O23  1  0.66254700  0.41753600  0.79904200  1

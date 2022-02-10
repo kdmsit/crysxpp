@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaZr2NiF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71927828
+_cell_length_b   5.71927828
+_cell_length_c   7.87009535
+_cell_angle_alpha   69.24718594
+_cell_angle_beta   69.24718594
+_cell_angle_gamma   72.78945205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZr2NiF11
+_chemical_formula_sum   'Na1 Zr2 Ni1 F11'
+_cell_volume   220.79837631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.50805300  0.50805300  0.76232100  1
+  Zr  Zr2  1  0.49194700  0.49194700  0.23767900  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.50000000  1
+  F  F4  1  0.22067900  0.81390100  0.68522900  1
+  F  F5  1  0.18609900  0.77932100  0.31477100  1
+  F  F6  1  0.77932100  0.18609900  0.31477100  1
+  F  F7  1  0.81390100  0.22067900  0.68522900  1
+  F  F8  1  0.50000000  0.50000000  0.50000000  1
+  F  F9  1  0.67216700  0.32783300  0.00000000  1
+  F  F10  1  0.32783300  0.67216700  0.00000000  1
+  F  F11  1  0.24369300  0.24369300  0.35215900  1
+  F  F12  1  0.75630700  0.75630700  0.64784100  1
+  F  F13  1  0.26850000  0.26850000  0.88947500  1
+  F  F14  1  0.73150000  0.73150000  0.11052500  1

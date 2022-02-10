@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaCd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21842557
+_cell_length_b   6.21842557
+_cell_length_c   6.21842557
+_cell_angle_alpha   132.27865315
+_cell_angle_beta   107.71439827
+_cell_angle_gamma   91.31738312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCd2
+_chemical_formula_sum   'Ca2 Cd4'
+_cell_volume   160.38871224
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.77529200  0.52529200  0.25000000  1
+  Ca  Ca1  1  0.22470800  0.47470800  0.75000000  1
+  Cd  Cd2  1  0.63593900  0.16578400  0.47015500  1
+  Cd  Cd3  1  0.36406100  0.83421600  0.52984500  1
+  Cd  Cd4  1  0.80437000  0.83421600  0.97015500  1
+  Cd  Cd5  1  0.19563000  0.16578400  0.02984500  1

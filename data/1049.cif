@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HeSiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14819719
+_cell_length_b   9.14819719
+_cell_length_c   9.14819738
+_cell_angle_alpha   32.96491436
+_cell_angle_beta   32.96491436
+_cell_angle_gamma   32.96491950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HeSiO2
+_chemical_formula_sum   'He4 Si4 O8'
+_cell_volume   201.71017725
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  He  He0  1  0.67995500  0.67995500  0.67995500  1
+  He  He1  1  0.32004500  0.32004500  0.32004500  1
+  He  He2  1  0.17995500  0.17995500  0.17995500  1
+  He  He3  1  0.82004500  0.82004500  0.82004500  1
+  Si  Si4  1  0.93761700  0.93761700  0.93761700  1
+  Si  Si5  1  0.06238300  0.06238300  0.06238300  1
+  Si  Si6  1  0.43761700  0.43761700  0.43761700  1
+  Si  Si7  1  0.56238300  0.56238300  0.56238300  1
+  O  O8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.50000000  0.50000000  0.50000000  1
+  O  O10  1  0.69390900  0.25000000  0.80609100  1
+  O  O11  1  0.25000000  0.80609100  0.69390900  1
+  O  O12  1  0.80609100  0.69390900  0.25000000  1
+  O  O13  1  0.30609100  0.75000000  0.19390900  1
+  O  O14  1  0.75000000  0.19390900  0.30609100  1
+  O  O15  1  0.19390900  0.30609100  0.75000000  1

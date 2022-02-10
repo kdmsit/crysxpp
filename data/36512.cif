@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbInCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45154226
+_cell_length_b   5.45295938
+_cell_length_c   5.45312342
+_cell_angle_alpha   90.29383617
+_cell_angle_beta   90.13919516
+_cell_angle_gamma   90.03015767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbInCl3
+_chemical_formula_sum   'Rb1 In1 Cl3'
+_cell_volume   162.10257604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00169167  0.00286383  0.00268379  1
+  In  In1  1  0.50059625  0.51423729  0.50349565  1
+  Cl  Cl2  1  0.00009317  0.51589409  0.50516253  1
+  Cl  Cl3  1  0.49576179  0.01437572  0.49591705  1
+  Cl  Cl4  1  0.50185712  0.51263006  0.00273798  1

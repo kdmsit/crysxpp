@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd2Be2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51823000
+_cell_length_b   7.51823000
+_cell_length_c   4.90634400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Be2SiO7
+_chemical_formula_sum   'Nd4 Be4 Si2 O14'
+_cell_volume   277.32512031
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.83948600  0.66051400  0.49398100  1
+  Nd  Nd1  1  0.33948600  0.83948600  0.50601900  1
+  Nd  Nd2  1  0.66051400  0.16051400  0.50601900  1
+  Nd  Nd3  1  0.16051400  0.33948600  0.49398100  1
+  Be  Be4  1  0.13484200  0.63484200  0.96434100  1
+  Be  Be5  1  0.63484200  0.86515800  0.03565900  1
+  Be  Be6  1  0.86515800  0.36515800  0.96434100  1
+  Be  Be7  1  0.36515800  0.13484200  0.03565900  1
+  Si  Si8  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.85940900  0.35940900  0.28774200  1
+  O  O11  1  0.35940900  0.14059100  0.71225800  1
+  O  O12  1  0.14059100  0.64059100  0.28774200  1
+  O  O13  1  0.64059100  0.85940900  0.71225800  1
+  O  O14  1  0.50000000  0.00000000  0.17051200  1
+  O  O15  1  0.00000000  0.50000000  0.82948800  1
+  O  O16  1  0.07729900  0.83567800  0.80980500  1
+  O  O17  1  0.16432200  0.07729900  0.19019500  1
+  O  O18  1  0.83567800  0.92270100  0.19019500  1
+  O  O19  1  0.92270100  0.16432200  0.80980500  1
+  O  O20  1  0.57729900  0.66432200  0.19019500  1
+  O  O21  1  0.42270100  0.33567800  0.19019500  1
+  O  O22  1  0.33567800  0.57729900  0.80980500  1
+  O  O23  1  0.66432200  0.42270100  0.80980500  1

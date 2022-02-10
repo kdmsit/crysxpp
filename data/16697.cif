@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K3Na2LiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64216596
+_cell_length_b   7.64216596
+_cell_length_c   6.88720157
+_cell_angle_alpha   87.70050657
+_cell_angle_beta   87.70050657
+_cell_angle_gamma   104.03164419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Na2LiTeO6
+_chemical_formula_sum   'K6 Na4 Li2 Te2 O12'
+_cell_volume   389.39922467
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38255200  0.40115000  0.23957000  1
+  K  K1  1  0.01409900  0.10790200  0.57379300  1
+  K  K2  1  0.78271900  0.70307300  0.75427000  1
+  K  K3  1  0.40115000  0.38255200  0.73957000  1
+  K  K4  1  0.10790200  0.01409900  0.07379300  1
+  K  K5  1  0.70307300  0.78271900  0.25427000  1
+  Na  Na6  1  0.07371000  0.61001600  0.10184000  1
+  Na  Na7  1  0.61001600  0.07371000  0.60184000  1
+  Na  Na8  1  0.86049800  0.42912800  0.40445800  1
+  Na  Na9  1  0.42912800  0.86049800  0.90445800  1
+  Li  Li10  1  0.02966700  0.47386300  0.75082600  1
+  Li  Li11  1  0.47386300  0.02966700  0.25082600  1
+  Te  Te12  1  0.75711100  0.24316700  0.00003400  1
+  Te  Te13  1  0.24316700  0.75711100  0.50003400  1
+  O  O14  1  0.32200000  0.02754300  0.48577200  1
+  O  O15  1  0.00706400  0.76611700  0.39994500  1
+  O  O16  1  0.74507000  0.48017300  0.09736100  1
+  O  O17  1  0.14255300  0.74411500  0.77352700  1
+  O  O18  1  0.76611700  0.00706400  0.89994500  1
+  O  O19  1  0.74411500  0.14255300  0.27352700  1
+  O  O20  1  0.02754300  0.32200000  0.98577200  1
+  O  O21  1  0.16383400  0.48783600  0.50384400  1
+  O  O22  1  0.48783600  0.16383400  0.00384400  1
+  O  O23  1  0.76629700  0.34554100  0.72696200  1
+  O  O24  1  0.48017300  0.74507000  0.59736100  1
+  O  O25  1  0.34554100  0.76629700  0.22696200  1

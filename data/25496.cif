@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li3Nb(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24157627
+_cell_length_b   6.24157627
+_cell_length_c   5.92263267
+_cell_angle_alpha   62.90392767
+_cell_angle_beta   62.90392767
+_cell_angle_gamma   54.72620680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Nb(CuO2)4
+_chemical_formula_sum   'Li3 Nb1 Cu4 O8'
+_cell_volume   161.70788947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.00000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.00000000  1
+  Li  Li2  1  0.00000000  0.00000000  0.50000000  1
+  Nb  Nb3  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu6  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.71659900  0.71659900  0.76618100  1
+  O  O9  1  0.26629900  0.78125000  0.21019000  1
+  O  O10  1  0.78125000  0.26629900  0.21019000  1
+  O  O11  1  0.28340100  0.28340100  0.23381900  1
+  O  O12  1  0.29061900  0.29061900  0.68083500  1
+  O  O13  1  0.73370100  0.21875000  0.78981000  1
+  O  O14  1  0.21875000  0.73370100  0.78981000  1
+  O  O15  1  0.70938100  0.70938100  0.31916500  1

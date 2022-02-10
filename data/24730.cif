@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2CuSbO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14207900
+_cell_length_b   5.57080840
+_cell_length_c   7.85229360
+_cell_angle_alpha   103.68135106
+_cell_angle_beta   100.97711199
+_cell_angle_gamma   106.23197279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CuSbO5
+_chemical_formula_sum   'Li4 Cu2 Sb2 O10'
+_cell_volume   201.74949825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21084600  0.89952900  0.35266000  1
+  Li  Li1  1  0.41160200  0.29767000  0.80985100  1
+  Li  Li2  1  0.59352700  0.70689700  0.21713800  1
+  Li  Li3  1  0.77076000  0.09582600  0.60554600  1
+  Cu  Cu4  1  0.01648600  0.51178200  0.00617700  1
+  Cu  Cu5  1  0.69753600  0.90744600  0.90981800  1
+  Sb  Sb6  1  0.08984700  0.68595900  0.69201700  1
+  Sb  Sb7  1  0.89045100  0.29740700  0.29926500  1
+  O  O8  1  0.00845300  0.00993900  0.81188000  1
+  O  O9  1  0.33562600  0.65508100  0.92021800  1
+  O  O10  1  0.13518700  0.34512700  0.54898000  1
+  O  O11  1  0.21204500  0.52369600  0.22925800  1
+  O  O12  1  0.46292500  0.92423200  0.70227700  1
+  O  O13  1  0.57997100  0.08125800  0.35783500  1
+  O  O14  1  0.79534900  0.47499800  0.77879300  1
+  O  O15  1  0.88915600  0.66895800  0.44512300  1
+  O  O16  1  0.69608600  0.35157300  0.06858900  1
+  O  O17  1  0.90728600  0.95289400  0.14571300  1

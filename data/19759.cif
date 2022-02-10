@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PrMnGeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72688100
+_cell_length_b   5.79754182
+_cell_length_c   7.04705895
+_cell_angle_alpha   106.29111774
+_cell_angle_beta   99.31602758
+_cell_angle_gamma   107.21377249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMnGeO5
+_chemical_formula_sum   'Pr2 Mn2 Ge2 O10'
+_cell_volume   206.72722260
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.35019900  0.18835400  0.72055900  1
+  Pr  Pr1  1  0.64980100  0.81164600  0.27944100  1
+  Mn  Mn2  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.50000000  1
+  Ge  Ge4  1  0.69614800  0.83619900  0.76650000  1
+  Ge  Ge5  1  0.30385200  0.16380100  0.23350000  1
+  O  O6  1  0.93483300  0.58604400  0.26187400  1
+  O  O7  1  0.27066300  0.85201000  0.07636500  1
+  O  O8  1  0.06221200  0.16903600  0.36635000  1
+  O  O9  1  0.72933700  0.14799000  0.92363500  1
+  O  O10  1  0.57628400  0.24125700  0.43970800  1
+  O  O11  1  0.32425200  0.36902200  0.08991500  1
+  O  O12  1  0.67574800  0.63097800  0.91008500  1
+  O  O13  1  0.93778800  0.83096400  0.63365000  1
+  O  O14  1  0.06516700  0.41395600  0.73812600  1
+  O  O15  1  0.42371600  0.75874300  0.56029200  1

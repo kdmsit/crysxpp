@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_LiAlSi2H2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99205900
+_cell_length_b   7.70566517
+_cell_length_c   8.69970290
+_cell_angle_alpha   114.40772429
+_cell_angle_beta   90.09190693
+_cell_angle_gamma   90.05196699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlSi2H2O7
+_chemical_formula_sum   'Li2 Al2 Si4 H4 O14'
+_cell_volume   304.74321267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.86896700  0.12467000  0.30060800  1
+  Li  Li1  1  0.36689200  0.85382600  0.68835000  1
+  Al  Al2  1  0.87434500  0.06299000  0.62022800  1
+  Al  Al3  1  0.36718300  0.09319200  0.09997100  1
+  Si  Si4  1  0.30152200  0.51382100  0.10874300  1
+  Si  Si5  1  0.37507600  0.93732600  0.38050500  1
+  Si  Si6  1  0.80255200  0.49708800  0.89668600  1
+  Si  Si7  1  0.86733500  0.90300400  0.89354200  1
+  H  H8  1  0.67543600  0.46285800  0.48558800  1
+  H  H9  1  0.79643700  0.45746000  0.32009800  1
+  H  H10  1  0.17355200  0.51365000  0.51589900  1
+  H  H11  1  0.29920600  0.52921300  0.68394000  1
+  O  O12  1  0.32994600  0.56709100  0.59113600  1
+  O  O13  1  0.18635600  0.95764500  0.91317600  1
+  O  O14  1  0.83427800  0.67454100  0.84156200  1
+  O  O15  1  0.73961400  0.94122300  0.73653700  1
+  O  O16  1  0.89128900  0.30689100  0.73995400  1
+  O  O17  1  0.19728700  0.97123400  0.54837800  1
+  O  O18  1  0.24292200  0.04237000  0.26847000  1
+  O  O19  1  0.70912100  0.02686200  0.07016900  1
+  O  O20  1  0.33449600  0.33594700  0.15772500  1
+  O  O21  1  0.98690900  0.53683800  0.06469000  1
+  O  O22  1  0.39486100  0.70614000  0.26988500  1
+  O  O23  1  0.67819600  0.01918200  0.43845300  1
+  O  O24  1  0.48582500  0.49089200  0.94500300  1
+  O  O25  1  0.83062400  0.41362800  0.40889100  1

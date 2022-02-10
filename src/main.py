@@ -1,18 +1,23 @@
 from data import *
 from model import CrystalAE
-from util import *
 import pytz
 import torch
 import os
+import time
+import copy
+import pickle as pkl
 import datetime
 import argparse
 import numpy as np
 import pandas as pd
+import torch.nn as nn
 from tqdm import tqdm
+import networkx as nx
 import torch.optim as optim
 import matplotlib.pyplot as plt
 import torch.nn.functional as F
 from torch.autograd import Variable
+from sklearn.model_selection import train_test_split
 
 def plot(train_loss,lbl,yaxis_lbl,xaxis_lbl,path):
     frontsize = 30
@@ -31,7 +36,8 @@ def plot(train_loss,lbl,yaxis_lbl,xaxis_lbl,path):
 
 def args_parse():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data-path', type=str, default='../data/', help='Root Data Path')
+    # parser.add_argument('--data-path', type=str, default='../../mp_2018/', help='Root Data Path')
+    parser.add_argument('--data-path', type=str, default='../data_small/', help='Root Data Path')
     parser.add_argument('--lrate', type=float, default=0.003, help='Learning Rate')
     parser.add_argument('--atom-feat', type=int, default=64, help='Atom Feature Dimension')
     parser.add_argument('--nconv', type=int, default=3, help='Number of Convolution Layers')
@@ -40,13 +46,14 @@ def args_parse():
     parser.add_argument('--workers', type=int, default=0, help='workers')
     parser.add_argument('--radius', type=int, default=8, help='Radius of the sphere along an atom')
     parser.add_argument('--max-nbr', type=int, default=12, help='Maximum Number of neighbours to consider')
-    parser.add_argument('--save-path', type=str, default='../model/model.pth', help='Path to save pretrained CrysAE model')
     parser.add_argument('--is-global-loss', type=int, default=1, help='Flag for Global Connectivity Reconstruction Loss')
     parser.add_argument('--is-local-loss', type=int, default=1, help='Flag for Local Node Feature Reconstruction Loss')
     args = parser.parse_args()
     return args
 
 def main(seed):
+
+    #TODO : Put this part into argsparse
     eastern = pytz.timezone('Asia/Kolkata')
     current_time = datetime.datetime.now().astimezone(eastern).time()
     current_date= datetime.datetime.now().astimezone(eastern).date()
@@ -64,8 +71,8 @@ def main(seed):
     max_num_nbr = args.max_nbr
     local_loss_flag=args.is_local_loss
     global_loss_flag = args.is_global_loss
-    print(local_loss_flag)
-    print(global_loss_flag)
+    # print(local_loss_flag)
+    # print(global_loss_flag)
     if local_loss_flag==0 and  global_loss_flag==0:
         print("Both Global and Local Loss flag is False, cant pretrain the autoencoder. Turn atleast one of them as True")
         exit()
@@ -74,8 +81,6 @@ def main(seed):
     print("Radius :" + str(radius))
     print("Neighbours :" + str(max_num_nbr))
     print("Start Time ", datetime.datetime.now())
-
-
 
     #Reading Full Datset
     full_dataset = CIFData(data_path,max_num_nbr,radius)
@@ -100,9 +105,11 @@ def main(seed):
         batch_data_unsup.append(input)
     print("Load Batch Train Data Ended .....")
 
+    
     path='../results/CrystalAE/'+str(current_date)+'/'+str(current_time)
     if not os.path.exists(path):
         os.makedirs(path)
+
 
     out = open(path + "/out.txt","w")
     out.writelines("Adjacency List Vector Dimension : 4")
@@ -137,6 +144,7 @@ def main(seed):
     model = CrystalAE(orig_atom_fea_len, nbr_fea_len,atom_fea_len=atom_fea_len,n_conv=n_conv)
     save_model=model
 
+    # region Optimizer
     optimizer = optim.Adam(model.parameters(), lr,weight_decay=weight_decay)
     # endregion
 
@@ -170,22 +178,22 @@ def main(seed):
             for j in range(len(edge_prob_list)):
                 if global_loss_flag:
                     # Loss for Global Connectivity Reconstruction
-
-                    # Adjacency Reconstruction Loss
                     adj_p=edge_prob_list[j]
+                    adj_o = adj_orig[j]
                     N = adj_p.size(0)
-                    adj_p = adj_p.view(N * N, 6)
-                    adj_o = adj_orig[j].view(N * N, 6).to(device)
-                    loss_adj_reconst = F.binary_cross_entropy_with_logits(adj_p, adj_o)
+                    pos_weight = torch.Tensor([0.1, 1, 1, 1, 1, 1])
+                    if torch.cuda.is_available():
+                        pos_weight = pos_weight.cuda()
+                        adj_o=adj_o.cuda()
+                    loss_adj_reconst = F.nll_loss(adj_p, adj_o, weight=pos_weight).to(device)
                     loss_adj=loss_adj+loss_adj_reconst
 
-                    # Edge Feature Reconstruction Loss
+                    # Loss for Edge Feature Reconstruction
                     edge_p = edge_distance_list[j]
-                    edge_p = edge_p.view(N * N, 5)
-                    edge_o = edge_orig[j].view(N * N, 5).to(device)
-                    loss_edge_reconst = F.binary_cross_entropy_with_logits(edge_p, edge_o)
+                    edge_p = edge_p.view(N, 5)
+                    edge_o = edge_orig[j].view(N, 5).to(device)
+                    loss_edge_reconst = F.binary_cross_entropy_with_logits(edge_p, edge_o).to(device)
                     loss_edge = loss_edge + loss_edge_reconst
-
                     loss = loss + loss_adj_reconst+loss_edge_reconst
 
                 if local_loss_flag:
@@ -197,6 +205,8 @@ def main(seed):
                     loss = loss  + loss_atom_feat_reconst
 
             loss=loss/batch_size
+
+
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
@@ -237,6 +247,8 @@ def main(seed):
         if np.mean(train_loss) < min_loss:
             min_loss = np.mean(train_loss)
             save_model = model
+        if (epoch+1) % 30==0:
+            torch.save(save_model,"../model/model_model_pretrain_" + str(epoch+1) + ".pth")
     plot(train_loss, 'Train Loss Plot', 'Reconstruction Total Loss', 'Number of epoch', path+'/train_loss.png')
     if global_loss_flag:
         plot(train_adj_reconst_loss, 'Adjacecny Reconstruction Loss Plot', 'Adjacecny Reconstruction Loss', 'Number of epoch',
@@ -247,7 +259,7 @@ def main(seed):
     if local_loss_flag:
         plot(train_feature_reconst_loss, 'Node Feature Reconstruction Loss Plot', 'Node Feature Reconstruction Loss', 'Number of epoch',
              path + '/feature_reconstr_loss.png')
-    torch.save(save_model, args.save_path)
+    torch.save(save_model, "../model/model_pretrain.pth")
 
 
 

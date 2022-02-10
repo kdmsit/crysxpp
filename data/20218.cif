@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2Ti(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.84839800
+_cell_length_b   8.84839800
+_cell_length_c   5.48720300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ti(GeO4)2
+_chemical_formula_sum   'Ba4 Ti2 Ge4 O16'
+_cell_volume   429.61587921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82814500  0.32814500  0.01554400  1
+  Ba  Ba1  1  0.32814500  0.17185500  0.01554400  1
+  Ba  Ba2  1  0.17185500  0.67185500  0.01554400  1
+  Ba  Ba3  1  0.67185500  0.82814500  0.01554400  1
+  Ti  Ti4  1  0.00000000  0.00000000  0.45359400  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.45359400  1
+  Ge  Ge6  1  0.63229900  0.13229900  0.49148800  1
+  Ge  Ge7  1  0.13229900  0.36770100  0.49148800  1
+  Ge  Ge8  1  0.36770100  0.86770100  0.49148800  1
+  Ge  Ge9  1  0.86770100  0.63229900  0.49148800  1
+  O  O10  1  0.00000000  0.00000000  0.76363800  1
+  O  O11  1  0.50000000  0.50000000  0.76363800  1
+  O  O12  1  0.87190600  0.62809400  0.80627700  1
+  O  O13  1  0.12809400  0.37190600  0.80627700  1
+  O  O14  1  0.08085300  0.19851200  0.34133400  1
+  O  O15  1  0.69851200  0.58085300  0.34133400  1
+  O  O16  1  0.30148800  0.41914700  0.34133400  1
+  O  O17  1  0.50000000  0.00000000  0.35403400  1
+  O  O18  1  0.80148800  0.08085300  0.34133400  1
+  O  O19  1  0.19851200  0.91914700  0.34133400  1
+  O  O20  1  0.58085300  0.30148800  0.34133400  1
+  O  O21  1  0.41914700  0.69851200  0.34133400  1
+  O  O22  1  0.91914700  0.80148800  0.34133400  1
+  O  O23  1  0.00000000  0.50000000  0.35403400  1
+  O  O24  1  0.62809400  0.12809400  0.80627700  1
+  O  O25  1  0.37190600  0.87190600  0.80627700  1

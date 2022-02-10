@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiNb2Zn(PbO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01837200
+_cell_length_b   4.12070246
+_cell_length_c   16.77234479
+_cell_angle_alpha   89.53680364
+_cell_angle_beta   89.77951157
+_cell_angle_gamma   89.72501218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNb2Zn(PbO3)4
+_chemical_formula_sum   'Ti1 Nb2 Zn1 Pb4 O12'
+_cell_volume   277.71083997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.51673900  0.55472300  0.12934200  1
+  Nb  Nb1  1  0.50460900  0.48386700  0.88162300  1
+  Nb  Nb2  1  0.48556200  0.55403700  0.37736200  1
+  Zn  Zn3  1  0.49550000  0.50458200  0.62667500  1
+  Pb  Pb4  1  0.95360300  0.94454400  0.72964700  1
+  Pb  Pb5  1  0.00351800  0.03898100  0.53227700  1
+  Pb  Pb6  1  0.98643500  0.10608000  0.24769100  1
+  Pb  Pb7  1  0.04083100  0.07679400  0.01660200  1
+  O  O8  1  0.00432500  0.51458600  0.89217700  1
+  O  O9  1  0.99963900  0.52188600  0.62710800  1
+  O  O10  1  0.99282000  0.50149600  0.36420800  1
+  O  O11  1  0.99924800  0.48651300  0.12929900  1
+  O  O12  1  0.49375200  0.49251500  0.01220300  1
+  O  O13  1  0.51731500  0.53214300  0.76869800  1
+  O  O14  1  0.49392300  0.50441600  0.48869600  1
+  O  O15  1  0.49916000  0.48217600  0.24646700  1
+  O  O16  1  0.50205900  0.01851400  0.88940400  1
+  O  O17  1  0.51571900  0.00930200  0.62693600  1
+  O  O18  1  0.49337000  0.01065100  0.36833100  1
+  O  O19  1  0.50187600  0.99359500  0.12810300  1

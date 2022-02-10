@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3Ni2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36447805
+_cell_length_b   9.29358157
+_cell_length_c   5.68393855
+_cell_angle_alpha   105.76609369
+_cell_angle_beta   99.02739426
+_cell_angle_gamma   89.97828326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ni2SbO6
+_chemical_formula_sum   'Na6 Ni4 Sb2 O12'
+_cell_volume   269.06888205
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.25000000  0.49999900  1
+  Na  Na1  1  0.75000000  0.75000000  0.49999900  1
+  Na  Na2  1  0.76213000  0.41262300  0.50000000  1
+  Na  Na3  1  0.26213000  0.91262300  0.50000000  1
+  Na  Na4  1  0.73786900  0.08737700  0.50000000  1
+  Na  Na5  1  0.23786900  0.58737700  0.50000000  1
+  Ni  Ni6  1  0.50069700  0.83310100  0.99999900  1
+  Ni  Ni7  1  0.99930300  0.66689900  0.99999900  1
+  Ni  Ni8  1  0.00069700  0.33310100  0.99999900  1
+  Ni  Ni9  1  0.49930300  0.16689900  0.99999900  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb11  1  0.50000000  0.50000000  0.00000000  1
+  O  O12  1  0.12486900  0.12486800  0.79571600  1
+  O  O13  1  0.62486900  0.62486800  0.79571600  1
+  O  O14  1  0.37513200  0.37513200  0.20428400  1
+  O  O15  1  0.87513200  0.87513200  0.20428400  1
+  O  O16  1  0.87471400  0.19319300  0.20441400  1
+  O  O17  1  0.37471400  0.69319300  0.20441400  1
+  O  O18  1  0.35243100  0.03395300  0.20441400  1
+  O  O19  1  0.85243100  0.53395300  0.20441400  1
+  O  O20  1  0.14757000  0.46604600  0.79558500  1
+  O  O21  1  0.64757000  0.96604600  0.79558500  1
+  O  O22  1  0.62528500  0.30680800  0.79558500  1
+  O  O23  1  0.12528500  0.80680800  0.79558500  1

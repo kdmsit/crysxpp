@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28377400
+_cell_length_b   5.59309000
+_cell_length_c   7.63411200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaO3
+_chemical_formula_sum   'Ho4 Ga4 O12'
+_cell_volume   225.60803786
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.52046800  0.06896200  0.75000000  1
+  Ho  Ho1  1  0.97953200  0.56896200  0.75000000  1
+  Ho  Ho2  1  0.02046800  0.43103800  0.25000000  1
+  Ho  Ho3  1  0.47953200  0.93103800  0.25000000  1
+  Ga  Ga4  1  0.50000000  0.50000000  0.50000000  1
+  Ga  Ga5  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga6  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.61483200  0.54148600  0.25000000  1
+  O  O9  1  0.69383400  0.80393200  0.55883400  1
+  O  O10  1  0.69383400  0.80393200  0.94116600  1
+  O  O11  1  0.80616600  0.30393200  0.94116600  1
+  O  O12  1  0.80616600  0.30393200  0.55883400  1
+  O  O13  1  0.88516800  0.04148600  0.25000000  1
+  O  O14  1  0.11483200  0.95851400  0.75000000  1
+  O  O15  1  0.19383400  0.69606800  0.05883400  1
+  O  O16  1  0.19383400  0.69606800  0.44116600  1
+  O  O17  1  0.30616600  0.19606800  0.44116600  1
+  O  O18  1  0.30616600  0.19606800  0.05883400  1
+  O  O19  1  0.38516800  0.45851400  0.75000000  1

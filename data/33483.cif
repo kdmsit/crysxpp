@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2MnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.80378639
+_cell_length_b   8.80378639
+_cell_length_c   8.80378639
+_cell_angle_alpha   133.10615390
+_cell_angle_beta   129.58036237
+_cell_angle_gamma   71.30610514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnTe2
+_chemical_formula_sum   'K4 Mn2 Te4'
+_cell_volume   375.87251954
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.46532800  0.14264600  0.32268200  1
+  K  K1  1  0.53467200  0.85735400  0.67731800  1
+  K  K2  1  0.18003600  0.35735400  0.82268200  1
+  K  K3  1  0.81996400  0.64264600  0.17731800  1
+  Mn  Mn4  1  0.00000000  0.25000000  0.25000000  1
+  Mn  Mn5  1  0.00000000  0.75000000  0.75000000  1
+  Te  Te6  1  0.08982300  0.89242600  0.19739800  1
+  Te  Te7  1  0.91017700  0.10757400  0.80260200  1
+  Te  Te8  1  0.30497200  0.60757400  0.69739800  1
+  Te  Te9  1  0.69502800  0.39242600  0.30260200  1

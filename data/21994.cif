@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2Ti(Si2O5)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02983400
+_cell_length_b   7.34102687
+_cell_length_c   7.60844776
+_cell_angle_alpha   99.11916230
+_cell_angle_beta   105.95129066
+_cell_angle_gamma   112.67381284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ti(Si2O5)3
+_chemical_formula_sum   'K2 Ti1 Si6 O15'
+_cell_volume   332.51492898
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.28553900  0.71414200  0.82082500  1
+  K  K1  1  0.71446100  0.28585800  0.17917500  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si3  1  0.69975800  0.81381700  0.25780600  1
+  Si  Si4  1  0.30024200  0.18618300  0.74219400  1
+  Si  Si5  1  0.14674700  0.83225500  0.36923000  1
+  Si  Si6  1  0.85325300  0.16774500  0.63077000  1
+  Si  Si7  1  0.31691500  0.49761000  0.31188700  1
+  Si  Si8  1  0.68308500  0.50239000  0.68811300  1
+  O  O9  1  0.45376700  0.61251300  0.18301600  1
+  O  O10  1  0.54623300  0.38748700  0.81698400  1
+  O  O11  1  0.20689500  0.63979400  0.38952800  1
+  O  O12  1  0.79310500  0.36020600  0.61047200  1
+  O  O13  1  0.87772500  0.72749300  0.81387900  1
+  O  O14  1  0.12227500  0.27250700  0.18612100  1
+  O  O15  1  0.88432300  0.73610600  0.35193400  1
+  O  O16  1  0.11567700  0.26389400  0.64806600  1
+  O  O17  1  0.73982900  0.90188300  0.08330100  1
+  O  O18  1  0.50000000  0.50000000  0.50000000  1
+  O  O19  1  0.29776800  0.00971100  0.57768000  1
+  O  O20  1  0.70223200  0.99028900  0.42232000  1
+  O  O21  1  0.82942800  0.08774200  0.81139900  1
+  O  O22  1  0.17057200  0.91225800  0.18860100  1
+  O  O23  1  0.26017100  0.09811700  0.91669900  1

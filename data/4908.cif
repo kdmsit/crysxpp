@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaDyCo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39368557
+_cell_length_b   6.39368557
+_cell_length_c   10.42344900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaDyCo4O7
+_chemical_formula_sum   'Ba2 Dy2 Co8 O14'
+_cell_volume   369.01553186
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333300  0.66666700  0.97894200  1
+  Ba  Ba1  1  0.66666700  0.33333300  0.47894200  1
+  Dy  Dy2  1  0.33333300  0.66666700  0.37581300  1
+  Dy  Dy3  1  0.66666700  0.33333300  0.87581300  1
+  Co  Co4  1  0.83063600  0.16936400  0.18618600  1
+  Co  Co5  1  0.66127200  0.83063600  0.68618600  1
+  Co  Co6  1  0.16936400  0.33872800  0.68618600  1
+  Co  Co7  1  0.83063600  0.66127200  0.18618600  1
+  Co  Co8  1  0.33872800  0.16936400  0.18618600  1
+  Co  Co9  1  0.16936400  0.83063600  0.68618600  1
+  Co  Co10  1  0.00000000  0.00000000  0.94128800  1
+  Co  Co11  1  0.00000000  0.00000000  0.44128800  1
+  O  O12  1  0.83270700  0.16729300  0.00204800  1
+  O  O13  1  0.66541300  0.83270700  0.50204800  1
+  O  O14  1  0.16729300  0.33458700  0.50204800  1
+  O  O15  1  0.83270700  0.66541300  0.00204800  1
+  O  O16  1  0.33458700  0.16729300  0.00204800  1
+  O  O17  1  0.16729300  0.83270700  0.50204800  1
+  O  O18  1  0.00000000  0.00000000  0.74321200  1
+  O  O19  1  0.00000000  0.00000000  0.24321200  1
+  O  O20  1  0.50864000  0.49136000  0.25871400  1
+  O  O21  1  0.01727900  0.50864000  0.75871400  1
+  O  O22  1  0.49136000  0.98272100  0.75871400  1
+  O  O23  1  0.50864000  0.01727900  0.25871400  1
+  O  O24  1  0.49136000  0.50864000  0.75871400  1
+  O  O25  1  0.98272100  0.49136000  0.25871400  1

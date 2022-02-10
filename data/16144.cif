@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2ZrSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52997200
+_cell_length_b   6.67475684
+_cell_length_c   9.00019829
+_cell_angle_alpha   70.84751948
+_cell_angle_beta   87.69456594
+_cell_angle_gamma   86.01152620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZrSi2O7
+_chemical_formula_sum   'Na4 Zr2 Si4 O14'
+_cell_volume   313.00669458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73734300  0.88019600  0.10420200  1
+  Na  Na1  1  0.26265700  0.11980400  0.89579800  1
+  Na  Na2  1  0.23957800  0.34223400  0.49101800  1
+  Na  Na3  1  0.76042200  0.65776600  0.50898200  1
+  Zr  Zr4  1  0.22282700  0.70991400  0.72842100  1
+  Zr  Zr5  1  0.77717300  0.29008600  0.27157900  1
+  Si  Si6  1  0.31162900  0.93672200  0.33454400  1
+  Si  Si7  1  0.77280200  0.35326000  0.85425100  1
+  Si  Si8  1  0.68837100  0.06327800  0.66545600  1
+  Si  Si9  1  0.22719800  0.64674000  0.14574900  1
+  O  O10  1  0.88957200  0.87561600  0.66525000  1
+  O  O11  1  0.71782300  0.27929200  0.51395800  1
+  O  O12  1  0.27935100  0.88306700  0.16557500  1
+  O  O13  1  0.81673300  0.28715500  0.04196500  1
+  O  O14  1  0.40642300  0.99543000  0.67652000  1
+  O  O15  1  0.59357700  0.00457000  0.32348000  1
+  O  O16  1  0.02384700  0.43232100  0.75524800  1
+  O  O17  1  0.11042800  0.12438400  0.33475000  1
+  O  O18  1  0.53648800  0.50909300  0.78530900  1
+  O  O19  1  0.46351200  0.49090700  0.21469100  1
+  O  O20  1  0.28217700  0.72070800  0.48604200  1
+  O  O21  1  0.18326700  0.71284500  0.95803500  1
+  O  O22  1  0.97615300  0.56767900  0.24475200  1
+  O  O23  1  0.72064900  0.11693300  0.83442500  1

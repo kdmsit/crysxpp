@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y3Ge5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.12045744
+_cell_length_b   9.18651811
+_cell_length_c   7.48837491
+_cell_angle_alpha   82.98489274
+_cell_angle_beta   55.07554627
+_cell_angle_gamma   41.93956099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Ge5
+_chemical_formula_sum   'Y6 Ge10'
+_cell_volume   348.92584012
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.74516500  0.75483500  0.74516500  1
+  Y  Y1  1  0.49516500  0.50483500  0.49516500  1
+  Y  Y2  1  0.15597200  0.18025800  0.85024400  1
+  Y  Y3  1  0.85024400  0.81352600  0.15597200  1
+  Y  Y4  1  0.43647400  0.39975600  0.06974200  1
+  Y  Y5  1  0.06974200  0.09402800  0.43647400  1
+  Ge  Ge6  1  0.40092800  0.72746900  0.89720100  1
+  Ge  Ge7  1  0.89720100  0.97440200  0.40092800  1
+  Ge  Ge8  1  0.27559800  0.35279900  0.52253100  1
+  Ge  Ge9  1  0.52253100  0.84907200  0.27559800  1
+  Ge  Ge10  1  0.66869600  0.50524700  0.99602900  1
+  Ge  Ge11  1  0.99602900  0.83002700  0.66869600  1
+  Ge  Ge12  1  0.94386400  0.05613600  0.94386400  1
+  Ge  Ge13  1  0.19386400  0.30613600  0.19386400  1
+  Ge  Ge14  1  0.74475300  0.58130400  0.41997300  1
+  Ge  Ge15  1  0.41997300  0.25397100  0.74475300  1

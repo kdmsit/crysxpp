@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InSbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89272700
+_cell_length_b   9.54115700
+_cell_length_c   13.50801300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSbS3
+_chemical_formula_sum   'In4 Sb4 S12'
+_cell_volume   501.70272457
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.85160300  0.04424400  1
+  In  In1  1  0.25000000  0.14839700  0.95575600  1
+  In  In2  1  0.75000000  0.35160300  0.45575600  1
+  In  In3  1  0.25000000  0.64839700  0.54424400  1
+  Sb  Sb4  1  0.75000000  0.47266600  0.85826600  1
+  Sb  Sb5  1  0.25000000  0.52733400  0.14173400  1
+  Sb  Sb6  1  0.75000000  0.97266600  0.64173400  1
+  Sb  Sb7  1  0.25000000  0.02733400  0.35826600  1
+  S  S8  1  0.25000000  0.81297400  0.70081300  1
+  S  S9  1  0.75000000  0.18702600  0.29918700  1
+  S  S10  1  0.25000000  0.31297400  0.79918700  1
+  S  S11  1  0.75000000  0.68702600  0.20081300  1
+  S  S12  1  0.25000000  0.15924900  0.52020300  1
+  S  S13  1  0.75000000  0.84075100  0.47979700  1
+  S  S14  1  0.25000000  0.65924900  0.97979700  1
+  S  S15  1  0.75000000  0.34075100  0.02020300  1
+  S  S16  1  0.75000000  0.99963200  0.88391400  1
+  S  S17  1  0.25000000  0.00036800  0.11608600  1
+  S  S18  1  0.75000000  0.49963200  0.61608600  1
+  S  S19  1  0.25000000  0.50036800  0.38391400  1

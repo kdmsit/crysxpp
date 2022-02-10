@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Dy2Al6Si4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.95644266
+_cell_length_b   16.95644266
+_cell_length_c   16.95644290
+_cell_angle_alpha   14.25651126
+_cell_angle_beta   14.25651126
+_cell_angle_gamma   14.25651051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Al6Si4Au
+_chemical_formula_sum   'Dy2 Al6 Si4 Au1'
+_cell_volume   257.37687324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.56546600  0.56546600  0.56546600  1
+  Dy  Dy1  1  0.43453400  0.43453400  0.43453400  1
+  Al  Al2  1  0.18548000  0.18548000  0.18548000  1
+  Al  Al3  1  0.81452000  0.81452000  0.81452000  1
+  Al  Al4  1  0.94772100  0.94772100  0.94772100  1
+  Al  Al5  1  0.68315100  0.68315100  0.68315100  1
+  Al  Al6  1  0.31684900  0.31684900  0.31684900  1
+  Al  Al7  1  0.05227900  0.05227900  0.05227900  1
+  Si  Si8  1  0.26567100  0.26567100  0.26567100  1
+  Si  Si9  1  0.13512500  0.13512500  0.13512500  1
+  Si  Si10  1  0.86487500  0.86487500  0.86487500  1
+  Si  Si11  1  0.73432900  0.73432900  0.73432900  1
+  Au  Au12  1  0.00000000  0.00000000  0.00000000  1

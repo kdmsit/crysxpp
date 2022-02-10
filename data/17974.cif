@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62181613
+_cell_length_b   8.62181629
+_cell_length_c   8.62181623
+_cell_angle_alpha   33.39629597
+_cell_angle_beta   33.39629343
+_cell_angle_gamma   33.39629422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCo3
+_chemical_formula_sum   'Dy3 Co9'
+_cell_volume   172.91136159
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.13947700  0.13947700  0.13947700  1
+  Dy  Dy1  1  0.86052300  0.86052300  0.86052300  1
+  Dy  Dy2  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co3  1  0.58216500  0.07886800  0.58216500  1
+  Co  Co4  1  0.58216500  0.58216500  0.07886800  1
+  Co  Co5  1  0.33497500  0.33497500  0.33497500  1
+  Co  Co6  1  0.92113200  0.41783500  0.41783500  1
+  Co  Co7  1  0.07886800  0.58216500  0.58216500  1
+  Co  Co8  1  0.41783500  0.92113200  0.41783500  1
+  Co  Co9  1  0.66502500  0.66502500  0.66502500  1
+  Co  Co10  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co11  1  0.41783500  0.41783500  0.92113200  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNaMg2Si4(O5F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30965762
+_cell_length_b   5.30965762
+_cell_length_c   10.42862954
+_cell_angle_alpha   84.30754394
+_cell_angle_beta   84.30754394
+_cell_angle_gamma   119.49131387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaMg2Si4(O5F)2
+_chemical_formula_sum   'K1 Na1 Mg2 Si4 O10 F2'
+_cell_volume   250.90602344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.50000000  1
+  Mg  Mg2  1  0.33401800  0.66598200  0.50000000  1
+  Mg  Mg3  1  0.66598200  0.33401800  0.50000000  1
+  Si  Si4  1  0.91104000  0.25122700  0.77260500  1
+  Si  Si5  1  0.74877300  0.08896000  0.22739500  1
+  Si  Si6  1  0.25122700  0.91104000  0.77260500  1
+  Si  Si7  1  0.08896000  0.74877300  0.22739500  1
+  O  O8  1  0.32239700  0.95895900  0.61653800  1
+  O  O9  1  0.05195800  0.05195800  0.82910600  1
+  O  O10  1  0.06067800  0.55551100  0.83874200  1
+  O  O11  1  0.93932200  0.44448900  0.16125800  1
+  O  O12  1  0.67760300  0.04104100  0.38346200  1
+  O  O13  1  0.94804200  0.94804200  0.17089400  1
+  O  O14  1  0.95895900  0.32239700  0.61653800  1
+  O  O15  1  0.44448900  0.93932200  0.16125800  1
+  O  O16  1  0.04104100  0.67760300  0.38346200  1
+  O  O17  1  0.55551100  0.06067800  0.83874200  1
+  F  F18  1  0.40525900  0.40525900  0.39259500  1
+  F  F19  1  0.59474100  0.59474100  0.60740500  1

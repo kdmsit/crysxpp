@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba5Al2Ge7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80766645
+_cell_length_b   6.80766645
+_cell_length_c   18.68978762
+_cell_angle_alpha   81.38468924
+_cell_angle_beta   81.38468924
+_cell_angle_gamma   100.10281168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Al2Ge7
+_chemical_formula_sum   'Ba10 Al4 Ge14'
+_cell_volume   829.20464350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75089400  0.24910600  0.00000000  1
+  Ba  Ba1  1  0.12261600  0.57028600  0.78964000  1
+  Ba  Ba2  1  0.29067100  0.70932900  0.50000000  1
+  Ba  Ba3  1  0.76118800  0.76118800  0.64462000  1
+  Ba  Ba4  1  0.23881200  0.23881200  0.35538000  1
+  Ba  Ba5  1  0.57028600  0.12261600  0.78964000  1
+  Ba  Ba6  1  0.24910600  0.75089400  0.00000000  1
+  Ba  Ba7  1  0.70932900  0.29067100  0.50000000  1
+  Ba  Ba8  1  0.42971400  0.87738400  0.21036000  1
+  Ba  Ba9  1  0.87738400  0.42971400  0.21036000  1
+  Al  Al10  1  0.22494400  0.22494400  0.07141800  1
+  Al  Al11  1  0.92456900  0.92456900  0.26672600  1
+  Al  Al12  1  0.07543100  0.07543100  0.73327500  1
+  Al  Al13  1  0.77505600  0.77505600  0.92858200  1
+  Ge  Ge14  1  0.36191800  0.36191800  0.64402500  1
+  Ge  Ge15  1  0.29715700  0.29715700  0.93298600  1
+  Ge  Ge16  1  0.93908500  0.93908500  0.13179700  1
+  Ge  Ge17  1  0.63808200  0.63808200  0.35597500  1
+  Ge  Ge18  1  0.41328900  0.41328900  0.15406200  1
+  Ge  Ge19  1  0.06091500  0.06091500  0.86820300  1
+  Ge  Ge20  1  0.81965800  0.81965800  0.45333200  1
+  Ge  Ge21  1  0.33493900  0.96045400  0.64237200  1
+  Ge  Ge22  1  0.66506100  0.03954600  0.35762800  1
+  Ge  Ge23  1  0.18034200  0.18034200  0.54666800  1
+  Ge  Ge24  1  0.96045400  0.33493900  0.64237200  1
+  Ge  Ge25  1  0.03954600  0.66506100  0.35762800  1
+  Ge  Ge26  1  0.70284300  0.70284300  0.06701400  1
+  Ge  Ge27  1  0.58671100  0.58671100  0.84593800  1

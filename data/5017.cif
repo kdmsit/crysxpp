@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca4Mn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42212100
+_cell_length_b   6.73668340
+_cell_length_c   10.10107100
+_cell_angle_alpha   89.99998236
+_cell_angle_beta   89.99995618
+_cell_angle_gamma   66.26631531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Mn2O7
+_chemical_formula_sum   'Ca8 Mn4 O14'
+_cell_volume   337.75833091
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.05466600  0.30440000  0.12515800  1
+  Ca  Ca1  1  0.85899400  0.69561400  0.37482200  1
+  Ca  Ca2  1  0.44533500  0.69560000  0.62515800  1
+  Ca  Ca3  1  0.64100500  0.30438600  0.87482200  1
+  Ca  Ca4  1  0.35903600  0.69560400  0.12516700  1
+  Ca  Ca5  1  0.55463200  0.30439300  0.37483000  1
+  Ca  Ca6  1  0.14096500  0.30439600  0.62516600  1
+  Ca  Ca7  1  0.94536600  0.69560700  0.87483000  1
+  Mn  Mn8  1  0.23229800  0.00000600  0.37533400  1
+  Mn  Mn9  1  0.26770300  0.99999500  0.87532600  1
+  Mn  Mn10  1  0.73229700  0.00000100  0.12469800  1
+  Mn  Mn11  1  0.76770300  0.00000000  0.62469400  1
+  O  O12  1  0.49998400  0.00000100  0.50000300  1
+  O  O13  1  0.00001700  0.99999900  0.00000300  1
+  O  O14  1  0.08735700  0.00001100  0.69303100  1
+  O  O15  1  0.58740500  0.00000900  0.80697300  1
+  O  O16  1  0.41264400  0.99999000  0.19303100  1
+  O  O17  1  0.91259300  0.99999100  0.30697400  1
+  O  O18  1  0.89975500  0.67786700  0.12021900  1
+  O  O19  1  0.07750900  0.32213800  0.37977900  1
+  O  O20  1  0.60024600  0.32213300  0.62021800  1
+  O  O21  1  0.42249100  0.67786200  0.87977800  1
+  O  O22  1  0.10026200  0.32213600  0.87977700  1
+  O  O23  1  0.92247000  0.67786900  0.62021600  1
+  O  O24  1  0.57753100  0.32213100  0.12021700  1
+  O  O25  1  0.39973800  0.67786300  0.37977800  1

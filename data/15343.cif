@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb5Se2Cl3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73083542
+_cell_length_b   6.73083542
+_cell_length_c   9.90766473
+_cell_angle_alpha   89.09558221
+_cell_angle_beta   89.09558221
+_cell_angle_gamma   48.32254246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Se2Cl3O10
+_chemical_formula_sum   'Tb5 Se2 Cl3 O10'
+_cell_volume   335.20201443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.78629500  0.78629500  0.10321700  1
+  Tb  Tb1  1  0.09872100  0.09872100  0.23429700  1
+  Tb  Tb2  1  0.90127900  0.90127900  0.76570300  1
+  Tb  Tb3  1  0.50000000  0.50000000  0.00000000  1
+  Tb  Tb4  1  0.21370500  0.21370500  0.89678300  1
+  Se  Se5  1  0.59239000  0.59239000  0.68385900  1
+  Se  Se6  1  0.40761000  0.40761000  0.31614100  1
+  Cl  Cl7  1  0.33658400  0.33658400  0.64952500  1
+  Cl  Cl8  1  0.66341600  0.66341600  0.35047500  1
+  Cl  Cl9  1  0.00000000  0.00000000  0.50000000  1
+  O  O10  1  0.61000600  0.10161200  0.94117200  1
+  O  O11  1  0.20555800  0.68305500  0.20418000  1
+  O  O12  1  0.68305500  0.20555800  0.20418000  1
+  O  O13  1  0.89838800  0.38999400  0.05882800  1
+  O  O14  1  0.31694500  0.79444200  0.79582000  1
+  O  O15  1  0.38999400  0.89838800  0.05882800  1
+  O  O16  1  0.79444200  0.31694500  0.79582000  1
+  O  O17  1  0.27336000  0.27336000  0.28410000  1
+  O  O18  1  0.72664000  0.72664000  0.71590000  1
+  O  O19  1  0.10161200  0.61000600  0.94117200  1

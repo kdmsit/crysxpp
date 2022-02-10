@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Al3(BRu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56287400
+_cell_length_b   8.56287400
+_cell_length_c   2.93556100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3(BRu2)2
+_chemical_formula_sum   'Al6 B4 Ru8'
+_cell_volume   215.24358479
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al1  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al2  1  0.00000000  0.34724400  0.50000000  1
+  Al  Al3  1  0.34724400  0.00000000  0.50000000  1
+  Al  Al4  1  0.65275600  0.00000000  0.50000000  1
+  Al  Al5  1  0.00000000  0.65275600  0.50000000  1
+  B  B6  1  0.30667600  0.30667600  0.50000000  1
+  B  B7  1  0.30667600  0.69332400  0.50000000  1
+  B  B8  1  0.69332400  0.30667600  0.50000000  1
+  B  B9  1  0.69332400  0.69332400  0.50000000  1
+  Ru  Ru10  1  0.82387000  0.82387000  0.00000000  1
+  Ru  Ru11  1  0.82387000  0.17613000  0.00000000  1
+  Ru  Ru12  1  0.17613000  0.82387000  0.00000000  1
+  Ru  Ru13  1  0.17613000  0.17613000  0.00000000  1
+  Ru  Ru14  1  0.50000000  0.75633100  0.00000000  1
+  Ru  Ru15  1  0.75633100  0.50000000  0.00000000  1
+  Ru  Ru16  1  0.24366900  0.50000000  0.00000000  1
+  Ru  Ru17  1  0.50000000  0.24366900  0.00000000  1

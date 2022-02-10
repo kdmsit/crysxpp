@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2SrIn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62286517
+_cell_length_b   6.62286517
+_cell_length_c   20.11289300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.42602158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrIn7
+_chemical_formula_sum   'K4 Sr2 In14'
+_cell_volume   630.02641448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.83868500  0.16131500  0.94841700  1
+  K  K1  1  0.16131500  0.83868500  0.44841700  1
+  K  K2  1  0.16131500  0.83868500  0.05158300  1
+  K  K3  1  0.83868500  0.16131500  0.55158300  1
+  Sr  Sr4  1  0.34163700  0.65836300  0.25000000  1
+  Sr  Sr5  1  0.65836300  0.34163700  0.75000000  1
+  In  In6  1  0.12214500  0.87785500  0.86979300  1
+  In  In7  1  0.87785500  0.12214500  0.36979300  1
+  In  In8  1  0.87785500  0.12214500  0.13020700  1
+  In  In9  1  0.12214500  0.87785500  0.63020700  1
+  In  In10  1  0.54314800  0.45685200  0.92901900  1
+  In  In11  1  0.45685200  0.54314800  0.42901900  1
+  In  In12  1  0.45685200  0.54314800  0.07098100  1
+  In  In13  1  0.54314800  0.45685200  0.57098100  1
+  In  In14  1  0.04480000  0.95520000  0.25000000  1
+  In  In15  1  0.95520000  0.04480000  0.75000000  1
+  In  In16  1  0.36083600  0.63916400  0.82558500  1
+  In  In17  1  0.63916400  0.36083600  0.32558500  1
+  In  In18  1  0.63916400  0.36083600  0.17441500  1
+  In  In19  1  0.36083600  0.63916400  0.67441500  1

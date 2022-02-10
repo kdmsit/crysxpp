@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La(ZnAs)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14864600
+_cell_length_b   11.53498300
+_cell_length_c   12.71351100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(ZnAs)3
+_chemical_formula_sum   'La4 Zn12 As12'
+_cell_volume   608.39948873
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75000000  0.94600200  0.33475800  1
+  La  La1  1  0.25000000  0.44600200  0.16524200  1
+  La  La2  1  0.75000000  0.55399800  0.83475800  1
+  La  La3  1  0.25000000  0.05399800  0.66524200  1
+  Zn  Zn4  1  0.75000000  0.23486600  0.45419500  1
+  Zn  Zn5  1  0.25000000  0.73486600  0.04580500  1
+  Zn  Zn6  1  0.75000000  0.26513400  0.95419500  1
+  Zn  Zn7  1  0.25000000  0.76513400  0.54580500  1
+  Zn  Zn8  1  0.75000000  0.65574900  0.27229700  1
+  Zn  Zn9  1  0.25000000  0.15574900  0.22770300  1
+  Zn  Zn10  1  0.75000000  0.84425100  0.77229700  1
+  Zn  Zn11  1  0.25000000  0.34425100  0.72770300  1
+  Zn  Zn12  1  0.75000000  0.03768900  0.06546300  1
+  Zn  Zn13  1  0.25000000  0.53768900  0.43453700  1
+  Zn  Zn14  1  0.75000000  0.46231100  0.56546300  1
+  Zn  Zn15  1  0.25000000  0.96231100  0.93453700  1
+  As  As16  1  0.75000000  0.43314200  0.35996600  1
+  As  As17  1  0.25000000  0.93314200  0.14003400  1
+  As  As18  1  0.75000000  0.06685800  0.85996600  1
+  As  As19  1  0.25000000  0.56685800  0.64003400  1
+  As  As20  1  0.75000000  0.24049100  0.15197700  1
+  As  As21  1  0.25000000  0.74049100  0.34802300  1
+  As  As22  1  0.75000000  0.25950900  0.65197700  1
+  As  As23  1  0.25000000  0.75950900  0.84802300  1
+  As  As24  1  0.75000000  0.61605800  0.07913900  1
+  As  As25  1  0.25000000  0.11605800  0.42086100  1
+  As  As26  1  0.75000000  0.88394200  0.57913900  1
+  As  As27  1  0.25000000  0.38394200  0.92086100  1

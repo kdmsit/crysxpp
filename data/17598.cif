@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba(Si3N4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64143072
+_cell_length_b   6.64143072
+_cell_length_c   6.64143072
+_cell_angle_alpha   136.96818545
+_cell_angle_beta   106.01822837
+_cell_angle_gamma   89.60362125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(Si3N4)2
+_chemical_formula_sum   'Ba1 Si6 N8'
+_cell_volume   183.47619984
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.16619200  0.16619200  1
+  Si  Si1  1  0.54066700  0.49137300  0.35301300  1
+  Si  Si2  1  0.45933300  0.81234500  0.95070500  1
+  Si  Si3  1  0.86164000  0.81234500  0.35301300  1
+  Si  Si4  1  0.13836000  0.49137300  0.95070500  1
+  Si  Si5  1  0.62826100  0.27561900  0.64735700  1
+  Si  Si6  1  0.37173900  0.01909600  0.64735700  1
+  N  N7  1  0.31804500  0.62003200  0.30198700  1
+  N  N8  1  0.11856200  0.09852000  0.62072500  1
+  N  N9  1  0.88143800  0.50216300  0.97995800  1
+  N  N10  1  0.78565300  0.70750800  0.49316000  1
+  N  N11  1  0.47779500  0.09852000  0.97995800  1
+  N  N12  1  0.52220500  0.50216300  0.62072500  1
+  N  N13  1  0.21434700  0.70750800  0.92185500  1
+  N  N14  1  0.68195500  0.98394300  0.30198700  1

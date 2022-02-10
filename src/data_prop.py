@@ -210,22 +210,26 @@ class CIFData(Dataset):
 		targets = []
 		data_row = copy.deepcopy(self.id_prop_data[idx])
 		cif_id = str(int(float(data_row[0])))
+
 		x = data_row[self.prop_index]
+
 		if x != 'None':
 			targets.append(float(x))
 		else:
 			targets.append(float("inf"))
+
 		crystal = Structure.from_file(os.path.join(self.root_dir,cif_id+'.cif'))
 		atom_fea = np.vstack([self.ari.get_atom_fea(crystal[i].specie.number)for i in range(len(crystal))])
+
 		atom_fea = torch.Tensor(atom_fea)
 		all_nbrs = crystal.get_all_neighbors(self.radius, include_index=True)
 		all_nbrs = [sorted(nbrs, key=lambda x: x[1]) for nbrs in all_nbrs]
 		nbr_fea_idx, nbr_fea = [], []
 		for nbr in all_nbrs:
 			if len(nbr) < self.max_num_nbr:
-				warnings.warn('{} not find enough neighbors to build graph. '
-							  'If it happens frequently, consider increase '
-							  'radius.'.format(cif_id))
+				# warnings.warn('{} not find enough neighbors to build graph. '
+				# 			  'If it happens frequently, consider increase '
+				# 			  'radius.'.format(cif_id))
 				nbr_fea_idx.append(list(map(lambda x: x[2], nbr)) +
 								   [0] * (self.max_num_nbr - len(nbr)))
 				nbr_fea.append(list(map(lambda x: x[1], nbr)) +
@@ -237,9 +241,13 @@ class CIFData(Dataset):
 				nbr_fea.append(list(map(lambda x: x[1],
 										nbr[:self.max_num_nbr])))
 		nbr_fea_idx, nbr_fea = np.array(nbr_fea_idx), np.array(nbr_fea)
+
+
 		nbr_fea = self.gdf.expand(nbr_fea)
 		atom_fea = torch.Tensor(atom_fea)
 		nbr_fea = torch.Tensor(nbr_fea)
 		nbr_fea_idx = torch.LongTensor(nbr_fea_idx)
 		targets = torch.Tensor(targets)
+
+
 		return (atom_fea, nbr_fea, nbr_fea_idx),targets, cif_id,crystal.composition.reduced_formula

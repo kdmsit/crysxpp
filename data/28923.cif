@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3TlPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95527900
+_cell_length_b   5.22786900
+_cell_length_c   8.70040016
+_cell_angle_alpha   88.29185810
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3TlPCO7
+_chemical_formula_sum   'Li6 Tl2 P2 C2 O14'
+_cell_volume   316.21717277
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50801800  0.94844600  0.99901200  1
+  Li  Li1  1  0.81730500  0.49716300  0.15811400  1
+  Li  Li2  1  0.48257600  0.57897100  0.49028800  1
+  Li  Li3  1  0.98257600  0.42102900  0.50971200  1
+  Li  Li4  1  0.31730500  0.50283700  0.84188600  1
+  Li  Li5  1  0.00801800  0.05155400  0.00098800  1
+  Tl  Tl6  1  0.24717300  0.00711000  0.30767600  1
+  Tl  Tl7  1  0.74717300  0.99289000  0.69232400  1
+  P  P8  1  0.76021100  0.99297400  0.29871300  1
+  P  P9  1  0.26021100  0.00702600  0.70128700  1
+  C  C10  1  0.26863900  0.50804200  0.13937700  1
+  C  C11  1  0.76863900  0.49195800  0.86062300  1
+  O  O12  1  0.30524100  0.69502100  0.04444800  1
+  O  O13  1  0.20207400  0.29707600  0.08391100  1
+  O  O14  1  0.91415600  0.85801000  0.19683000  1
+  O  O15  1  0.57409700  0.03595800  0.20266900  1
+  O  O16  1  0.29342400  0.52309200  0.28910000  1
+  O  O17  1  0.83815400  0.25555900  0.34877500  1
+  O  O18  1  0.71433200  0.80630500  0.43849000  1
+  O  O19  1  0.21433200  0.19369500  0.56151000  1
+  O  O20  1  0.33815400  0.74444100  0.65122500  1
+  O  O21  1  0.79342400  0.47690800  0.71090000  1
+  O  O22  1  0.07409700  0.96404200  0.79733100  1
+  O  O23  1  0.41415600  0.14199000  0.80317000  1
+  O  O24  1  0.70207400  0.70292400  0.91608900  1
+  O  O25  1  0.80524100  0.30497900  0.95555200  1

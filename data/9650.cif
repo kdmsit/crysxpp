@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KLi2As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47663000
+_cell_length_b   6.35477000
+_cell_length_c   6.71276200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2As
+_chemical_formula_sum   'K2 Li4 As2'
+_cell_volume   190.96434476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.09876100  0.50000000  1
+  K  K1  1  0.00000000  0.90123900  0.00000000  1
+  Li  Li2  1  0.00000000  0.40440000  0.19560000  1
+  Li  Li3  1  0.50000000  0.59560000  0.30440000  1
+  Li  Li4  1  0.50000000  0.59560000  0.69560000  1
+  Li  Li5  1  0.00000000  0.40440000  0.80440000  1
+  As  As6  1  0.00000000  0.66183500  0.50000000  1
+  As  As7  1  0.50000000  0.33816500  0.00000000  1

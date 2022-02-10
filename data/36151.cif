@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_FeSbAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05096300
+_cell_length_b   5.56334200
+_cell_length_c   6.26730600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSbAs
+_chemical_formula_sum   'Fe2 Sb2 As2'
+_cell_volume   106.37843551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.27337900  0.69205000  1
+  Fe  Fe1  1  0.50000000  0.72662100  0.19205000  1
+  Sb  Sb2  1  0.00000000  0.07066100  0.05740800  1
+  Sb  Sb3  1  0.50000000  0.92933900  0.55740800  1
+  As  As4  1  0.00000000  0.44183100  0.34294200  1
+  As  As5  1  0.50000000  0.55816900  0.84294200  1

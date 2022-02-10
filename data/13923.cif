@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca3GaAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22232300
+_cell_length_b   12.28719600
+_cell_length_c   13.52907400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3GaAs3
+_chemical_formula_sum   'Ca12 Ga4 As12'
+_cell_volume   701.89526269
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.22748200  0.21600100  1
+  Ca  Ca1  1  0.25000000  0.77251800  0.78399900  1
+  Ca  Ca2  1  0.75000000  0.72748200  0.28399900  1
+  Ca  Ca3  1  0.25000000  0.27251800  0.71600100  1
+  Ca  Ca4  1  0.75000000  0.93735200  0.10872200  1
+  Ca  Ca5  1  0.25000000  0.06264800  0.89127800  1
+  Ca  Ca6  1  0.75000000  0.43735200  0.39127800  1
+  Ca  Ca7  1  0.25000000  0.56264800  0.60872200  1
+  Ca  Ca8  1  0.75000000  0.14853100  0.50079300  1
+  Ca  Ca9  1  0.25000000  0.85146900  0.49920700  1
+  Ca  Ca10  1  0.75000000  0.64853100  0.99920700  1
+  Ca  Ca11  1  0.25000000  0.35146900  0.00079300  1
+  Ga  Ga12  1  0.75000000  0.93683100  0.70207700  1
+  Ga  Ga13  1  0.25000000  0.06316900  0.29792300  1
+  Ga  Ga14  1  0.75000000  0.43683100  0.79792300  1
+  Ga  Ga15  1  0.25000000  0.56316900  0.20207700  1
+  As  As16  1  0.75000000  0.89223700  0.88734500  1
+  As  As17  1  0.25000000  0.10776300  0.11265500  1
+  As  As18  1  0.75000000  0.39223700  0.61265500  1
+  As  As19  1  0.25000000  0.60776300  0.38734500  1
+  As  As20  1  0.75000000  0.74944100  0.62156200  1
+  As  As21  1  0.25000000  0.25055900  0.37843800  1
+  As  As22  1  0.75000000  0.24944100  0.87843800  1
+  As  As23  1  0.25000000  0.75055900  0.12156200  1
+  As  As24  1  0.75000000  0.45793500  0.14852500  1
+  As  As25  1  0.25000000  0.54206500  0.85147500  1
+  As  As26  1  0.75000000  0.95793500  0.35147500  1
+  As  As27  1  0.25000000  0.04206500  0.64852500  1
