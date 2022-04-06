@@ -38,13 +38,15 @@ The following paper describes the details of the CrysXPP framework:
 If youare using CrysXPP, please cite our work as follow :
 
 ```
-@misc{das2021crysxppan,
-      title={CrysXPP:An Explainable Property Predictor for Crystalline Material}, 
-      author={Kishalay Das and Bidisha Samanta and Pawan Goyal and Seung-Cheol Lee and Satadeep Bhattacharjee and Niloy Ganguly},
-      year={2021},
-      eprint={2104.10869},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci}
+@article{das2022crysxpp,
+  title={CrysXPP: An explainable property predictor for crystalline materials},
+  author={Das, Kishalay and Samanta, Bidisha and Goyal, Pawan and Lee, Seung-Cheol and Bhattacharjee, Satadeep and Ganguly, Niloy},
+  journal={npj Computational Materials},
+  volume={8},
+  number={1},
+  pages={1--11},
+  year={2022},
+  publisher={Nature Publishing Group}
 }
 ```
 
