@@ -128,7 +128,7 @@ After training, you will get following files :
 - ``../model/model_pp.pth`` : Saved model for that particular property.
 -  ``../results/Prediction/<DATE>/<DATETIME>/out.txt`` : All the traing results for all epochs and all the hyperparameters are saved here.
 
-### Predict material properties with a pre-trained CGCNN model
+### Predict material properties with a pre-trained CrysXPP model
 Before predicting the material properties, you will need to:
 
 - [Define a customized dataset](#define-a-customized-dataset) at `root_dir` to store the structure-property relations of interest.
