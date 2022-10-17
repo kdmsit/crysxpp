@@ -128,6 +128,20 @@ After training, you will get following files :
 - ``../model/model_pp.pth`` : Saved model for that particular property.
 -  ``../results/Prediction/<DATE>/<DATETIME>/out.txt`` : All the traing results for all epochs and all the hyperparameters are saved here.
 
+### Predict material properties with a pre-trained CGCNN model
+Before predicting the material properties, you will need to:
+
+- [Define a customized dataset](#define-a-customized-dataset) at `root_dir` to store the structure-property relations of interest.
+- Obtain a pre-trained CrysXPP model saved in ``../model/model_pp.pth``.
+
+Then, in directory src, you can predict the properties of the crystals in root_dir:
+
+python predict.py --property-model <Pretrain_CrysXPP_path>
+
+After predicting, you will get one file in src directory:
+
+test_results.csv: stores the ID, target value, and predicted value for each crystal in test set. Here the target value is just any number that you set while defining the dataset in id_prop.csv, which is not important
+
 ## Data
 
 We have used the dataset provided by [CGCNN](https://github.com/txie-93/cgcnn). Please use the dataset to reproduce the results. CIF files are given in the "data/" directory and in id_prop file we have formation energy values.
