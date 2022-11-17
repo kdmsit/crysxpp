@@ -98,22 +98,27 @@ Yet, if You want to train the autoenoder module from scratch by some other datas
 - Run the following command
 
 ```bash
-python main.py --data-path '../data/' --is-global-loss <1/0> --is-local-loss <1/0>  --save-path <path_to_save_pretrained_model>
+python -W ignore pretrain.py --data-path <Data_Path> --is-global-loss <1/0> --is-local-loss <1/0>
 ```
-Once the training is done the saved model will be saved at save-path.
+Once the training is done the saved model will be saved at "../model/model_pretrain.pth".
 
 ### Train a CrysXPP model
 Before training a new CrysXPP model, you will need to:
 
 - [Define a customized dataset](#define-a-customized-dataset) at `root_dir` to store the structure-property relations of interest.
 
-You can train the property predictor module by the following command :
+You can train the property predictor module with Pretrained Model + Feature Selector by the following command :
 
 ```bash
-python prop.py --pretrained-model=<Pretrain_CrysAE_path> --batch-size=512 --epoch=200 --test-ratio=0.8
+python -W ignore main.py --train-ratio 0.2 --val-ratio 0.2 --test-ratio 0.6 --data-path <Data_Path> --pretrained-model "../model/model_pretrain.pth" --epoch=200
 ```
 As "pretrained-model" you can either use the existing pretarined CrysAE model "model/model_pretrain.pth" or you can pretrain your own  [CrysAE model](#train-a-crysae-model) and use the saved model.
 
+If you want to train the CrysXPP property Predictor without Pretrained Model + Feature Selector (Exact CGCNN), use the following command:
+
+```bash
+ python -W ignore main.py --train-ratio 0.2 --val-ratio 0.2 --test-ratio 0.6 --data-path <Data_Path> --epochs=200 --feature-selector False
+```
 Here you can set set the following hyperparameters :
 
 - lrate : Learning Rate (Default : 0.003).
@@ -125,7 +130,7 @@ Here you can set set the following hyperparameters :
 
 After training, you will get following files :
 
-- ``../model/model_pp.pth`` : Saved model for that particular property.
+- ``../model/model_best.pth.tar`` : Saved model for best property predictor.
 -  ``../results/Prediction/<DATE>/<DATETIME>/out.txt`` : All the traing results for all epochs and all the hyperparameters are saved here.
 
 ### Predict material properties with a pre-trained CrysXPP model

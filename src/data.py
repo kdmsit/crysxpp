@@ -207,7 +207,8 @@ class CIFData(Dataset):
     def __getitem__(self, idx):
         targets = []
         data_row = copy.deepcopy(self.id_prop_data[idx])
-        cif_id = str(int(float(data_row[0])))
+        # cif_id = str(int(float(data_row[0])))
+        cif_id = data_row[0]
         crystal = Structure.from_file(os.path.join(self.root_dir, cif_id + '.cif'))
         atom_fea = np.vstack([self.ari.get_atom_fea(crystal[i].specie.number) for i in range(len(crystal))])
 
