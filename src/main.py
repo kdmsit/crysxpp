@@ -179,9 +179,6 @@ def main():
     if args.cuda:
         model.cuda()
 
-    print(sum(p.numel() for p in model.parameters() if p.requires_grad))
-    exit()
-
     path = '../results/Prediction/' + str(current_date) + '/' + str(current_time)
     if not os.path.exists(path):
         os.makedirs(path)
