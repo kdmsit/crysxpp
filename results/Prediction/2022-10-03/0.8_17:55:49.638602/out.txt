@@ -1,0 +1,10 @@
+Pretrained Model Path ../model/model_pretrain.pth
+Data path : ../data/
+Learning Rate : 0.01
+Radius :8
+Neighbours :12
+Epochs 200
+Lamda 0.01
+Train size 7347
+Test size 29390
+

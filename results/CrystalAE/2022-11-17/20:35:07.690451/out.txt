@@ -1,0 +1,13 @@
+Adjacency List Vector Dimension : 4
+
+***** Hyper-Parameters Details ********
+Radius :8
+Neighbours :12
+atom_fea_len :64
+n_conv :3
+epochs :500
+lr :0.003
+batch_size :512
+datasize :36737
+Epoch 1, Loss 3.01115211016602, Global (Adjacency) Loss 3.3141610787974463, Local (Feature) Loss 0.2840674298091067
+Epoch 2, Loss 1.3553292014532619, Global (Adjacency) Loss 1.4828577786684036, Local (Feature) Loss 0.2075722116149134
