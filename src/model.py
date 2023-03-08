@@ -171,7 +171,7 @@ class CrystalGraphConvNet(nn.Module):
 
         """
 
-        # # Feature Selector (Added by Authors of CrysXPP)
+        # Feature Selector (Added by Authors of CrysXPP)
         N = atom_fea.shape[0]
         mask = self.mask.repeat(N, 1)
         atom_fea = atom_fea * mask  # Element wise Multiplication
@@ -193,6 +193,7 @@ class CrystalGraphConvNet(nn.Module):
         if self.classification:
             out = self.logsoftmax(out)
         return out,atom_mask_feature
+        # return out
 
     def pooling(self, atom_fea, crystal_atom_idx):
         """

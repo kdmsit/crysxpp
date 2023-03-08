@@ -76,18 +76,11 @@ class AverageMeter(object):
         self.avg = self.sum / self.count
 
 
-def save_checkpoint(state, is_best, filename='checkpoint.pth.tar'):
+def save_checkpoint(state, is_best, filename='../model/checkpoint.pth.tar'):
     torch.save(state, filename)
     if is_best:
         shutil.copyfile(filename, '../model/model_best.pth.tar')
 
-
-def adjust_learning_rate(optimizer, epoch, k):
-    """Sets the learning rate to the initial LR decayed by 10 every k epochs"""
-    assert type(k) is int
-    lr = args.lr * (0.1 ** (epoch // k))
-    for param_group in optimizer.param_groups:
-        param_group['lr'] = lr
 
 def args_parse():
     parser = argparse.ArgumentParser(description='Crystal Explainable Property Predictor')
@@ -95,7 +88,7 @@ def args_parse():
     parser.add_argument('--radius', type=int, default=8, help='Radius of the sphere along an atom')
     parser.add_argument('--max-nbr', type=int, default=12, help='Maximum Number of neighbours to consider')
     parser.add_argument('-j', '--workers', default=0, type=int, metavar='N',help='number of data loading workers (default: 0)')
-    parser.add_argument('--epochs', default=30, type=int, metavar='N',help='number of total epochs to run (default: 30)')
+    parser.add_argument('--epochs', default=300, type=int, metavar='N',help='number of total epochs to run (default: 30)')
     parser.add_argument('-b', '--batch-size', default=256, type=int,metavar='N', help='mini-batch size (default: 256)')
     parser.add_argument('--lr', '--learning-rate', default=0.01, type=float,metavar='LR', help='initial learning rate (default: 0.01)')
     parser.add_argument('--lr-milestones', default=[100], nargs='+', type=int,metavar='N', help='milestones for scheduler (default: [100])')
@@ -104,7 +97,7 @@ def args_parse():
     parser.add_argument('--print-freq', '-p', default=10, type=int,metavar='N', help='print frequency (default: 10)')
 
     train_group = parser.add_mutually_exclusive_group()
-    train_group.add_argument('--train-ratio', default=None, type=float, metavar='N',help='number of training data to be loaded (default none)')
+    train_group.add_argument('--train-ratio', default=0.8, type=float, metavar='N',help='number of training data to be loaded (default none)')
     train_group.add_argument('--train-size', default=None, type=int, metavar='N',help='number of training data to be loaded (default none)')
 
     valid_group = parser.add_mutually_exclusive_group()
@@ -112,7 +105,7 @@ def args_parse():
     valid_group.add_argument('--val-size', default=None, type=int, metavar='N',help='number of validation data to be loaded (default 1000)')
 
     test_group = parser.add_mutually_exclusive_group()
-    test_group.add_argument('--test-ratio', default=0.1, type=float, metavar='N',help='percentage of test data to be loaded (default 0.1)')
+    test_group.add_argument('--test-ratio', default=0.2, type=float, metavar='N',help='percentage of test data to be loaded (default 0.1)')
     test_group.add_argument('--test-size', default=None, type=int, metavar='N',help='number of test data to be loaded (default 1000)')
 
     parser.add_argument('--optim', default='SGD', type=str, metavar='SGD',help='choose an optimizer, SGD or Adam, (default: SGD)')
@@ -148,7 +141,7 @@ def main():
     # load data
     dataset = CIFData(args.data_path,args.max_nbr,args.radius)
     collate_fn = collate_pool
-    train_loader, val_loader, test_loader = get_train_val_test_loader(
+    train_loader, test_loader = get_train_val_test_loader(
         dataset=dataset,
         collate_fn=collate_fn,
         batch_size=args.batch_size,
@@ -159,8 +152,7 @@ def main():
         pin_memory=args.cuda,
         train_size=args.train_size,
         val_size=args.val_size,
-        test_size=args.test_size,
-        return_test=True)
+        test_size=args.test_size)
 
     # obtain target value normalizer
     if len(dataset) < 2000:
@@ -209,11 +201,10 @@ def main():
     out.writelines("\n")
 
 
-    # # Parameter Initialisation from Encoder of CrysAE (Added by Authors of CrysXPP)
+    # Parameter Initialisation from Encoder of CrysAE (Added by Authors of CrysXPP)
     pretrained_path = args.pretrained_model
     if pretrained_path != None:
         model_name = pretrained_path
-
         if args.cuda:
             ae_model = torch.load(model_name)
         else:
@@ -254,16 +245,16 @@ def main():
         # train for one epoch
         train_loss, train_mae=train(train_loader, model, criterion, optimizer, normalizer,args,epoch,out)
 
-        # evaluate on validation set
-        val_mae = validate(val_loader, model, criterion, normalizer,args,epoch,out)
+        # evaluate on test set
+        test_mae = validate(test_loader, model, criterion, normalizer,args,epoch,out)
 
         scheduler.step()
 
         # remember the best mae_eror and save checkpoint
-        is_best = val_mae < best_mae_error
+        is_best = test_mae < best_mae_error
         if is_best:
             print("Saving Best Model on Validation....")
-            best_mae_error = min(val_mae, best_mae_error)
+            best_mae_error = min(test_mae, best_mae_error)
 
         save_checkpoint({
             'epoch': epoch + 1,
@@ -277,21 +268,24 @@ def main():
                   + ' Epoch :' + str(epoch + 1) \
                   + ' Train Mean Loss : ' + str(train_loss) \
                   + ' Train MAE : ' + str(train_mae) \
-                  + ' Val MAE : ' + str(val_mae) \
-                  + ' Best Val MAE : ' + str(best_mae_error)
+                  + ' Test MAE : ' + str(test_mae) \
+                  + ' Best Test MAE : ' + str(best_mae_error)
         print("\n")
         print(results)
         out.writelines(results)
         out.writelines("\n")
         print("\n")
 
-    # test best model
-    print('---------Evaluate Model on Test Set---------------')
-    best_checkpoint = torch.load('../model/model_best.pth.tar')
-    model.load_state_dict(best_checkpoint['state_dict'])
-    test_mae=validate(test_loader, model, criterion, normalizer,args,epoch,out)
-    print("Test MAE on Best Validation Model :" + str(test_mae))
-    out.writelines("Test MAE on Best Validation Model :" + str(test_mae))
+    print("Best Test MAE :" + str(best_mae_error))
+    out.writelines("Best Test MAE :" + str(best_mae_error))
+
+    # # test best model
+    # print('---------Evaluate Model on Test Set---------------')
+    # best_checkpoint = torch.load('../model/model_best.pth.tar')
+    # model.load_state_dict(best_checkpoint['state_dict'])
+    # test_mae=validate(test_loader, model, criterion, normalizer,args,epoch,out)
+    # print("Test MAE on Best Validation Model :" + str(test_mae))
+    # out.writelines("Test MAE on Best Validation Model :" + str(test_mae))
 
 
 def train(train_loader, model, criterion, optimizer, normalizer,args,epoch,out):
@@ -328,12 +322,13 @@ def train(train_loader, model, criterion, optimizer, normalizer,args,epoch,out):
 
         # compute output
         output,_ = model(*input_var)
+        # output = model(*input_var)
         loss = criterion(output, target_var)
 
         # L1 Regularised Loss for Sparse Feature Selection (Added by Authors of CrysXPP)
-        if args.feature_selector:
-            l1_regularization = sparse_loss(model, input_var)
-            loss = loss + 0.01 * l1_regularization
+        # if args.feature_selector:
+        #     l1_regularization = sparse_loss(model, input_var)
+        #     loss = loss + 0.01 * l1_regularization
 
 
         # measure accuracy and record loss
@@ -389,6 +384,7 @@ def validate(val_loader, model, criterion, normalizer,args,epoch,out):
 
         # compute output
         output,_ = model(*input_var)
+        # output = model(*input_var)
         loss = criterion(output, target_var)
 
         # measure accuracy and record loss

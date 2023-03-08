@@ -41,8 +41,7 @@ def disc_edge_feature(edge, data):
     return edge_tensor
 
 
-def get_data_loader(dataset, collate_fn=default_collate, train_size=100,
-                    batch_size=64, num_workers=1, pin_memory=False):
+def get_data_loader(dataset, collate_fn=default_collate, train_size=100,batch_size=64, num_workers=1, pin_memory=False):
     train_size = train_size
     train_sampler = SubsetRandomSampler(train_size)
     data_loader = DataLoader(dataset, batch_size=batch_size,

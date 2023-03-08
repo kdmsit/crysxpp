@@ -50,14 +50,6 @@ def get_train_val_test_loader(dataset, collate_fn=default_collate,
         return_test=True.
     """
     total_size = len(dataset)
-    if kwargs['train_size'] is None:
-        if train_ratio is None:
-            assert val_ratio + test_ratio < 1
-            train_ratio = 1 - val_ratio - test_ratio
-            print(f'[Warning] train_ratio is None, using 1 - val_ratio - '
-                  f'test_ratio = {train_ratio} as training data.')
-        else:
-            assert train_ratio + val_ratio + test_ratio <= 1
     indices = list(range(total_size))
     if kwargs['train_size']:
         train_size = kwargs['train_size']
@@ -67,32 +59,23 @@ def get_train_val_test_loader(dataset, collate_fn=default_collate,
         test_size = kwargs['test_size']
     else:
         test_size = int(test_ratio * total_size)
-    if kwargs['val_size']:
-        valid_size = kwargs['val_size']
-    else:
-        valid_size = int(val_ratio * total_size)
+
     train_sampler = SubsetRandomSampler(indices[:train_size])
-    val_sampler = SubsetRandomSampler(
-        indices[-(valid_size + test_size):-test_size])
-    if return_test:
-        test_sampler = SubsetRandomSampler(indices[-test_size:])
+    test_sampler = SubsetRandomSampler(indices[-test_size:])
+
     train_loader = DataLoader(dataset, batch_size=batch_size,
                               sampler=train_sampler,
                               num_workers=num_workers,
                               collate_fn=collate_fn, pin_memory=pin_memory)
-    val_loader = DataLoader(dataset, batch_size=batch_size,
-                            sampler=val_sampler,
-                            num_workers=num_workers,
-                            collate_fn=collate_fn, pin_memory=pin_memory)
-    if return_test:
-        test_loader = DataLoader(dataset, batch_size=batch_size,
+
+    test_loader = DataLoader(dataset, batch_size=batch_size,
                                  sampler=test_sampler,
                                  num_workers=num_workers,
                                  collate_fn=collate_fn, pin_memory=pin_memory)
-    if return_test:
-        return train_loader, val_loader, test_loader
-    else:
-        return train_loader, val_loader
+
+    return train_loader, test_loader
+
+
 
 
 def collate_pool(dataset_list):
