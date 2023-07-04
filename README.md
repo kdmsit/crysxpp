@@ -35,7 +35,7 @@ The following paper describes the details of the CrysXPP framework:
 
 ## How to cite
 
-If youare using CrysXPP, please cite our work as follow :
+If you are using CrysXPP, please cite our work as follow :
 
 ```
 @article{das2022crysxpp,
@@ -44,9 +44,9 @@ If youare using CrysXPP, please cite our work as follow :
   journal={npj Computational Materials},
   volume={8},
   number={1},
-  pages={1--11},
+  pages={43},
   year={2022},
-  publisher={Nature Publishing Group}
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
